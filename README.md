@@ -1,7 +1,7 @@
 # IPTV 直播源自动搜刮系统
 
 > 自动搜刮、健康检查、失效自动替换的 IPTV 直播源管理工具  
-> 覆盖 **中国大陆 / 香港 / 澳门 / 台湾** 共 **2304+ 个频道**  
+> 覆盖 **中国大陆 / 香港 / 澳门 / 台湾** 共 **2334+ 个频道**  
 > 受 [Playlist-AutoUpdater](https://github.com/Shra1V32/Playlist-AutoUpdater) 和 [Tata-Sky-IPTV](https://github.com/ForceGT/Tata-Sky-IPTV) 启发设计
 
 ---
@@ -36,9 +36,14 @@
 # 3. 等待首次自动运行（或手动触发）
 ```
 
-播放列表自动更新到：
+播放列表自动更新到（两种分组方式）：
+
 ```
+# 标准版：按区域 → 分组排序
 https://raw.githubusercontent.com/<你的用户名>/iptv-scraper/main/data/playlist.m3u
+
+# 协议版：按 IPv6(148) / IPv4(2096) / RTP(90) 分组
+https://raw.githubusercontent.com/<你的用户名>/iptv-scraper/main/data/playlist_by_protocol.m3u
 ```
 
 将上述 URL 添加到电视播放器即可。**每天自动更新，电脑无需开机，全球 CDN 加速。**
@@ -62,7 +67,12 @@ python main.py
 python main.py --server
 ```
 
-电视播放器添加：`http://<你的IP>:5000/playlist.m3u`
+电视播放器添加（两种分组）：
+
+```
+http://<你的IP>:5000/playlist.m3u               # 标准版
+http://<你的IP>:5000/playlist_by_protocol.m3u   # 协议版
+```
 
 ### 方式 C：Docker（即将推出）
 
@@ -151,7 +161,8 @@ SQLite 数据库 (channels.db)
      ↓ 查询活跃频道
 M3U 生成器
      ↓
-playlist.m3u (供电视播放)
+playlist.m3u          (标准版：按区域→分组)
+playlist_by_protocol.m3u  (协议版：按 IPv6/IPv4/RTP)
      ↓ HTTP 提供
 电视播放器 (TiviMate / VLC / Kodi)
 ```
@@ -272,10 +283,12 @@ HTTP 服务启动后可用（默认 `http://0.0.0.0:5000`）。
 ### 播放列表
 
 ```
+# 标准版：按区域 → 分组 → 名称排序
 GET /playlist.m3u
-```
 
-返回 M3U 格式播放列表，按区域 → 分组 → 名称排序。
+# 协议版：按 IPv6 / IPv4 / RTP → 区域排序
+GET /playlist_by_protocol.m3u
+```
 
 **响应头：** `Content-Type: application/x-mpegurl`
 
@@ -517,8 +530,9 @@ iptv-scraper/
 ├── quickstart.sh          # Linux/Mac 一键安装
 ├── quickstart.ps1         # Windows 一键安装
 ├── data/
-│   ├── channels.db        # SQLite 频道数据库
-│   └── playlist.m3u       # 生成的播放列表
+│   ├── channels.db               # SQLite 频道数据库
+│   ├── playlist.m3u              # 标准播放列表 (区域→分组)
+│   └── playlist_by_protocol.m3u  # 协议分组播放列表
 └── requirements.txt
 ```
 
