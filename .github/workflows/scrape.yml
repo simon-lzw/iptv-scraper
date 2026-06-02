@@ -12,6 +12,8 @@ jobs:
   scrape:
     runs-on: ubuntu-latest
     timeout-minutes: 15
+    permissions:
+      contents: write       # 允许推送回仓库
 
     steps:
       - name: 检出代码
