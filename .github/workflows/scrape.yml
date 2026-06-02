@@ -26,7 +26,7 @@ jobs:
       - name: 缓存频道数据库
         uses: actions/cache@v4
         with:
-          path: iptv-scraper/data/channels.db
+          path: data/channels.db
           key: channels-db-${{ runner.os }}
           restore-keys: |
             channels-db-${{ runner.os }}
@@ -38,7 +38,6 @@ jobs:
 
       - name: 执行搜刮
         run: python main.py --scrape
-        working-directory: iptv-scraper
 
       - name: 提交更新到仓库
         run: |
@@ -48,5 +47,5 @@ jobs:
           # 只在有变更时提交
           git diff --staged --quiet || git commit -m "🔄 自动搜刮更新 $(date +'%Y-%m-%d %H:%M')"
           # 注意: channels.db 通过 actions/cache 持久化, 不提交到 Git
-          git reset HEAD iptv-scraper/data/channels.db
+          git reset HEAD data/channels.db
           git push
