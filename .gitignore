@@ -20,5 +20,8 @@ Thumbs.db
 # Temp
 *.log
 
+# Tool cache
+.codegraph/
+
 # Credentials
 .git-credentials
