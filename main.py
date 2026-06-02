@@ -296,7 +296,11 @@ class IPTVScheduler:
             return
 
         self.m3u.generate(channels)
-        print(f"  📺 M3U 已生成: {len(channels)} 个频道")
+        # 生成按协议分组的播放列表
+        proto_content = self.m3u.generate_grouped_by_protocol(channels)
+        proto_path = self.m3u.get_output_path().parent / "playlist_by_protocol.m3u"
+        proto_path.write_text(proto_content, encoding="utf-8")
+        print(f"  📺 M3U 已生成: {len(channels)} 个频道 (标准+按协议分组)")
 
     # ─── 辅助方法 ──────────────────────────────────────────────────
 

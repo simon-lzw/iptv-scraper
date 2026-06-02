@@ -157,5 +157,78 @@ class M3UGenerator:
         self.output_path.write_text(content, encoding="utf-8")
         print(f"  [M3U] 已写入 {self.output_path} ({len(content)} 字节)")
 
+    def generate_grouped_by_protocol(self, channels: List[Channel]) -> str:
+        """
+        生成按协议类型分组的 M3U 播放列表
+        先分 IPv6 / IPv4 / RTP，再按区域分组
+        """
+        entries = self._channels_to_entries(channels)
+
+        # 按协议分类
+        ipv6_entries: List[M3UEntry] = []
+        ipv4_entries: List[M3UEntry] = []
+        rtp_entries: List[M3UEntry] = []
+
+        for e in entries:
+            url = e.url
+            if '[' in url and ']' in url:
+                ipv6_entries.append(e)
+            elif url.startswith('rtp://') or url.startswith('udp://'):
+                rtp_entries.append(e)
+            else:
+                ipv4_entries.append(e)
+
+        lines = [
+            '#EXTM3U',
+            f'#PLAYLIST: IPTV 直播源 (按协议分组 · 生成于 {datetime.now().strftime("%Y-%m-%d %H:%M")})',
+            f'#总频道数: {len(entries)}  (IPv6:{len(ipv6_entries)}  IPv4:{len(ipv4_entries)}  RTP:{len(rtp_entries)})',
+            '',
+        ]
+
+        # 按协议类型+区域输出
+        protocol_groups = [
+            ("🌐 IPv6 协议", ipv6_entries),
+            ("📡 IPv4 协议", ipv4_entries),
+            ("🔵 RTP/UDP 组播", rtp_entries),
+        ]
+
+        for proto_label, proto_entries in protocol_groups:
+            if not proto_entries:
+                continue
+
+            lines.append(f'# ========== {proto_label} ({len(proto_entries)}) ==========')
+            lines.append('')
+
+            # 区域内按 region 分组
+            region_entries: Dict[str, List[M3UEntry]] = {}
+            for e in proto_entries:
+                region_entries.setdefault(e.region, []).append(e)
+
+            region_order = ["mainland", "hongkong", "macau", "taiwan", "international"]
+            for region in region_order:
+                if region not in region_entries:
+                    continue
+                label = self.REGION_LABELS.get(region, region)
+                lines.append(f'# --- {label} ---')
+                for e in sorted(region_entries[region], key=lambda x: x.name):
+                    if e.kodi_props:
+                        for prop_line in e.kodi_props.split("\n"):
+                            lines.append(prop_line)
+                    extinf_parts = ['#EXTINF:-1']
+                    if e.tvg_id:
+                        extinf_parts.append(f'tvg-id="{e.tvg_id}"')
+                    if e.name:
+                        extinf_parts.append(f'tvg-name="{e.name}"')
+                    if e.logo:
+                        extinf_parts.append(f'tvg-logo="{e.logo}"')
+                    extinf_parts.append(f'group-title="{proto_label}"')
+                    extinf_parts.append(f',{e.name}')
+                    lines.append(' '.join(extinf_parts))
+                    lines.append(e.url)
+                    lines.append('')
+                lines.append('')
+
+        return '\n'.join(lines)
+
     def get_output_path(self) -> Path:
         return self.output_path

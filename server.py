@@ -43,6 +43,22 @@ class M3UServer:
     def _register_routes(self):
         app = self.app
 
+        @app.route("/playlist_by_protocol.m3u")
+        def get_playlist_by_protocol():
+            """M3U 播放列表 (按协议分组: IPv6/IPv4/RTP)"""
+            channels = self.db.get_active_channels()
+            if not channels:
+                return Response("# 暂无频道\n", mimetype="application/x-mpegurl")
+            m3u_content = self.m3u.generate_grouped_by_protocol(channels)
+            return Response(
+                m3u_content,
+                mimetype="application/x-mpegurl",
+                headers={
+                    "Content-Disposition": 'inline; filename="playlist_by_protocol.m3u"',
+                    "Access-Control-Allow-Origin": "*",
+                }
+            )
+
         @app.route("/playlist.m3u")
         def get_playlist():
             """提供 M3U 播放列表 — 优先返回缓存文件，否则实时生成"""
