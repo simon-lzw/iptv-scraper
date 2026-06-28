@@ -1,0 +1,49 @@
+version: '1.0'
+name: master-pipeline
+displayName: 自动搜刮直播源
+stages:
+  - stage:
+    name: install
+    displayName: 安装依赖
+    steps:
+      - step: build@python
+        name: install_deps
+        displayName: 安装依赖
+        pythonVersion: '3.10'
+        commands:
+          - python3 -m pip install --upgrade pip
+          - pip3 config set global.index-url https://pypi.tuna.tsinghua.edu.cn/simple
+          - pip3 install -r requirements.txt
+
+  - stage:
+    name: scrape
+    displayName: 执行搜刮
+    steps:
+      - step: build@python
+        name: run_scrape
+        displayName: 执行搜刮
+        pythonVersion: '3.10'
+        commands:
+          - python3 main.py --scrape
+
+  - stage:
+    name: commit
+    displayName: 提交更新
+    steps:
+      - step: build@python
+        name: commit_push
+        displayName: 提交并推送
+        pythonVersion: '3.10'
+        commands:
+          - git config user.name "iptv-scraper[bot]"
+          - git config user.email "iptv-scraper[bot]@users.noreply.github.com"
+          - git add -A
+          - git diff --staged --quiet || git commit -m "🔄 自动搜刮更新 $(date +'%Y-%m-%d %H:%M')"
+          - git push
+
+triggers:
+  push:
+    branches:
+      include:
+        - master
+        - main
