@@ -191,7 +191,11 @@ playlist_by_protocol.m3u  (协议版：按 IPv6/IPv4/RTP)
 
 **CI 缓存：** 数据库文件通过 `actions/cache` 持久化，跨运行保持频道失效计数。
 
-### 2. 本地服务器
+### 2. Gitee Go
+
+Gitee 仓库使用 `.workflow/master-pipeline.yml` 执行相同的自动搜刮流程。Gitee Go 会以 detached HEAD 检出代码，因此流水线在提交后使用 `git push origin HEAD:main` 明确更新远端 `main` 分支，不能依赖无参数的 `git push`。
+
+### 3. 本地服务器
 
 适合需要实时管理、Web 界面的用户。
 
