@@ -11,10 +11,14 @@ stages:
         displayName: 安装依赖 + 执行搜刮 + 提交推送
         pythonVersion: '3.10'
         commands:
+          # 安装依赖
           - python3 -m pip install --upgrade pip
           - pip3 config set global.index-url https://pypi.tuna.tsinghua.edu.cn/simple
           - pip3 install -r requirements.txt
+          # 执行搜刮
           - python3 main.py --scrape
+          # 提交更新
+          - git checkout main 2>/dev/null || git checkout master 2>/dev/null || true
           - git config user.name "iptv-scraper[bot]"
           - git config user.email "iptv-scraper[bot]@users.noreply.github.com"
           - git add -A
