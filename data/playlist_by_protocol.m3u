@@ -1,6 +1,6 @@
 #EXTM3U
-#PLAYLIST: IPTV 直播源 (按协议分组 · 生成于 2026-07-19 14:53)
-#总频道数: 2691  (IPv6:154  IPv4:2447  RTP:90)
+#PLAYLIST: IPTV 直播源 (按协议分组 · 生成于 2026-07-20 05:38)
+#总频道数: 2695  (IPv6:154  IPv4:2451  RTP:90)
 
 # ========== 🌐 IPv6 协议 (154) ==========
 
@@ -468,7 +468,7 @@ http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/
 http://[2409:8087:1a15:10d1::31]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226437/index.m3u8
 
 
-# ========== 📡 IPv4 协议 (2447) ==========
+# ========== 📡 IPv4 协议 (2451) ==========
 
 # --- 📺 中国大陆 ---
 #EXTINF:-1 tvg-id="1987年春晚" tvg-name="1987年春晚" tvg-logo="https://tb.zbds.top/logo/1987年春晚.png" group-title="📡 IPv4 协议" ,1987年春晚
@@ -543,7 +543,7 @@ https://vd2.bdstatic.com/mda-sctj0f6r4u1bpebc/1080p/cae_h264/1774706523506678171
 #EXTINF:-1 tvg-id="更新时间" tvg-name="2026-06-02 12:39:01" group-title="📡 IPv4 协议" ,2026-06-02 12:39:01
 https://vd2.bdstatic.com/mda-sctj0f6r4u1bpebc/1080p/cae_h264/1774706523506678171/mda-sctj0f6r4u1bpebc.mp4
 
-#EXTINF:-1 tvg-id="更新时间" tvg-name="2026-07-19 18:40:16" group-title="📡 IPv4 协议" ,2026-07-19 18:40:16
+#EXTINF:-1 tvg-id="更新时间" tvg-name="2026-07-20 12:39:13" group-title="📡 IPv4 协议" ,2026-07-20 12:39:13
 https://vd2.bdstatic.com/mda-sctj0f6r4u1bpebc/1080p/cae_h264/1774706523506678171/mda-sctj0f6r4u1bpebc.mp4
 
 #EXTINF:-1 tvg-id="AMC音乐" tvg-name="AMC音乐" tvg-logo="https://tb.zbds.top/logo/AMC音乐.png" group-title="📡 IPv4 协议" ,AMC音乐
@@ -1080,8 +1080,8 @@ http://222.169.85.8:9901/tsfile/live/0011_1.m3u8
 #EXTINF:-1 tvg-id="225" tvg-name="CCTV11" tvg-logo="https://tb.zbds.top/logo/CCTV11.png" group-title="📡 IPv4 协议" ,CCTV11
 http://123.129.70.178:9901/tsfile/live/0011_1.m3u8
 
-#EXTINF:-1 tvg-id="CCTV11" tvg-name="CCTV11" tvg-logo="https://tb.zbds.top/logo/CCTV11.png" group-title="📡 IPv4 协议" ,CCTV11
-http://112.27.235.94:8000/hls/12/index.m3u8
+#EXTINF:-1 tvg-id="184" tvg-name="CCTV11" tvg-logo="https://tb.zbds.top/logo/CCTV11.png" group-title="📡 IPv4 协议" ,CCTV11
+http://182.150.23.74:808/hls/11/index.m3u8
 
 #EXTINF:-1 tvg-id="260" tvg-name="CCTV12" tvg-logo="https://tb.zbds.top/logo/CCTV12.png" group-title="📡 IPv4 协议" ,CCTV12
 http://123.129.70.178:9901/tsfile/live/0012_1.m3u8
@@ -1104,8 +1104,8 @@ http://124.116.183.146:9901/tsfile/live/0014_1.m3u8
 #EXTINF:-1 tvg-id="229" tvg-name="CCTV15" tvg-logo="https://tb.zbds.top/logo/CCTV15.png" group-title="📡 IPv4 协议" ,CCTV15
 http://123.129.70.178:9901/tsfile/live/0015_1.m3u8
 
-#EXTINF:-1 tvg-id="144" tvg-name="CCTV15" tvg-logo="https://tb.zbds.top/logo/CCTV15.png" group-title="📡 IPv4 协议" ,CCTV15
-http://222.134.245.16:9901/tsfile/live/0015_1.m3u8
+#EXTINF:-1 tvg-id="202" tvg-name="CCTV15" tvg-logo="https://tb.zbds.top/logo/CCTV15.png" group-title="📡 IPv4 协议" ,CCTV15
+http://123.130.84.106:8154/tsfile/live/0015_1.m3u8
 
 #EXTINF:-1 tvg-id="51" tvg-name="CCTV16" tvg-logo="https://tb.zbds.top/logo/CCTV16.png" group-title="📡 IPv4 协议" ,CCTV16
 http://gmxw.7766.org:808/hls/169/index.m3u8
@@ -1119,20 +1119,23 @@ http://222.169.85.8:9901/tsfile/live/0007_1.m3u8
 #EXTINF:-1 tvg-id="170" tvg-name="CCTV17" tvg-logo="https://tb.zbds.top/logo/CCTV17.png" group-title="📡 IPv4 协议" ,CCTV17
 http://123.130.84.106:8154/tsfile/live/0019_1.m3u8
 
-#EXTINF:-1 tvg-id="108" tvg-name="CCTV17" tvg-logo="https://tb.zbds.top/logo/CCTV17.png" group-title="📡 IPv4 协议" ,CCTV17
-http://183.11.239.36:808/hls/35/index.m3u8
-
 #EXTINF:-1 tvg-id="283" tvg-name="CCTV2" tvg-logo="https://tb.zbds.top/logo/CCTV2.png" group-title="📡 IPv4 协议" ,CCTV2
 http://123.129.70.178:9901/tsfile/live/0002_1.m3u8
 
 #EXTINF:-1 tvg-id="221" tvg-name="CCTV2" tvg-logo="https://tb.zbds.top/logo/CCTV2.png" group-title="📡 IPv4 协议" ,CCTV2
 http://218.13.170.98:9901/tsfile/live/0002_1.m3u8
 
+#EXTINF:-1 tvg-id="208" tvg-name="CCTV2" tvg-logo="https://tb.zbds.top/logo/CCTV2.png" group-title="📡 IPv4 协议" ,CCTV2
+http://182.150.23.74:808/hls/2/index.m3u8
+
 #EXTINF:-1 tvg-id="275" tvg-name="CCTV3" tvg-logo="https://tb.zbds.top/logo/CCTV3.png" group-title="📡 IPv4 协议" ,CCTV3
 http://123.129.70.178:9901/tsfile/live/0003_1.m3u8
 
 #EXTINF:-1 tvg-id="250" tvg-name="CCTV3" tvg-logo="https://tb.zbds.top/logo/CCTV3.png" group-title="📡 IPv4 协议" ,CCTV3
 http://124.116.183.146:9901/tsfile/live/0003_1.m3u8
+
+#EXTINF:-1 tvg-id="197" tvg-name="CCTV3" tvg-logo="https://tb.zbds.top/logo/CCTV3.png" group-title="📡 IPv4 协议" ,CCTV3
+http://182.150.23.74:808/hls/3/index.m3u8
 
 #EXTINF:-1 tvg-id="194" tvg-name="CCTV4" tvg-logo="https://tb.zbds.top/logo/CCTV4.png" group-title="📡 IPv4 协议" ,CCTV4
 https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
@@ -1158,8 +1161,8 @@ http://cssbyd.imwork.net:8082/hls/6/index.m3u8
 #EXTINF:-1 tvg-id="88" tvg-name="CCTV5+" tvg-logo="https://tb.zbds.top/logo/CCTV5+.png" group-title="📡 IPv4 协议" ,CCTV5+
 http://222.169.85.8:9901/tsfile/live/0116_1.m3u8
 
-#EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://tb.zbds.top/logo/CCTV5+.png" group-title="📡 IPv4 协议" ,CCTV5+
-http://112.27.235.94:8000/hls/6/index.m3u8
+#EXTINF:-1 tvg-id="104" tvg-name="CCTV5+" tvg-logo="https://tb.zbds.top/logo/CCTV5+.png" group-title="📡 IPv4 协议" ,CCTV5+
+http://182.150.23.74:808/hls/16/index.m3u8
 
 #EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://tb.zbds.top/logo/CCTV6.png" group-title="📡 IPv4 协议" ,CCTV6
 http://112.27.235.94:8000/hls/7/index.m3u8
@@ -1167,8 +1170,8 @@ http://112.27.235.94:8000/hls/7/index.m3u8
 #EXTINF:-1 tvg-id="214" tvg-name="CCTV6" tvg-logo="https://tb.zbds.top/logo/CCTV6.png" group-title="📡 IPv4 协议" ,CCTV6
 http://222.169.85.8:9901/tsfile/live/0006_1.m3u8
 
-#EXTINF:-1 tvg-id="254" tvg-name="CCTV6" tvg-logo="https://tb.zbds.top/logo/CCTV6.png" group-title="📡 IPv4 协议" ,CCTV6
-http://124.116.183.146:9901/tsfile/live/0006_1.m3u8
+#EXTINF:-1 tvg-id="192" tvg-name="CCTV6" tvg-logo="https://tb.zbds.top/logo/CCTV6.png" group-title="📡 IPv4 协议" ,CCTV6
+http://182.150.23.74:808/hls/6/index.m3u8
 
 #EXTINF:-1 tvg-id="180" tvg-name="CCTV7" tvg-logo="https://tb.zbds.top/logo/CCTV7.png" group-title="📡 IPv4 协议" ,CCTV7
 http://112.46.85.60:8009/hls/504/index.m3u8
@@ -1179,14 +1182,11 @@ http://124.116.183.146:9901/tsfile/live/0007_1.m3u8
 #EXTINF:-1 tvg-id="205" tvg-name="CCTV8" tvg-logo="https://tb.zbds.top/logo/CCTV8.png" group-title="📡 IPv4 协议" ,CCTV8
 http://222.169.85.8:9901/tsfile/live/0008_1.m3u8
 
-#EXTINF:-1 tvg-id="162" tvg-name="CCTV8" tvg-logo="https://tb.zbds.top/logo/CCTV8.png" group-title="📡 IPv4 协议" ,CCTV8
-http://112.46.85.60:8009/hls/8/index.m3u8
-
 #EXTINF:-1 tvg-id="224" tvg-name="CCTV9" tvg-logo="https://tb.zbds.top/logo/CCTV9.png" group-title="📡 IPv4 协议" ,CCTV9
 http://222.169.85.8:9901/tsfile/live/0009_1.m3u8
 
-#EXTINF:-1 tvg-id="CCTV-9" tvg-name="CCTV9" tvg-logo="https://tb.zbds.top/logo/CCTV9.png" group-title="📡 IPv4 协议" ,CCTV9
-http://74.91.26.218:82/live/cctv9hd.m3u8
+#EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="https://tb.zbds.top/logo/CCTV9.png" group-title="📡 IPv4 协议" ,CCTV9
+http://112.27.235.94:8000/hls/10/index.m3u8
 
 #EXTINF:-1 tvg-id="世界地理" tvg-name="CCTV世界地理" tvg-logo="https://tb.zbds.top/logo/CCTV世界地理.png" group-title="📡 IPv4 协议" ,CCTV世界地理
 https://shcm-stream-cf1.stream.264788.xyz/cms001/ch00000090990000001620/index.m3u8?streamid=8a034b40397504e25b3775c772237996&streamkey=01vY5fRxC8VyKg4oq30vfikHXTCAKySLP29l6OG91kQlzDttHgzNLkUw5kivm3PfNsVHJv5FgdsPBYFYI2IWpt7tfRCuFHqLT2pvX67ubMds8jl2DHtvOh0&token=1775754349-4f33f4f84a4abeba-0-91687dc8c9325092efa1d00f330d2710
@@ -1806,8 +1806,8 @@ https://gcalic.v.myalicdn.com/gc/ylxs12_1/index.m3u8
 #EXTINF:-1 tvg-id="45" tvg-name="云南卫视" tvg-logo="https://tb.zbds.top/logo/云南卫视.png" group-title="📡 IPv4 协议" ,云南卫视
 http://36.32.174.67:60080/newlive/live/hls/45/live.m3u8
 
-#EXTINF:-1 tvg-id="120" tvg-name="云南卫视" tvg-logo="https://tb.zbds.top/logo/云南卫视.png" group-title="📡 IPv4 协议" ,云南卫视
-http://123.130.84.106:8154/tsfile/live/0119_1.m3u8
+#EXTINF:-1 tvg-id="68" tvg-name="云南卫视" tvg-logo="https://tb.zbds.top/logo/云南卫视.png" group-title="📡 IPv4 协议" ,云南卫视
+http://222.169.85.8:9901/tsfile/live/0119_1.m3u8
 
 #EXTINF:-1 tvg-id="云南卫视" tvg-name="云南卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/云南卫视.png" group-title="📡 IPv4 协议" ,云南卫视
 https://iptv.catvod.com/live.php?id=%E4%BA%91%E5%8D%97%E5%8D%AB%E8%A7%86&line=2
@@ -2241,8 +2241,8 @@ https://migu.188766.xyz/?migutoken=1023983db6b5249e61d4950c1654cd84&id=%E5%8C%97
 #EXTINF:-1 tvg-id="北京卡酷少儿" tvg-name="北京卡酷少儿" tvg-logo="https://www.xn--rgv465a.top/tvlogo/北京卡酷少儿.png" group-title="📡 IPv4 协议" ,北京卡酷少儿
 https://migu.188766.xyz/?migutoken=2c51384549aec8a85219fdc0c475e40b&id=%E5%8C%97%E4%BA%AC%E5%8D%A1%E9%85%B7%E5%B0%91%E5%84%BF&type=yy
 
-#EXTINF:-1 tvg-id="106" tvg-name="北京卫视" tvg-logo="https://tb.zbds.top/logo/北京卫视.png" group-title="📡 IPv4 协议" ,北京卫视
-http://222.134.245.16:9901/tsfile/live/0122_1.m3u8
+#EXTINF:-1 tvg-id="151" tvg-name="北京卫视" tvg-logo="https://tb.zbds.top/logo/北京卫视.png" group-title="📡 IPv4 协议" ,北京卫视
+http://222.169.85.8:9901/tsfile/live/0017_1.m3u8
 
 #EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/北京卫视.png" group-title="📡 IPv4 协议" ,北京卫视
 https://iptv.catvod.com/live.php?id=%E5%8C%97%E4%BA%AC%E5%8D%AB%E8%A7%86
@@ -2541,6 +2541,9 @@ https://satellitepull.cnr.cn/live/wxjlxcgb/playlist.m3u8
 #EXTINF:-1 tvg-id="73" tvg-name="吉林卫视" tvg-logo="https://tb.zbds.top/logo/吉林卫视.png" group-title="📡 IPv4 协议" ,吉林卫视
 http://cssbyd.imwork.net:8082/hls/41/index.m3u8
 
+#EXTINF:-1 tvg-id="153" tvg-name="吉林卫视" tvg-logo="https://tb.zbds.top/logo/吉林卫视.png" group-title="📡 IPv4 协议" ,吉林卫视
+http://61.136.172.236:9901/tsfile/live/0116_1.m3u8
+
 #EXTINF:-1 tvg-id="吉林卫视" tvg-name="吉林卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/吉林卫视.png" group-title="📡 IPv4 协议" ,吉林卫视
 https://iptv.catvod.com/live.php?id=%E5%90%89%E6%9E%97%E5%8D%AB%E8%A7%86&line=5
 
@@ -2649,8 +2652,8 @@ http://play.kankanlive.com/live/1720583434627241.m3u8
 #EXTINF:-1 tvg-id="61" tvg-name="四川卫视" tvg-logo="https://tb.zbds.top/logo/四川卫视.png" group-title="📡 IPv4 协议" ,四川卫视
 http://124.116.183.146:9901/tsfile/live/0123_1.m3u8
 
-#EXTINF:-1 tvg-id="85" tvg-name="四川卫视" tvg-logo="https://tb.zbds.top/logo/四川卫视.png" group-title="📡 IPv4 协议" ,四川卫视
-http://222.134.245.16:9901/tsfile/live/0123_1.m3u8
+#EXTINF:-1 tvg-id="94" tvg-name="四川卫视" tvg-logo="https://tb.zbds.top/logo/四川卫视.png" group-title="📡 IPv4 协议" ,四川卫视
+http://222.169.85.8:9901/tsfile/live/0123_1.m3u8
 
 #EXTINF:-1 tvg-id="四川卫视" tvg-name="四川卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/四川卫视.png" group-title="📡 IPv4 协议" ,四川卫视
 https://iptv.catvod.com/live.php?id=%E5%9B%9B%E5%B7%9D%E5%8D%AB%E8%A7%86&line=3
@@ -2904,8 +2907,8 @@ http://iptv.666230.xyz/iptv/hnyx.php/ldxw
 #EXTINF:-1 tvg-id="37" tvg-name="宁夏卫视" tvg-logo="https://tb.zbds.top/logo/宁夏卫视.png" group-title="📡 IPv4 协议" ,宁夏卫视
 http://cssbyd.imwork.net:8082/hls/45/index.m3u8
 
-#EXTINF:-1 tvg-id="48" tvg-name="宁夏卫视" tvg-logo="https://tb.zbds.top/logo/宁夏卫视.png" group-title="📡 IPv4 协议" ,宁夏卫视
-http://183.11.239.36:808/hls/106/index.m3u8
+#EXTINF:-1 tvg-id="54" tvg-name="宁夏卫视" tvg-logo="https://tb.zbds.top/logo/宁夏卫视.png" group-title="📡 IPv4 协议" ,宁夏卫视
+http://222.169.85.8:9901/tsfile/live/0112_1.m3u8
 
 #EXTINF:-1 tvg-id="宁夏卫视" tvg-name="宁夏卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/宁夏卫视.png" group-title="📡 IPv4 协议" ,宁夏卫视
 https://iptv.catvod.com/live.php?id=%E5%AE%81%E5%A4%8F%E5%8D%AB%E8%A7%86&line=1
@@ -2954,9 +2957,6 @@ http://123.129.70.178:9901/tsfile/live/0130_1.m3u8
 
 #EXTINF:-1 tvg-id="116" tvg-name="安徽卫视" tvg-logo="https://tb.zbds.top/logo/安徽卫视.png" group-title="📡 IPv4 协议" ,安徽卫视
 http://222.169.85.8:9901/tsfile/live/0130_1.m3u8
-
-#EXTINF:-1 tvg-id="99" tvg-name="安徽卫视" tvg-logo="https://tb.zbds.top/logo/安徽卫视.png" group-title="📡 IPv4 协议" ,安徽卫视
-http://222.134.245.16:9901/tsfile/live/0130_1.m3u8
 
 #EXTINF:-1 tvg-id="安徽卫视" tvg-name="安徽卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/安徽卫视.png" group-title="📡 IPv4 协议" ,安徽卫视
 https://iptv.catvod.com/live.php?id=%E5%AE%89%E5%BE%BD%E5%8D%AB%E8%A7%86&line=1
@@ -3149,6 +3149,9 @@ http://61.136.172.236:9901/tsfile/live/0131_1.m3u8
 
 #EXTINF:-1 tvg-id="126" tvg-name="山东卫视" tvg-logo="https://tb.zbds.top/logo/山东卫视.png" group-title="📡 IPv4 协议" ,山东卫视
 http://182.150.23.74:808/hls/23/index.m3u8
+
+#EXTINF:-1 tvg-id="135" tvg-name="山东卫视" tvg-logo="https://tb.zbds.top/logo/山东卫视.png" group-title="📡 IPv4 协议" ,山东卫视
+http://222.169.85.8:9901/tsfile/live/0131_1.m3u8
 
 #EXTINF:-1 tvg-id="山东卫视" tvg-name="山东卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/山东卫视.png" group-title="📡 IPv4 协议" ,山东卫视
 https://iptv.catvod.com/live.php?id=%E5%B1%B1%E4%B8%9C%E5%8D%AB%E8%A7%86&line=2
@@ -3362,6 +3365,9 @@ http://php.jdshipin.com/PLTV/iptv.php?id=gdty
 
 #EXTINF:-1 tvg-id="广东体育" tvg-name="广东体育" tvg-logo="https://www.xn--rgv465a.top/tvlogo/广东体育.png" group-title="📡 IPv4 协议" ,广东体育
 http://php.jdshipin.com/TVOD/iptv.php?id=gdty
+
+#EXTINF:-1 tvg-id="15" tvg-name="广东体育" tvg-logo="https://tb.zbds.top/logo/广东体育.png" group-title="📡 IPv4 协议" ,广东体育
+http://218.13.170.98:9901/tsfile/live/0019_1.m3u8
 
 #EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/广东卫视.png" group-title="📡 IPv4 协议" ,广东卫视
 http://iptv.huuc.edu.cn/hls/gdhd.m3u8
@@ -3645,6 +3651,9 @@ https://stream1.freetv.fun/yan-bian-wei-shi-16.m3u8
 #EXTINF:-1 tvg-id="延边卫视" tvg-name="延边卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/延边卫视.png" group-title="📡 IPv4 协议" ,延边卫视
 https://stream1.freetv.fun/yan-bian-wei-shi-15.m3u8
 
+#EXTINF:-1 tvg-id="延边卫视" tvg-name="延边卫视" tvg-logo="https://tb.zbds.top/logo/延边卫视.png" group-title="📡 IPv4 协议" ,延边卫视
+http://l.cztvcloud.com/channels/lantian/SXxinchang2/720p.m3u8#
+
 #EXTINF:-1 tvg-id="开化国家公园" tvg-name="开化国家公园" tvg-logo="https://www.xn--rgv465a.top/tvlogo/开化国家公园.png" group-title="📡 IPv4 协议" ,开化国家公园
 http://l.cztvcloud.com/channels/lantian/SXkaihua2/720p.m3u8zzhed
 
@@ -3873,8 +3882,8 @@ http://goo.bkpcp.top/mg/xjws
 #EXTINF:-1 tvg-id="18" tvg-name="新疆卫视" tvg-logo="https://tb.zbds.top/logo/新疆卫视.png" group-title="📡 IPv4 协议" ,新疆卫视
 http://36.32.174.67:60080/newlive/live/hls/47/live.m3u8
 
-#EXTINF:-1 tvg-id="新疆卫视" tvg-name="新疆卫视" tvg-logo="https://tb.zbds.top/logo/新疆卫视.png" group-title="📡 IPv4 协议" ,新疆卫视
-http://218.84.12.186:8001/hls/main/playlist.m3u8?zxinjd;http://218.84.12.186:8001/hls/main/playlist.m3u8zxinjd
+#EXTINF:-1 tvg-id="62" tvg-name="新疆卫视" tvg-logo="https://tb.zbds.top/logo/新疆卫视.png" group-title="📡 IPv4 协议" ,新疆卫视
+http://222.169.85.8:9901/tsfile/live/0110_1.m3u8
 
 #EXTINF:-1 tvg-id="新疆卫视" tvg-name="新疆卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/新疆卫视.png" group-title="📡 IPv4 协议" ,新疆卫视
 https://iptv.catvod.com/live.php?id=%E6%96%B0%E7%96%86%E5%8D%AB%E8%A7%86&line=3
@@ -4320,8 +4329,8 @@ http://123.129.70.178:9901/tsfile/live/0127_1.m3u8
 #EXTINF:-1 tvg-id="157" tvg-name="江苏卫视" tvg-logo="https://tb.zbds.top/logo/江苏卫视.png" group-title="📡 IPv4 协议" ,江苏卫视
 http://222.169.85.8:9901/tsfile/live/0127_1.m3u8
 
-#EXTINF:-1 tvg-id="143" tvg-name="江苏卫视" tvg-logo="https://tb.zbds.top/logo/江苏卫视.png" group-title="📡 IPv4 协议" ,江苏卫视
-http://182.150.23.74:808/hls/18/index.m3u8
+#EXTINF:-1 tvg-id="153" tvg-name="江苏卫视" tvg-logo="https://tb.zbds.top/logo/江苏卫视.png" group-title="📡 IPv4 协议" ,江苏卫视
+http://218.13.170.98:9901/tsfile/live/1003_1.m3u8
 
 #EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/江苏卫视.png" group-title="📡 IPv4 协议" ,江苏卫视
 https://iptv.catvod.com/live.php?id=%E6%B1%9F%E8%8B%8F%E5%8D%AB%E8%A7%86&line=7
@@ -4509,8 +4518,8 @@ https://t.freetv.fun/live/he-bei-nong-min.m3u8
 #EXTINF:-1 tvg-id="50" tvg-name="河北卫视" tvg-logo="https://tb.zbds.top/logo/河北卫视.png" group-title="📡 IPv4 协议" ,河北卫视
 http://36.32.174.67:60080/newlive/live/hls/36/live.m3u8
 
-#EXTINF:-1 tvg-id="161" tvg-name="河北卫视" tvg-logo="https://tb.zbds.top/logo/河北卫视.png" group-title="📡 IPv4 协议" ,河北卫视
-http://123.130.84.106:8154/tsfile/live/0117_1.m3u8
+#EXTINF:-1 tvg-id="118" tvg-name="河北卫视" tvg-logo="https://tb.zbds.top/logo/河北卫视.png" group-title="📡 IPv4 协议" ,河北卫视
+http://61.136.172.236:9901/tsfile/live/0117_1.m3u8
 
 #EXTINF:-1 tvg-id="河北卫视" tvg-name="河北卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/河北卫视.png" group-title="📡 IPv4 协议" ,河北卫视
 https://iptv.catvod.com/live.php?id=%E6%B2%B3%E5%8C%97%E5%8D%AB%E8%A7%86&line=4
@@ -4568,9 +4577,6 @@ http://tvpull.dxhmt.cn:9081/tv/11425-1.m3u8
 
 #EXTINF:-1 tvg-id="100" tvg-name="河南卫视" tvg-logo="https://tb.zbds.top/logo/河南卫视.png" group-title="📡 IPv4 协议" ,河南卫视
 http://222.169.85.8:9901/tsfile/live/0139_1.m3u8
-
-#EXTINF:-1 tvg-id="125" tvg-name="河南卫视" tvg-logo="https://tb.zbds.top/logo/河南卫视.png" group-title="📡 IPv4 协议" ,河南卫视
-http://123.130.84.106:8154/tsfile/live/0139_1.m3u8
 
 #EXTINF:-1 tvg-id="河南卫视" tvg-name="河南卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/河南卫视.png" group-title="📡 IPv4 协议" ,河南卫视
 https://iptv.catvod.com/live.php?id=%E6%B2%B3%E5%8D%97%E5%8D%AB%E8%A7%86&line=5
@@ -4839,9 +4845,6 @@ http://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8?zzhed
 #EXTINF:-1 tvg-id="2" tvg-name="浙江国际" tvg-logo="https://tb.zbds.top/logo/浙江国际.png" group-title="📡 IPv4 协议" ,浙江国际
 http://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
 
-#EXTINF:-1 tvg-id="3" tvg-name="浙江国际" tvg-logo="https://tb.zbds.top/logo/浙江国际.png" group-title="📡 IPv4 协议" ,浙江国际
-http://ali-m-l.cztv.com/channels/lantian/channel010/720p.m3u8
-
 #EXTINF:-1 tvg-name="浙江国际" tvg-logo="https://live.fanmingming.cn/tv/浙江国际.png" group-title="📡 IPv4 协议" ,浙江国际
 https://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
 
@@ -4892,6 +4895,9 @@ http://ali-m-l.cztv.com/channels/lantian/channel12/720p.m3u8
 
 #EXTINF:-1 tvg-id="浙江数码时代" tvg-name="浙江数码时代" tvg-logo="https://www.xn--rgv465a.top/tvlogo/浙江数码时代.png" group-title="📡 IPv4 协议" ,浙江数码时代
 https://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8\r\n
+
+#EXTINF:-1 tvg-id="1" tvg-name="浙江数码时代" tvg-logo="https://tb.zbds.top/logo/浙江数码时代.png" group-title="📡 IPv4 协议" ,浙江数码时代
+http://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
 
 #EXTINF:-1 tvg-id="浙江新闻" tvg-name="浙江新闻" tvg-logo="https://www.xn--rgv465a.top/tvlogo/浙江新闻.png" group-title="📡 IPv4 协议" ,浙江新闻
 http://ali-xwl.cztv.com/live/channel071080Plxw.m3u8
@@ -5079,6 +5085,9 @@ https://migu.188766.xyz/?migutoken=3a138924186d190af58e01219616242b&id=hn_ggpd&t
 #EXTINF:-1 tvg-id="64" tvg-name="海南卫视" tvg-logo="https://tb.zbds.top/logo/海南卫视.png" group-title="📡 IPv4 协议" ,海南卫视
 http://cssbyd.imwork.net:8082/hls/31/index.m3u8
 
+#EXTINF:-1 tvg-id="海南卫视" tvg-name="海南卫视" tvg-logo="https://tb.zbds.top/logo/海南卫视.png" group-title="📡 IPv4 协议" ,海南卫视
+http://111.221.137.234:44330/tsfile/live/0117_1.m3u8?key=txiptv&playlive=0&authid=0
+
 #EXTINF:-1 tvg-id="海南卫视" tvg-name="海南卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/海南卫视.png" group-title="📡 IPv4 协议" ,海南卫视
 https://iptv.catvod.com/live.php?id=%E6%B5%B7%E5%8D%97%E5%8D%AB%E8%A7%86&line=4
 
@@ -5172,6 +5181,9 @@ https://p2hs.vzan.com/slowlive/317913155078575177/live.m3u8
 #EXTINF:-1 tvg-id="5" tvg-name="海峡卫视" tvg-logo="https://tb.zbds.top/logo/海峡卫视.png" group-title="📡 IPv4 协议" ,海峡卫视
 http://38.64.72.148:80/hls/modn/list/4009/playlist.m3u8
 
+#EXTINF:-1 tvg-id="3" tvg-name="海峡卫视" tvg-logo="https://tb.zbds.top/logo/海峡卫视.png" group-title="📡 IPv4 协议" ,海峡卫视
+http://38.64.72.148:80/hls/modn/list/4009/chunklist0.m3u8
+
 #EXTINF:-1 tvg-id="海绵宝宝" tvg-name="海绵宝宝" tvg-logo="https://www.xn--rgv465a.top/tvlogo/海绵宝宝.png" group-title="📡 IPv4 协议" ,海绵宝宝
 https://live.metshop.top/douyu/3949681
 
@@ -5255,6 +5267,9 @@ http://z.b.bkpcp.top/m.php?id=szws
 
 #EXTINF:-1 tvg-id="33" tvg-name="深圳卫视" tvg-logo="https://tb.zbds.top/logo/深圳卫视.png" group-title="📡 IPv4 协议" ,深圳卫视
 http://124.116.183.146:9901/tsfile/live/0126_1.m3u8
+
+#EXTINF:-1 tvg-id="108" tvg-name="深圳卫视" tvg-logo="https://tb.zbds.top/logo/深圳卫视.png" group-title="📡 IPv4 协议" ,深圳卫视
+http://182.150.23.74:808/hls/20/index.m3u8
 
 #EXTINF:-1 tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/深圳卫视.png" group-title="📡 IPv4 协议" ,深圳卫视
 https://iptv.catvod.com/live.php?id=%E6%B7%B1%E5%9C%B3%E5%8D%AB%E8%A7%86&line=2
@@ -6534,8 +6549,8 @@ http://www.goodiptv.club/douyu/9661369
 #EXTINF:-1 tvg-id="27" tvg-name="贵州卫视" tvg-logo="https://tb.zbds.top/logo/贵州卫视.png" group-title="📡 IPv4 协议" ,贵州卫视
 http://222.214.208.34:59901/tsfile/live/0120_1.m3u8
 
-#EXTINF:-1 tvg-id="182" tvg-name="贵州卫视" tvg-logo="https://tb.zbds.top/logo/贵州卫视.png" group-title="📡 IPv4 协议" ,贵州卫视
-http://61.136.172.236:9901/tsfile/live/0120_1.m3u8
+#EXTINF:-1 tvg-id="115" tvg-name="贵州卫视" tvg-logo="https://tb.zbds.top/logo/贵州卫视.png" group-title="📡 IPv4 协议" ,贵州卫视
+http://222.169.85.8:9901/tsfile/live/0120_1.m3u8
 
 #EXTINF:-1 tvg-id="贵州卫视" tvg-name="贵州卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/贵州卫视.png" group-title="📡 IPv4 协议" ,贵州卫视
 https://iptv.catvod.com/live.php?id=%E8%B4%B5%E5%B7%9E%E5%8D%AB%E8%A7%86
@@ -6590,9 +6605,6 @@ http://112.27.235.94:8000/hls/47/index.m3u8
 
 #EXTINF:-1 tvg-id="133" tvg-name="辽宁卫视" tvg-logo="https://tb.zbds.top/logo/辽宁卫视.png" group-title="📡 IPv4 协议" ,辽宁卫视
 http://61.136.172.236:9901/tsfile/live/0121_1.m3u8
-
-#EXTINF:-1 tvg-id="135" tvg-name="辽宁卫视" tvg-logo="https://tb.zbds.top/logo/辽宁卫视.png" group-title="📡 IPv4 协议" ,辽宁卫视
-http://123.130.84.106:8154/tsfile/live/0121_1.m3u8
 
 #EXTINF:-1 tvg-id="辽宁卫视" tvg-name="辽宁卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/辽宁卫视.png" group-title="📡 IPv4 协议" ,辽宁卫视
 https://iptv.catvod.com/live.php?id=%E8%BE%BD%E5%AE%81%E5%8D%AB%E8%A7%86&line=3
@@ -6785,6 +6797,9 @@ http://36.32.174.67:60080/newlive/live/hls/34/live.m3u8
 
 #EXTINF:-1 tvg-id="76" tvg-name="重庆卫视" tvg-logo="https://tb.zbds.top/logo/重庆卫视.png" group-title="📡 IPv4 协议" ,重庆卫视
 http://124.116.183.146:9901/tsfile/live/0142_1.m3u8
+
+#EXTINF:-1 tvg-id="137" tvg-name="重庆卫视" tvg-logo="https://tb.zbds.top/logo/重庆卫视.png" group-title="📡 IPv4 协议" ,重庆卫视
+http://222.169.85.8:9901/tsfile/live/0142_1.m3u8
 
 #EXTINF:-1 tvg-id="重庆卫视" tvg-name="重庆卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/重庆卫视.png" group-title="📡 IPv4 协议" ,重庆卫视
 https://iptv.catvod.com/live.php?id=%E9%87%8D%E5%BA%86%E5%8D%AB%E8%A7%86&line=2
@@ -7046,9 +7061,6 @@ http://qcfile.qcrmt.com/nmip-media/channellive/channel100933/playlist.m3u8
 
 #EXTINF:-1 tvg-id="148" tvg-name="青海卫视" tvg-logo="https://tb.zbds.top/logo/青海卫视.png" group-title="📡 IPv4 协议" ,青海卫视
 http://111.61.236.247:9081/hls/49/index.m3u8
-
-#EXTINF:-1 tvg-id="119" tvg-name="青海卫视" tvg-logo="https://tb.zbds.top/logo/青海卫视.png" group-title="📡 IPv4 协议" ,青海卫视
-http://123.130.84.106:8154/tsfile/live/0140_1.m3u8
 
 #EXTINF:-1 tvg-id="青海卫视" tvg-name="青海卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/青海卫视.png" group-title="📡 IPv4 协议" ,青海卫视
 https://iptv.catvod.com/live.php?id=%E9%9D%92%E6%B5%B7%E5%8D%AB%E8%A7%86&line=3
