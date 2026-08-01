@@ -77,17 +77,26 @@ output/
 # 3. 等待首次自动运行（或手动触发）
 ```
 
-播放列表自动更新到（两种分组方式）：
+播放列表自动更新到（多种分组方式）：
 
 ```
-# 标准版：按区域 → 分组排序
+# 标准版：按区域 → 分组排序（全部频道）
 https://raw.githubusercontent.com/<你的用户名>/iptv-scraper/main/data/playlist.m3u
 
-# 协议版：按 IPv6(148) / IPv4(2096) / RTP(90) 分组
+# 协议版：按 IPv6 / IPv4 / RTP 分组
 https://raw.githubusercontent.com/<你的用户名>/iptv-scraper/main/data/playlist_by_protocol.m3u
+
+# 中文频道：仅大陆/港澳台
+https://raw.githubusercontent.com/<你的用户名>/iptv-scraper/main/data/playlist_cn.m3u
+
+# IPv4 优先：国内环境最流畅（推荐）
+https://raw.githubusercontent.com/<你的用户名>/iptv-scraper/main/data/playlist_ipv4.m3u
+
+# 按国家/地区独立文件（如 CN / JP / US / GB 等）
+https://raw.githubusercontent.com/<你的用户名>/iptv-scraper/main/output/countries/CN.m3u
 ```
 
-将上述 URL 添加到电视播放器即可。**每天自动更新，电脑无需开机，全球 CDN 加速。**
+将上述 URL 添加到电视播放器即可。**国内用户推荐 `playlist_ipv4.m3u`（IPv4 优先，访问最稳定）。每天自动更新，电脑无需开机，全球 CDN 加速。**
 
 ### 方式 B：本地运行
 
@@ -106,13 +115,23 @@ python main.py
 
 # 或仅 HTTP 服务（已有数据时）
 python main.py --server
+
+# 或运行全球 IPTV 管线（采集 → 分类 → 去重 → 验证 → 评分 → 多层级输出）
+python main.py --global-pipeline
+
+# 或跳过流验证（仅分类/去重/输出，速度快）
+python main.py --global-pipeline --no-validate
 ```
 
-电视播放器添加（两种分组）：
+电视播放器添加（标准版 / 协议版 / 全球多层级）：
 
 ```
 http://<你的IP>:5000/playlist.m3u               # 标准版
 http://<你的IP>:5000/playlist_by_protocol.m3u   # 协议版
+# 运行 --global-pipeline 后，全球文件生成在 output/ 目录：
+output/all.m3u                                  # 全球总频道
+output/Greater-China.m3u                        # 中国大陆/港澳台汇总
+output/countries/CN.m3u                         # 各国家/地区独立文件
 ```
 
 ### 方式 C：Docker（即将推出）
@@ -206,6 +225,24 @@ playlist.m3u          (标准版：按区域→分组)
 playlist_by_protocol.m3u  (协议版：按 IPv6/IPv4/RTP)
      ↓ HTTP 提供
 电视播放器 (TiviMate / VLC / Kodi)
+
+# ===== 全球管线分支 (python main.py --global-pipeline) =====
+公开 M3U 源 (含 iptv-org 各国 / Free-TV 等)
+     ↓ Scrapers 采集
+原始频道 dict
+     ↓ Normalizer + Classifier + IPDetector
+标准化 + 国家/地区分类 + IPv4/IPv6 识别
+     ↓ Deduplicator
+URL 去重 + 同频道多源合并
+     ↓ Validator + SpeedTester
+直播源有效性验证 (HTTP/HLS) + 测速
+     ↓ Ranker
+综合质量评分 (可用性+IPv4+响应+速度+稳定性+国内访问)
+     ↓ OutputGenerator
+output/all.m3u              全球总频道
+output/Greater-China.m3u    中国大陆/港澳台汇总
+output/countries/XX.m3u     各国家/地区独立文件
+output/metadata/*.json      元数据
 ```
 
 ---

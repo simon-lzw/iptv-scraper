@@ -32,6 +32,12 @@
 - **参考调研**：`docs/RESEARCH.md` 记录 10 个开源 IPTV 项目调研成果；
   `docs/ARCHITECTURE.md` 记录模块化架构设计
 
+### 文档
+
+- 更新 README 快速开始方式 A/B：补充 `playlist_cn.m3u`、`playlist_ipv4.m3u`、`countries/XX.m3u` 等全球播放列表链接，国内推荐 IPv4 优先列表。
+- 更新 README 本地运行：补充 `--global-pipeline` / `--no-validate` 运行选项及 `output/` 目录输出说明。
+- 更新 README 数据流图：补充全球管线分支（分类 → IPv4 检测 → 验证 → 测速 → 评分 → 多层级输出）。
+
 ### 修复
 
 - 修复 Gitee Go 在 detached HEAD 状态下执行 `git push` 失败的问题，改为显式推送 `HEAD:main`。
