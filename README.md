@@ -42,8 +42,8 @@ output/
 - 所有输出文件 UTF-8 无 BOM 编码
 
 配置项见 `config.py`（`GITHUB_RAW_PROXY`、`SCORE_WEIGHTS`、`ENABLE_SPEED_TEST`、
-`IP_TYPE_PREFER`、`MIN_SPEED_KBPS` 等）。参考调研见 `research/RESEARCH.md`，
-架构设计见 `research/ARCHITECTURE.md`。
+`IP_TYPE_PREFER`、`MIN_SPEED_KBPS` 等）。参考调研见 `docs/RESEARCH.md`，
+架构设计见 `docs/ARCHITECTURE.md`。
 
 ---
 

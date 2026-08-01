@@ -29,8 +29,8 @@
 - **新数据源**：新增 iptv-org（JP/KR/US/GB/SG/MY）、Free-TV/IPTV、iptv-org all streams
 - **CLI 入口**：`python main.py --global-pipeline` 运行全球管线；
   `--no-validate` 跳过流验证
-- **参考调研**：`research/RESEARCH.md` 记录 10 个开源 IPTV 项目调研成果；
-  `research/ARCHITECTURE.md` 记录模块化架构设计
+- **参考调研**：`docs/RESEARCH.md` 记录 10 个开源 IPTV 项目调研成果；
+  `docs/ARCHITECTURE.md` 记录模块化架构设计
 
 ### 修复
 
