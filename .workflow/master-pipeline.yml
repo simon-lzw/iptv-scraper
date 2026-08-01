@@ -1,0 +1,39 @@
+version: "1.0"
+name: master-pipeline
+displayName: 自动搜刮直播源
+stages:
+- name: 执行搜刮并提交
+  displayName: 执行搜刮并提交
+  strategy: naturally
+  trigger: auto
+  steps:
+  - step: build@python
+    name: run_all
+    displayName: 安装依赖 + 执行搜刮 + 提交推送
+    pythonVersion: "3.10"
+    commands:
+    - python3 -m pip install --upgrade pip
+    - pip3 config set global.index-url https://pypi.tuna.tsinghua.edu.cn/simple
+    - pip3 install -r requirements.txt
+    - python3 main.py --scrape
+    - "git config user.name \"iptv-scraper[bot]\""
+    - "git config user.email \"iptv-scraper[bot]@users.noreply.github.com\""
+    - git add -A
+    - git diff --staged --quiet || git commit -m "🔄 自动搜刮更新 $(date +'%Y-%m-%d %H:%M')"
+    - git config --global credential.helper store
+    - "echo \"https://${GIT_USERNAME}:${GIT_PASSWORD}@gitee.com\" > ~/.git-credentials"
+    - git push origin HEAD:main
+triggers:
+  trigger: auto
+  push:
+    branches:
+      prefix: []
+      precise:
+      - master
+      - main
+      include: []
+notify: []
+variables:
+  global:
+  - GIT_USERNAME
+  - GIT_PASSWORD
