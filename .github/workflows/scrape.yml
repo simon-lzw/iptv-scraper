@@ -11,7 +11,7 @@ on:
 jobs:
   scrape:
     runs-on: ubuntu-latest
-    timeout-minutes: 15
+    timeout-minutes: 30
     permissions:
       contents: write       # 允许推送回仓库
 
@@ -49,8 +49,8 @@ jobs:
           git config user.name "iptv-scraper[bot]"
           git config user.email "iptv-scraper[bot]@users.noreply.github.com"
           git add -A
+          # 注意: data/ 文件通过 actions/cache 持久化, 不提交到 Git
+          git reset HEAD -- data/
           # 只在有变更时提交
           git diff --staged --quiet || git commit -m "🔄 自动搜刮更新 $(date +'%Y-%m-%d %H:%M')"
-          # 注意: channels.db 通过 actions/cache 持久化, 不提交到 Git
-          git reset HEAD data/channels.db data/playlist.m3u data/playlist_by_protocol.m3u
           git push

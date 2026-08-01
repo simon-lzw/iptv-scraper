@@ -20,7 +20,7 @@ stages:
     - "git config user.name \"iptv-scraper[bot]\""
     - "git config user.email \"iptv-scraper[bot]@users.noreply.github.com\""
     - git add -A
-    - git reset HEAD data/channels.db data/playlist.m3u data/playlist_by_protocol.m3u
+    - git reset HEAD -- data/
     - git diff --staged --quiet || git commit -m "🔄 自动搜刮更新 $(date +'%Y-%m-%d %H:%M')"
     - git config --global credential.helper store
     - "echo \"https://${GIT_USERNAME}:${GIT_PASSWORD}@gitee.com\" > ~/.git-credentials"
