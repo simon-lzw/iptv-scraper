@@ -16,9 +16,11 @@ stages:
     - pip3 config set global.index-url https://pypi.tuna.tsinghua.edu.cn/simple
     - pip3 install -r requirements.txt
     - python3 main.py --scrape
+    - python3 main.py --global-pipeline --no-validate
     - "git config user.name \"iptv-scraper[bot]\""
     - "git config user.email \"iptv-scraper[bot]@users.noreply.github.com\""
     - git add -A
+    - git reset HEAD data/channels.db data/playlist.m3u data/playlist_by_protocol.m3u
     - git diff --staged --quiet || git commit -m "🔄 自动搜刮更新 $(date +'%Y-%m-%d %H:%M')"
     - git config --global credential.helper store
     - "echo \"https://${GIT_USERNAME}:${GIT_PASSWORD}@gitee.com\" > ~/.git-credentials"

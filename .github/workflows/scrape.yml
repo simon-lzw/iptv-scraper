@@ -41,6 +41,9 @@ jobs:
       - name: 执行搜刮
         run: python main.py --scrape
 
+      - name: 生成全球 IPTV 文件
+        run: python main.py --global-pipeline --no-validate
+
       - name: 提交更新到仓库
         run: |
           git config user.name "iptv-scraper[bot]"
@@ -49,5 +52,5 @@ jobs:
           # 只在有变更时提交
           git diff --staged --quiet || git commit -m "🔄 自动搜刮更新 $(date +'%Y-%m-%d %H:%M')"
           # 注意: channels.db 通过 actions/cache 持久化, 不提交到 Git
-          git reset HEAD data/channels.db
+          git reset HEAD data/channels.db data/playlist.m3u data/playlist_by_protocol.m3u
           git push

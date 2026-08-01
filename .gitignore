@@ -30,5 +30,5 @@ Thumbs.db
 .reasonix/
 reasonix.toml
 
-# 运行时生成输出
-output/
+# 运行时生成输出（data/ 由 CI 排除；output/ 全球文件需提交到仓库）
+data/
