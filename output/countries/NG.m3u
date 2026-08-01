@@ -1,0 +1,22 @@
+#EXTM3U
+#PLAYLIST: 尼日利亚 (NG) IPTV 直播源
+#生成时间: 2026-08-01 12:07:09
+#频道数: 5
+
+# ===== 尼日利亚 (NG) =====
+
+#EXTINF:-1 tvg-id="ChannelsTV.ng@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/76/Channels_TV.jpg" group-title="尼日利亚",Channels TV
+https://cs2.push2stream.com/CHANNELSTV-DVR/playlist.m3u8
+
+#EXTINF:-1 tvg-id="NewsCentral.ng@SD" tvg-logo="https://i.imgur.com/qvCgI8N.png" group-title="尼日利亚",News Central
+https://wf.newscentral.ng:8443/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="TeleRegencyTV.ng@SD" tvg-logo="https://teleregency.tv/logo-white.png" group-title="尼日利亚",Tele Regency TV (576p)
+https://streams.playtv.com.ng/Tele-Regency_TRTV/index.m3u8
+
+#EXTINF:-1 tvg-id="TraceGospel.fr@NigeriaandEastAfrica" tvg-logo="https://i.imgur.com/X0UmU3K.png" group-title="尼日利亚",Trace Gospel Nigeria and East Africa (1080p)
+https://channels.trace.plus/Traceprod/GOSPEL_ROA_hd/index.m3u8
+
+#EXTINF:-1 tvg-id="WazobiaMaxTVNigeria.ng@SD" tvg-logo="https://i.imgur.com/IeioxBp.png" group-title="尼日利亚",Wazobia Max TV Nigeria (720p)
+https://wazobia.live:8333/channel/wmax.m3u8
+

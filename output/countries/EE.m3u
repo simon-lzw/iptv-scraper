@@ -1,0 +1,40 @@
+#EXTM3U
+#PLAYLIST: 爱沙尼亚 (EE) IPTV 直播源
+#生成时间: 2026-08-01 12:07:09
+#频道数: 11
+
+# ===== 爱沙尼亚 (EE) =====
+
+#EXTINF:-1 tvg-id="ETV.ee" tvg-logo="https://i.imgur.com/5URjPgG.png" group-title="爱沙尼亚",ETV Ⓖ
+http://sb.err.ee/live/etv.m3u8
+
+#EXTINF:-1 tvg-id="ETVPlus.ee" tvg-logo="https://i.imgur.com/YAubPlU.png" group-title="爱沙尼亚",ETV+ Ⓖ
+http://sb.err.ee/live/etvpluss.m3u8
+
+#EXTINF:-1 tvg-id="ETV2.ee@SD" tvg-logo="https://i.imgur.com/fUjGHDa.png" group-title="爱沙尼亚",ETV2 (720p)
+https://sb.err.ee/live/etv2.m3u8
+
+#EXTINF:-1 tvg-id="ETV2.ee" tvg-logo="https://i.imgur.com/fUjGHDa.png" group-title="爱沙尼亚",ETV2 Ⓖ
+http://sb.err.ee/live/etv2.m3u8
+
+#EXTINF:-1 tvg-id="LifeTV.ee@SD" tvg-logo="https://i.imgur.com/JhrTB82.png" group-title="爱沙尼亚",Life TV (432p) [Not 24/7]
+http://lifetv.bitflip.ee/live/stream1_1/index.m3u8
+
+#EXTINF:-1 tvg-id="LifeTV.ee" tvg-logo="https://i.imgur.com/JhrTB82.png" group-title="爱沙尼亚",Life TV Estonia
+https://lifetv.bitflip.ee/live/stream2.m3u8
+
+#EXTINF:-1 tvg-id="LifeTVEurope.ee" tvg-logo="https://i.imgur.com/JhrTB82.png" group-title="爱沙尼亚",Life TV Europe
+https://lifetv.bitflip.ee/live/stream1.m3u8
+
+#EXTINF:-1 tvg-id="Riigikogu.ee" tvg-logo="https://i.imgur.com/7uWaZLF.png" group-title="爱沙尼亚",Riigikogu
+https://riigikogu.babahhcdn.com/bb1027/smil:riigikogu_ch1.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TBNBaltia.ee" tvg-logo="https://i.imgur.com/rKBaK56.png" group-title="爱沙尼亚",TBN Baltia
+http://dc.tbnbaltia.eu:8088/dvr/rewind-21600.m3u8
+
+#EXTINF:-1 tvg-id="TaevasTV7.fi" tvg-logo="https://i.imgur.com/usXedIj.png" group-title="爱沙尼亚",Taevas TV7
+https://vod.tv7.fi/tv7-ee/_definst_/smil:tv7-ee.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="VantageRock.ee@HD" tvg-logo="https://vantagetv.ee/vantage_rock.png" group-title="爱沙尼亚",Vantage Rock (720p) [Geo-blocked]
+https://hls.vantagetv.ee/vrock_stream/index.m3u8
+

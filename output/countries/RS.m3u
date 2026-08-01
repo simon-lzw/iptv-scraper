@@ -1,0 +1,37 @@
+#EXTM3U
+#PLAYLIST: 塞尔维亚 (RS) IPTV 直播源
+#生成时间: 2026-08-01 12:07:09
+#频道数: 10
+
+# ===== 塞尔维亚 (RS) =====
+
+#EXTINF:-1 tvg-id="InformerTV.rs" tvg-logo="https://i.imgur.com/9wdEHRf.png" group-title="塞尔维亚",Informer TV
+https://edge-rs-03.maksnet.tv/informertv-secure/web/playlist.m3u8
+
+#EXTINF:-1 tvg-id="KurirTV.rs" tvg-logo="https://i.imgur.com/HBPnUD5.png" group-title="塞尔维亚",Kurir TV
+https://static.am.mediaoutcast.com/storage/nQJnjJkO/nQJnjJkO/stream/O68x4o8g/720p/720p.m3u8
+
+#EXTINF:-1 tvg-id="NarodnaTV.rs@SD" tvg-logo="https://i.imgur.com/dua57HD.png" group-title="塞尔维亚",Narodna TV (720p)
+https://edge8.pink.rs/narodnatv/index.m3u8
+
+#EXTINF:-1 tvg-id="Pink.rs@SD" tvg-logo="https://i.imgur.com/66wHb7E.png" group-title="塞尔维亚",Pink (720p)
+https://edge8.pink.rs/pinktv/index.m3u8
+
+#EXTINF:-1 tvg-id="RTS1.rs" tvg-logo="https://i.imgur.com/S1pKHSR.png" group-title="塞尔维亚",RTS 1
+https://webtvstream.bhtelecom.ba/rts1.m3u8
+
+#EXTINF:-1 tvg-id="RTS2.rs" tvg-logo="https://i.imgur.com/jltAf5h.png" group-title="塞尔维亚",RTS 2
+https://webtvstream.bhtelecom.ba/rts2.m3u8
+
+#EXTINF:-1 tvg-id="RTVNoviPazar.rs@SD" tvg-logo="https://i.imgur.com/NpyRVyC.png" group-title="塞尔维亚",RTV Novi Pazar
+https://tv.rtvnp.rs/stream.m3u8
+
+#EXTINF:-1 tvg-id="RedTV.rs" tvg-logo="https://i.imgur.com/cpN7NrL.png" group-title="塞尔维亚",Red TV
+https://edge8.pink.rs/redtv/index.m3u8
+
+#EXTINF:-1 tvg-id="SandzakTV.rs@SD" tvg-logo="https://i.imgur.com/lm9Fgsp.png" group-title="塞尔维亚",Sandzak TV (576p)
+https://streaming.iptv.nextfiber.rs/nxt004/master.m3u8
+
+#EXTINF:-1 tvg-id="TVPiKanal.rs@SD" tvg-logo="https://i.imgur.com/8ugnFa3.png" group-title="塞尔维亚",TV Pi Kanal (576p) [Not 24/7]
+https://stream.pikanal.rs/pikanal/pgm.m3u8
+

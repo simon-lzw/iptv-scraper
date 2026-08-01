@@ -1,0 +1,46 @@
+#EXTM3U
+#PLAYLIST: 斯洛文尼亚 (SI) IPTV 直播源
+#生成时间: 2026-08-01 12:07:09
+#频道数: 13
+
+# ===== 斯洛文尼亚 (SI) =====
+
+#EXTINF:-1 tvg-id="FolxSlovenija.si" tvg-logo="https://i.imgur.com/RK1IASU.png" group-title="斯洛文尼亚",Folx Slovenija
+https://cdne.folxplay.tv/folx-trz/streams/ch-5/master.m3u8
+
+#EXTINF:-1 tvg-id="KanalA.si@SD" tvg-logo="https://i.imgur.com/JHNpcqF.png" group-title="斯洛文尼亚",Kanal A
+https://streamer01.xploretv.si/__cl/cg:prod/__c/A1_SI_AKANALHD_ott/__op/dash-default/__dci/__f/index.m3u8?admin=xploreTv_test_user&redirect=true
+
+#EXTINF:-1 tvg-id="MMC.si" tvg-logo="https://i.imgur.com/yzETQJ4.png" group-title="斯洛文尼亚",MMC TV
+https://www.tvkaista.net/stream-forwarder/get.php?x=MMCTV
+
+#EXTINF:-1 tvg-id="Nova24TV.si" tvg-logo="https://i.imgur.com/M2207Vh.png" group-title="斯洛文尼亚",Nova 24 TV Ⓨ
+https://www.youtube.com/@Nova24TVSlovenija/live
+
+#EXTINF:-1 tvg-id="TVSLO1.si@SD" tvg-logo="https://i.imgur.com/E3YmlxF.png" group-title="斯洛文尼亚",SLO 1
+https://streamer03.xploretv.si/__cl/cg:prod/__c/A1_SI_SLO1HD_ott/__op/dash-default/__dci/__f/index.m3u8?admin=xploreTv_test_user&redirect=true
+
+#EXTINF:-1 tvg-id="TVSLO2.si@SD" tvg-logo="https://i.imgur.com/OPlzjjv.png" group-title="斯洛文尼亚",SLO 2
+https://streamer03.xploretv.si/__cl/cg:prod/__c/A1_SI_SLO2HD_ott/__op/dash-default/__dci/__f/index.m3u8?admin=xploreTv_test_user&redirect=true
+
+#EXTINF:-1 tvg-id="TVSLO3.si@SD" tvg-logo="https://i.imgur.com/yPb2FKg.png" group-title="斯洛文尼亚",SLO 3
+https://streamer03.xploretv.si/__cl/cg:prod/__c/A1_SI_SLO3HD_ott/__op/dash-default/__dci/__f/index.m3u8?admin=xploreTv_test_user&redirect=true
+
+#EXTINF:-1 tvg-id="TVKoperCapodistria.si" tvg-logo="https://i.imgur.com/NQvOJNh.png" group-title="斯洛文尼亚",TV Koper/Capodistria
+https://www.tvkaista.net/stream-forwarder/get.php?x=TVKC
+
+#EXTINF:-1 tvg-id="TVMaribor.si" tvg-logo="https://i.imgur.com/tWf3dgf.png" group-title="斯洛文尼亚",TV Maribor
+https://www.tvkaista.net/stream-forwarder/get.php?x=TVMaribor
+
+#EXTINF:-1 tvg-id="TVSlovenija1.si" tvg-logo="https://i.imgur.com/YIZOtcm.png" group-title="斯洛文尼亚",TV SLO 1
+https://www.tvkaista.net/stream-forwarder/get.php?x=TVSLO1
+
+#EXTINF:-1 tvg-id="TVSlovenija2.si" tvg-logo="https://i.imgur.com/mQe9U2h.png" group-title="斯洛文尼亚",TV SLO 2
+https://www.tvkaista.net/stream-forwarder/get.php?x=TVSLO2
+
+#EXTINF:-1 tvg-id="TVSlovenija3.si" tvg-logo="https://i.imgur.com/WGUyj7r.png" group-title="斯洛文尼亚",TV SLO 3
+https://www.tvkaista.net/stream-forwarder/get.php?x=TVSLO3
+
+#EXTINF:-1 tvg-id="TVVeseljakGolicaHD.si@SD" tvg-logo="https://i.imgur.com/49VrbSW.png" group-title="斯洛文尼亚",TV Veseljak Golica HD
+https://radio.serv.si/VeseljakGolicaTV/tracks-v1a1/mono.m3u8
+

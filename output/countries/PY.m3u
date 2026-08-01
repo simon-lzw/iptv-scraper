@@ -1,0 +1,22 @@
+#EXTM3U
+#PLAYLIST: 巴拉圭 (PY) IPTV 直播源
+#生成时间: 2026-08-01 12:07:09
+#频道数: 5
+
+# ===== 巴拉圭 (PY) =====
+
+#EXTINF:-1 tvg-id="EnLenguadeSenasTV.py@SD" tvg-logo="https://i.imgur.com/oxPEZas.png" group-title="巴拉圭",En Lengua de Senas TV (720p)
+https://cloudtv.streaming.com.py/lenguasdesenas/lenguasdesenas/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="ParaguayTV.py@SD" tvg-logo="https://i.imgur.com/fkK7i8g.png" group-title="巴拉圭",Paraguay TV (1080p)
+https://stream.paraguaytv.gov.py/memfs/bbe36fed-9b49-4d1d-adaa-4bd6d1b2e386.m3u8
+
+#EXTINF:-1 tvg-id="RadioNacionaldelParaguay.py@SD" tvg-logo="https://i.imgur.com/ksh20I5.png" group-title="巴拉圭",Radio Nacional del Paraguay
+https://stream.paraguaytv.gov.py/memfs/ea8a90e9-10f7-4b00-8e88-42f4a838d74b.m3u8
+
+#EXTINF:-1 tvg-id="Trece.py" tvg-logo="https://i.imgur.com/9kcYqk2.png" group-title="巴拉圭",Trece
+https://stream.rpc.com.py/live/trece_src.m3u8
+
+#EXTINF:-1 tvg-id="Unicanal.py" tvg-logo="https://i.imgur.com/brlepuX.png" group-title="巴拉圭",Unicanal
+http://45.55.127.106/live/unicanal.m3u8
+
