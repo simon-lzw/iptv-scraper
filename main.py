@@ -388,6 +388,10 @@ def main():
     parser.add_argument("--full", action="store_true", help="完整启动（搜刮+检查+服务+调度）")
     parser.add_argument("--log-file", type=str, help="日志文件路径 (可选)")
     parser.add_argument("--menu", action="store_true", help="交互式管理菜单")
+    parser.add_argument("--global-pipeline", action="store_true",
+                        help="运行全球管线（采集→分类→去重→验证→评分→多层级输出）")
+    parser.add_argument("--no-validate", action="store_true",
+                        help="全球管线跳过流验证（仅分类/去重/输出）")
 
     args = parser.parse_args()
 
@@ -410,6 +414,10 @@ def main():
 
     if args.menu:
         run_menu()
+        return
+
+    if args.global_pipeline:
+        asyncio.run(run_global_pipeline(validate=not args.no_validate))
         return
 
     if args.scrape:
@@ -449,6 +457,52 @@ def run_menu():
     """启动交互式菜单"""
     from cli_menu import run_menu as _menu
     _menu()
+
+
+async def run_global_pipeline(validate: bool = True):
+    """
+    运行全球 IPTV 管线：
+    采集全部数据源 → 标准化/分类/去重 → 验证/测速/评分 → 多层级输出
+    """
+    from scrapers.github_sources import GitHubScraper
+    from pipeline.orchestrator import PipelineConfig, run_pipeline
+    from output_generator import generate_all_outputs
+
+    print("=" * 50)
+    print("🌐 全球 IPTV 管线启动")
+    print("=" * 50)
+
+    # 1. 采集全部数据源
+    scraper = GitHubScraper()
+    all_raw = []
+    for source in scraper.sources:
+        try:
+            channels_data = scraper._scrape_single_source(source)
+            for ch in channels_data:
+                ch["source"] = source["name"]
+                ch["source_region"] = source.get("region", "")
+            all_raw.extend(channels_data)
+            print(f"  [采集] {source['name']}: {len(channels_data)} 频道")
+        except Exception as e:
+            print(f"  [采集] {source['name']} 失败: {str(e)[:60]}")
+
+    print(f"\n  [采集] 总计原始频道: {len(all_raw)}")
+
+    # 2. 运行管线（分类/去重/验证/评分）
+    cfg = PipelineConfig()
+    cfg.enable_validation = validate
+    channels = run_pipeline(all_raw, cfg)
+
+    # 3. 生成多层级输出
+    result = generate_all_outputs(channels)
+    print(f"\n  📁 输出完成:")
+    print(f"     全球: {result['all']}")
+    print(f"     中港澳台: {result['greater_china']}")
+    print(f"     国家数: {result['country_count']}")
+    print(f"     国家文件: {result['metadata']['countries']}")
+    print(f"     频道文件: {result['metadata']['channels']}")
+
+    return result
 
 
 if __name__ == "__main__":

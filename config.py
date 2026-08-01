@@ -34,6 +34,33 @@ USER_AGENT = (
     "Chrome/120.0.0.0 Safari/537.36"
 )
 
+# ===== 全球管线配置 =====
+# 国内访问加速：为 raw.githubusercontent.com 添加代理前缀（如 https://ghproxy.com/）
+GITHUB_RAW_PROXY = os.environ.get("GITHUB_RAW_PROXY", "")
+
+# 直播源验证
+ENABLE_STREAM_VALIDATION = True          # 是否验证直播源有效性
+ENABLE_SPEED_TEST = False                # 是否测速（开启会显著增加运行时间）
+MIN_SPEED_KBPS = 300                     # 最低测速阈值 KB/s
+
+# IPv4/IPv6 策略: ipv4 / ipv6 / all
+IP_TYPE_PREFER = "ipv4"
+
+# 质量评分权重（和为 1.0，可按需调整）
+SCORE_WEIGHTS = {
+    "availability": 0.30,
+    "ipv4_priority": 0.20,
+    "response_speed": 0.15,
+    "download_speed": 0.15,
+    "stability": 0.10,
+    "mainland_access": 0.10,
+}
+
+# 输出目录
+OUTPUT_DIR = ROOT_DIR / "output"
+OUTPUT_COUNTRIES_DIR = OUTPUT_DIR / "countries"
+OUTPUT_METADATA_DIR = OUTPUT_DIR / "metadata"
+
 # GitHub IPTV 源仓库列表
 GITHUB_M3U_SOURCES = [
     # ===== 大陆源 (CCTV + 卫视) =====
@@ -88,6 +115,48 @@ GITHUB_M3U_SOURCES = [
     {
         "name": "zhi35 aggregated",
         "url": "https://live.zhi35.com/iptv.m3u",
+        "region": "all"
+    },
+    # ===== 全球源 (iptv-org, 按国家拆分) =====
+    {
+        "name": "iptv-org Japan",
+        "url": "https://iptv-org.github.io/iptv/countries/jp.m3u",
+        "region": "jp"
+    },
+    {
+        "name": "iptv-org Korea",
+        "url": "https://iptv-org.github.io/iptv/countries/kr.m3u",
+        "region": "kr"
+    },
+    {
+        "name": "iptv-org United States",
+        "url": "https://iptv-org.github.io/iptv/countries/us.m3u",
+        "region": "us"
+    },
+    {
+        "name": "iptv-org United Kingdom",
+        "url": "https://iptv-org.github.io/iptv/countries/gb.m3u",
+        "region": "gb"
+    },
+    {
+        "name": "iptv-org Singapore",
+        "url": "https://iptv-org.github.io/iptv/countries/sg.m3u",
+        "region": "sg"
+    },
+    {
+        "name": "iptv-org Malaysia",
+        "url": "https://iptv-org.github.io/iptv/countries/my.m3u",
+        "region": "my"
+    },
+    # ===== 国际聚合源 =====
+    {
+        "name": "Free-TV/IPTV (global)",
+        "url": "https://raw.githubusercontent.com/Free-TV/IPTV/master/playlist.m3u8",
+        "region": "all"
+    },
+    {
+        "name": "iptv-org all streams",
+        "url": "https://iptv-org.github.io/iptv/index.m3u",
         "region": "all"
     },
 ]

@@ -4,6 +4,47 @@
 > 覆盖 **中国大陆 / 香港 / 澳门 / 台湾** 共 **2334+ 个频道**  
 > 受 [Playlist-AutoUpdater](https://github.com/Shra1V32/Playlist-AutoUpdater) 和 [Tata-Sky-IPTV](https://github.com/ForceGT/Tata-Sky-IPTV) 启发设计
 
+## 🌐 全球 IPTV 管线（新）
+
+项目已升级为全球 IPTV 采集/验证/分类/输出系统，支持 130+ 个国家和地区：
+
+```bash
+# 运行全球管线（采集 → 分类 → 去重 → 验证 → 评分 → 多层级输出）
+python main.py --global-pipeline
+
+# 跳过流验证（仅分类/去重/输出，速度快）
+python main.py --global-pipeline --no-validate
+```
+
+**多层级输出**：
+
+```
+output/
+├── all.m3u                     # 全球总频道
+├── Greater-China.m3u           # 中国大陆/香港/澳门/台湾汇总
+├── countries/
+│   ├── CN.m3u                  # 各国家/地区独立文件
+│   ├── JP.m3u
+│   └── ...
+└── metadata/
+    ├── countries.json
+    └── channels.json
+```
+
+**核心能力**：
+
+- 130+ 国家/地区自动分类（group / 频道名 / URL 域名 / TLD 综合判断）
+- IPv4 优先（IPv4 直连 > 双栈 > 域名 > 仅 IPv6）
+- HLS 直播源有效性验证（检查 playlist 分片，不只看 HTTP 200）
+- 同频道多源合并 + URL token 参数去重
+- 综合质量评分（可用性/IPv4/响应/速度/稳定性/国内访问，权重可配置）
+- 国内网络优化（`GITHUB_RAW_PROXY` 代理前缀加速 raw 源）
+- 所有输出文件 UTF-8 无 BOM 编码
+
+配置项见 `config.py`（`GITHUB_RAW_PROXY`、`SCORE_WEIGHTS`、`ENABLE_SPEED_TEST`、
+`IP_TYPE_PREFER`、`MIN_SPEED_KBPS` 等）。参考调研见 `research/RESEARCH.md`，
+架构设计见 `research/ARCHITECTURE.md`。
+
 ---
 
 ## 目录
