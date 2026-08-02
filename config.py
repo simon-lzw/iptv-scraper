@@ -56,8 +56,9 @@ SCORE_WEIGHTS = {
     "mainland_access": 0.10,
 }
 
-# 全球管线验证总超时（秒），超时后跳过剩余验证避免卡死；0 表示不限制
-PIPELINE_MAX_SECONDS = 300
+# 全球管线验证总超时（秒），超时后跳过剩余验证避免卡死；0 表示不限制（默认）
+# 注意: 即使设为 0，单个频道的流验证仍有 HEALTH_CHECK_TIMEOUT_SECONDS 超时兜底
+PIPELINE_MAX_SECONDS = 0
 
 # 输出目录
 OUTPUT_DIR = ROOT_DIR / "output"
