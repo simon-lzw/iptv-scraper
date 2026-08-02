@@ -26,6 +26,7 @@ from config import (
     HEALTH_CHECK_TIMEOUT_SECONDS, MAX_CONCURRENT_CHECKS,
     GITHUB_RAW_PROXY, ENABLE_SPEED_TEST, MIN_SPEED_KBPS,
     ENABLE_STREAM_VALIDATION, IP_TYPE_PREFER, SCORE_WEIGHTS,
+    PIPELINE_MAX_SECONDS,
 )
 
 
@@ -40,6 +41,7 @@ class PipelineConfig:
         self.score_weights = SCORE_WEIGHTS
         self.timeout = HEALTH_CHECK_TIMEOUT_SECONDS
         self.max_workers = MAX_CONCURRENT_CHECKS
+        self.max_seconds = PIPELINE_MAX_SECONDS
 
 
 def apply_proxy(url: str, proxy: str = "") -> str:
@@ -138,14 +140,36 @@ def validate_channels(channels: List[Channel], cfg: PipelineConfig = None) -> Li
     if not cfg.enable_validation:
         return channels
 
+    total = len(channels)
+    done = 0
     results: List[Channel] = []
+    start_time = time.time()
+    print(f"  [验证] 开始验证 {total} 个频道（并发 {cfg.max_workers}）...")
     with ThreadPoolExecutor(max_workers=cfg.max_workers) as executor:
         futures = {executor.submit(_validate_one, ch, cfg): ch for ch in channels}
         for fut in as_completed(futures):
+            # 总超时保护：超过 max_seconds 则跳过剩余验证
+            if cfg.max_seconds and (time.time() - start_time) > cfg.max_seconds:
+                # 收集所有未处理的结果（含当前的 fut）
+                for f, ch in futures.items():
+                    if f.done():
+                        try:
+                            results.append(f.result())
+                        except Exception:
+                            results.append(ch)
+                    else:
+                        results.append(ch)  # 未完成视为可用
+                print(f"  [验证] 超过 {cfg.max_seconds}s，跳过剩余验证，保留 {len(futures)} 个频道")
+                break
+            done += 1
             try:
                 results.append(fut.result())
             except Exception:
                 results.append(futures[fut])
+            # 每 100 个或完成时打印进度
+            if done % 100 == 0 or done == total:
+                active = sum(1 for r in results if r.is_active)
+                print(f"  [验证] 进度 {done}/{total}（可用 {active}）")
     return results
 
 
