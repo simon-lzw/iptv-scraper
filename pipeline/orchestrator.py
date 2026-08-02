@@ -143,33 +143,41 @@ def validate_channels(channels: List[Channel], cfg: PipelineConfig = None) -> Li
     total = len(channels)
     done = 0
     results: List[Channel] = []
+    collected: set = set()  # 已处理的 future
     start_time = time.time()
     print(f"  [验证] 开始验证 {total} 个频道（并发 {cfg.max_workers}）...")
-    with ThreadPoolExecutor(max_workers=cfg.max_workers) as executor:
+    executor = ThreadPoolExecutor(max_workers=cfg.max_workers)
+    try:
         futures = {executor.submit(_validate_one, ch, cfg): ch for ch in channels}
-        for fut in as_completed(futures):
-            # 总超时保护：超过 max_seconds 则跳过剩余验证
-            if cfg.max_seconds and (time.time() - start_time) > cfg.max_seconds:
-                # 收集所有未处理的结果（含当前的 fut）
-                for f, ch in futures.items():
-                    if f.done():
-                        try:
-                            results.append(f.result())
-                        except Exception:
-                            results.append(ch)
-                    else:
-                        results.append(ch)  # 未完成视为可用
-                print(f"  [验证] 超过 {cfg.max_seconds}s，跳过剩余验证，保留 {len(futures)} 个频道")
-                break
-            done += 1
-            try:
-                results.append(fut.result())
-            except Exception:
-                results.append(futures[fut])
-            # 每 100 个或完成时打印进度
-            if done % 100 == 0 or done == total:
-                active = sum(1 for r in results if r.is_active)
-                print(f"  [验证] 进度 {done}/{total}（可用 {active}）")
+        try:
+            # as_completed 带 timeout：若单个 future 卡死，此处抛 TimeoutError
+            iterator = as_completed(futures, timeout=cfg.max_seconds or None)
+            for fut in iterator:
+                collected.add(fut)
+                done += 1
+                try:
+                    results.append(fut.result())
+                except Exception:
+                    results.append(futures[fut])
+                if done % 100 == 0 or done == total:
+                    active = sum(1 for r in results if r.is_active)
+                    print(f"  [验证] 进度 {done}/{total}（可用 {active}）")
+        except TimeoutError:
+            # 总超时：只补收集未处理的 future
+            for f, ch in futures.items():
+                if f in collected:
+                    continue
+                if f.done():
+                    try:
+                        results.append(f.result())
+                    except Exception:
+                        results.append(ch)
+                else:
+                    results.append(ch)  # 未完成视为可用
+            print(f"  [验证] 超过 {cfg.max_seconds}s，跳过剩余验证，保留 {len(futures)} 个频道")
+    finally:
+        # 不等待未完成任务，立即释放（避免卡死）
+        executor.shutdown(wait=False, cancel_futures=True)
     return results
 
 
