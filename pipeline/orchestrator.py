@@ -151,7 +151,7 @@ def validate_channels(channels: List[Channel], cfg: PipelineConfig = None) -> Li
         futures = {executor.submit(_validate_one, ch, cfg): ch for ch in channels}
         try:
             # as_completed 带 timeout：若单个 future 卡死，此处抛 TimeoutError
-            iterator = as_completed(futures, timeout=cfg.max_seconds or None)
+            iterator = as_completed(futures, timeout=(cfg.max_seconds if cfg.max_seconds and cfg.max_seconds > 0 else None))
             for fut in iterator:
                 collected.add(fut)
                 done += 1
