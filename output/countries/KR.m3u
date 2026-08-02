@@ -1,24 +1,9 @@
 #EXTM3U
 #PLAYLIST: 韩国 (KR) IPTV 直播源
-#生成时间: 2026-08-02 13:10:11
+#生成时间: 2026-08-02 05:34:15
 #频道数: 110
 
 # ===== 韩国 (KR) =====
-
-#EXTINF:-1 tvg-id="ArirangTV.kr@HD" tvg-logo="https://i.imgur.com/Asu5pE9.png" group-title="韩国",Arirang TV HD (720p)
-http://45.162.64.114/ARIRANG/index.m3u8
-
-#EXTINF:-1 tvg-id="ArirangRadio.kr@SD" tvg-logo="https://i.imgur.com/dtfiG9k.png" group-title="韩国",Arirang Radio (720p)
-http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_3ch/smil:arirang_3ch.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-id="ArirangTV.kr@SD" tvg-logo="https://i.imgur.com/Asu5pE9.png" group-title="韩国",Arirang TV (1080p)
-http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-id="BBSTV.kr@SD" tvg-logo="https://i.imgur.com/01UmXRe.png" group-title="韩国",BBS Buddhist Broadcasting (1080p)
-http://bbstv.clouducs.com:1935/bbstv-live/livestream/playlist.m3u8
-
-#EXTINF:-1 tvg-id="ChannelA.kr@SD" tvg-logo="https://i.imgur.com/W9laHPD.png" group-title="韩国",Channel A [Geo-blocked]
-http://channelalive.ktcdn.co.kr/chalivepc/_definst_/atv2/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ABN.kr@SD" tvg-logo="https://www.abn.co.kr/resources/images/logo.png" group-title="韩国",ABN TV (720p)
 https://vod2.abn.co.kr/IPHONE/abn.m3u8
@@ -29,8 +14,20 @@ https://www.youtube.com/c/ALLTHEKPOP/live
 #EXTINF:-1 tvg-id="ArirangTV.kr" tvg-logo="https://i.imgur.com/RuHZ6Dx.png" group-title="韩国",Arirang
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 
+#EXTINF:-1 tvg-id="ArirangRadio.kr@SD" tvg-logo="https://i.imgur.com/dtfiG9k.png" group-title="韩国",Arirang Radio (720p)
+http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_3ch/smil:arirang_3ch.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ArirangTV.kr@SD" tvg-logo="https://i.imgur.com/Asu5pE9.png" group-title="韩国",Arirang TV (1080p)
+http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ArirangTV.kr@HD" tvg-logo="https://i.imgur.com/Asu5pE9.png" group-title="韩国",Arirang TV HD (720p)
+http://45.162.64.114/ARIRANG/index.m3u8
+
 #EXTINF:-1 tvg-id="ArirangUN.kr@SD" tvg-logo="https://i.imgur.com/Jdy3WNm.png" group-title="韩国",Arirang TV UN (1080p)
 https://amdlive-ch02-ctnd-com.akamaized.net/arirang_2ch/smil:arirang_2ch.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="BBSTV.kr@SD" tvg-logo="https://i.imgur.com/01UmXRe.png" group-title="韩国",BBS Buddhist Broadcasting (1080p)
+http://bbstv.clouducs.com:1935/bbstv-live/livestream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="BTNTV.kr@SD" tvg-logo="https://i.imgur.com/sOoS7RQ.png" group-title="韩国",BTN TV (1080p)
 https://btn.nowcdn.co.kr/btn/btnlive2m/playlist.m3u8
@@ -43,6 +40,9 @@ https://live-ch1.cjonstyle.net/cjmalllive/stream2/playlist.m3u8
 
 #EXTINF:-1 tvg-id="CJOnStylePlus.kr@SD" tvg-logo="https://i.imgur.com/OYmOL20.png" group-title="韩国",CJ OnStyle Plus (540p)
 https://live-ch2.cjonstyle.net/cjosplus/live2/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ChannelA.kr@SD" tvg-logo="https://i.imgur.com/W9laHPD.png" group-title="韩国",Channel A [Geo-blocked]
+http://channelalive.ktcdn.co.kr/chalivepc/_definst_/atv2/playlist.m3u8
 
 #EXTINF:-1 tvg-id="EBS1TV.kr@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/EBS_1TV_Logo.svg/960px-EBS_1TV_Logo.svg.png" group-title="韩国",EBS 1 (400p) [Not 24/7]
 https://ebsonair.ebs.co.kr/ebs1familypc/familypc1m/playlist.m3u8
