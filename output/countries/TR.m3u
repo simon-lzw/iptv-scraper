@@ -1,7 +1,7 @@
 #EXTM3U
 #PLAYLIST: 土耳其 (TR) IPTV 直播源
-#生成时间: 2026-08-02 15:00:40
-#频道数: 49
+#生成时间: 2026-08-03 05:40:46
+#频道数: 50
 
 # ===== 土耳其 (TR) =====
 
@@ -118,6 +118,9 @@ https://tv-trtmuzik.medya.trt.com.tr/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ysKteM8.png" group-title="土耳其",TRT Spor 2 Ⓖ
 https://tv-trtspor2.medya.trt.com.tr/master.m3u8
+
+#EXTINF:-1 tvg-id="TRTSporYildiz.tr@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/TRT_Spor_Y%C4%B1ld%C4%B1z_Logo.svg/960px-TRT_Spor_Y%C4%B1ld%C4%B1z_Logo.svg.png" group-title="土耳其",TRT Spor Yildiz (1440p) [Geo-blocked]
+https://trt.daioncdn.net/trtspor-yildiz/master.m3u8?app=web&platform=trtspor
 
 #EXTINF:-1 tvg-id="TRTSpor.tr" tvg-logo="https://i.imgur.com/N2wGZyf.png" group-title="土耳其",TRT Spor Ⓖ
 https://tv-trtspor1.medya.trt.com.tr/master.m3u8

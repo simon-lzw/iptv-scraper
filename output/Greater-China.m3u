@@ -1,7 +1,7 @@
 #EXTM3U
 #PLAYLIST: 中国大陆/香港/澳门/台湾 IPTV 直播源
-#生成时间: 2026-08-02 15:00:40
-#频道数: 829
+#生成时间: 2026-08-03 05:40:46
+#频道数: 813
 
 # ===== 中国 (CN) =====
 
@@ -668,8 +668,8 @@ http://liveout.btzx.com.cn/62ds9e/4nxdih.m3u8?fbl=
 #EXTINF:-1 tvg-id="兵团八师石河子新闻综合" tvg-logo="https://tb.zbds.top/logo/兵团八师石河子新闻综合.png" group-title="中国",兵团八师石河子新闻综合
 http://124.88.144.73:1935/live/xwzh/playlist.m3u8?zxinjd
 
-#EXTINF:-1 tvg-id="7" tvg-logo="https://tb.zbds.top/logo/兵团卫视.png" group-title="中国",兵团卫视
-http://183.11.239.36:808/hls/7/index.m3u8
+#EXTINF:-1 tvg-id="48" tvg-logo="https://tb.zbds.top/logo/兵团卫视.png" group-title="中国",兵团卫视
+http://218.13.170.98:9901/tsfile/live/0115_1.m3u8
 
 #EXTINF:-1 tvg-id="65" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/WeiShi/BingTuan.png" group-title="中国",兵团卫视高清
 rtp://239.3.1.168:8196
@@ -760,6 +760,9 @@ http://hls.nntv.cn/nnlive/YSYL_244.m3u8
 
 #EXTINF:-1 tvg-id="南宁都市生活" tvg-logo="https://www.xn--rgv465a.top/tvlogo/南宁都市生活.png" group-title="中国",南宁都市生活
 http://615bbf179ba53515dccad7b1da5d1ad9.livehwc3.cn/hls.nntv.cn/nnlive/WLSH_24.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=2598844eaee8a4265e706fc14b3fc11d
+
+#EXTINF:-1 tvg-id="11" tvg-logo="https://tb.zbds.top/logo/卡酷少儿.png" group-title="中国",卡酷少儿
+http://218.13.170.98:9901/tsfile/live/1021_1.m3u8
 
 #EXTINF:-1 tvg-id="卫辉综合" tvg-logo="https://www.xn--rgv465a.top/tvlogo/卫辉综合.png" group-title="中国",卫辉综合
 http://tvpull.dxhmt.cn:9081/tv/10781-1.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
@@ -1703,54 +1706,6 @@ https://satellitepull.cnr.cn/live/wxgshhzs/playlist.m3u8
 #EXTINF:-1 tvg-id="甘肃都市" tvg-logo="https://www.xn--rgv465a.top/tvlogo/甘肃都市.png" group-title="中国",甘肃都市
 https://satellitepull.cnr.cn/live/wxgsdstb/playlist.m3u8
 
-#EXTINF:-1 tvg-id="1" tvg-logo="https://tb.zbds.top/logo/电影丧尸片.png" group-title="中国",电影丧尸片
-http://live.metshop.top/huya/21059578?cdn=alicdn
-
-#EXTINF:-1 tvg-id="1" tvg-logo="https://tb.zbds.top/logo/电影八点档.png" group-title="中国",电影八点档
-http://live.metshop.top/huya/880261?cdn=alicdn
-
-#EXTINF:-1 tvg-id="1" tvg-logo="https://tb.zbds.top/logo/电影刘德华.png" group-title="中国",电影刘德华
-http://live.metshop.top/huya/11342424?cdn=alicdn
-
-#EXTINF:-1 tvg-id="1" tvg-logo="https://tb.zbds.top/logo/电影功夫片.png" group-title="中国",电影功夫片
-http://live.metshop.top/huya/11352941?cdn=alicdn
-
-#EXTINF:-1 tvg-id="1" tvg-logo="https://tb.zbds.top/logo/电影动作电影.png" group-title="中国",电影动作电影
-http://live.metshop.top/huya/11602077?cdn=alicdn
-
-#EXTINF:-1 tvg-id="1" tvg-logo="https://tb.zbds.top/logo/电影周星星.png" group-title="中国",电影周星星
-http://live.metshop.top/huya/11336587?cdn=alicdn
-
-#EXTINF:-1 tvg-id="1" tvg-logo="https://tb.zbds.top/logo/电影嫣然影厅.png" group-title="中国",电影嫣然影厅
-http://live.metshop.top/huya/11601977?cdn=alicdn
-
-#EXTINF:-1 tvg-id="1" tvg-logo="https://tb.zbds.top/logo/电影战争片.png" group-title="中国",电影战争片
-http://live.metshop.top/huya/21059574?cdn=alicdn
-
-#EXTINF:-1 tvg-id="1" tvg-logo="https://tb.zbds.top/logo/电影搞笑喜剧.png" group-title="中国",电影搞笑喜剧
-http://live.metshop.top/huya/11342423?cdn=alicdn
-
-#EXTINF:-1 tvg-id="1" tvg-logo="https://tb.zbds.top/logo/电影梁家辉.png" group-title="中国",电影梁家辉
-http://live.metshop.top/huya/11342429?cdn=alicdn
-
-#EXTINF:-1 tvg-id="1" tvg-logo="https://tb.zbds.top/logo/电影犯罪片.png" group-title="中国",电影犯罪片
-http://live.metshop.top/huya/11352974?cdn=alicdn
-
-#EXTINF:-1 tvg-id="1" tvg-logo="https://tb.zbds.top/logo/电影蜘蛛侠.png" group-title="中国",电影蜘蛛侠
-http://live.metshop.top/huya/21059599?cdn=alicdn
-
-#EXTINF:-1 tvg-id="1" tvg-logo="https://tb.zbds.top/logo/电影谍战.png" group-title="中国",电影谍战
-http://live.metshop.top/huya/21059585?cdn=alicdn
-
-#EXTINF:-1 tvg-id="1" tvg-logo="https://tb.zbds.top/logo/电影谍战片.png" group-title="中国",电影谍战片
-http://live.metshop.top/huya/21059587?cdn=alicdn
-
-#EXTINF:-1 tvg-id="1" tvg-logo="https://tb.zbds.top/logo/电影贺岁.png" group-title="中国",电影贺岁
-http://live.metshop.top/huya/11601971?cdn=alicdn
-
-#EXTINF:-1 tvg-id="1" tvg-logo="https://tb.zbds.top/logo/电影高分动作.png" group-title="中国",电影高分动作
-http://live.metshop.top/huya/11352884?cdn=alicdn
-
 #EXTINF:-1 tvg-id="番禺综合" tvg-logo="https://tb.zbds.top/logo/番禺综合.png" group-title="中国",番禺综合
 http://video.epaper.pybtv.cn:8080/live/rtmp_live_demo.flv
 
@@ -1834,9 +1789,6 @@ rtp://239.3.1.195:9024
 
 #EXTINF:-1 group-title="中国",罗山电视台 (1080p) [Not 24/7]
 http://live.dxhmt.cn:9081/tv/11521-1.m3u8
-
-#EXTINF:-1 tvg-id="1" tvg-logo="https://tb.zbds.top/logo/美亚电影.png" group-title="中国",美亚电影
-http://zjrtv.vip/live/?tbs=mydy
 
 #EXTINF:-1 tvg-id="自然传奇" tvg-logo="https://tb.zbds.top/logo/自然传奇.png" group-title="中国",自然传奇
 http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/81a1ad3a661748bfb8560c92d38204ca/1200.m3u8
