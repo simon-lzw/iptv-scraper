@@ -1,7 +1,7 @@
 # IPTV 直播源自动搜刮系统
 
 > 自动搜刮、健康检查、失效自动替换的 IPTV 直播源管理工具  
-> 覆盖 **中国大陆 / 香港 / 澳门 / 台湾** 共 **2334+ 个频道**  
+> 覆盖 **中国大陆 / 香港 / 澳门 / 台湾** 共 **2300+ 个频道**  
 > 受 [Playlist-AutoUpdater](https://github.com/Shra1V32/Playlist-AutoUpdater) 和 [Tata-Sky-IPTV](https://github.com/ForceGT/Tata-Sky-IPTV) 启发设计
 
 ## 🌐 全球 IPTV 管线（新）
@@ -87,16 +87,16 @@ https://raw.githubusercontent.com/<你的用户名>/iptv-scraper/main/data/playl
 https://raw.githubusercontent.com/<你的用户名>/iptv-scraper/main/data/playlist_by_protocol.m3u
 
 # 中文频道：仅大陆/港澳台
-https://raw.githubusercontent.com/<你的用户名>/iptv-scraper/main/data/playlist_cn.m3u
+https://raw.githubusercontent.com/<你的用户名>/iptv-scraper/main/output/Greater-China.m3u
 
-# IPv4 优先：国内环境最流畅（推荐）
-https://raw.githubusercontent.com/<你的用户名>/iptv-scraper/main/data/playlist_ipv4.m3u
+# 全球总频道（IPv4 优先排序，国内环境流畅）
+https://raw.githubusercontent.com/<你的用户名>/iptv-scraper/main/output/all.m3u
 
 # 按国家/地区独立文件（如 CN / JP / US / GB 等）
 https://raw.githubusercontent.com/<你的用户名>/iptv-scraper/main/output/countries/CN.m3u
 ```
 
-将上述 URL 添加到电视播放器即可。**国内用户推荐 `playlist_ipv4.m3u`（IPv4 优先，访问最稳定）。每天自动更新，电脑无需开机，全球 CDN 加速。**
+将上述 URL 添加到电视播放器即可。**国内用户推荐 `output/all.m3u`（IPv4 优先排序，访问最稳定）。每天自动更新，电脑无需开机，全球 CDN 加速。**
 
 ### 方式 B：本地运行
 
@@ -443,7 +443,7 @@ POST /api/heal      # 触发修复
 
 ### 搜刮源
 
-`GITHUB_M3U_SOURCES` 列表定义了所有搜刮源。当前包含 7 个源：
+`GITHUB_M3U_SOURCES` 列表定义了所有搜刮源。当前包含 **16 个活跃源**（大陆 + 全球 iptv-org 分国家源 + 综合大源）：
 
 ```python
 GITHUB_M3U_SOURCES = [
@@ -451,13 +451,13 @@ GITHUB_M3U_SOURCES = [
     {"name": "fanmingming/live (ipv6)", "url": "...", "region": "cn"},
     # 北京联通 IPTV
     {"name": "YueChan/Live", "url": "...", "region": "cn"},
-    # iptv-org 国际源
-    {"name": "iptv-org China", "url": "...", "region": "cn"},
+    # iptv-org 全球分国家源（香港/澳门/台湾/日本/韩国/美国/英国/新加坡/马来等）
     {"name": "iptv-org Hong Kong", "url": "...", "region": "hk"},
     {"name": "iptv-org Macau", "url": "...", "region": "macau"},
     {"name": "iptv-org Taiwan", "url": "...", "region": "tw"},
     # 综合大源 (含完整港澳台分组)
-    {"name": "Guovin/iptv-api (ipv6)", "url": "...", "region": "all"},
+    {"name": "Guovin/iptv-api (combined)", "url": "...", "region": "all"},
+    # ... 其余大陆补充源与全球源见 config.py
 ]
 ```
 

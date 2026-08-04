@@ -6,6 +6,7 @@
 
 ### Bug 修复
 
+- **`README.md`**：修正快速开始中不存在的 `playlist_cn.m3u` / `playlist_ipv4.m3u` 链接（代码不生成这两个文件），改为引用真实存在的 `output/Greater-China.m3u`（中文频道）和 `output/all.m3u`（全球总频道，IPv4 优先排序）；同步源数量（7 → 16 个活跃源）与频道数（2334+ → 2300+）
 - **`db.py`**：
   - 修复 `add_channel()` 参数数量不匹配（11 个占位符缺 `kodi_props` 值）导致必崩的 `ProgrammingError`
   - 修复连接泄漏：`_get_conn()` 改为上下文管理器（自动 commit + close）
