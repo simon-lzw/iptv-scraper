@@ -14,6 +14,11 @@ from typing import List, Dict, Union
 class M3UGenerator:
     """生成 IPTV 标准的 M3U 播放列表"""
 
+    @staticmethod
+    def _esc(s: str) -> str:
+        """转义引号/反斜杠/换行，防止破坏 M3U 格式"""
+        return (s or "").replace("\\", "\\\\").replace('"', '\\"').replace("\n", " ").replace("\r", "")
+
     # 区域显示名称
     REGION_LABELS = {
         "mainland": "📺 中国大陆",
@@ -135,15 +140,15 @@ class M3UGenerator:
                         '#EXTINF:-1',
                     ]
                     if e.tvg_id:
-                        extinf_parts.append(f'tvg-id="{e.tvg_id}"')
+                        extinf_parts.append(f'tvg-id="{self._esc(e.tvg_id)}"')
                     if e.name:
-                        extinf_parts.append(f'tvg-name="{e.name}"')
+                        extinf_parts.append(f'tvg-name="{self._esc(e.name)}"')
                     if e.logo:
-                        extinf_parts.append(f'tvg-logo="{e.logo}"')
+                        extinf_parts.append(f'tvg-logo="{self._esc(e.logo)}"')
                     if e.group:
-                        extinf_parts.append(f'group-title="{e.group}"')
+                        extinf_parts.append(f'group-title="{self._esc(e.group)}"')
 
-                    extinf_parts.append(f',{e.name}')
+                    extinf_parts.append(f',{self._esc(e.name)}')
                     lines.append(' '.join(extinf_parts))
                     lines.append(e.url)
                     lines.append('')
@@ -216,13 +221,13 @@ class M3UGenerator:
                             lines.append(prop_line)
                     extinf_parts = ['#EXTINF:-1']
                     if e.tvg_id:
-                        extinf_parts.append(f'tvg-id="{e.tvg_id}"')
+                        extinf_parts.append(f'tvg-id="{self._esc(e.tvg_id)}"')
                     if e.name:
-                        extinf_parts.append(f'tvg-name="{e.name}"')
+                        extinf_parts.append(f'tvg-name="{self._esc(e.name)}"')
                     if e.logo:
-                        extinf_parts.append(f'tvg-logo="{e.logo}"')
-                    extinf_parts.append(f'group-title="{proto_label}"')
-                    extinf_parts.append(f',{e.name}')
+                        extinf_parts.append(f'tvg-logo="{self._esc(e.logo)}"')
+                    extinf_parts.append(f'group-title="{self._esc(proto_label)}"')
+                    extinf_parts.append(f',{self._esc(e.name)}')
                     lines.append(' '.join(extinf_parts))
                     lines.append(e.url)
                     lines.append('')

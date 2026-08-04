@@ -9,7 +9,7 @@ import requests
 import urllib.request
 import ssl
 import logging
-from config import USER_AGENT
+from config import USER_AGENT, GROUP_REGION_MAP
 
 
 class BaseScraper(ABC):
@@ -23,7 +23,7 @@ class BaseScraper(ABC):
             "Accept": "*/*",
             "Accept-Language": "zh-CN,zh;q=0.9,en;q=0.8",
         })
-        self.session.timeout = 15
+        # 注意: requests.Session 无 timeout 属性，超时统一在 _fetch(url, timeout=...) 显式传入
 
 
     @abstractmethod
@@ -86,7 +86,7 @@ class BaseScraper(ABC):
         return None
 
     def _classify_region(self, name: str, group: str = "") -> str:
-        """根据频道名/分组判断区域"""
+        """根据频道名/分组判断区域（与 main.py 共用 config.GROUP_REGION_MAP 单一数据源）"""
         text = name + group
 
         # ===== 排除误分类 =====
@@ -94,40 +94,14 @@ class BaseScraper(ABC):
         if "杭州明珠" in text or "六鳌翡翠湾" in text:
             return "mainland"
 
-        # 香港特征
-        hk_keywords = [
-            "tvb", "翡翠", "明珠", "viutv", "viu", "hoy",
-            "凤凰", "鳳凰", "香港", "有線", "无线", "無綫",
-            "星河", "剧集", "jade", "pearl", "j2",
-            "rthk", "港台", "無線",
-        ]
-        for kw in hk_keywords:
-            if kw in text:
-                return "hongkong"
-
-        # 澳门特征
-        macau_keywords = ["澳视", "澳視", "澳亚", "澳亞", "tdm", "澳门", "macau"]
-        for kw in macau_keywords:
-            if kw in text:
-                return "macau"
-
-        # 台湾特征
-        tw_keywords = [
-            "台視", "台视", "中視", "中视", "華視", "华视", "民視", "民视",
-            "公視", "公视", "八大", "三立", "tvbs", "東森", "东森",
-            "緯來", "纬来", "中天", "年代", "非凡", "壹電視", "壹电视",
-            "寰宇", "卫视中文", "靖天",
-        ]
-        for kw in tw_keywords:
-            if kw in text:
-                return "taiwan"
-
-        # 大陆特征
-        cn_keywords = ["cctv", "央视", "卫视", "湖南", "浙江", "江苏",
-                       "东方卫视", "广东", "深圳", "北京", "cgtn"]
-        for kw in cn_keywords:
-            if kw in text:
-                return "mainland"
+        # 统一查 GROUP_REGION_MAP（config 单一数据源，与 main.py._classify_region 一致）
+        text_lower = text.lower()
+        # 按关键词长度降序匹配：更长/更具体的关键词优先（避免"卫视"先命中"凤凰卫视"）
+        for keyword, region in sorted(
+            GROUP_REGION_MAP.items(), key=lambda kv: len(kv[0]), reverse=True
+        ):
+            if keyword.lower() in text_lower:
+                return region
 
         return "mainland"  # default
 

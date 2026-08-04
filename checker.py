@@ -8,6 +8,7 @@
   4. 评分: 响应时间 + 状态码
 """
 import asyncio
+import logging
 import time
 import subprocess
 from typing import Optional, List, Dict, Tuple
@@ -40,6 +41,7 @@ class HealthChecker:
 
     def __init__(self):
         self.results: Dict[int, CheckResult] = {}
+        self.logger = logging.getLogger(self.__class__.__name__)
 
     async def check_channel(self, channel: Channel) -> "CheckResult":
         """检查单个频道"""

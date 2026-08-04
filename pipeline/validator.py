@@ -11,9 +11,7 @@ from typing import Optional, Tuple
 import requests
 from config import USER_AGENT, HEALTH_CHECK_TIMEOUT_SECONDS
 
-_HLS_MARKERS = ("#EXTM3U", "#EXT-X-STREAM-INF", "#EXTINF", "#EXT-X-MEDIA-SEQUENCE")
 _TS_MARKERS = (".ts", "mpegts", "application/vnd.apple.mpegurl", "video/mp2t")
-_SEGMENT_RE = None
 
 
 def _headers():

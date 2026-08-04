@@ -1,7 +1,7 @@
 #EXTM3U
 #PLAYLIST: 越南 (VN) IPTV 直播源
-#生成时间: 2026-08-04 05:13:45
-#频道数: 34
+#生成时间: 2026-08-02 13:10:11
+#频道数: 30
 
 # ===== 越南 (VN) =====
 
@@ -17,12 +17,6 @@ https://tv.ctvcamau.vn/live/tv/tv.m3u8
 #EXTINF:-1 tvg-id="CanThoTV.vn@SD" tvg-logo="https://i.ibb.co/MDhNH26J/cantho1-2025.png" group-title="越南",Cần Thơ TV1 (1080p)
 https://live.canthotv.vn/live/tv/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="DienBienTV.vn@SD" tvg-logo="https://i.imgur.com/u308o8q.png" group-title="越南",Dien Bien TV (1080p)
-https://stream.langsontv.vn/live/2855dfeccb7f49a41a2b0441b3bfeda413c/playlist.m3u8
-
-#EXTINF:-1 tvg-id="DongNaiTV2.vn@SD" tvg-logo="https://i.imgur.com/tNKPSkO.png" group-title="越南",Dong Nai TV 2 (720p)
-https://vtvgolive-ott3.vtvdigital.vn/live/dongnai2tv/chunklist_2.m3u8
-
 #EXTINF:-1 tvg-id="HanoiTV1.vn@SD" tvg-logo="https://i.imgur.com/Je3K25E.png" group-title="越南",HanoiTV1 (1080p) [Geo-blocked]
 https://cloudstreamhntv.tek4tv.vn/capture/smil:HN1.smil/chunklist.m3u8
 
@@ -31,6 +25,12 @@ https://cloudstreamhntv.tek4tv.vn/live/smil:HN2.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="KIX.hk@SD" tvg-logo="https://i.imgur.com/zWcUAdb.png" group-title="越南",KIX
 https://liveh34.vtvprime.vn/hls/KIX/04.m3u8
+
+#EXTINF:-1 tvg-id="KhanhHoaTV.vn@SD" tvg-logo="https://i.imgur.com/qLMcGPT.png" group-title="越南",Khánh Hòa TV (720p)
+https://livektv2.baokhanhhoa.vn/hls/ktv.m3u8
+
+#EXTINF:-1 tvg-id="NinhThuanTV.vn@SD" tvg-logo="https://i.imgur.com/HIyUzLM.png" group-title="越南",Khánh Hòa TV1 (720p)
+https://livektv2.baokhanhhoa.vn/hls/ktv1.m3u8
 
 #EXTINF:-1 tvg-id="LaoCaiTV.vn@HD" tvg-logo="https://i.imgur.com/TLvrDHa.png" group-title="越南",Lào Cai TV (1080p)
 https://live.baolaocai.vn/channel2/stream.m3u8
@@ -44,20 +44,8 @@ https://liveh12.vtvprime.vn/hls/QPTV/index.m3u8
 #EXTINF:-1 tvg-id="QuangNgaiTV.vn@HD" tvg-logo="https://i.imgur.com/QckiN3H.png" group-title="越南",Quảng Ngãi TV1 (1080p)
 https://live.mediatech.vn/live/285aaa79b4b265a457d81bb72bc32e2c114/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="SCTV16.vn@SD" tvg-logo="https://i.imgur.com/ldCYtvt.png" group-title="越南",SCTV16 (720p)
-https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv16/master.m3u8
-
 #EXTINF:-1 tvg-id="SCTV2.vn@SD" tvg-logo="https://i.imgur.com/8i5DXIg.png" group-title="越南",SCTV2 (720p)
 https://liveh12.vtvprime.vn/hls/SCTV2/index.m3u8
-
-#EXTINF:-1 tvg-id="SCTV3.vn@SD" tvg-logo="https://i.imgur.com/tfk298I.png" group-title="越南",SCTV3 (720p)
-https://vtvgolive-sctvdrm.vtvdigital.vn/bsod999cuteptgyoutuber/1234567890/manifest/sctv3/master.m3u8
-
-#EXTINF:-1 tvg-id="SCTV4.vn@SD" tvg-logo="https://i.imgur.com/qkZhzQq.png" group-title="越南",SCTV4 (720p)
-https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv4/master.m3u8
-
-#EXTINF:-1 tvg-id="SonLaTV.vn@SD" tvg-logo="https://i.imgur.com/MxV9psR.png" group-title="越南",Son La TV (720p)
-https://kenhdp-vtvgo.vtvdigital.vn/kenhdp/sonla-720p.m3u8
 
 #EXTINF:-1 tvg-id="TVBVietnam.vn@SD" tvg-logo="https://raw.githubusercontent.com/songwenhui239/Songwenhui239/refs/heads/main/TVB%20Vietnam.jpeg" group-title="越南",TVB Vietnam (1080p)
 https://amg01868-amg01868c3-tvbanywhere-us-4491.playouts.now.amagi.tv/playlist/amg01868-tvbusa-tvbvietnam-tvbanywhereus/playlist.m3u8

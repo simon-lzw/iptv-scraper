@@ -39,12 +39,12 @@ def _extinf(ch: Channel, group_title: str = "") -> str:
     return f'#EXTINF:-1 {attr_str},{esc(ch.name)}'
 
 
-def _write_m3u(path: Path, channels: List[Channel], title: str,
-               group_by_country: bool = True) -> int:
+def _write_m3u(path: Path, channels: List[Channel], title: str) -> int:
     """写入 M3U 文件，返回频道数"""
     path.parent.mkdir(parents=True, exist_ok=True)
-    # 未知国家（ZZ）不输出到按国家分组的文件
-    visible = [c for c in channels if c.country_code != UNKNOWN_COUNTRY]
+    # 只输出可用频道；未知国家（ZZ）不输出到 M3U（含 all/Greater-China/各国文件）
+    visible = [c for c in channels
+               if c.is_active and c.country_code != UNKNOWN_COUNTRY]
     lines = [
         "#EXTM3U",
         f"#PLAYLIST: {title}",
@@ -98,7 +98,7 @@ def generate_by_country(channels: List[Channel]) -> Dict[str, Path]:
     for code, chs in by_country.items():
         country_zh = get_country_name_zh(code)
         path = OUTPUT_COUNTRIES_DIR / f"{code}.m3u"
-        _write_m3u(path, chs, f"{country_zh} ({code}) IPTV 直播源", group_by_country=False)
+        _write_m3u(path, chs, f"{country_zh} ({code}) IPTV 直播源")
         paths[code] = path
     return paths
 
@@ -111,6 +111,9 @@ def generate_metadata(channels: List[Channel]) -> Dict[str, Path]:
     country_stats: Dict[str, dict] = {}
     for ch in channels:
         code = ch.country_code or UNKNOWN_COUNTRY
+        if code == UNKNOWN_COUNTRY:
+            # 与 M3U 输出保持一致：未知国家不计入国家统计
+            continue
         info = COUNTRIES.get(code, {})
         stat = country_stats.setdefault(code, {
             "code": code,

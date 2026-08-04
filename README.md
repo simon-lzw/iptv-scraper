@@ -629,7 +629,9 @@ iptv-scraper/
 
 **添加新的区域分类：**
 
-在 `scrapers/base.py` 的 `_classify_region()` 和 `config.py` 的 `GROUP_REGION_MAP` 中添加关键词。
+区域分类统一由 `config.py` 的 `GROUP_REGION_MAP` 维护（`scrapers/base.py` 与 `main.py` 共用同一数据源）。
+只需在 `GROUP_REGION_MAP` 中添加关键词即可；匹配按关键词长度降序（长词优先），
+如需排除误分类（如"杭州明珠"不是香港明珠台），在两处 `_classify_region()` 的排除段中补充。
 
 ---
 

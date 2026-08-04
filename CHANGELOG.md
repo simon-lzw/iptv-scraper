@@ -4,6 +4,22 @@
 
 ## [未发布]
 
+### Bug 修复
+
+- **`db.py`**：
+  - 修复 `add_channel()` 参数数量不匹配（11 个占位符缺 `kodi_props` 值）导致必崩的 `ProgrammingError`
+  - 修复连接泄漏：`_get_conn()` 改为上下文管理器（自动 commit + close）
+  - `_row_to_channel()` 补读 `kodi_props` 字段（此前从 DB 读出的 DRM 频道信息恒为空）
+  - `get_channel_by_name()` LIKE 查询转义 `%`/`_` 通配符
+  - 新增 `channel_exists(name, url)` 索引查询方法
+- **`output_generator.py`**：M3U 输出过滤失效频道（`is_active=False`），修复验证后死链仍输出的问题；删除未使用的 `group_by_country` 参数；`countries.json` 统计排除未知国家（与 all.m3u 一致）
+- **`pipeline/orchestrator.py`**：多源合并移到验证/评分**之后**，主源按真实评分选择（可用且评分最高），失效源自动降级；删除未使用导入
+- **`checker.py`**：`HealthChecker.__init__` 补 `self.logger`，修复 `deep_check_inactive()` 必崩的 `AttributeError`
+- **`scrapers/base.py`**：删除无效的 `session.timeout = 15` 赋值；`_classify_region` 与 `main.py` 统一使用 `GROUP_REGION_MAP` 单一数据源（按关键词长度降序匹配，长词优先），并补齐繁体/变体关键词（有線/澳視/台視/jade/pearl/凤凰卫视/澳门卫视/香港卫视等）
+- **`main.py`**：`_classify_region` 补排除逻辑（杭州明珠/六鳌翡翠湾）；`_count_new_channels` 改为逐条索引查询，避免全表加载
+- **`m3u_generator.py`**：频道名/分组/tvg-id/logo 转义引号、反斜杠和换行，防止破坏 M3U 格式
+- **`pipeline/ranker.py` / `pipeline/validator.py`**：删除死代码（`pick_best`、`_HLS_MARKERS`、`_SEGMENT_RE`）
+
 ### 新功能：全球 IPTV 管线
 
 - **全球频道覆盖**：新增 `countries.py` 国家/地区映射表（130+ 国家，ISO 3166-1 alpha-2），

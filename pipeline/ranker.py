@@ -96,8 +96,3 @@ def score_stream(ok: bool, ip_version: str = "unknown",
     }
 
 
-def pick_best(channels: list, limit: int = 5) -> list:
-    """从同频道多源中按评分选择最佳源（按配置 limit 保留前 N 个）"""
-    scored = [c for c in channels if c.get("score", 0) > 0]
-    scored.sort(key=lambda c: -c.get("score", 0))
-    return scored[:limit]

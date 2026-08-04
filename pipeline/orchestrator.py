@@ -7,7 +7,6 @@
 输入: 原始频道 dict 列表（来自 scrapers）
 输出: 经过验证、分类、评分、排序的 Channel 列表
 """
-import asyncio
 import time
 from typing import List, Optional
 from concurrent.futures import ThreadPoolExecutor, as_completed
@@ -16,8 +15,8 @@ from models import Channel
 from countries import get_country, get_country_name_en, get_country_name_zh, UNKNOWN_COUNTRY
 from pipeline.normalizer import normalize_name, is_valid_name, normalize_group
 from pipeline.deduplicator import _channel_key
-from pipeline.classifier import classify_country, region_to_country
-from pipeline.ip_detector import detect_ip_version, ip_priority
+from pipeline.classifier import classify_country
+from pipeline.ip_detector import detect_ip_version
 from pipeline.validator import validate_stream
 from pipeline.speed_tester import measure_speed
 from pipeline.ranker import score_stream
@@ -213,15 +212,24 @@ def run_pipeline(raw_channels: List[dict], cfg: PipelineConfig = None) -> List[C
         seen_urls.add(raw_url)
         channels.append(ch)
 
-    # 3. 同频道多源合并（复用 deduplicator 的名称归一规则，保留全部源）
+    print(f"  [Pipeline] 标准化+分类+去重: {len(channels)} 频道 ({time.time()-t0:.1f}s)")
+
+    # 3. 验证 + 测速 + 评分（先验证全部源，合并时才能按真实评分选主源）
+    if cfg.enable_validation:
+        t1 = time.time()
+        channels = validate_channels(channels, cfg)
+        active = sum(1 for c in channels if c.is_active)
+        print(f"  [Pipeline] 验证: {active}/{len(channels)} 可用 ({time.time()-t1:.1f}s)")
+
+    # 4. 同频道多源合并：主源选验证后评分最高且可用的源（失效源排最后）
     name_groups: dict = {}
     for ch in channels:
         nk = _channel_key(ch.name)
         name_groups.setdefault(nk, []).append(ch)
     merged = []
     for nk, items in name_groups.items():
-        # 主源选评分最高（与 deduplicator 一致），同分取第一个
-        items.sort(key=lambda c: (-c.score, c.response_time_ms))
+        # 主源选可用且评分最高；全部失效时保留第一个（输出阶段会过滤）
+        items.sort(key=lambda c: (not c.is_active, -c.score, c.response_time_ms))
         primary = items[0]
         primary.sources = [{
             "url": c.url, "source": c.source,
@@ -231,15 +239,6 @@ def run_pipeline(raw_channels: List[dict], cfg: PipelineConfig = None) -> List[C
         primary.source_count = len(items)
         merged.append(primary)
     channels = merged
-
-    print(f"  [Pipeline] 标准化+分类+去重: {len(channels)} 频道 ({time.time()-t0:.1f}s)")
-
-    # 4. 验证 + 测速 + 评分
-    if cfg.enable_validation:
-        t1 = time.time()
-        channels = validate_channels(channels, cfg)
-        active = sum(1 for c in channels if c.is_active)
-        print(f"  [Pipeline] 验证: {active}/{len(channels)} 可用 ({time.time()-t1:.1f}s)")
 
     # 5. 排序
     channels = rank_and_sort(channels)

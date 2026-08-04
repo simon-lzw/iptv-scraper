@@ -5,6 +5,7 @@ import sqlite3
 import json
 from datetime import datetime
 from pathlib import Path
+from contextlib import contextmanager
 from typing import Optional, Union, List
 from models import Channel, ScrapeRecord
 from config import DB_PATH
@@ -15,12 +16,21 @@ class Database:
         self.db_path = str(db_path)
         self._init_db()
 
-    def _get_conn(self) -> sqlite3.Connection:
+    @contextmanager
+    def _get_conn(self):
+        """获取数据库连接（上下文管理器：自动提交并关闭，避免连接泄漏）"""
         conn = sqlite3.connect(self.db_path)
         conn.row_factory = sqlite3.Row
         conn.execute("PRAGMA journal_mode=WAL")
         conn.execute("PRAGMA foreign_keys=ON")
-        return conn
+        try:
+            yield conn
+            conn.commit()
+        except Exception:
+            conn.rollback()
+            raise
+        finally:
+            conn.close()
 
     def _init_db(self):
         """初始化数据库表"""
@@ -82,7 +92,8 @@ class Database:
                         is_active = excluded.is_active,
                         source = excluded.source""",
                     (channel.name, channel.url, channel.group, channel.region,
-                     channel.logo, channel.tvg_id, channel.source, 1, now, now)
+                     channel.logo, channel.tvg_id, channel.source, 1,
+                     channel.kodi_props, now, now)
                 )
                 return cursor.lastrowid
             except sqlite3.IntegrityError:
@@ -136,10 +147,19 @@ class Database:
         """按名称查找频道"""
         with self._get_conn() as conn:
             rows = conn.execute(
-                "SELECT * FROM channels WHERE name LIKE ? ORDER BY is_active DESC",
-                (f"%{name}%",)
+                "SELECT * FROM channels WHERE name LIKE ? ESCAPE '\\' ORDER BY is_active DESC",
+                (f"%{self._escape_like(name)}%",)
             ).fetchall()
             return [self._row_to_channel(r) for r in rows]
+
+    def channel_exists(self, name: str, url: str) -> bool:
+        """按 (name, url) 唯一键判断频道是否已存在（走 UNIQUE 索引，避免全表加载）"""
+        with self._get_conn() as conn:
+            row = conn.execute(
+                "SELECT 1 FROM channels WHERE name=? AND url=? LIMIT 1",
+                (name, url)
+            ).fetchone()
+            return row is not None
 
     def update_channel_status(self, channel_id: int, is_active: bool,
                                fail_count: int = 0, success_count: int = 0,
@@ -218,6 +238,13 @@ class Database:
 
     # ─── Helpers ─────────────────────────────────────────────────────
 
+    @staticmethod
+    def _escape_like(text: str) -> str:
+        """转义 LIKE 通配符（配合 ESCAPE '\\' 使用）"""
+        return (text.replace("\\", "\\\\")
+                    .replace("%", "\\%")
+                    .replace("_", "\\_"))
+
     def _row_to_channel(self, row: sqlite3.Row) -> Channel:
         return Channel(
             id=row["id"],
@@ -233,6 +260,7 @@ class Database:
             success_count=row["success_count"],
             response_time_ms=row["response_time_ms"],
             last_checked=row["last_checked"],
+            kodi_props=row["kodi_props"],
             added_at=row["added_at"],
             updated_at=row["updated_at"],
         )

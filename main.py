@@ -329,18 +329,21 @@ class IPTVScheduler:
         return self._classify_region(name + group)
 
     def _classify_region(self, text: str) -> str:
+        # 排除误分类（与 scrapers/base.py 一致）
+        if "杭州明珠" in text or "六鳌翡翠湾" in text:
+            return "mainland"
         text_lower = text.lower()
-        for keyword, region in GROUP_REGION_MAP.items():
+        # 按关键词长度降序匹配：更长/更具体的关键词优先（避免"卫视"先命中"凤凰卫视"）
+        for keyword, region in sorted(
+            GROUP_REGION_MAP.items(), key=lambda kv: len(kv[0]), reverse=True
+        ):
             if keyword.lower() in text_lower:
                 return region
         return "mainland"
 
     def _count_new_channels(self, channels: List[Channel]) -> int:
-        """统计新增频道数（简化版）"""
-        existing = set()
-        for ch in self.db.get_all_channels():
-            existing.add((ch.name, ch.url))
-        new = sum(1 for ch in channels if (ch.name, ch.url) not in existing)
+        """统计新增频道数（按 (name,url) 唯一键逐条索引查询，避免全表加载）"""
+        new = sum(1 for ch in channels if not self.db.channel_exists(ch.name, ch.url))
         return new
 
     def _fix_grouping(self):
