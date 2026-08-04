@@ -1,7 +1,7 @@
 #EXTM3U
 #PLAYLIST: 斯洛伐克 (SK) IPTV 直播源
-#生成时间: 2026-08-03 16:23:04
-#频道数: 67
+#生成时间: 2026-08-04 05:13:45
+#频道数: 68
 
 # ===== 斯洛伐克 (SK) =====
 
@@ -58,6 +58,9 @@ https://budapest-cache-1.antik.sk/live/test_galaxy_4_atk_1200/playlist.m3u8
 
 #EXTINF:-1 tvg-id="GolfChannel.cz@SD" tvg-logo="https://www.sms.cz/kategorie/televize/bmp/loga/velka/golfchannel.png" group-title="斯洛伐克",Golf Channel
 https://dash4.antik.sk/live/test_golf_channel/playlist.m3u8
+
+#EXTINF:-1 tvg-id="HAHATV.sk@SD" group-title="斯洛伐克",HAHA TV
+https://dash3.antik.sk/live/test_haha_tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="JOJ.sk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/slovakia/joj-sk.png" group-title="斯洛伐克",JOJ
 https://sktv.mxnticek.eu/new/stream.php?ch=JOJ

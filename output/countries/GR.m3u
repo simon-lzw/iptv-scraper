@@ -1,7 +1,7 @@
 #EXTM3U
 #PLAYLIST: 希腊 (GR) IPTV 直播源
-#生成时间: 2026-08-03 16:23:04
-#频道数: 85
+#生成时间: 2026-08-04 05:13:45
+#频道数: 86
 
 # ===== 希腊 (GR) =====
 
@@ -166,6 +166,9 @@ http://45.162.193.35/MEGAHD/index.m3u8
 
 #EXTINF:-1 tvg-id="Mega.ua@SD" tvg-logo="https://i.imgur.com/Hsr0EvO.png" group-title="希腊",Mega (720p)
 https://cdn15.live-tv.cloud/ua_infinitas_tv/mega-abr/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Mega2.cl@SD" tvg-logo="https://i.imgur.com/c1ME00r.png" group-title="希腊",Mega 2 (1080p)
+http://15.204.246.24:8080/Mega2HD/index.m3u8
 
 #EXTINF:-1 tvg-id="MegaChannel.gr@SD" tvg-logo="https://i.imgur.com/UsyFADE.png" group-title="希腊",Mega Channel (720p)
 http://185.102.171.218/MegaHD/index.m3u8

@@ -1,7 +1,7 @@
 #EXTM3U
 #PLAYLIST: 英国 (GB) IPTV 直播源
-#生成时间: 2026-08-03 16:23:04
-#频道数: 1253
+#生成时间: 2026-08-04 05:13:45
+#频道数: 1254
 
 # ===== 英国 (GB) =====
 
@@ -3082,6 +3082,9 @@ https://eu.live.skyfolk.mk/live.m3u8
 
 #EXTINF:-1 tvg-id="SkyMix.uk@SD" tvg-logo="https://i.imgur.com/hHEz5rq.png" group-title="英国",Sky Mix (1080p)
 http://80.194.62.172:50002/stream/channelid/1848745953
+
+#EXTINF:-1 tvg-id="SkyNature.uk@SD" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1194.png" group-title="英国",Sky Nature (576p)
+https://tvsen6.aynaott.com/skynature/index.m3u8
 
 #EXTINF:-1 tvg-id="SkyNews.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/57/Sky_News_logo.svg/1024px-Sky_News_logo.svg.png" group-title="英国",Sky News
 https://linear021-gb-hls1-prd-ak.cdn.skycdp.com/Content/HLS_001_hd/Live/channel(skynews)/index_mob.m3u8
