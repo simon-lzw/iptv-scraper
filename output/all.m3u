@@ -1,7 +1,7 @@
 #EXTM3U
 #PLAYLIST: 全球 IPTV 直播源
-#生成时间: 2026-08-05 05:13:41
-#频道数: 7650
+#生成时间: 2026-08-05 16:00:50
+#频道数: 7649
 
 # ===== 阿联酋 (AE) =====
 
@@ -2891,9 +2891,6 @@ http://hls.nntv.cn/nnlive/YSYL_244.m3u8
 #EXTINF:-1 tvg-id="南宁都市生活" tvg-logo="https://www.xn--rgv465a.top/tvlogo/南宁都市生活.png" group-title="中国",南宁都市生活
 http://615bbf179ba53515dccad7b1da5d1ad9.livehwc3.cn/hls.nntv.cn/nnlive/WLSH_24.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=2598844eaee8a4265e706fc14b3fc11d
 
-#EXTINF:-1 tvg-id="3" tvg-logo="https://tb.zbds.top/logo/卡酷少儿.png" group-title="中国",卡酷少儿
-http://218.13.170.98:9901/tsfile/live/1021_1.m3u8
-
 #EXTINF:-1 tvg-id="卫辉综合" tvg-logo="https://www.xn--rgv465a.top/tvlogo/卫辉综合.png" group-title="中国",卫辉综合
 http://tvpull.dxhmt.cn:9081/tv/10781-1.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
 
@@ -3662,8 +3659,8 @@ https://migu.188766.xyz/?migutoken=410e218b52bfcc506bef1f814d8d3b5f&id=hn_xwpd&t
 #EXTINF:-1 tvg-id="海南自贸" tvg-logo="https://www.xn--rgv465a.top/tvlogo/海南自贸.png" group-title="中国",海南自贸
 https://migu.188766.xyz/?migutoken=2795391bf2380a7870585be391603d6a&id=hn_jjpd&type=sz
 
-#EXTINF:-1 tvg-id="2" tvg-logo="https://tb.zbds.top/logo/海峡卫视.png" group-title="中国",海峡卫视
-http://38.64.72.148:80/hls/modn/list/4009/playlist.m3u8
+#EXTINF:-1 tvg-id="1" tvg-logo="https://tb.zbds.top/logo/海峡卫视.png" group-title="中国",海峡卫视
+http://38.64.72.148:80/hls/modn/list/4009/chunklist0.m3u8
 
 #EXTINF:-1 group-title="中国",海西州综合 (576p)
 http://stream.haixitv.cn/1/sd/live.m3u8
