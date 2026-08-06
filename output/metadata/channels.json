@@ -7414,17 +7414,6 @@
     "is_active": true
   },
   {
-    "name": "Bioskop TelkomVision (576p)",
-    "url": "https://gist.githubusercontent.com/iptvonlinetv/8bf6f2e766091c54a07743ac6827f0f4/raw/afa1fdc6afa1fed44a29458da114bf98c2f9a0d6/udp810.710.800:2000.m3u8",
-    "group": "Movies",
-    "country_code": "ZZ",
-    "country_name_zh": "ZZ",
-    "ip_version": "domain",
-    "score": 0.0,
-    "source": "iptv-org all streams",
-    "is_active": true
-  },
-  {
     "name": "Bir TV (720p)",
     "url": "https://edge.taksimbilisim.com/birtv/bant1/playlist.m3u8",
     "group": "Undefined",
@@ -16467,17 +16456,6 @@
     "is_active": true
   },
   {
-    "name": "E International (576p)",
-    "url": "https://gist.githubusercontent.com/iptvonlinetv/cf56ccf36d1c0827e4dc470db7b7912d/raw/066b1c9755b2496805575f16d413bd1207ca8117/udp120.510.450:6060.m3u8",
-    "group": "General",
-    "country_code": "ZZ",
-    "country_name_zh": "ZZ",
-    "ip_version": "domain",
-    "score": 0.0,
-    "source": "iptv-org all streams",
-    "is_active": true
-  },
-  {
     "name": "E International Asia (576p)",
     "url": "https://gist.githubusercontent.com/iptvonlinetv/cf56ccf36d1c0827e4dc470db7b7912d/raw/066b1c9755b2496805575f16d413bd1207ca8117/udp315.520.789:8060.m3u8",
     "group": "General",
@@ -16490,7 +16468,7 @@
   },
   {
     "name": "E International Europe (576p)",
-    "url": "https://gist.githubusercontent.com/iptvonlinetv/cf56ccf36d1c0827e4dc470db7b7912d/raw/066b1c9755b2496805575f16d413bd1207ca8117/udp410.310.578:2020.m3u8",
+    "url": "https://gist.githubusercontent.com/iptvonlinetv/cf56ccf36d1c0827e4dc470db7b7912d/raw/066b1c9755b2496805575f16d413bd1207ca8117/udp120.510.450:6060.m3u8",
     "group": "General",
     "country_code": "ZZ",
     "country_name_zh": "ZZ",
@@ -21958,6 +21936,17 @@
   {
     "name": "Green Gold TV",
     "url": "https://vglivessai.akamaized.net/eu/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/675a37e5-f517-434e-adae-d25ae1706340/fbdb017c-7b61-4f62-8719-28b27e44c862/4.m3u8",
+    "group": "Kids",
+    "country_code": "ZZ",
+    "country_name_zh": "ZZ",
+    "ip_version": "domain",
+    "score": 0.0,
+    "source": "iptv-org all streams",
+    "is_active": true
+  },
+  {
+    "name": "Green Gold TV HD",
+    "url": "https://vglivessai.akamaized.net/eu/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/675a37e5-f517-434e-adae-d25ae1706340/fbdb017c-7b61-4f62-8719-28b27e44c862/0.m3u8",
     "group": "Kids",
     "country_code": "ZZ",
     "country_name_zh": "ZZ",
@@ -55583,6 +55572,17 @@
     "is_active": true
   },
   {
+    "name": "Telecentro (480p) [Not 24/7]",
+    "url": "https://streamtv.intervenhosting.net:3531/live/telecentrovelive.m3u8",
+    "group": "General",
+    "country_code": "ZZ",
+    "country_name_zh": "ZZ",
+    "ip_version": "domain",
+    "score": 0.0,
+    "source": "iptv-org all streams",
+    "is_active": true
+  },
+  {
     "name": "Telecolor (480p)",
     "url": "https://cloud.livescast.com:19360/telecolor/telecolor.m3u8",
     "group": "General",
@@ -62607,17 +62607,6 @@
     "country_code": "ZZ",
     "country_name_zh": "ZZ",
     "ip_version": "domain",
-    "score": 0.0,
-    "source": "iptv-org all streams",
-    "is_active": true
-  },
-  {
-    "name": "Xinjiang TV 2",
-    "url": "http://110.153.180.106:55555/out_3/index.m3u8",
-    "group": "Undefined",
-    "country_code": "ZZ",
-    "country_name_zh": "ZZ",
-    "ip_version": "ipv4",
     "score": 0.0,
     "source": "iptv-org all streams",
     "is_active": true
@@ -80927,17 +80916,6 @@
     "is_active": true
   },
   {
-    "name": "上海卫视",
-    "url": "http://112.27.235.94:8000/hls/28/index.m3u8",
-    "group": "卫视频道",
-    "country_code": "CN",
-    "country_name_zh": "中国",
-    "ip_version": "ipv4",
-    "score": 0.0,
-    "source": "vbskycn/iptv (ipv4)",
-    "is_active": true
-  },
-  {
     "name": "上海新闻综合",
     "url": "https://migu.188766.xyz/?migutoken=779bd2c7e2b23a37be54ec1b50771d47&id=%E4%B8%8A%E6%B5%B7%E6%96%B0%E9%97%BB%E7%BB%BC%E5%90%88&type=yy",
     "group": "☘️上海频道",
@@ -81632,7 +81610,7 @@
   },
   {
     "name": "兵团卫视",
-    "url": "http://183.11.239.36:808/hls/7/index.m3u8",
+    "url": "http://218.13.170.98:9901/tsfile/live/0115_1.m3u8",
     "group": "卫视频道",
     "country_code": "CN",
     "country_name_zh": "中国",
@@ -81969,6 +81947,17 @@
     "ip_version": "domain",
     "score": 0.0,
     "source": "Guovin/iptv-api (combined)",
+    "is_active": true
+  },
+  {
+    "name": "卡酷少儿",
+    "url": "http://218.13.170.98:9901/tsfile/live/1021_1.m3u8",
+    "group": "儿童频道",
+    "country_code": "CN",
+    "country_name_zh": "中国",
+    "ip_version": "ipv4",
+    "score": 0.0,
+    "source": "vbskycn/iptv (ipv4)",
     "is_active": true
   },
   {
@@ -83245,6 +83234,17 @@
     "ip_version": "ipv4",
     "score": 0.0,
     "source": "YueChan/Live",
+    "is_active": true
+  },
+  {
+    "name": "广东少儿",
+    "url": "http://gmxw.7766.org:808/hls/175/index.m3u8",
+    "group": "儿童频道",
+    "country_code": "CN",
+    "country_name_zh": "中国",
+    "ip_version": "domain",
+    "score": 0.0,
+    "source": "vbskycn/iptv (ipv4)",
     "is_active": true
   },
   {
@@ -84789,7 +84789,7 @@
   },
   {
     "name": "海峡卫视",
-    "url": "http://38.64.72.148:80/hls/modn/list/4009/chunklist0.m3u8",
+    "url": "http://38.64.72.148:80/hls/modn/list/4009/playlist.m3u8",
     "group": "卫视频道",
     "country_code": "CN",
     "country_name_zh": "中国",
@@ -86592,17 +86592,6 @@
     "is_active": true
   },
   {
-    "name": "金川乡村",
-    "url": "http://live.jinchuanrmt.com:90/live/jcxc.m3u8?zsicd",
-    "group": "地方频道",
-    "country_code": "CN",
-    "country_name_zh": "中国",
-    "ip_version": "domain",
-    "score": 0.0,
-    "source": "vbskycn/iptv (ipv4)",
-    "is_active": true
-  },
-  {
     "name": "金昌公共頻道 (240p) [Geo-blocked]",
     "url": "http://stream4.liveyun.hoge.cn/ch01/sd/live.m3u8",
     "group": "Undefined",
@@ -87439,12 +87428,12 @@
     "is_active": true
   },
   {
-    "name": "RCN Novelas (720p)",
-    "url": "http://170.238.200.199:80/rcn-novelas/index.m3u8",
+    "name": "RCN Novelas (1080p)",
+    "url": "https://cdnlive.klicgo.net/rcnnovelas/live/playlist.m3u8",
     "group": "Entertainment",
     "country_code": "CO",
     "country_name_zh": "哥伦比亚",
-    "ip_version": "ipv4",
+    "ip_version": "domain",
     "score": 0.0,
     "source": "iptv-org all streams",
     "is_active": true
@@ -110052,6 +110041,17 @@
     "ip_version": "domain",
     "score": 0.0,
     "source": "Free-TV/IPTV (global)",
+    "is_active": true
+  },
+  {
+    "name": "CNBC Indonesia (720p)",
+    "url": "https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8",
+    "group": "Business",
+    "country_code": "ID",
+    "country_name_zh": "印度尼西亚",
+    "ip_version": "domain",
+    "score": 0.0,
+    "source": "iptv-org all streams",
     "is_active": true
   },
   {
