@@ -1,7 +1,7 @@
 #EXTM3U
 #PLAYLIST: 罗马尼亚 (RO) IPTV 直播源
-#生成时间: 2026-08-07 14:51:25
-#频道数: 74
+#生成时间: 2026-08-08 03:23:48
+#频道数: 75
 
 # ===== 罗马尼亚 (RO) =====
 
@@ -28,6 +28,9 @@ https://d1ypfac91iuc9g.cloudfront.net/ts:abr.m3u8
 
 #EXTINF:-1 tvg-id="Antena7.do@SD" tvg-logo="https://i.imgur.com/zKWFgeQ.png" group-title="罗马尼亚",Antena 7 (480p)
 https://d3gie3ig6argu.cloudfront.net/ts:abr.m3u8
+
+#EXTINF:-1 tvg-id="AntenaInternational.ro@SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/38/Antena_Interna%C8%9Bional_2022.png/revision/latest/scale-to-width-down/512" group-title="罗马尼亚",Antena International (720P)
+https://stream1.antenaplay.ro/as/asrolive1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="AntenaMonden.ro@SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/01/Antena_Monden_2022.png/revision/latest/scale-to-width-down/300" group-title="罗马尼亚",Antena Monden (720p)
 https://stream1.antenaplay.ro/live/AntenaMonden/playlist.m3u8
