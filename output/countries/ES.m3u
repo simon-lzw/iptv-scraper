@@ -1,7 +1,7 @@
 #EXTM3U
 #PLAYLIST: 西班牙 (ES) IPTV 直播源
-#生成时间: 2026-08-08 14:29:50
-#频道数: 169
+#生成时间: 2026-08-09 03:40:08
+#频道数: 170
 
 # ===== 西班牙 (ES) =====
 
@@ -250,6 +250,9 @@ https://ztnr.rtve.es/ztnr/5190066.m3u8
 
 #EXTINF:-1 tvg-id="La1Catalunya.es@SD" tvg-logo="https://i.ibb.co/MxJNPHsn/La-1.png" group-title="西班牙",La 1 Catalunya (720p)
 https://ztnr.rtve.es/ztnr/3293681.m3u8
+
+#EXTINF:-1 tvg-id="La1.es@UHD" tvg-logo="https://i.ibb.co/MxJNPHsn/La-1.png" group-title="西班牙",La 1 UHD (2160p)
+http://185.47.212.25:8080/tdp_HD/index.m3u8
 
 #EXTINF:-1 tvg-id="La2.es" tvg-logo="https://i.imgur.com/DmuTwDw.png" group-title="西班牙",La 2
 https://di2qeq48iv8ps.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-o8u23e6v7vptv/La_2_ES.m3u8

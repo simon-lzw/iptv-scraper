@@ -1,6 +1,6 @@
 #EXTM3U
 #PLAYLIST: 比利时 (BE) IPTV 直播源
-#生成时间: 2026-08-08 14:29:50
+#生成时间: 2026-08-09 03:40:08
 #频道数: 25
 
 # ===== 比利时 (BE) =====
@@ -53,6 +53,9 @@ https://live-video.dpgmedia.net/e087512ad0c32643/out/v1/82d59bbe343b4d0896f829c5
 #EXTINF:-1 tvg-id="BelRTL.be" tvg-logo="https://i.imgur.com/xMhSvax.png" group-title="比利时",RTL-Be
 https://rtltvi-lh.akamaihd.net/i/TVI_1@319659/master.m3u8
 
+#EXTINF:-1 tvg-id="StuBru.be@SD" tvg-logo="https://i.ibb.co/y0TcsXw/512px-VRT-Stu-Bru-logo-svg.png" group-title="比利时",StuBru (1080p)
+https://live.vrtcdn.be/groupb/live/450aa9d1-7173-47f3-aaaa-9701426f8ddd/live.isml/.m3u8
+
 #EXTINF:-1 tvg-id="Tipik.be" tvg-logo="https://i.imgur.com/PVbVj8o.png" group-title="比利时",Tipik
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Belgium/5dee2de1f4661ce.m3u8
 
@@ -73,9 +76,6 @@ https://live-radio-cf-vrt.akamaized.net/groupa/live/e96793cc-eac5-4ed2-8eb5-617c
 
 #EXTINF:-1 tvg-id="Klara.be@SD" tvg-logo="https://i.ibb.co/YdDkSJW/VRT-Klara-2020-svg.png" group-title="比利时",VRT Radio Klara (720p)
 https://live-radio-cf-vrt.akamaized.net/groupb/live/eee20dc8-158a-4194-8d92-0c5a73ffcd3b/live.isml/.m3u8
-
-#EXTINF:-1 tvg-id="StuBru.be@SD" tvg-logo="https://i.ibb.co/y0TcsXw/512px-VRT-Stu-Bru-logo-svg.png" group-title="比利时",VRT Radio StuBru (720p)
-https://live-radio-cf-vrt.akamaized.net/groupb/live/0f394a26-c87d-475e-8590-e9c6e79b28d9/live.isml/.m3u8
 
 #EXTINF:-1 tvg-id="VTM.be" tvg-logo="https://i.imgur.com/fUxRP9x.png" group-title="比利时",VTM
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Belgium/c5cafdbfc4d28d3.ts

@@ -1,7 +1,7 @@
 #EXTM3U
 #PLAYLIST: 中国 (CN) IPTV 直播源
-#生成时间: 2026-08-08 14:29:50
-#频道数: 726
+#生成时间: 2026-08-09 03:40:08
+#频道数: 724
 
 # ===== 中国 (CN) =====
 
@@ -484,9 +484,6 @@ http://live.qthnews.org.cn:1935/live/live1/800k/tzwj_video.m3u8
 
 #EXTINF:-1 tvg-id="万荣综合" tvg-logo="https://tb.zbds.top/logo/万荣综合.png" group-title="中国",万荣综合
 http://60.222.246.220:19433/hls1.m3u8
-
-#EXTINF:-1 tvg-id="上海卫视" tvg-logo="https://tb.zbds.top/logo/上海卫视.png" group-title="中国",上海卫视
-http://112.27.235.94:8000/hls/28/index.m3u8
 
 #EXTINF:-1 tvg-id="上海新闻综合" tvg-logo="https://www.xn--rgv465a.top/tvlogo/上海新闻综合.png" group-title="中国",上海新闻综合
 https://migu.188766.xyz/?migutoken=779bd2c7e2b23a37be54ec1b50771d47&id=%E4%B8%8A%E6%B5%B7%E6%96%B0%E9%97%BB%E7%BB%BC%E5%90%88&type=yy
@@ -1421,12 +1418,6 @@ https://migu.188766.xyz/?migutoken=599bb7fdd4f9cab36d202bb38a0da046&id=%E6%B0%91
 #EXTINF:-1 tvg-id="河南都市" tvg-logo="https://www.xn--rgv465a.top/tvlogo/河南都市.png" group-title="中国",河南都市
 http://1.94.31.214/php/hntv.php?id=hnds
 
-#EXTINF:-1 tvg-id="河源公共" tvg-logo="https://tb.zbds.top/logo/河源公共.png" group-title="中国",河源公共
-http://tmpstream.hyrtv.cn/hygg/sd/live.m3u8
-
-#EXTINF:-1 tvg-id="河源综合" tvg-logo="https://tb.zbds.top/logo/河源综合.png" group-title="中国",河源综合
-http://tmpstream.hyrtv.cn/xwzh/sd/live.m3u8
-
 #EXTINF:-1 group-title="中国",河源综合 (540p)
 https://tmpstream.hyrtv.cn/xwzh/sd/live.m3u8
 
@@ -1502,6 +1493,9 @@ http://ali-vl.cztv.com/channels/lantian/channel009/360p.m3u8
 #EXTINF:-1 tvg-id="浙江经济" tvg-logo="https://www.xn--rgv465a.top/tvlogo/浙江经济.png" group-title="中国",浙江经济
 https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8?
 
+#EXTINF:-1 tvg-id="1" tvg-logo="https://tb.zbds.top/logo/浙江经济生活.png" group-title="中国",浙江经济生活
+http://ali-vl.cztv.com/channels/lantian/channel003/360p.m3u8
+
 #EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/浙江经济生活.png" group-title="中国",浙江经视
 https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
 
@@ -1541,8 +1535,8 @@ https://migu.188766.xyz/?migutoken=410e218b52bfcc506bef1f814d8d3b5f&id=hn_xwpd&t
 #EXTINF:-1 tvg-id="海南自贸" tvg-logo="https://www.xn--rgv465a.top/tvlogo/海南自贸.png" group-title="中国",海南自贸
 https://migu.188766.xyz/?migutoken=2795391bf2380a7870585be391603d6a&id=hn_jjpd&type=sz
 
-#EXTINF:-1 tvg-id="5" tvg-logo="https://tb.zbds.top/logo/海峡卫视.png" group-title="中国",海峡卫视
-http://38.64.72.148:80/hls/modn/list/4009/playlist.m3u8
+#EXTINF:-1 tvg-id="3" tvg-logo="https://tb.zbds.top/logo/海峡卫视.png" group-title="中国",海峡卫视
+http://38.64.72.148:80/hls/modn/list/4009/chunklist0.m3u8
 
 #EXTINF:-1 group-title="中国",海西州综合 (576p)
 http://stream.haixitv.cn/1/sd/live.m3u8
