@@ -62458,17 +62458,6 @@
     "is_active": true
   },
   {
-    "name": "Xinjiang TV 2",
-    "url": "http://110.153.180.106:55555/out_3/index.m3u8",
-    "group": "Undefined",
-    "country_code": "ZZ",
-    "country_name_zh": "ZZ",
-    "ip_version": "ipv4",
-    "score": 0.0,
-    "source": "iptv-org all streams",
-    "is_active": true
-  },
-  {
     "name": "Xinjiang TV 8",
     "url": "http://120.70.60.179:9901/tsfile/live/1002_1.m3u8?authid=0&key=txiptv&playlive=1",
     "group": "Undefined",
@@ -79860,6 +79849,17 @@
     "is_active": true
   },
   {
+    "name": "CCTV-4 Europe",
+    "url": "https://dash2.antik.sk/live/test_cctv_tizen/playlist.m3u8",
+    "group": "General",
+    "country_code": "CN",
+    "country_name_zh": "中国",
+    "ip_version": "domain",
+    "score": 0.0,
+    "source": "iptv-org all streams",
+    "is_active": true
+  },
+  {
     "name": "CCTV-4 中文国际（亚） Ⓨ",
     "url": "https://www.youtube.com/channel/UC4K_LI-Tn3-LshNgG0-YypQ/live",
     "group": "China",
@@ -81840,6 +81840,17 @@
     "is_active": true
   },
   {
+    "name": "南方卫视",
+    "url": "http://113.101.119.74:8090/hls/109/index.m3u8",
+    "group": "卫视频道",
+    "country_code": "CN",
+    "country_name_zh": "中国",
+    "ip_version": "ipv4",
+    "score": 0.0,
+    "source": "vbskycn/iptv (ipv4)",
+    "is_active": true
+  },
+  {
     "name": "卡酷少儿",
     "url": "http://218.13.170.98:9901/tsfile/live/1021_1.m3u8",
     "group": "儿童频道",
@@ -82973,6 +82984,17 @@
     "is_active": true
   },
   {
+    "name": "岭南戏曲",
+    "url": "http://113.101.119.74:8090/hls/22/index.m3u8",
+    "group": "戏曲频道",
+    "country_code": "CN",
+    "country_name_zh": "中国",
+    "ip_version": "ipv4",
+    "score": 0.0,
+    "source": "vbskycn/iptv (ipv4)",
+    "is_active": true
+  },
+  {
     "name": "崇明电视台",
     "url": "https://pili-live-hls.wdit.com.cn/wditlive/c038f4fafbdf4f97ba74c74ad67259b931ee.m3u8",
     "group": "☘️上海频道",
@@ -83128,11 +83150,22 @@
   },
   {
     "name": "广东少儿",
-    "url": "http://gmxw.7766.org:808/hls/175/index.m3u8",
+    "url": "http://113.101.119.74:8090/hls/111/index.m3u8",
     "group": "儿童频道",
     "country_code": "CN",
     "country_name_zh": "中国",
-    "ip_version": "domain",
+    "ip_version": "ipv4",
+    "score": 0.0,
+    "source": "vbskycn/iptv (ipv4)",
+    "is_active": true
+  },
+  {
+    "name": "广东影视",
+    "url": "http://113.101.119.74:8090/hls/110/index.m3u8",
+    "group": "电影频道",
+    "country_code": "CN",
+    "country_name_zh": "中国",
+    "ip_version": "ipv4",
     "score": 0.0,
     "source": "vbskycn/iptv (ipv4)",
     "is_active": true
@@ -84227,6 +84260,28 @@
     "is_active": true
   },
   {
+    "name": "河源公共",
+    "url": "http://tmpstream.hyrtv.cn/hygg/sd/live.m3u8",
+    "group": "地方频道",
+    "country_code": "CN",
+    "country_name_zh": "中国",
+    "ip_version": "domain",
+    "score": 0.0,
+    "source": "vbskycn/iptv (ipv4)",
+    "is_active": true
+  },
+  {
+    "name": "河源综合",
+    "url": "http://tmpstream.hyrtv.cn/xwzh/sd/live.m3u8",
+    "group": "地方频道",
+    "country_code": "CN",
+    "country_name_zh": "中国",
+    "ip_version": "domain",
+    "score": 0.0,
+    "source": "vbskycn/iptv (ipv4)",
+    "is_active": true
+  },
+  {
     "name": "河源综合 (540p)",
     "url": "https://tmpstream.hyrtv.cn/xwzh/sd/live.m3u8",
     "group": "Undefined",
@@ -84509,7 +84564,7 @@
     "country_name_zh": "中国",
     "ip_version": "domain",
     "score": 0.0,
-    "source": "vbskycn/iptv (ipv4)",
+    "source": "zhi35 aggregated",
     "is_active": true
   },
   {
@@ -84657,7 +84712,7 @@
   },
   {
     "name": "海峡卫视",
-    "url": "http://38.64.72.148:80/hls/modn/list/4009/chunklist0.m3u8",
+    "url": "http://113.57.140.161:10081/newlive/live/hls/27/live.m3u8",
     "group": "卫视频道",
     "country_code": "CN",
     "country_name_zh": "中国",
