@@ -1,7 +1,7 @@
 #EXTM3U
 #PLAYLIST: 美国 (US) IPTV 直播源
-#生成时间: 2026-08-09 14:32:21
-#频道数: 1766
+#生成时间: 2026-08-10 03:52:14
+#频道数: 1760
 
 # ===== 美国 (US) =====
 
@@ -101,8 +101,8 @@ https://tv.a2news.com/live/smil:a2cnnweb.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="KIIOLD104.us@SD" tvg-logo="https://i.imgur.com/Spu4s89.png" group-title="美国",AABC TV (480p)
 https://streamer1.connectto.com/AABC_WEB_1201/index.m3u8
 
-#EXTINF:-1 tvg-id="ABC.us@East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/27/WWAY_logo.png" group-title="美国",ABC (720p)
-http://41.205.93.154/ABC/index.m3u8
+#EXTINF:-1 tvg-id="ABC.us@East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/27/WWAY_logo.png" group-title="美国",ABC (1080p)
+http://190.11.225.124:5000/live/abc_hd/playlist.m3u8
 
 #EXTINF:-1 tvg-id="WPLG101.us@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/WPLG_Local_10_%282014%2C_without_ABC_logo%29.svg/500px-WPLG_Local_10_%282014%2C_without_ABC_logo%29.svg.png" group-title="美国",ABC (WPLG-DT1) Miami FL (720p)
 https://pubads.g.doubleclick.net/ssai/event/tQD6w9OJQVOobcyV3Dammw/master.m3u8
@@ -1826,12 +1826,6 @@ https://1593604785.rsc.cdn77.org/FTF/FTF_SCTE.m3u8
 #EXTINF:-1 tvg-id="FX.us@East" tvg-logo="https://i.imgur.com/ZScwrpi.png" group-title="美国",FX (1080p)
 http://23.237.104.106:8080/USA_FX/index.m3u8
 
-#EXTINF:-1 tvg-id="FXMovieChannel.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/FXM_Logo.svg/960px-FXM_Logo.svg.png" group-title="美国",FX Movie Channel (720p)
-http://40.160.24.52/FXM/index.m3u8
-
-#EXTINF:-1 tvg-id="FXM.us@East" tvg-logo="https://comteco.com.bo/img/upload/canales/svCJXa.png" group-title="美国",FXM (720p)
-https://gpuserver3.tier1streams.com/FXM/index.m3u8
-
 #EXTINF:-1 tvg-id="FXX.us@East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/FXX_Logo.svg/960px-FXX_Logo.svg.png" group-title="美国",FXX (1080p)
 http://23.237.104.106:8080/USA_FXX/index.m3u8
 
@@ -1927,9 +1921,6 @@ http://stream.mcquack.net/129/index.m3u8
 
 #EXTINF:-1 tvg-id="FoxNewsChannel.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/960px-Fox_News_Channel_logo.svg.png" group-title="美国",Fox News Channel (720p)
 http://45.190.28.50/FOX_NEWS/index.m3u8
-
-#EXTINF:-1 tvg-id="FoxNewsInternational.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/960px-Fox_News_Channel_logo.svg.png" group-title="美国",Fox News International (720p)
-https://gpuserver3.tier1streams.com/FOX/index.m3u8
 
 #EXTINF:-1 tvg-id="FoxNewsRadio.us@SD" tvg-logo="https://radio.foxnews.com/wp-content/uploads/2017/10/default_logo-150x150.png" group-title="美国",Fox News Radio (720p)
 https://radiovid.foxnews.com/hls/live/661547/RADIOVID/index.m3u8
@@ -2807,9 +2798,6 @@ https://mst3k-roku.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="MTC.us@SD" tvg-logo="https://i.imgur.com/JxoAR4j.png" group-title="美国",MTC TV
 https://mtchls.wns.live/hls/stream.m3u8
 
-#EXTINF:-1 tvg-id="MTV.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_MTV/images/LOGO_HD/image.png" group-title="美国",MTV (1080p)
-http://103.72.101.252:8080/live/248.m3u8
-
 #EXTINF:-1 tvg-id="MTV.us@East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/960px-MTV_2021_%28brand_version%29.svg.png" group-title="美国",MTV (720p)
 http://40.160.24.53/MTV/index.m3u8
 
@@ -2866,9 +2854,6 @@ https://jmp2.uk/plu-627d3176d7dfa500077042f1.m3u8
 
 #EXTINF:-1 tvg-id="MTVGuyana.gy@SD" tvg-logo="https://i.imgur.com/Ky70brA.png" group-title="美国",MTV Guyana (1080p) [Not 24/7]
 https://stream.mtvgy.com/mtvguyana/index.fmp4.m3u8
-
-#EXTINF:-1 tvg-id="MTV.in@HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_MTV/images/LOGO_HD/image.png" group-title="美国",MTV HD (1080p)
-http://149.71.34.166:8000/play/a00p/index.m3u8
 
 #EXTINF:-1 tvg-id="MTVJerseyShore.us@CA" tvg-logo="https://images.pluto.tv/channels/68b9b0dbf9cf3d7cb9f56d88/colorLogoPNG_1757455543454.png" group-title="美国",MTV Jersey Shore
 https://jmp2.uk/plu-68b9b0dbf9cf3d7cb9f56d88.m3u8
@@ -4819,9 +4804,6 @@ http://200.115.120.1:8000/play/ca106/index.m3u8
 
 #EXTINF:-1 tvg-id="UnivisionTlnovelas.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Univision_tlnovelas_%282019%29.svg/960px-Univision_tlnovelas_%282019%29.svg.png" group-title="美国",Univision Tlnovelas (1080p)
 http://45.6.4.35/TELENOVELAS/index.m3u8
-
-#EXTINF:-1 tvg-id="Univision.us@West" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/960px-Logo_Univision_2019.svg.png" group-title="美国",Univision West (1080p)
-http://8an4dgnb.megatv.fun/iptv/8XFKA8883W9M5K/1099/index.m3u8
 
 #EXTINF:-1 tvg-id="UnsolvedMysteries.us@US" tvg-logo="https://i.imgur.com/De3khrX.png" group-title="美国",Unsolved Mysteries (720p)
 https://d31z96rdrmwfsp.cloudfront.net/master.m3u8

@@ -1,7 +1,7 @@
 #EXTM3U
 #PLAYLIST: 越南 (VN) IPTV 直播源
-#生成时间: 2026-08-09 14:32:21
-#频道数: 35
+#生成时间: 2026-08-10 03:52:14
+#频道数: 44
 
 # ===== 越南 (VN) =====
 
@@ -44,11 +44,32 @@ https://liveh12.vtvprime.vn/hls/QPTV/index.m3u8
 #EXTINF:-1 tvg-id="QuangNgaiTV.vn@HD" tvg-logo="https://i.imgur.com/QckiN3H.png" group-title="越南",Quảng Ngãi TV1 (1080p)
 https://live.mediatech.vn/live/285aaa79b4b265a457d81bb72bc32e2c114/chunklist.m3u8
 
+#EXTINF:-1 tvg-id="SCTV11.vn@SD" tvg-logo="https://i.imgur.com/ZmFfy9o.png" group-title="越南",SCTV11 (720p)
+https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv11/master.m3u8
+
+#EXTINF:-1 tvg-id="SCTV12.vn@SD" tvg-logo="https://i.imgur.com/5pDFkH0.png" group-title="越南",SCTV12 (720p)
+https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv12/master.m3u8
+
+#EXTINF:-1 tvg-id="SCTV13.vn@SD" tvg-logo="https://i.imgur.com/aoz1iDw.png" group-title="越南",SCTV13 (720p)
+https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv13/master.m3u8
+
+#EXTINF:-1 tvg-id="SCTV14.vn@SD" tvg-logo="https://i.imgur.com/rIqmRNK.png" group-title="越南",SCTV14 (720p)
+https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv14/master.m3u8
+
 #EXTINF:-1 tvg-id="SCTV16.vn@SD" tvg-logo="https://i.imgur.com/ldCYtvt.png" group-title="越南",SCTV16 (720p)
 https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv16/master.m3u8
 
+#EXTINF:-1 tvg-id="SCTV18.vn@SD" tvg-logo="https://i.imgur.com/FfUSlgI.png" group-title="越南",SCTV18 (720p)
+https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv18/master.m3u8
+
+#EXTINF:-1 tvg-id="SCTV19.vn@SD" tvg-logo="https://i.imgur.com/yBAFZRs.png" group-title="越南",SCTV19 (720p)
+https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv19/master.m3u8
+
 #EXTINF:-1 tvg-id="SCTV2.vn@SD" tvg-logo="https://i.imgur.com/8i5DXIg.png" group-title="越南",SCTV2 (720p)
 https://liveh12.vtvprime.vn/hls/SCTV2/index.m3u8
+
+#EXTINF:-1 tvg-id="SCTV20.vn@SD" tvg-logo="https://i.imgur.com/7ABZhfZ.png" group-title="越南",SCTV20 (720p)
+https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv20/master.m3u8
 
 #EXTINF:-1 tvg-id="SCTV3.vn@SD" tvg-logo="https://i.imgur.com/tfk298I.png" group-title="越南",SCTV3 (720p)
 https://vtvgolive-sctvdrm.vtvdigital.vn/bsod999cuteptgyoutuber/1234567890/manifest/sctv3/master.m3u8
@@ -58,6 +79,12 @@ https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv4/master.m3u8
 
 #EXTINF:-1 tvg-id="SCTV5.vn@HD" tvg-logo="https://i.imgur.com/FYLs4yu.png" group-title="越南",SCTV5 (720p)
 https://liveh34.vtvprime.vn/hls/SCTV5/01.m3u8?note=TheWavesIPTV
+
+#EXTINF:-1 tvg-id="SCTV7.vn@SD" tvg-logo="https://i.imgur.com/xbIUZYd.png" group-title="越南",SCTV7 (720p)
+https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv7/master.m3u8
+
+#EXTINF:-1 tvg-id="SCTV9.vn@SD" tvg-logo="https://i.imgur.com/OJMbhow.png" group-title="越南",SCTV9 (720p)
+https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv9/master.m3u8
 
 #EXTINF:-1 tvg-id="SonLaTV.vn@SD" tvg-logo="https://i.imgur.com/MxV9psR.png" group-title="越南",Son La TV (720p)
 https://kenhdp-vtvgo.vtvdigital.vn/kenhdp/sonla-720p.m3u8
