@@ -1,7 +1,7 @@
 #EXTM3U
 #PLAYLIST: 伊朗 (IR) IPTV 直播源
-#生成时间: 2026-08-11 03:42:00
-#频道数: 81
+#生成时间: 2026-08-11 14:55:11
+#频道数: 77
 
 # ===== 伊朗 (IR) =====
 
@@ -16,9 +16,6 @@ https://ncdn.telewebion.ir/aftab/live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="AlalamNewsChannel.ir" tvg-logo="https://i.imgur.com/UbD0Ndr.png" group-title="伊朗",Al-Alam News Network Ⓢ
 https://live2.alalam.ir/alalam.m3u8
-
-#EXTINF:-1 tvg-id="AlalamNewsChannelSyria.sy@SD" tvg-logo="https://i.imgur.com/WQKYPKD.png" group-title="伊朗",Alalam News Channel Syria (1080p)
-https://live2.alalam.ir/live/Alalam/index.m3u8
 
 #EXTINF:-1 tvg-id="AlborzTV.ir@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Alborz_TV_logo.svg/960px-Alborz_TV_logo.svg.png" group-title="伊朗",Alborz
 https://ncdn.telewebion.ir/alborz/live/playlist.m3u8
@@ -95,17 +92,11 @@ https://live.presstv.ir/hls/presstv_5_482/index.m3u8
 #EXTINF:-1 tvg-id="IranPress.ir" tvg-logo="https://i.imgur.com/Qrubr3v.png" group-title="伊朗",IranPress Ⓢ
 https://live1.presstv.ir/live/iranpress/index.m3u8
 
-#EXTINF:-1 tvg-id="Iraneman.ir@SD" tvg-logo="https://static.telewebion.com/channelsLogo/9ee212fa-ad8b-45eb-a5fa-d737b4b6ef05/default" group-title="伊朗",Iraneman
-https://ncdn.telewebion.ir/iraneman/live/playlist.m3u8
-
 #EXTINF:-1 tvg-id="IsfahanTV.ir@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/IsfahanTV.svg/960px-IsfahanTV.svg.png" group-title="伊朗",Isfahan
 https://ncdn.telewebion.ir/esfahan/live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="JahanbinTV.ir@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/fa/thumb/4/4a/Shahrekord_Jahanbin.svg/960px-Shahrekord_Jahanbin.svg.png" group-title="伊朗",Jahanbin
 https://ncdn.telewebion.ir/jahanbin/live/playlist.m3u8
-
-#EXTINF:-1 tvg-id="KaroonTV.ir@SD" tvg-logo="https://static.telewebion.com/channelsLogo/448a8dca-ab58-4533-8d71-ad74b8812c79/default" group-title="伊朗",Karoon TV
-https://ncdn.telewebion.ir/karoon/live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="KermanTV.ir@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Kerman_irib_logo_%28blue_version%29.png/960px-Kerman_irib_logo_%28blue_version%29.png" group-title="伊朗",Kerman
 https://ncdn.telewebion.ir/kerman/live/playlist.m3u8
@@ -136,9 +127,6 @@ https://ncdn.telewebion.ir/mahabad/live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="IRIBMostanad.ir@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/fa/8/89/Mostanad-tv.png" group-title="伊朗",Mostanad
 https://ncdn.telewebion.ir/mostanad/live/playlist.m3u8
-
-#EXTINF:-1 tvg-id="NamaTV.ir@SD" tvg-logo="https://i.ibb.co/WvrqnrZ5/nama.png" group-title="伊朗",Nama TV
-https://ncdn.telewebion.ir/nama/live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="NamayeshTV.ir@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Namayesh_TV_logo.svg/960px-Namayesh_TV_logo.svg.png" group-title="伊朗",Namayesh
 https://ncdn.telewebion.ir/namayesh/live/playlist.m3u8
@@ -215,9 +203,6 @@ https://ncdn.telewebion.ir/tv1plus/live/playlist.m3u8
 #EXTINF:-1 tvg-id="TabarestanTV.ir@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/IRIB_Mazandaran_Last_Orange_Logo.png/960px-IRIB_Mazandaran_Last_Orange_Logo.png" group-title="伊朗",Tabarestan
 https://ncdn.telewebion.ir/tabarestan/live/playlist.m3u8
 
-#EXTINF:-1 group-title="伊朗",Taftan
-https://ncdn.telewebion.ir/taftan/live/playlist.m3u8
-
 #EXTINF:-1 tvg-id="Tamasha.ir@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/fa/thumb/f/f2/IRIB_tamashaTV.svg/960px-IRIB_tamashaTV.svg.png" group-title="伊朗",Tamasha
 https://ncdn.telewebion.ir/hdtest/live/playlist.m3u8
 
@@ -232,6 +217,9 @@ https://ncdn.telewebion.ir/varzesh/live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="VelayatTV.ir@SD" tvg-logo="https://static.telewebion.com/channelsLogo/ae05de5b-9fe4-4012-900a-4d0763d6fafc/default" group-title="伊朗",Velayat TV
 https://ncdn.telewebion.ir/velayat/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="YazdTV.ir@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Yazd_taban.svg/960px-Yazd_taban.svg.png" group-title="伊朗",Yazd
+https://ncdn.telewebion.ir/taban/live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ZagrosTV.ir@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/fa/thumb/e/e4/Kermanshah_Zaghros.svg/960px-Kermanshah_Zaghros.svg.png" group-title="伊朗",Zagros
 https://ncdn.telewebion.ir/zagros/live/playlist.m3u8

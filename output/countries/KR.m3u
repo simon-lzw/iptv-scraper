@@ -1,7 +1,7 @@
 #EXTM3U
 #PLAYLIST: 韩国 (KR) IPTV 直播源
-#生成时间: 2026-08-11 03:42:00
-#频道数: 111
+#生成时间: 2026-08-11 14:55:11
+#频道数: 108
 
 # ===== 韩国 (KR) =====
 
@@ -31,9 +31,6 @@ http://bbstv.clouducs.com:1935/bbstv-live/livestream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="BTNTV.kr@SD" tvg-logo="https://i.imgur.com/sOoS7RQ.png" group-title="韩国",BTN TV (1080p)
 https://btn.nowcdn.co.kr/btn/btnlive2m/playlist.m3u8
-
-#EXTINF:-1 tvg-id="CGNTVSouthKorea.kr@SD" tvg-logo="https://i.imgur.com/zwZASOB.png" group-title="韩国",CGNTV South Korea (1080p)
-https://du35ivadp6cxj.cloudfront.net/out/v1/81781d23cbbf490990b2aa9181d4ce19/CGNWebLiveKR.m3u8
 
 #EXTINF:-1 tvg-id="CJOnStyle.kr@SD" tvg-logo="https://i.imgur.com/JiSfEBv.png" group-title="韩国",CJ OnStyle (540p)
 https://live-ch1.cjonstyle.net/cjmalllive/stream2/playlist.m3u8
@@ -97,9 +94,6 @@ https://dtvstreaming.hyundaihmall.com/newcjp3/_definst_/newcjpstream.smil/playli
 
 #EXTINF:-1 tvg-id="JTV.kr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Jtv_logo.svg/500px-Jtv_logo.svg.png" group-title="韩国",JTV TV
 https://61ff3340258d2.streamlock.net/jtv_live/myStream/playlist.m3u8
-
-#EXTINF:-1 tvg-id="JobplusTV.kr@SD" tvg-logo="https://i.imgur.com/Y5Zg5SR.png" group-title="韩国",Job Plus TV (한국직업방송) (480p)
-https://live.jobplustv.or.kr/live/wowtvlive1.sdp/playlist.m3u8
 
 #EXTINF:-1 tvg-id="KBCTV.kr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/KBC_Gwangju_Broadcasting_logo.svg/500px-KBC_Gwangju_Broadcasting_logo.svg.png" group-title="韩国",KBC TV
 http://119.200.131.11:1935/KBCTV/tv/playlist.m3u8
@@ -315,7 +309,7 @@ https://cdntv.tbs.seoul.kr/tbs/tbs_tv_web.smil/playlist.m3u8
 http://1.245.74.5:1935/live/tv/.m3u8
 
 #EXTINF:-1 tvg-id="TVN.cl@SD" tvg-logo="https://i.imgur.com/3FKZHL4.png" group-title="韩国",TVN (1080p)
-http://45.162.193.35/TVN/index.m3u8
+http://15.204.246.24:8080/TVNHD/index.m3u8
 
 #EXTINF:-1 tvg-id="TVN.do@HD" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/4037-294x165-FFFFFF.jpg" group-title="韩国",TVN (1080p) [Not 24/7]
 https://5790d294af2dc.streamlock.net/tvn/tvn/playlist.m3u8
@@ -328,9 +322,6 @@ http://59.23.231.102:1935/live/UBCstream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="WShopping.kr@SD" tvg-logo="https://i.imgur.com/hfXjVJd.png" group-title="韩国",W Shopping (720p)
 https://liveout.catenoid.net/live-05-wshopping/wshopping_1500k/playlist.m3u8
-
-#EXTINF:-1 tvg-id="WBSTV.kr@SD" tvg-logo="https://i.imgur.com/Lhz1Egi.png" group-title="韩国",WBS TV (720p)
-http://157.245.196.186/live/livestream.m3u8
 
 #EXTINF:-1 tvg-id="YTN.kr@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/YTN_logo_2014.svg/960px-YTN_logo_2014.svg.png" group-title="韩国",YTN (720p)
 http://202.60.106.14:8080/214/playlist.m3u8

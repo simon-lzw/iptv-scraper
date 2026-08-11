@@ -1,7 +1,7 @@
 #EXTM3U
 #PLAYLIST: 智利 (CL) IPTV 直播源
-#生成时间: 2026-08-11 03:42:00
-#频道数: 150
+#生成时间: 2026-08-11 14:55:11
+#频道数: 136
 
 # ===== 智利 (CL) =====
 
@@ -35,9 +35,6 @@ https://tls-cl.cdnz.cl/aeradio/live/playlist.m3u8
 #EXTINF:-1 tvg-id="AMCanal.cl@SD" tvg-logo="https://i.imgur.com/wfi9NXL.png" group-title="智利",AM Canal
 https://streaming.bitsur.cl:3534/live/vdo1102live.m3u8
 
-#EXTINF:-1 tvg-id="ApocalipsisTVD.cl@SD" tvg-logo="https://i.imgur.com/XNrYx1n.png" group-title="智利",Apocalipsis TVD (720p)
-https://us.streaminghd.cl/apocalipsistvd/video.m3u8
-
 #EXTINF:-1 tvg-id="AtacamaNoticias.cl@SD" tvg-logo="https://i.imgur.com/Avx4Ecf.png" group-title="智利",Atacama Noticias (720p) [Not 24/7]
 https://v2.tustreaming.cl/atacamanoticias/index.m3u8
 
@@ -66,7 +63,7 @@ https://tls-cl.cdnz.cl/canal21tv/live/playlist.m3u8
 https://sktv-forwarders.7m.pl/get.php?x=Canal13
 
 #EXTINF:-1 tvg-id="Canal13.cl@SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/01/Canal_13_2018.png/revision/latest/scale-to-width-down/512/" group-title="智利",Canal 13 (1080p)
-http://38.250.127.17:9800/play/a067/index.m3u8
+http://15.204.246.24:8080/Canal13HD/index.m3u8
 
 #EXTINF:-1 tvg-id="Canal13Bajio.mx@SD" tvg-logo="https://i.imgur.com/SlycKgZ.png" group-title="智利",Canal 13 Bajío (720p) [Not 24/7]
 https://stream-207963.castr.net/65313d270e749722b6474684/live_1c690d40dfb711eeabd66ba1b9ba93a1/index.fmp4.m3u8
@@ -120,7 +117,7 @@ https://oracle.streaminghd.cl/canal-del-sur/canal-del-sur/playlist.m3u8
 https://v2.tustreaming.cl/chilechannel/index.m3u8
 
 #EXTINF:-1 tvg-id="ChileVision.cl@SD" tvg-logo="https://i.imgur.com/PRijvR0.png" group-title="智利",ChileVision (1080p)
-http://45.162.193.35/CHILEVISION/index.m3u8
+http://15.204.246.24:8080/CHVHD/index.m3u8
 
 #EXTINF:-1 tvg-id="CHVNoticias.cl" tvg-logo="https://i.imgur.com/Qh6d0A9.png" group-title="智利",Chilevisión Noticias
 https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/chvn/chvn.smil/playlist.m3u8
@@ -206,17 +203,11 @@ https://scl.edge.grupoz.cl/isatv/live/playlist.m3u8
 #EXTINF:-1 tvg-id="InterradioTV.cl@SD" tvg-logo="https://i.imgur.com/3875n4G.png" group-title="智利",Interradio TV
 https://tv.arkeo.cl:1936/8002/8002/playlist.m3u8
 
-#EXTINF:-1 tvg-id="InvasivaTV.py@SD" tvg-logo="https://i.imgur.com/R9E6jEC.png" group-title="智利",Invasiva TV (720p)
-http://cdn.cl.scl.edge.01.zplay.cl/Invasiva/video.m3u8?token=l1kw8GqMdTR5_3
-
 #EXTINF:-1 tvg-id="IslitaTV.cl@SD" tvg-logo="https://i.imgur.com/YGLbCeC.png" group-title="智利",Islita TV (1080p)
 https://tv.arkeo.cl:1936/unetev/unetev/playlist.m3u8
 
 #EXTINF:-1 tvg-id="JuntosTV.cl@SD" tvg-logo="https://i.imgur.com/U62q2eM.png" group-title="智利",Juntos TV (720p)
 https://video.juntostvchile.cl:8879/hls/web-jntv.m3u8
-
-#EXTINF:-1 tvg-id="Kanade.cl@SD" tvg-logo="https://static.kanade.cl/assets/img/profilepic_512px.png" group-title="智利",Kanade (1080p)
-https://backend.energeek.cl/webtv/kanadeweb/index.m3u8?token=ZZDemoIPTVGH
 
 #EXTINF:-1 tvg-id="LaComarcaTV.cl@SD" tvg-logo="https://cdn.m3u.cl/logo/1698_La_Comarca_TV.png" group-title="智利",La Comarca TV (720p)
 https://v2.tustreaming.cl/lcomarcatv/index.m3u8
@@ -230,17 +221,14 @@ https://v1.tustreaming.cl/melinkana/index.m3u8
 #EXTINF:-1 tvg-id="LaPopularTV.cl@SD" tvg-logo="https://i.imgur.com/AWdgMCC.png" group-title="智利",La Popular TV
 https://tv.arkeo.cl:1936/enlacetv1/enlacetv1/playlist.m3u8
 
-#EXTINF:-1 tvg-id="LaRed.cl@SD" tvg-logo="https://i.imgur.com/nJOVM6e.png" group-title="智利",La Red (720p)
-http://45.162.193.35/LA_RED/index.m3u8
+#EXTINF:-1 tvg-id="LaRed.cl@SD" tvg-logo="https://i.imgur.com/nJOVM6e.png" group-title="智利",La Red (720p) [Not 24/7]
+https://alba-cl-lared-lared.stream.mediatiquestream.com/index.m3u8
 
 #EXTINF:-1 tvg-id="LilaTVPencahue.cl@SD" tvg-logo="https://i.imgur.com/widaSu3.png" group-title="智利",Lila TV Pencahue
 https://tv.arkeo.cl:1936/radiolila/radiolila/playlist.m3u8
 
 #EXTINF:-1 tvg-id="MargaMargaTV.cl@SD" tvg-logo="https://i.imgur.com/4cg51eE.png" group-title="智利",Marga Marga TV (720p)
 https://v1.tustreaming.cl/margamargatv/index.m3u8
-
-#EXTINF:-1 tvg-id="Maulevision.cl@SD" tvg-logo="https://i.imgur.com/KIeb7mk.png" group-title="智利",Maulevision (720p)
-https://v2.tustreaming.cl/maulevisiontv/index.m3u8
 
 #EXTINF:-1 tvg-id="MiRadioTV.cl@SD" tvg-logo="https://i.imgur.com/XEpLWJw.png" group-title="智利",Mi Radio TV
 https://scl.edge.grupoz.cl/miradio2/live/playlist.m3u8
@@ -272,17 +260,8 @@ https://orbitachiletv.org/hls/0/stream.m3u8
 #EXTINF:-1 tvg-id="PRIDEtvLATAM.cl@HD" tvg-logo="https://neotv.cl/img/pridetv-512.png" group-title="智利",PRIDEtv LATAM (1080p)
 https://backend.energeek.cl/webtv/pridetvweb/index.m3u8?token=ZZDemoIPTVGH
 
-#EXTINF:-1 tvg-id="PacificoTelevision.cl@SD" tvg-logo="https://i.imgur.com/6I26SLa.png" group-title="智利",Pacifico Television (720p)
-https://us.streaminghd.cl/pacificotelevision/video.m3u8
-
-#EXTINF:-1 tvg-id="Portalfoxmix.cl@SD" tvg-logo="https://i.imgur.com/ZEBOeGe.png" group-title="智利",Portalfoxmix
-https://panel.tvstream.cl:1936/8040/8040/playlist.m3u8
-
 #EXTINF:-1 tvg-id="PreludioTV.cl@SD" tvg-logo="https://www.preludioradio.cl/wp-content/uploads/2023/06/logopreludio.png" group-title="智利",Preludio TV
 https://tv.arkeo.cl:1936/preludio/preludio/playlist.m3u8
-
-#EXTINF:-1 tvg-id="PudahuelTV.cl@SD" tvg-logo="https://cdn.m3u.cl/logo/1754_Pudahuel_TV.png" group-title="智利",Pudahuel TV (720p)
-https://panel.tvstream.cl:1936/8000/8000/playlist.m3u8
 
 #EXTINF:-1 tvg-id="RTVNuble.cl@SD" tvg-logo="https://i.imgur.com/BDKgDZG.png" group-title="智利",RTV Nuble
 https://tv.arkeo.cl:1936/canalrtv/canalrtv/playlist.m3u8
@@ -292,9 +271,6 @@ https://v2.tustreaming.cl/radioancoatv/index.m3u8
 
 #EXTINF:-1 tvg-id="RadioArmoniaTV.cl@SD" tvg-logo="https://i.imgur.com/puWBnP3.png" group-title="智利",Radio Armonia TV (720p)
 https://v2.tustreaming.cl/armoniamovil/index.m3u8
-
-#EXTINF:-1 tvg-id="RadioCamilaTV.cl@SD" tvg-logo="https://cdn.m3u.cl/logo/410_Radio_Camila_TV.png" group-title="智利",Radio Camila TV (720p)
-https://panel.tvstream.cl:1936/8008/8008/playlist.m3u8
 
 #EXTINF:-1 tvg-id="RadioContemporaneaCoihueco.cl@SD" tvg-logo="https://cdn.m3u.cl/logo/1493_Radio_Contemporanea_Coihueco.png" group-title="智利",Radio Contemporanea Coihueco (720p)
 https://tv.arkeo.cl:19360/8046/8046.m3u8
@@ -350,9 +326,6 @@ https://tls-cl.cdnz.cl/rewindtv/live/playlist.m3u8
 #EXTINF:-1 tvg-id="RitoqueTV.cl@SD" tvg-logo="https://i.imgur.com/nTVJcFA.png" group-title="智利",Ritoque TV (720p)
 https://streaming.purum.cl/ritoquetv/index.m3u8
 
-#EXTINF:-1 tvg-id="RuidosFM.cl@SD" tvg-logo="https://i.imgur.com/avIcT83.png" group-title="智利",Ruidos FM
-https://tv1.ruidosfm.cl/ruidostv/stream.m3u8
-
 #EXTINF:-1 tvg-id="SaborTV.cl@SD" tvg-logo="https://cdn.m3u.cl/logo/416_Sabor_TV.png" group-title="智利",Sabor TV (720p)
 https://v1.tustreaming.cl/sabortv/index.m3u8
 
@@ -362,14 +335,14 @@ https://v4.tustreaming.cl/sannicolastv/index.m3u8
 #EXTINF:-1 tvg-id="SoloTV.cl" tvg-logo="https://i.imgur.com/Ad2ueID.png" group-title="智利",SoloTV
 https://stream.making.cl/memfs/ee909361-73e9-4e74-8391-5f1b0b8006c2.m3u8
 
+#EXTINF:-1 tvg-id="SuramTV.co@SD" tvg-logo="https://i.imgur.com/2N9LCES.png" group-title="智利",Suram TV (720p)
+https://us.streaminghd.cl/suramtv/index.m3u8
+
 #EXTINF:-1 tvg-id="T13.cl" tvg-logo="https://i.imgur.com/3CEijac.png" group-title="智利",T13 en vivo
 https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/t13/t13.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TNE.cl@SD" tvg-logo="https://i.imgur.com/8QbvXva.png" group-title="智利",TNE (720p) [Not 24/7]
 https://v2.tustreaming.cl/tnetv/index.m3u8
-
-#EXTINF:-1 tvg-id="TVChile.cl@SD" tvg-logo="https://i.imgur.com/oYFto0V.png" group-title="智利",TV Chile (1080p)
-https://edgectc.com/TV_CHILE_HD/index.m3u8
 
 #EXTINF:-1 tvg-id="TVChile.cl" tvg-logo="https://i.imgur.com/yCL888l.png" group-title="智利",TV Chile Ⓖ
 https://mdstrm.com/live-stream-playlist/533adcc949386ce765657d7c.m3u8
@@ -382,9 +355,6 @@ https://stv4.janus.cl/playlist/stream.m3u8
 
 #EXTINF:-1 tvg-id="TVPlus.cl" tvg-logo="https://i.imgur.com/NtuZIEJ.png" group-title="智利",TV+ Ⓖ
 https://mdstrm.com/live-stream-playlist/5c0e8b19e4c87f3f2d3e6a59.m3u8
-
-#EXTINF:-1 tvg-id="TV8Concepcion.cl@SD" tvg-logo="https://i.imgur.com/cx6SWNf.png" group-title="智利",TV8 Concepcion
-https://panel.tvstream.cl:1936/sdaumqtfqf/sdaumqtfqf/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TVM.cl@SD" tvg-logo="https://i.imgur.com/9dwZoxz.png" group-title="智利",TVM (720p)
 https://streams.kanade.cl/canaltvm/index.m3u8
@@ -400,9 +370,6 @@ https://origin-us.streaminghd.cl/telecanal/telecanal/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Televida.cl@SD" tvg-logo="https://i.imgur.com/bmNA8hq.png" group-title="智利",Televida (1080p)
 https://tls-cl.cdnz.cl/televida/live/playlist.m3u8
-
-#EXTINF:-1 tvg-id="TemucoTelevision.cl@SD" tvg-logo="https://i.imgur.com/8cFdw8R.png" group-title="智利",Temuco Television
-https://mediacp.nnw.cl:19360/temucotelevision/temucotelevision.m3u8
 
 #EXTINF:-1 tvg-id="TendenciasPrime.cl@SD" tvg-logo="https://i.imgur.com/nDWW4m7.png" group-title="智利",Tendencias Prime (720p)
 https://v4.tustreaming.cl/tendenciastv/index.m3u8
@@ -428,20 +395,11 @@ https://unlimited1-cl-isp.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="UChileTV.cl" tvg-logo="https://i.imgur.com/mF2W8Uh.png" group-title="智利",UChile TV
 https://unlimited1-us.dps.live/uchiletv/uchiletv.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="UESTV.cl@SD" tvg-logo="https://i.imgur.com/tAyiNZV.png" group-title="智利",UESTV (720p)
-https://tls-cl.cdnz.cl/uestv/live/playlist.m3u8
-
 #EXTINF:-1 tvg-id="UMAGTV.cl@SD" tvg-logo="https://i.imgur.com/biXepTU.png" group-title="智利",UMAGTV
 https://tls-cl.cdnz.cl/umag1/ngrp:live_all/playlist.m3u8
 
-#EXTINF:-1 tvg-id="UMAGTV2.cl@SD" tvg-logo="https://i.imgur.com/ZWWAnsP.png" group-title="智利",UMAGTV2
-https://tls-cl.cdnz.cl/umag2/live/playlist.m3u8
-
 #EXTINF:-1 tvg-id="UTV.cl@SD" tvg-logo="https://i.imgur.com/ZJNSpfZ.png" group-title="智利",UTV (720p)
 https://v2.tustreaming.cl/utv/index.m3u8
-
-#EXTINF:-1 tvg-id="VCOnline.cl@SD" tvg-logo="https://i.imgur.com/VlKl2VB.png" group-title="智利",VC Online (720p)
-https://panel.tvstream.cl:1936/8024/8024/playlist.m3u8
 
 #EXTINF:-1 tvg-id="VersoTV.cl@SD" tvg-logo="https://i.imgur.com/zdv4IF8.png" group-title="智利",Verso TV
 https://verso.coopcom.cl/live/SHf6GLCpn4hDSpWdzaDzgX0ciU82/index.m3u8

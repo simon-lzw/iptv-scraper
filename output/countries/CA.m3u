@@ -1,7 +1,7 @@
 #EXTM3U
 #PLAYLIST: 加拿大 (CA) IPTV 直播源
-#生成时间: 2026-08-11 03:42:00
-#频道数: 122
+#生成时间: 2026-08-11 14:55:11
+#频道数: 120
 
 # ===== 加拿大 (CA) =====
 
@@ -137,9 +137,6 @@ http://185.246.209.113/ANIMALPLANETHD/index.m3u8
 #EXTINF:-1 tvg-id="CTVNewsChannel.ca" tvg-logo="https://i.imgur.com/T3oBeiX.png" group-title="加拿大",CTV News
 https://pe-fa-lp02a.9c9media.com/live/News1Digi/p/hls/00000201/38ef78f479b07aa0/index/0c6a10a2/live/stream/h264/v1/3500000/manifest.m3u8
 
-#EXTINF:-1 tvg-id="CTVSpeedChannel.ca@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Updated_CTV_Speed_Channel_Logo.png" group-title="加拿大",CTV Speed Channel (720p)
-https://gpuserver3.tier1streams.com/DISCOVERY_SCIENCE_HD/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qOutOWN.png" group-title="加拿大",CTV Toronto
 https://bozztv.com/teleyupp1/teleup-zxsJFt6VvY/playlist.m3u8
 
@@ -151,9 +148,6 @@ https://bozztv.com/teleyupp1/teleup-iSykLSKMFr/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="EWTN.us@Canada" tvg-logo="https://i.imgur.com/sua70RO.png" group-title="加拿大",EWTN Canada (720p)
 https://cdn3.wowza.com/1/YW5wSWZiRGd2eFlU/bGV0aVBq/hls/live/playlist.m3u8
-
-#EXTINF:-1 tvg-id="GHCanadaTV.ca@SD" group-title="加拿大",GH Canada TV
-https://stream.bozztv.com/tvstat-tamar/tvstat-tamar/playlist.m3u8
 
 #EXTINF:-1 tvg-id="GTNCanada.ca@SD" tvg-logo="https://i.imgur.com/7bQPJOd.png" group-title="加拿大",GTN Canada (1080i) [Geo-blocked]
 https://streamer12.vdn.dstreamone.net/carishowtime/showtime/chunks.m3u8
@@ -212,8 +206,11 @@ https://i.mjh.nz/PlutoTV/62cc0120880c890007191016-alt.m3u8
 #EXTINF:-1 tvg-id="GlobalPunjab.in@SD" tvg-logo="https://i.imgur.com/WDLqcWW.png" group-title="加拿大",Global Punjab (1080p)
 https://server.livelegitpro.in/globalpunjab/globalpunjab/index.m3u8
 
-#EXTINF:-1 tvg-id="GlobalTelevision.bd@SD" tvg-logo="https://i.imgur.com/oe0pq1R.png" group-title="加拿大",Global TV (720p)
-https://tvsen6.aynaott.com/globaltvhd/index.m3u8
+#EXTINF:-1 tvg-id="GlobalTV.pe@SD" tvg-logo="https://i.imgur.com/yuEou9C.png" group-title="加拿大",Global TV (1080p)
+http://190.93.224.42/GLOBAL/index.m3u8
+
+#EXTINF:-1 tvg-id="GlobalTV.do@SD" tvg-logo="https://i.imgur.com/1rQaROm.png" group-title="加拿大",Global TV (720p)
+https://stmv4.voxtvhd.com.br/globaltv/globaltv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2CxLO4H.png" group-title="加拿大",Global Toronto
 https://d128o1k7zh3htz.cloudfront.net/out/v1/74a58360a3734f97b74ba439bc678044/index.m3u8
@@ -364,9 +361,6 @@ http://cdn3.toronto360.tv:8081/toronto360/hd/playlist.m3u8
 
 #EXTINF:-1 tvg-id="CIVMDT.ca" tvg-logo="https://i.imgur.com/8grBWK9.png" group-title="加拿大",Télé Québec
 https://bcovlive-a.akamaihd.net/575d86160eb143458d51f7ab187a4e68/us-east-1/6101674910001/playlist.m3u8
-
-#EXTINF:-1 tvg-id="ZeeTVCanada.ca@SD" tvg-logo="https://i.imgur.com/mARKUZ9.png" group-title="加拿大",Zee TV Canada (1080p)
-https://origin-cae-m462953.toober.com/4c3caf7294b3/c8bf99484885/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Zoom.in@Global" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZOOM/images/LOGO_HD/image.png" group-title="加拿大",Zoom Global (720p)
 https://d14c63magvk61v.cloudfront.net/strm/channels/zoom/master.m3u8

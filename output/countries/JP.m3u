@@ -1,12 +1,12 @@
 #EXTM3U
 #PLAYLIST: 日本 (JP) IPTV 直播源
-#生成时间: 2026-08-11 03:42:00
-#频道数: 79
+#生成时间: 2026-08-11 14:55:11
+#频道数: 73
 
 # ===== 日本 (JP) =====
 
 #EXTINF:-1 tvg-id="BSFilm.pk@SD" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3953-640x360-FFFFFF.jpg" group-title="日本",BS Film (576p)
-https://live20.bozztv.com/akamaissh101/ssh101/bsfilm/playlist.m3u8
+https://lbgo.bozztv.com/ssh101/ssh101/bsfilm/playlist.m3u8
 
 #EXTINF:-1 tvg-id="BSTBS.jp" tvg-logo="https://i.imgur.com/BSt9UG2.png" group-title="日本",BS-TBS
 https://stream01.willfonk.com/live_playlist.m3u8?cid=BS161&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
@@ -101,29 +101,11 @@ https://nhk.lls.pbs.org/index.m3u8
 #EXTINF:-1 tvg-id="JOAKDTV.jp" tvg-logo="https://i.imgur.com/fAZ2BEZ.png" group-title="日本",NHK総合 (東京)
 https://stream01.willfonk.com/live_playlist.m3u8?cid=BS291&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 
-#EXTINF:-1 tvg-id="NTV.bd@SD" tvg-logo="https://i.imgur.com/l75bDTx.png" group-title="日本",NTV (1080p)
-https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/index.m3u8
-
-#EXTINF:-1 tvg-id="NTV.ru@SD" tvg-logo="https://i.imgur.com/9r1BKzK.png" group-title="日本",NTV (576p)
-http://94.230.128.107:8080/HTB/index.m3u8
-
 #EXTINF:-1 tvg-id="NTV.ci@SD" tvg-logo="https://i.imgur.com/qqLXdHz.png" group-title="日本",NTV Afrique (1080p) [Not 24/7]
 https://strhlslb01.streamakaci.tv/str_ntv_ntv/str_ntv_ntv_multi/playlist.m3u8
 
-#EXTINF:-1 tvg-id="NTVEurope.bd@SD" tvg-logo="https://europentv.ntvbd.com/sites/all/themes/sloth/logo.png" group-title="日本",NTV Europe (576p)
-http://tvsen5.aynascope.net/ntveurope/index.m3u8
-
 #EXTINF:-1 tvg-id="NTV.ru@HD" tvg-logo="https://i.imgur.com/9r1BKzK.png" group-title="日本",NTV HD (1080p)
 https://bl.rutube.ru/livestream/c37cd74192c6bc3d6cd6077c0c4fd686/index.m3u8?e=2077050299&s=HSWg81JrQ3OqmwuWkEIDAQ&scheme=https
-
-#EXTINF:-1 tvg-id="NTVICKakanj.ba@SD" tvg-logo="https://i.imgur.com/EtaHm2P.png" group-title="日本",NTV IC Kakanj (720p)
-https://lon.rtsp.me/dEqnY-myGj84bKrieCIPfA/1743271667/hls/3dH3YAD6.m3u8
-
-#EXTINF:-1 tvg-id="NTVItahari.np@SD" tvg-logo="https://i.imgur.com/lxQAb3k.png" group-title="日本",NTV Itahari (576p)
-http://tvsen7.aynascope.net/NTV_Itahari/index.m3u8
-
-#EXTINF:-1 tvg-id="NTVKohalpur.np@SD" tvg-logo="https://i.imgur.com/iaFUcW6.png" group-title="日本",NTV Kohalpur (576p)
-http://tvsen7.aynascope.net/NTV_Kohalpur/index.m3u8
 
 #EXTINF:-1 tvg-id="NTVLaw.ru@SD" tvg-logo="https://i.imgur.com/3ChnWGg.png" group-title="日本",NTV Law (576p)
 http://hls127.freeott.top:8080/NTV_PRAVO_TV/video.m3u8
@@ -131,8 +113,11 @@ http://hls127.freeott.top:8080/NTV_PRAVO_TV/video.m3u8
 #EXTINF:-1 tvg-id="NTVMir.ru@SD" tvg-logo="https://i.imgur.com/pUcV46F.png" group-title="日本",NTV Mir (576p)
 http://5.188.159.128:8070/ntvmir_TV/index.m3u8
 
+#EXTINF:-1 tvg-id="NTV.ru@SD" tvg-logo="https://i.imgur.com/9r1BKzK.png" group-title="日本",NTV SD (576p)
+http://45.153.24.78/NTV/index.m3u8
+
 #EXTINF:-1 tvg-id="NTVSeries.ru@SD" tvg-logo="https://i.imgur.com/QdVa8tl.png" group-title="日本",NTV Series (576p)
-https://cdn-dvr.ntv.ru/th_serial/index.m3u8
+http://stream.mcquack.net/301/index.m3u8
 
 #EXTINF:-1 tvg-id="NTVStyle.ru@SD" tvg-logo="https://i.imgur.com/rX6K6qT.png" group-title="日本",NTV Style (576p)
 http://hls127.freeott.top:8080/NTV_STIL_TV/video.m3u8
@@ -145,9 +130,6 @@ https://cdn.ntv.ru/vitrina/index.m3u8
 
 #EXTINF:-1 tvg-id="NTVPlus.ca@SD" tvg-logo="https://i.imgur.com/YEUhPBv.png" group-title="日本",NTV+
 https://2-fss-1.streamhoster.com/pl_122/201748-1431018-1/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="NTVHit.ru@SD" tvg-logo="https://i.imgur.com/FfKBvz5.png" group-title="日本",NTV-Hit (1080p)
-https://cdn-dvr.ntv.ru/th_hit/index.m3u8
 
 #EXTINF:-1 tvg-id="QVC.jp@SD" tvg-logo="https://i.imgur.com/6TWUVrh.png" group-title="日本",QVC (1080p)
 https://d1flvb4iqlercm.cloudfront.net/live/live_1080p_2nd.m3u8

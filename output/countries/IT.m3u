@@ -1,7 +1,7 @@
 #EXTM3U
 #PLAYLIST: 意大利 (IT) IPTV 直播源
-#生成时间: 2026-08-11 03:42:00
-#频道数: 594
+#生成时间: 2026-08-11 14:55:11
+#频道数: 595
 
 # ===== 意大利 (IT) =====
 
@@ -16,6 +16,9 @@ https://5929b138b139d.streamlock.net/12TVParma/livestream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4BHrbP7.png" group-title="意大利",16 anni e incinta – Pluto TV
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60940a07d88ba90007b9cb71/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+
+#EXTINF:-1 tvg-id="20.it@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/20_Mediaset_2018.svg/960px-20_Mediaset_2018.svg.png" group-title="意大利",20 Mediaset [Geo-blocked]
+https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(lb)/index.m3u8
 
 #EXTINF:-1 tvg-id="20.it" tvg-logo="https://i.imgur.com/It13jwX.png" group-title="意大利",20 Mediaset Ⓖ
 https://live02-seg.msf.cdn.mediaset.net/live/ch-lb/lb-clr.isml/index.m3u8
@@ -160,6 +163,9 @@ https://0ff9dd7fe9b64bc08a5fc4ed525454c3.msvdn.net/live/S38994111/B7j0ql4XaZtE/p
 
 #EXTINF:-1 tvg-id="Canale21Extra.it" tvg-logo="https://i.imgur.com/cDAsrBl.png" group-title="意大利",Canale 21 Extra
 https://0ff9dd7fe9b64bc08a5fc4ed525454c3.msvdn.net/live/S42170132/sT6C3LFaD1iA/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Canale5.it@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Canale_5_-_2018_logo.svg/960px-Canale_5_-_2018_logo.svg.png" group-title="意大利",Canale 5 [Geo-blocked]
+https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(C5)/index.m3u8
 
 #EXTINF:-1 tvg-id="Canale.5.it" tvg-logo="https://i.imgur.com/p6YdiR1.png" group-title="意大利",Canale 5 Ⓖ
 https://live02-seg.msf.cdn.mediaset.net/live/ch-c5/c5-clr.isml/index.m3u8
@@ -434,9 +440,6 @@ https://d6m7lubks416z.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0xT7bZP.jpg" group-title="意大利",Full Moon
 https://minerva-fullmoon-1-it.samsung.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="GM24.it@SD" tvg-logo="https://i.imgur.com/PoXd0su.png" group-title="意大利",GM24 (480p)
-https://streaming.softwarecreation.it/GM24/GM24/playlist.m3u8
-
 #EXTINF:-1 tvg-id="GOTVCanale163.it" tvg-logo="https://i.imgur.com/xgjrAAn.png" group-title="意大利",GO-TV Channel
 https://6zklxkbbdw9b-hls-live.mariatvcdn.it/msmotor/2f759512164fc6fe4acbed6a5648993a.sdp/playlist.m3u8
 
@@ -523,6 +526,9 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/612375086
 
 #EXTINF:-1 tvg-id="Iris.it" tvg-logo="https://i.imgur.com/Ixz1BY3.png" group-title="意大利",Iris Ⓖ
 https://live02-seg.msf.cdn.mediaset.net/live/ch-ki/ki-clr.isml/index.m3u8
+
+#EXTINF:-1 tvg-id="Italia1.it@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Italia_1_logo.svg/500px-Italia_1_logo.svg.png" group-title="意大利",Italia 1 [Geo-blocked]
+https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(i1)/index.m3u8
 
 #EXTINF:-1 tvg-id="Italia.1.it" tvg-logo="https://i.imgur.com/oCiOxBG.png" group-title="意大利",Italia 1 Ⓖ
 https://live02-seg.msf.cdn.mediaset.net/live/ch-i1/i1-clr.isml/index.m3u8
@@ -649,6 +655,9 @@ https://1601580044.rsc.cdn77.org/live/_jcn_/amls:CHANNEL_2/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/m1HeXrn.png" group-title="意大利",Matrix Tv
 https://5f22d76e220e1.streamlock.net/GrandeItalia/GrandeItalia/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MediasetExtra.it@SD" tvg-logo="https://i.imgur.com/G51Lvah.png" group-title="意大利",Mediaset Extra [Geo-blocked]
+https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(kq)/index.m3u8
 
 #EXTINF:-1 tvg-id="Mediaset.Extra.it" tvg-logo="https://i.imgur.com/mM8lopo.png" group-title="意大利",Mediaset Extra Ⓖ
 https://live02-seg.msf.cdn.mediaset.net/live/ch-kq/kq-clr.isml/index.m3u8
@@ -914,14 +923,8 @@ https://radioitaliatv.akamaized.net/hls/live/2093117/RadioitaliaTV/master.m3u8
 #EXTINF:-1 tvg-id="Rai1.it@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Rai_1_-_Logo_2016.svg/960px-Rai_1_-_Logo_2016.svg.png" group-title="意大利",Rai 1 (720p)
 https://dash2.antik.sk/live/test_rai_uno_tizen/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Rai1.it@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Rai_1_-_Logo_2016.svg/960px-Rai_1_-_Logo_2016.svg.png" group-title="意大利",Rai 1 HD (1080p)
-https://srv1.adriatelekom.com/Rai1/index.m3u8
-
 #EXTINF:-1 tvg-id="Rai1.it" tvg-logo="https://i.imgur.com/CAx7yRm.png" group-title="意大利",Rai 1 Ⓖ
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=2606803&output=7&forceUserAgent=rainet/4.0.5
-
-#EXTINF:-1 tvg-id="Rai2.it@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Rai_2_-_Logo_2016.svg/960px-Rai_2_-_Logo_2016.svg.png" group-title="意大利",Rai 2 HD (1080p)
-https://srv1.adriatelekom.com/Rai2/index.m3u8
 
 #EXTINF:-1 tvg-id="Rai2.it" tvg-logo="https://i.imgur.com/zA0PTcs.png" group-title="意大利",Rai 2 Ⓖ
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=308718&output=7&forceUserAgent=rainet/4.0.5

@@ -1,7 +1,7 @@
 #EXTM3U
 #PLAYLIST: 瑞士 (CH) IPTV 直播源
-#生成时间: 2026-08-11 03:42:00
-#频道数: 24
+#生成时间: 2026-08-11 14:55:11
+#频道数: 22
 
 # ===== 瑞士 (CH) =====
 
@@ -13,9 +13,6 @@ http://190.2.155.162/RSI2/index.m3u8
 
 #EXTINF:-1 tvg-id="RTS.ec@SD" tvg-logo="https://i.imgur.com/PML8cJA.png" group-title="瑞士",RTS (1080p)
 http://45.171.108.253:8888/RTS/index.m3u8
-
-#EXTINF:-1 tvg-id="RTS1.ch@SD" tvg-logo="https://i.imgur.com/OP5lHv9.png" group-title="瑞士",RTS 1 (720p)
-http://41.205.70.146/RTSUN/index.m3u8
 
 #EXTINF:-1 tvg-id="RTS2.rs@SD" tvg-logo="https://i.imgur.com/jltAf5h.png" group-title="瑞士",RTS 2 (1080p)
 https://de1.dstv.cx/RTS2HD/index.m3u8
@@ -61,9 +58,6 @@ https://58de7a369a9c4.streamlock.net/srf/stream_720p/playlist.m3u8
 
 #EXTINF:-1 tvg-id="SRF1.ch" tvg-logo="https://i.imgur.com/KCPHba2.png" group-title="瑞士",SRF 1
 http://51.91.73.99:25461/sweden/PM66f7Y43H/25849
-
-#EXTINF:-1 tvg-id="ShivaLiveTV.ch@SD" tvg-logo="https://i.imgur.com/F2LUpAB.jpg" group-title="瑞士",Shiva Live TV (1080p)
-https://streameurope.ch/live/shivalivetv.m3u8
 
 #EXTINF:-1 tvg-id="TVM3.ch" tvg-logo="https://i.imgur.com/3v6iZE6.png" group-title="瑞士",TVM 3
 http://livevideo.infomaniak.com/streaming/livecast/tvm3/playlist.m3u8

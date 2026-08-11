@@ -1,7 +1,7 @@
 #EXTM3U
 #PLAYLIST: 阿根廷 (AR) IPTV 直播源
-#生成时间: 2026-08-11 03:42:00
-#频道数: 80
+#生成时间: 2026-08-11 14:55:11
+#频道数: 75
 
 # ===== 阿根廷 (AR) =====
 
@@ -11,9 +11,6 @@ https://www.youtube.com/c/A24com/live
 #EXTINF:-1 tvg-id="ABTVBariloche.ar@SD" tvg-logo="https://i.imgur.com/l4TSfDr.png" group-title="阿根廷",ABTV Bariloche
 https://videostream.shockmedia.com.ar/hls/abtvbariloche/abtvbariloche.m3u8
 
-#EXTINF:-1 tvg-id="ATVArgentina.ar@SD" tvg-logo="https://i.ibb.co/rMBVDmZ/atvargentina-x1.png" group-title="阿根廷",ATV Argentina
-https://tv.streaming.com.bo/atvargentina/index.m3u8
-
 #EXTINF:-1 tvg-id="AlternaTV.ar@SD" tvg-logo="https://tv.alterna.ar/alternatv.png" group-title="阿根廷",Alterna TV (720p) [Not 24/7]
 https://tv.alterna.ar/stream/hls/live.m3u8
 
@@ -22,9 +19,6 @@ http://playcom.trapemn.tv:1935/transcoderip/america.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="AmericaTV.ar" tvg-logo="https://i.imgur.com/Jt7dOQm.png" group-title="阿根廷",América Ⓨ
 https://www.youtube.com/c/americaenvivo/live
-
-#EXTINF:-1 tvg-id="AtccoCanal2.ar@SD" tvg-logo="https://i.imgur.com/RdwpYUT.png" group-title="阿根廷",Atcco Canal 2
-https://ola1.com.ar/atccohd/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Aunar.ar" tvg-logo="http://tvabierta.weebly.com/uploads/5/1/3/4/51344345/aunar.png" group-title="阿根廷",Aunar
 https://5fb24b460df87.streamlock.net/live-cont.ar/mirador/playlist.m3u8
@@ -125,6 +119,9 @@ https://octubre-live.cdn.vustreams.com/live/channel09/live.isml/live.m3u8
 #EXTINF:-1 tvg-id="ElTrece.ar" tvg-logo="https://i.imgur.com/ZK7AQFg.png" group-title="阿根廷",El Trece
 https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
 
+#EXTINF:-1 tvg-id="ElTrece.ar@SD" tvg-logo="https://i.imgur.com/TrgBAdA.png" group-title="阿根廷",El Trece (1080p)
+http://15.204.246.24:8080/eltreceHD/index.m3u8
+
 #EXTINF:-1 tvg-id="Encuentro.ar" tvg-logo="https://i.imgur.com/IyP2UIx.png" group-title="阿根廷",Encuentro Ⓨ Ⓖ
 https://www.youtube.com/user/encuentro/live
 
@@ -140,17 +137,11 @@ https://vd01.streaminghd.net.ar:3349/live/bzuctkgnlive.m3u8
 #EXTINF:-1 tvg-id="LaNacionPlus.ar" tvg-logo="https://i.imgur.com/vJYzGt1.png" group-title="阿根廷",LN+ Ⓨ
 https://www.youtube.com/c/LaNacionMas/live
 
-#EXTINF:-1 tvg-id="LitusTV.ar@SD" tvg-logo="https://i.imgur.com/QIGSf4L.png" group-title="阿根廷",Litus TV (720p)
-https://stream.arcast.com.ar/litustv/ngrp:litustv_all/playlist.m3u8
-
 #EXTINF:-1 group-title="阿根廷",MasterChef Argentina
 https://jmp2.uk/plu-69fcaa88e022927e1c94c533.m3u8
 
 #EXTINF:-1 tvg-id="MercurioNoticias.ar@SD" tvg-logo="https://i.imgur.com/sfd87LX.png" group-title="阿根廷",Mercurio Noticias
 https://videostream.shockmedia.com.ar/hls/mercuriotv/mercuriotv.m3u8
-
-#EXTINF:-1 group-title="阿根廷",Milennio TV (720p)
-https://videostream.shockmedia.com.ar:19360/milenniotv/milenniotv.m3u8
 
 #EXTINF:-1 tvg-id="MusicTop.ar@SD" tvg-logo="https://cdn.mitvstatic.com/channels/ar_musictop_m.png" group-title="阿根廷",MusicTop (1080p)
 https://stream-gtlc.telecentro.net.ar/hls/musictophls/0/playlist.m3u8
@@ -182,7 +173,7 @@ https://tuvideoonline.com.ar:3391/live/radioconexionlive.m3u8
 #EXTINF:-1 tvg-id="RadioTVNeuquen.ar@SD" tvg-logo="https://i.imgur.com/HXBLozl.png" group-title="阿根廷",Radio TV Neuquén (720p) [Not 24/7]
 https://media.neuquen.gov.ar/rtn/television/playlist.m3u8
 
-#EXTINF:-1 tvg-id="RadioUP.ar@SD" tvg-logo="https://radioup.com.ar/wp-content/uploads/2025/06/logo-radioup-footer.png" group-title="阿根廷",Radio UP
+#EXTINF:-1 tvg-id="RadioUP.ar@SD" tvg-logo="https://radioup.com.ar/wp-content/uploads/2025/06/logo-radioup-footer.png" group-title="阿根廷",Radio UP (1080p)
 https://iptv.ixfo.com.ar:30443/live/RadioUpTvStreaming/playlist.m3u8
 
 #EXTINF:-1 tvg-id="RedAmericaTV.bo@SD" tvg-logo="https://i.imgur.com/qYNmeDe.png" group-title="阿根廷",Red America TV (1080p)
@@ -197,9 +188,6 @@ https://www.youtube.com/c/todonoticias/live
 #EXTINF:-1 tvg-id="TVManaArgentina.ar@SD" tvg-logo="https://i.imgur.com/jars0mP.png" group-title="阿根廷",TV Maná Argentina (576p) [Not 24/7]
 https://w2.manasat.com/tvmana-ar/smil:tvmana-ar.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TVPublicaMarcosPaz.ar@SD" tvg-logo="https://i.imgur.com/CRmY4Oi.png" group-title="阿根廷",TV Publica Marcos Paz
-https://online.radiomelody.com.ar:2443/hls/mediospublicos.m3u8
-
 #EXTINF:-1 tvg-id="TVUniversidad.ar" tvg-logo="https://i.imgur.com/tvLHiAT.png" group-title="阿根廷",TV Universidad
 https://stratus.stream.cespi.unlp.edu.ar/hls/tvunlp.m3u8
 
@@ -209,8 +197,8 @@ https://tv.initium.net.ar:3939/live/tectvmainlive.m3u8
 #EXTINF:-1 tvg-id="TeleDajabonTV.do@HD" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3822-294x165-FFFFFF.jpg" group-title="阿根廷",Tele Dajabon TV (720p) [Not 24/7]
 https://tuvideoonline.com.ar:3599/live/tvdajabonlive.m3u8
 
-#EXTINF:-1 tvg-id="Telefe.ar@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/960px-Telefe_%28nuevo_logo%29.png" group-title="阿根廷",Telefe (1080p)
-http://playcom.trapemn.tv:1935/transcoderip/telefe.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="Telefe.ar@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/960px-Telefe_%28nuevo_logo%29.png" group-title="阿根廷",Telefe (480p)
+http://201.190.41.246:8822/play/a036/index.m3u8
 
 #EXTINF:-1 tvg-id="TelefeBuenosAires.ar@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/960px-Telefe_%28nuevo_logo%29.png" group-title="阿根廷",Telefe Buenos Aires (1080p)
 http://45.134.141.161:2200/ARG/TELEFE_HD/index.m3u8
@@ -232,9 +220,6 @@ https://live-edge01.telecentro.net.ar/live/smil:tlx.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TVPublica.ar" tvg-logo="https://i.imgur.com/4hYYpiu.png" group-title="阿根廷",Televisión Pública Ⓨ
 https://www.youtube.com/user/TVPublicaArgentina/live
-
-#EXTINF:-1 tvg-id="TelpinTVCanal2HD.ar@SD" tvg-logo="https://i.imgur.com/qcVSZvo.png" group-title="阿根廷",Telpin TV Canal 2 HD (720p)
-https://mistserver.telpin.com.ar:8443/hls/telpinlive/index.m3u8
 
 #EXTINF:-1 tvg-id="UrbanaTeve.ar" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQLeFMWMeoumi-o24ohLPXSEdNL5-oJ9W5oP5KnnA=s900-c-k-c0x00ffffff-no-rj" group-title="阿根廷",Urbana Tevé
 https://cdnhd.iblups.com/hls/DD3nXkAkWk.m3u8

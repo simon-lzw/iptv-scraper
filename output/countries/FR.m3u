@@ -1,7 +1,7 @@
 #EXTM3U
 #PLAYLIST: 法国 (FR) IPTV 直播源
-#生成时间: 2026-08-11 03:42:00
-#频道数: 64
+#生成时间: 2026-08-11 14:55:11
+#频道数: 62
 
 # ===== 法国 (FR) =====
 
@@ -56,9 +56,6 @@ https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae0
 #EXTINF:-1 group-title="法国",FilmRise Z Nation France (720p)
 https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883103
 
-#EXTINF:-1 tvg-id="France2.fr@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/France_2_2018.svg/960px-France_2_2018.svg.png" group-title="法国",France 2 (1080p)
-http://69.64.57.208/france2/mono.m3u8
-
 #EXTINF:-1 tvg-id="France24.fr@Arabic" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_FRANCE_24/images/LOGO_HD/image.png" group-title="法国",France 24 Arabic (1080p)
 https://live.france24.com/hls/live/2037222-b/F24_AR_HI_HLS/master_5000.m3u8
 
@@ -95,11 +92,8 @@ http://176.65.146.100:8047/play/a074/index.m3u8
 #EXTINF:-1 tvg-id="France4.fr@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/France_4_2018.svg/960px-France_4_2018.svg.png" group-title="法国",France 4 HD (1080p)
 https://sv1.data-stream.top/8c0a287e56a6e1843143904778be3775b4d3edd4fba4ffcc3f72638c7a71d4d4/hls/francetv4.m3u8
 
-#EXTINF:-1 tvg-id="France5.fr@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/France_5_2018.svg/960px-France_5_2018.svg.png" group-title="法国",France 5 (1080p)
-http://69.64.57.208/france5/mono.m3u8
-
-#EXTINF:-1 tvg-id="FranceInter.fr@SD" tvg-logo="https://i.imgur.com/MgBeU52.png" group-title="法国",France Inter (288p)
-https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/franceinter.m3u8
+#EXTINF:-1 tvg-id="France5.fr@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/France_5_2018.svg/960px-France_5_2018.svg.png" group-title="法国",France 5 (720p)
+http://145.239.5.177/305/index.m3u8
 
 #EXTINF:-1 tvg-id="FranceInter.fr" tvg-logo="https://i.imgur.com/d9Ncl8m.png" group-title="法国",France Inter Ⓨ
 https://www.youtube.com/c/FranceInter/live
