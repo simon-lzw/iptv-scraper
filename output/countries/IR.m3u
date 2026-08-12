@@ -1,7 +1,7 @@
 #EXTM3U
 #PLAYLIST: 伊朗 (IR) IPTV 直播源
-#生成时间: 2026-08-11 14:55:11
-#频道数: 77
+#生成时间: 2026-08-12 04:05:59
+#频道数: 78
 
 # ===== 伊朗 (IR) =====
 
@@ -16,6 +16,9 @@ https://ncdn.telewebion.ir/aftab/live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="AlalamNewsChannel.ir" tvg-logo="https://i.imgur.com/UbD0Ndr.png" group-title="伊朗",Al-Alam News Network Ⓢ
 https://live2.alalam.ir/alalam.m3u8
+
+#EXTINF:-1 tvg-id="AlalamNewsChannelSyria.sy@SD" tvg-logo="https://i.imgur.com/WQKYPKD.png" group-title="伊朗",Alalam News Channel Syria (1080p)
+http://live2.alalam.ir/live/Alalam/index.m3u8
 
 #EXTINF:-1 tvg-id="AlborzTV.ir@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Alborz_TV_logo.svg/960px-Alborz_TV_logo.svg.png" group-title="伊朗",Alborz
 https://ncdn.telewebion.ir/alborz/live/playlist.m3u8
