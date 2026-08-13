@@ -1,7 +1,7 @@
 #EXTM3U
 #PLAYLIST: 中国大陆/香港/澳门/台湾 IPTV 直播源
-#生成时间: 2026-08-12 14:54:52
-#频道数: 836
+#生成时间: 2026-08-13 04:09:51
+#频道数: 832
 
 # ===== 中国 (CN) =====
 
@@ -393,10 +393,10 @@ http://play1-qk.nmtv.cn/live/1735546697341033.m3u8
 https://v2.tustreaming.cl/chinachannel/index.m3u8
 
 #EXTINF:-1 tvg-id="ChinaTravel.cn@SD" tvg-logo="https://i.imgur.com/vSgY3CD.png" group-title="中国",China Travel (1080p)
-https://amg01314-amg01314c7-distrotv-us-10219.playouts.now.amagi.tv/playlist/amg01314-cgtn-cgtnchinatravel-distrotvus/playlist.m3u8
+https://fastlive.cctvplus.com/out/v1/ca6f9297b7314a63959435028af287fc/index.m3u8
 
 #EXTINF:-1 tvg-id="DiscoveringChina.cn@SD" tvg-logo="https://i.imgur.com/wr2bLaA.png" group-title="中国",Discovering China (1080p)
-https://amg01314-amg01314c8-distrotv-us-10218.playouts.now.amagi.tv/playlist/amg01314-cgtn-cgtndiscoveringchina-distrotvus/playlist.m3u8
+https://fastlive.cctvplus.com/out/v1/8442c3bfd4c64a3984389328f6087879/index.m3u8
 
 #EXTINF:-1 group-title="中国",Foshan News TV
 http://dslive.grtn.cn/fszh/sd/live.m3u8
@@ -677,8 +677,8 @@ http://liveout.btzx.com.cn/62ds9e/4nxdih.m3u8?fbl=
 #EXTINF:-1 tvg-id="兵团八师石河子新闻综合" tvg-logo="https://tb.zbds.top/logo/兵团八师石河子新闻综合.png" group-title="中国",兵团八师石河子新闻综合
 http://124.88.144.73:1935/live/xwzh/playlist.m3u8?zxinjd
 
-#EXTINF:-1 tvg-id="7" tvg-logo="https://tb.zbds.top/logo/兵团卫视.png" group-title="中国",兵团卫视
-http://222.71.55.147:9901/tsfile/live/0115_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 tvg-id="10" tvg-logo="https://tb.zbds.top/logo/兵团卫视.png" group-title="中国",兵团卫视
+http://221.7.175.154:8445/tsfile/live/0115_1.m3u8?key=txiptv&playlive=1&authid=0
 
 #EXTINF:-1 tvg-id="65" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/WeiShi/BingTuan.png" group-title="中国",兵团卫视高清
 rtp://239.3.1.168:8196
@@ -725,8 +725,8 @@ rtp://239.3.1.68:4120
 #EXTINF:-1 group-title="中国",农安新闻综合 [Geo-blocked]
 https://stream2.jlntv.cn/naxw/sd/live.m3u8
 
-#EXTINF:-1 tvg-id="4" tvg-logo="https://tb.zbds.top/logo/农林卫视.png" group-title="中国",农林卫视
-http://124.116.183.146:9901/tsfile/live/1004_1.m3u8
+#EXTINF:-1 tvg-id="2" tvg-logo="https://tb.zbds.top/logo/农林卫视.png" group-title="中国",农林卫视
+http://110.72.61.221:8181/tsfile/live/1039_1.m3u8?key=txiptv&playlive=1&authid=0
 
 #EXTINF:-1 group-title="中国",前郭综合 [Geo-blocked]
 https://stream2.jlntv.cn/qg/sd/live.m3u8
@@ -1304,9 +1304,6 @@ rtp://239.3.1.90:4120
 #EXTINF:-1 tvg-id="武清综合" tvg-logo="https://www.xn--rgv465a.top/tvlogo/武清综合.png" group-title="中国",武清综合
 https://tvpull.smartwq.cn/wqlive/convergencemedia/playlist.m3u8?ztianjd
 
-#EXTINF:-1 tvg-id="武进新闻" tvg-logo="https://tb.zbds.top/logo/武进新闻.png" group-title="中国",武进新闻
-https://live.wjyanghu.com/live/CH1.m3u8
-
 #EXTINF:-1 tvg-id="永城综合" tvg-logo="https://www.xn--rgv465a.top/tvlogo/永城综合.png" group-title="中国",永城综合
 http://tvpull.dxhmt.cn:9081/tv/11481-1.m3u8
 
@@ -1426,12 +1423,6 @@ https://migu.188766.xyz/?migutoken=599bb7fdd4f9cab36d202bb38a0da046&id=%E6%B0%91
 
 #EXTINF:-1 tvg-id="河南都市" tvg-logo="https://www.xn--rgv465a.top/tvlogo/河南都市.png" group-title="中国",河南都市
 http://1.94.31.214/php/hntv.php?id=hnds
-
-#EXTINF:-1 tvg-id="河源公共" tvg-logo="https://tb.zbds.top/logo/河源公共.png" group-title="中国",河源公共
-http://tmpstream.hyrtv.cn/hygg/sd/live.m3u8
-
-#EXTINF:-1 tvg-id="河源综合" tvg-logo="https://tb.zbds.top/logo/河源综合.png" group-title="中国",河源综合
-http://tmpstream.hyrtv.cn/xwzh/sd/live.m3u8
 
 #EXTINF:-1 group-title="中国",河源综合 (540p)
 https://tmpstream.hyrtv.cn/xwzh/sd/live.m3u8
@@ -1706,9 +1697,6 @@ https://hls.gstv.com.cn/49048r/3t5xyc.m3u8
 #EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/甘肃卫视.png" group-title="中国",甘肃卫视
 http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227020/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7Err-CLugPnTcUinEM8JeySg%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 
-#EXTINF:-1 tvg-id="GansuTV.cn@SD" tvg-logo="https://i.imgur.com/dANSiug.png" group-title="中国",甘肃卫视 (576p)
-http://118.81.195.79:9003/hls/25/index.m3u8
-
 #EXTINF:-1 tvg-id="62" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/WeiShi/GanSu.png" group-title="中国",甘肃卫视高清
 rtp://239.3.1.201:8180
 
@@ -1853,8 +1841,8 @@ http://live.shaoxing.com.cn/video/s10001-sxtv2/index.m3u8?%E5%85%B3%E6%B3%A8%E5%
 #EXTINF:-1 tvg-id="203" group-title="中国",经典电影
 rtp://239.3.1.195:9024
 
-#EXTINF:-1 tvg-id="2" tvg-logo="https://tb.zbds.top/logo/经济科教.png" group-title="中国",经济科教
-http://120.237.39.10:9901/tsfile/live/1069_1.m3u8?key=txiptv&playlive=1&down=1
+#EXTINF:-1 tvg-id="1" tvg-logo="https://tb.zbds.top/logo/经济科教.png" group-title="中国",经济科教
+http://120.237.39.10:9901/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&down=1
 
 #EXTINF:-1 group-title="中国",罗山电视台 (1080p) [Not 24/7]
 http://live.dxhmt.cn:9081/tv/11521-1.m3u8
@@ -2360,8 +2348,8 @@ https://live3.tdm.com.mo/tv/ch21.live/playlist.m3u8
 
 # ===== 台湾 (TW) =====
 
-#EXTINF:-1 tvg-id="AXNAsia.sg@Taiwan" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png" group-title="台湾",AXN Asia Taiwan (720p)
-https://play.wenxiang.cn/live/1a88465f153e1dd2108fd791bf4f25f7.flv
+#EXTINF:-1 tvg-id="AXNAsia.sg@Taiwan" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png" group-title="台湾",AXN Asia Taiwan (1080p)
+http://125.227.210.55:4050/VideoInput/play.ts
 
 #EXTINF:-1 tvg-id="BeautifulLifeTV.tw@SD" tvg-logo="https://i.imgur.com/hkwcBM9.png" group-title="台湾",Beautiful Life TV
 https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/playlist.m3u8
