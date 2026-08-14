@@ -1,7 +1,7 @@
 #EXTM3U
 #PLAYLIST: 印度尼西亚 (ID) IPTV 直播源
-#生成时间: 2026-08-13 14:57:01
-#频道数: 48
+#生成时间: 2026-08-14 04:06:29
+#频道数: 49
 
 # ===== 印度尼西亚 (ID) =====
 
@@ -34,6 +34,9 @@ https://stream.jogjatv.co.id/jtvlive/stream/index.m3u8
 
 #EXTINF:-1 tvg-id="LingkarTV.id@SD" tvg-logo="https://lingkartv.com/assets/img/logo-square.png" group-title="印度尼西亚",Lingkar TV
 https://lingkartv.my.id/hls/lingkartv.m3u8
+
+#EXTINF:-1 tvg-id="MNCTV.id@HD" tvg-logo="https://i.imgur.com/SK8pjQy.png" group-title="印度尼西亚",MNCTV HD (720p)
+https://mncmedia.malingtv.workers.dev/mnctv.m3u8
 
 #EXTINF:-1 tvg-id="MagnaChannel.id@SD" tvg-logo="https://i.imgur.com/tfJo0SO.png" group-title="印度尼西亚",Magna Channel (1080p) [Not 24/7]
 https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
