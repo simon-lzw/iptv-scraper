@@ -1,15 +1,39 @@
 #EXTM3U
 #PLAYLIST: 尼日利亚 (NG) IPTV 直播源
-#生成时间: 2026-08-14 04:06:29
-#频道数: 5
+#生成时间: 2026-08-14 14:48:22
+#频道数: 15
 
 # ===== 尼日利亚 (NG) =====
+
+#EXTINF:-1 tvg-id="AdvocateBroadcastingNetwork.ng" tvg-logo="https://i.imgur.com/eZrhTam.png" group-title="尼日利亚",Advocate Broadcasting Network
+https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_045/Stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ChannelsTV.ng@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/76/Channels_TV.jpg" group-title="尼日利亚",Channels TV
 https://cs2.push2stream.com/CHANNELSTV-DVR/playlist.m3u8
 
-#EXTINF:-1 tvg-id="NewsCentral.ng@SD" tvg-logo="https://i.imgur.com/qvCgI8N.png" group-title="尼日利亚",News Central
+#EXTINF:-1 tvg-id="ChannelsTV.ng" tvg-logo="https://i.imgur.com/O237VLC.png" group-title="尼日利亚",Channels TV Ⓨ
+https://www.youtube.com/@ChannelsTelevision/live
+
+#EXTINF:-1 tvg-id="ItageTV.ng" tvg-logo="https://i.imgur.com/ojLIfkt.jpeg" group-title="尼日利亚",Itage TV
+https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_011/Stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="NewsCentral.ng" tvg-logo="https://i.imgur.com/1oSxhmp.png" group-title="尼日利亚",News Central
 https://wf.newscentral.ng:8443/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="RaveTV.ng" tvg-logo="https://i.imgur.com/fDSyf6u.png" group-title="尼日利亚",Rave TV
+https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_039/Stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SilverbirdNews24.ng" tvg-logo="https://i.imgur.com/ssEAjq5.jpeg" group-title="尼日利亚",Silverbird News 24
+https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_029/Stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SoundcityTV.ng" tvg-logo="https://i.imgur.com/zfi4SXW.png" group-title="尼日利亚",Soundcity TV Ⓨ
+https://www.youtube.com/channel/UCGuIbAVY4_O-KOQmLkU0IKQ/live
+
+#EXTINF:-1 tvg-id="SuperscreenTV.ng" tvg-logo="https://i.imgur.com/DuhRy48.png" group-title="尼日利亚",Superscreen TV
+https://video1.getstreamhosting.com:1936/8398/8398/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVCNews.ng" tvg-logo="https://i.imgur.com/jaSq18B.png" group-title="尼日利亚",TVC News Ⓨ
+https://www.youtube.com/tvcnewsnigeria/live
 
 #EXTINF:-1 tvg-id="TeleRegencyTV.ng@SD" tvg-logo="https://teleregency.tv/logo-white.png" group-title="尼日利亚",Tele Regency TV (576p)
 https://streams.playtv.com.ng/Tele-Regency_TRTV/index.m3u8
@@ -17,6 +41,12 @@ https://streams.playtv.com.ng/Tele-Regency_TRTV/index.m3u8
 #EXTINF:-1 tvg-id="TraceGospel.fr@NigeriaandEastAfrica" tvg-logo="https://i.imgur.com/X0UmU3K.png" group-title="尼日利亚",Trace Gospel Nigeria and East Africa (1080p)
 https://channels.trace.plus/Traceprod/GOSPEL_ROA_hd/index.m3u8
 
-#EXTINF:-1 tvg-id="WazobiaMaxTVNigeria.ng@SD" tvg-logo="https://i.imgur.com/IeioxBp.png" group-title="尼日利亚",Wazobia Max TV Nigeria (720p)
+#EXTINF:-1 tvg-id="WaffiTV.ng" tvg-logo="https://i.imgur.com/ejlCb5g.png" group-title="尼日利亚",Waffi TV
+https://oqgdro3xd4rm-hls-live.5centscdn.com/waffiitvstreaminglivetfmediacast/e0885d428bea69e372309657f3bd895f.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="WazobiaMaxTVNigeria.ng" tvg-logo="https://i.imgur.com/sEnLR0B.jpeg" group-title="尼日利亚",Wazobia Max TV Nigeria
 https://wazobia.live:8333/channel/wmax.m3u8
+
+#EXTINF:-1 tvg-id="WazobiaMaxTVPortHarcourt.ng" tvg-logo="https://i.imgur.com/sEnLR0B.jpeg" group-title="尼日利亚",Wazobia Max TV Port Harcourt
+https://wazobia.live:8333/channel/wmaxph.m3u8
 

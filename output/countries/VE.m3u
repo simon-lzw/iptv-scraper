@@ -1,9 +1,15 @@
 #EXTM3U
 #PLAYLIST: 委内瑞拉 (VE) IPTV 直播源
-#生成时间: 2026-08-14 04:06:29
-#频道数: 9
+#生成时间: 2026-08-14 14:48:22
+#频道数: 11
 
 # ===== 委内瑞拉 (VE) =====
+
+#EXTINF:-1 tvg-id="AS3SportTV.ve" tvg-logo="https://intervenhosting.net/imagenes/as3sporttv.jpg" group-title="委内瑞拉",AS3 Sport TV
+https://streamtv.as3sport.online:3394/hybrid/play.m3u8
+
+#EXTINF:-1 tvg-id="AguacateTV.ve" tvg-logo="https://intervenhosting.net/imagenes/aguacatetv.jpg" group-title="委内瑞拉",Aguacate TV
+https://streamtv.intervenhosting.net:3040/hybrid/play.m3u8
 
 #EXTINF:-1 tvg-id="Globovision.ve" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/47/Globovisi%C3%B3n_logo_2013.png" group-title="委内瑞拉",Globovisión
 https://vcp5.myplaytv.com/globovision/globovision/playlist.m3u8

@@ -1,7 +1,7 @@
 #EXTM3U
 #PLAYLIST: 葡萄牙 (PT) IPTV 直播源
-#生成时间: 2026-08-14 04:06:29
-#频道数: 33
+#生成时间: 2026-08-14 14:48:22
+#频道数: 32
 
 # ===== 葡萄牙 (PT) =====
 
@@ -13,9 +13,6 @@ https://live-tv.waytv.pt/adbtv/adbtv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FvlcU3z.png" group-title="葡萄牙",ADtv Ⓢ
 https://playout172.livextend.cloud/liveiframe/_definst_/ngrp:liveartvabr_abr/playlist.m3u8
-
-#EXTINF:-1 tvg-id="AS3SportTV.ve@SD" tvg-logo="https://i.ibb.co/bRmGbsyV/A3-SPORTTV.jpg" group-title="葡萄牙",AS3 Sport TV (1080p)
-https://streamtv.as3sport.online:3394/hybrid/play.m3u8
 
 #EXTINF:-1 tvg-id="AngelTV.in@Portuguese" tvg-logo="https://i.imgur.com/qKLEGU7.png" group-title="葡萄牙",Angel TV Portuguese (720p)
 https://janya-digimix.akamaized.net/vglive-sk-382409/portuese/ngrp:angelportuguese_all/playlist.m3u8
@@ -50,7 +47,7 @@ https://streaming-live.rtp.pt/liverepeater/smil:rtpacoresHD.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="RTPMadeira.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/ac/RTP_Madeira_2016.png" group-title="葡萄牙",RTP Madeira Ⓢ
 https://streaming-live.rtp.pt/liverepeater/smil:rtpmadeira.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="RTPInternacional.pt" tvg-logo=" height=" group-title="葡萄牙",RTP Mundo
+#EXTINF:-1 tvg-id="RTPInternacional.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/RTP_Mundo.svg/330px-RTP_Mundo.svg.png" group-title="葡萄牙",RTP Mundo
 https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="RTPNoticias.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Rtp3.png" group-title="葡萄牙",RTP notícias
