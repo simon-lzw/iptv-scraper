@@ -16027,6 +16027,17 @@
     "is_active": true
   },
   {
+    "name": "El Pinguino TV (720p)",
+    "url": "https://redirector.dps.live/hls/pinguinotv/playlist.m3u8",
+    "group": "News",
+    "country_code": "ZZ",
+    "country_name_zh": "ZZ",
+    "ip_version": "domain",
+    "score": 0.0,
+    "source": "iptv-org all streams",
+    "is_active": true
+  },
+  {
     "name": "El Pituco TV (720p)",
     "url": "https://imagenuniversaltv.net:3439/live/elpitucolive.m3u8",
     "group": "General",
@@ -18508,6 +18519,17 @@
     "country_code": "ZZ",
     "country_name_zh": "ZZ",
     "ip_version": "domain",
+    "score": 0.0,
+    "source": "iptv-org all streams",
+    "is_active": true
+  },
+  {
+    "name": "Fujian Comprehensive Channel",
+    "url": "http://120.39.52.202:5140/%E7%A6%8F%E5%BB%BA%E7%BB%BC%E5%90%88",
+    "group": "General",
+    "country_code": "ZZ",
+    "country_name_zh": "ZZ",
+    "ip_version": "ipv4",
     "score": 0.0,
     "source": "iptv-org all streams",
     "is_active": true
@@ -47290,7 +47312,7 @@
   },
   {
     "name": "TN8 (1080p)",
-    "url": "https://streamingcws30.com/tn8/videotn8/chunks.m3u8",
+    "url": "https://streamingcws30.com/tn8/videotn8/playlist.m3u8",
     "group": "General",
     "country_code": "ZZ",
     "country_name_zh": "ZZ",
@@ -48721,7 +48743,7 @@
   {
     "name": "TV Maria (480p)",
     "url": "https://streams.comclark.com/pknsd/tvmaria/playlist.m3u8",
-    "group": "Undefined",
+    "group": "Religious",
     "country_code": "ZZ",
     "country_name_zh": "ZZ",
     "ip_version": "domain",
@@ -63250,17 +63272,6 @@
     "is_active": true
   },
   {
-    "name": "少儿科教",
-    "url": "http://121.19.134.246:808/hls/23/index.m3u8",
-    "group": "Undefined",
-    "country_code": "ZZ",
-    "country_name_zh": "ZZ",
-    "ip_version": "ipv4",
-    "score": 0.0,
-    "source": "iptv-org all streams",
-    "is_active": true
-  },
-  {
     "name": "岳阳公共 (576p)",
     "url": "http://live.hnxttv.com:9601/live/dspd/800K/tzwj_video.m3u8?BVUUID=C236454D-5355-2F5F-FA96-1887C72E55CE&auth=654837809071524@615@2E9A5FD0B225B012E3178551CF3754A8",
     "group": "Undefined",
@@ -64259,6 +64270,17 @@
     "ip_version": "domain",
     "score": 0.0,
     "source": "Guovin/iptv-api (combined)",
+    "is_active": true
+  },
+  {
+    "name": "武进新闻 (576p) [Not 24/7]",
+    "url": "https://live.wjyanghu.com/live/CH1.m3u8",
+    "group": "Undefined",
+    "country_code": "ZZ",
+    "country_name_zh": "ZZ",
+    "ip_version": "domain",
+    "score": 0.0,
+    "source": "iptv-org all streams",
     "is_active": true
   },
   {
@@ -74108,11 +74130,11 @@
   },
   {
     "name": "Viva Nicaragua Canal 13 (720p)",
-    "url": "http://45.171.108.253:8888/VIVA/index.m3u8",
+    "url": "https://cdn.vivamediosni.com/viva_720p/index.m3u8",
     "group": "General",
     "country_code": "CL",
     "country_name_zh": "智利",
-    "ip_version": "ipv4",
+    "ip_version": "domain",
     "score": 0.0,
     "source": "iptv-org all streams",
     "is_active": true
@@ -76594,7 +76616,7 @@
   },
   {
     "name": "兵团卫视",
-    "url": "http://1.190.240.47:9003/hls/3068/index.m3u8",
+    "url": "http://222.71.55.147:9901/tsfile/live/0115_1.m3u8?key=txiptv&playlive=0&authid=0",
     "group": "卫视频道",
     "country_code": "CN",
     "country_name_zh": "中国",
@@ -76935,7 +76957,7 @@
   },
   {
     "name": "南方卫视",
-    "url": "http://120.237.39.10:9901/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&down=1",
+    "url": "http://120.198.95.220:9901/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&down=1",
     "group": "卫视频道",
     "country_code": "CN",
     "country_name_zh": "中国",
@@ -77146,17 +77168,6 @@
     "name": "哈尔滨娱乐",
     "url": "https://stream.hrbtv.net/ylpd/sd/live.m3u8",
     "group": "地方频道",
-    "country_code": "CN",
-    "country_name_zh": "中国",
-    "ip_version": "domain",
-    "score": 0.0,
-    "source": "vbskycn/iptv (ipv4)",
-    "is_active": true
-  },
-  {
-    "name": "哈尔滨影视",
-    "url": "http://stream.hrbtv.net/yspd/sd/live.m3u8?zheild",
-    "group": "电影频道",
     "country_code": "CN",
     "country_name_zh": "中国",
     "ip_version": "domain",
@@ -78133,17 +78144,6 @@
     "is_active": true
   },
   {
-    "name": "平遥新闻综合",
-    "url": "https://tntgjhjb.live.sxmty.com/live/hls/3a4585ac11ec4e1bb07b419101b370c3/baf63e2b313440c2a25d7859f9b73b05-1.m3u8?zshanxd",
-    "group": "地方频道",
-    "country_code": "CN",
-    "country_name_zh": "中国",
-    "ip_version": "domain",
-    "score": 0.0,
-    "source": "vbskycn/iptv (ipv4)",
-    "is_active": true
-  },
-  {
     "name": "广东 Ⅰ 韶关公共台 (720p) [Not 24/7]",
     "url": "https://www.sgmsw.cn/videos/tv/201805/1308/9P424TC5M000AFO13CXK6GN6BOA889D2/hls/live.m3u8",
     "group": "Undefined",
@@ -78200,7 +78200,7 @@
   },
   {
     "name": "广东少儿",
-    "url": "http://120.198.86.186:9901/tsfile/live/1019_1.m3u8?key=txiptv&playlive=1&authid=0",
+    "url": "http://171.38.148.188:9003/hls/45/index.m3u8",
     "group": "儿童频道",
     "country_code": "CN",
     "country_name_zh": "中国",
@@ -78211,7 +78211,7 @@
   },
   {
     "name": "广东影视",
-    "url": "http://120.198.86.186:9901/tsfile/live/1018_1.m3u8?key=txiptv&playlive=1&authid=0",
+    "url": "http://171.38.148.188:9003/hls/38/index.m3u8",
     "group": "电影频道",
     "country_code": "CN",
     "country_name_zh": "中国",
@@ -78848,17 +78848,6 @@
     "is_active": true
   },
   {
-    "name": "武进新闻",
-    "url": "https://live.wjyanghu.com/live/CH1.m3u8",
-    "group": "地方频道",
-    "country_code": "CN",
-    "country_name_zh": "中国",
-    "ip_version": "domain",
-    "score": 0.0,
-    "source": "vbskycn/iptv (ipv4)",
-    "is_active": true
-  },
-  {
     "name": "永城综合",
     "url": "http://tvpull.dxhmt.cn:9081/tv/11481-1.m3u8",
     "group": "☘️河南频道",
@@ -79156,17 +79145,6 @@
     "is_active": true
   },
   {
-    "name": "河北公共",
-    "url": "http://121.19.134.246:808/hls/24/index.m3u8",
-    "group": "Undefined",
-    "country_code": "CN",
-    "country_name_zh": "中国",
-    "ip_version": "ipv4",
-    "score": 0.0,
-    "source": "iptv-org all streams",
-    "is_active": true
-  },
-  {
     "name": "河北农民",
     "url": "https://ls.qingting.fm/live/1650/64k.m3u8",
     "group": "☘️河北频道",
@@ -79208,28 +79186,6 @@
     "ip_version": "domain",
     "score": 0.0,
     "source": "Guovin/iptv-api (combined)",
-    "is_active": true
-  },
-  {
-    "name": "河北影视",
-    "url": "http://121.19.134.246:808/hls/22/index.m3u8",
-    "group": "Undefined",
-    "country_code": "CN",
-    "country_name_zh": "中国",
-    "ip_version": "ipv4",
-    "score": 0.0,
-    "source": "iptv-org all streams",
-    "is_active": true
-  },
-  {
-    "name": "河北经济",
-    "url": "http://121.19.134.246:808/hls/20/index.m3u8",
-    "group": "Undefined",
-    "country_code": "CN",
-    "country_name_zh": "中国",
-    "ip_version": "ipv4",
-    "score": 0.0,
-    "source": "iptv-org all streams",
     "is_active": true
   },
   {
@@ -79285,28 +79241,6 @@
     "ip_version": "ipv4",
     "score": 0.0,
     "source": "Guovin/iptv-api (combined)",
-    "is_active": true
-  },
-  {
-    "name": "河源公共",
-    "url": "http://tmpstream.hyrtv.cn/hygg/sd/live.m3u8",
-    "group": "地方频道",
-    "country_code": "CN",
-    "country_name_zh": "中国",
-    "ip_version": "domain",
-    "score": 0.0,
-    "source": "vbskycn/iptv (ipv4)",
-    "is_active": true
-  },
-  {
-    "name": "河源综合",
-    "url": "http://tmpstream.hyrtv.cn/xwzh/sd/live.m3u8",
-    "group": "地方频道",
-    "country_code": "CN",
-    "country_name_zh": "中国",
-    "ip_version": "domain",
-    "score": 0.0,
-    "source": "vbskycn/iptv (ipv4)",
     "is_active": true
   },
   {
@@ -127270,6 +127204,17 @@
     "is_active": true
   },
   {
+    "name": "TRT Spor (720p)",
+    "url": "https://corestream.siteyaptim.live/trt-spor/index.m3u8",
+    "group": "Sports",
+    "country_code": "TR",
+    "country_name_zh": "土耳其",
+    "ip_version": "domain",
+    "score": 0.0,
+    "source": "iptv-org all streams",
+    "is_active": true
+  },
+  {
     "name": "TRT Spor 2 Ⓖ",
     "url": "https://tv-trtspor2.medya.trt.com.tr/master.m3u8",
     "group": "Turkey",
@@ -131472,6 +131417,17 @@
     "is_active": true
   },
   {
+    "name": "BabyFirst Spanish (720p)",
+    "url": "http://168.228.44.241:9997/play/a07u/index.m3u8",
+    "group": "Kids",
+    "country_code": "US",
+    "country_name_zh": "美国",
+    "ip_version": "ipv4",
+    "score": 0.0,
+    "source": "iptv-org United States",
+    "is_active": true
+  },
+  {
     "name": "BabyTV Latin America (720p)",
     "url": "http://138.121.15.230:9002/BABY-TV/index.m3u8",
     "group": "Kids",
@@ -134552,8 +134508,8 @@
     "is_active": true
   },
   {
-    "name": "Disney Channel (720p)",
-    "url": "http://190.14.10.19:16000/play/a06z/index.m3u8",
+    "name": "Disney Channel (720p) [Geo-blocked]",
+    "url": "http://212.5.144.156/disney/index.m3u8",
     "group": "Kids",
     "country_code": "US",
     "country_name_zh": "美国",
@@ -144958,8 +144914,8 @@
     "is_active": true
   },
   {
-    "name": "Telemundo West (720p)",
-    "url": "http://181.119.108.43:9001/play/a044/index.m3u8",
+    "name": "Telemundo West (2160p)",
+    "url": "http://168.228.44.241:9997/play/a07g/index.m3u8",
     "group": "General",
     "country_code": "US",
     "country_name_zh": "美国",
@@ -146564,12 +146520,12 @@
     "is_active": true
   },
   {
-    "name": "WLTV-DT1 [Geo-blocked]",
-    "url": "https://streaming-live-fcdn.api.prd.univisionnow.com/wltv/wltv.isml/hls/wltv.m3u8",
+    "name": "WLTV-DT 23.1 (720p)",
+    "url": "http://168.228.44.241:9997/play/a09d/index.m3u8",
     "group": "Undefined",
     "country_code": "US",
     "country_name_zh": "美国",
-    "ip_version": "domain",
+    "ip_version": "ipv4",
     "score": 0.0,
     "source": "iptv-org United States",
     "is_active": true
