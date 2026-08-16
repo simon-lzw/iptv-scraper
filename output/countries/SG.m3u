@@ -1,7 +1,7 @@
 #EXTM3U
 #PLAYLIST: 新加坡 (SG) IPTV 直播源
-#生成时间: 2026-08-15 14:19:45
-#频道数: 15
+#生成时间: 2026-08-16 02:57:50
+#频道数: 16
 
 # ===== 新加坡 (SG) =====
 
@@ -13,6 +13,9 @@ https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u
 
 #EXTINF:-1 tvg-id="CNA.dz@SD" tvg-logo="https://i.imgur.com/Ki3ySUE.png" group-title="新加坡",CNA (360p) [Not 24/7]
 https://live.creacast.com/cna/stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CNAInternational.sg@SD" tvg-logo="https://i.imgur.com/xWglicB.png" group-title="新加坡",CNA (480p)
+https://streams.comclark.com/pknsd/channel_news_asia/playlist.m3u8
 
 #EXTINF:-1 tvg-id="CNAOriginals.sg@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/CNA_new_logo.svg/500px-CNA_new_logo.svg.png" group-title="新加坡",CNA Originals (1080p)
 https://amg01082-cna-amg01082c1-rlaxx-us-11304.playouts.now.amagi.tv/playlist.m3u8

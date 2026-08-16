@@ -1,7 +1,7 @@
 #EXTM3U
 #PLAYLIST: 菲律宾 (PH) IPTV 直播源
-#生成时间: 2026-08-15 14:19:45
-#频道数: 20
+#生成时间: 2026-08-16 02:57:50
+#频道数: 21
 
 # ===== 菲律宾 (PH) =====
 
@@ -13,6 +13,9 @@ https://live.amelbatv.co:81/anctvlive/index.m3u8
 
 #EXTINF:-1 tvg-id="GMATV.ph@SD" tvg-logo="https://i.imgur.com/cGvKkQy.png" group-title="菲律宾",GMA TV (480p) [Not 24/7]
 https://streams.comclark.com/pknsd/gma_7/playlist.m3u8
+
+#EXTINF:-1 tvg-id="HopeChannelPhilippines.ph@SD" tvg-logo="https://i.imgur.com/LB2vmMt.png" group-title="菲律宾",Hope Channel Philippines (1080p)
+https://jstre.am/live/jsl:nX5eC7gQvZb.m3u8
 
 #EXTINF:-1 tvg-id="PTV.bo@SD" tvg-logo="https://i.imgur.com/vPvR7dX.png" group-title="菲律宾",PTV (720p)
 https://giatv.bozztv.com/giatv/giatv-PTVonLINE/PTVonLINE/playlist.m3u8
