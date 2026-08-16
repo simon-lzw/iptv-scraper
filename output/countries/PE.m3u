@@ -1,7 +1,7 @@
 #EXTM3U
 #PLAYLIST: 秘鲁 (PE) IPTV 直播源
-#生成时间: 2026-08-16 02:57:50
-#频道数: 90
+#生成时间: 2026-08-16 14:20:10
+#频道数: 88
 
 # ===== 秘鲁 (PE) =====
 
@@ -15,7 +15,7 @@ https://live-evg8.tv360.bitel.com.pe/bitel/abctelevisionSRT/playlist.m3u8
 https://live-evg10.tv360.bitel.com.pe/bitel/alasdeaguilaSRT/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ATVPlus.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f4/Atv_noticias_logo.png" group-title="秘鲁",ATV+ Noticias
-https://dysmuyxh5vstv.cloudfront.net/hls/atv2.m3u8
+http://45.171.108.253:8888/ATV/index.m3u8
 
 #EXTINF:-1 tvg-id="AgroTV.pe@SD" tvg-logo="https://i.imgur.com/1uLGa3w.png" group-title="秘鲁",Agro TV (720p)
 https://live-evg8.tv360.bitel.com.pe/bitel/agroSRT/playlist.m3u8
@@ -93,7 +93,7 @@ https://tv.huachotv.com/stream.m3u8
 https://live-evg5.tv360.bitel.com.pe/bitel/imperialSRT/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Karibena.pe" tvg-logo="https://i.pinimg.com/280x280_RS/11/85/b6/1185b667fe3f80d7072359d7ce7ce52d.jpg" group-title="秘鲁",Karibeña TV
-https://cu.onliv3.com/livevd/user1.m3u8
+http://187.102.210.46/KARIBENA/index.m3u8
 
 #EXTINF:-1 tvg-id="Latina.pe@SD" tvg-logo="https://i.imgur.com/MOsWriY.png" group-title="秘鲁",Latina (1080p)
 http://190.93.224.42/LATINA/index.m3u8
@@ -132,9 +132,6 @@ https://tv.ondadigital.pe/ondadigital/index.m3u8
 https://live-evg8.tv360.bitel.com.pe/bitel/ozonotv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="PanamericanaTV.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/26/Panamericana_tv_2009.png" group-title="秘鲁",Panamericana TV
-https://cdnhd.iblups.com/hls/ptv2.m3u8
-
-#EXTINF:-1 tvg-id="PanamericanaTV.pe@SD" tvg-logo="https://i.imgur.com/uQhEDES.png" group-title="秘鲁",Panamericana TV (1080p)
 http://45.171.108.253:8888/PANAMERICANA/index.m3u8
 
 #EXTINF:-1 tvg-id="PequesTV.pe@SD" tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/01/06/04/1767647409377/6123aa5e7fc7.png" group-title="秘鲁",Peques TV (720p)
@@ -223,9 +220,6 @@ https://live-evg8.tv360.bitel.com.pe/bitel/tvempresaSRT/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Tevesur.pe@SD" tvg-logo="https://i.imgur.com/LcZ2Hhd.jpeg" group-title="秘鲁",Tevesur (720p)
 https://live-evg11.tv360.bitel.com.pe/bitel/tevesurSRT/playlist.m3u8
-
-#EXTINF:-1 tvg-id="TopLatinoTV.pe" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/fTmfsKeREm.png" group-title="秘鲁",Top Latino TV
-https://5cefcbf58ba2e.streamlock.net:543/tltvweb/latintv.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TraceLatina.fr@SD" tvg-logo="https://i.imgur.com/CUVAi4u.png" group-title="秘鲁",Trace Latina (1080p)
 https://channels.trace.plus/Traceprod/LATINA_hd/index.m3u8

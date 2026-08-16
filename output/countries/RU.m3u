@@ -1,6 +1,6 @@
 #EXTM3U
 #PLAYLIST: 俄罗斯 (RU) IPTV 直播源
-#生成时间: 2026-08-16 02:57:50
+#生成时间: 2026-08-16 14:20:10
 #频道数: 254
 
 # ===== 俄罗斯 (RU) =====
@@ -43,9 +43,6 @@ https://xykt-fix.github.io/cinerama_edge01/hls/BOLLYWOOD_RU/Movie009.m3u8
 
 #EXTINF:-1 tvg-id="CGTNRussian.cn" tvg-logo="https://i.imgur.com/fMsJYzl.png" group-title="俄罗斯",CGTN Pусский
 https://news.cgtn.com/resource/live/russian/cgtn-r.m3u8
-
-#EXTINF:-1 tvg-id="Cinema.ru@SD" tvg-logo="https://i.imgur.com/b5e9qUA.png" group-title="俄罗斯",Cinema
-http://catchup.videoline.ru/cinema/playlist.m3u8
 
 #EXTINF:-1 tvg-id="DW.de@Russian" tvg-logo="https://i.imgur.com/8MRNFb9.png" group-title="俄罗斯",DW Russian (1080p)
 https://dwamdstream110.akamaized.net/hls/live/2017971/dwstream110/master.m3u8
@@ -742,6 +739,9 @@ https://vgtrkregion-reg.cdnvideo.ru/vgtrk/chelyabinsk/ural24-hd/index.m3u8
 
 #EXTINF:-1 tvg-id="HuzurTV.ru@SD" tvg-logo="https://i.imgur.com/Abg1fct.png" group-title="俄罗斯",Хузур ТВ (1080p) [Not 24/7]
 https://hls-mycdn08724960135.cdnvideo.ru/mycdn08724960135/stream1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="PeretzInternational.ru" group-title="俄罗斯",Че
+https://cdn4.skygo.mn/live/disk1/Che/HLSv3-FTA/Che.m3u8
 
 #EXTINF:-1 tvg-id="ShayanTV.ru@SD" tvg-logo="https://i.imgur.com/CvFwczN.png" group-title="俄罗斯",Шаян ТВ (Татарстан) (1080p)
 https://shayan.bonus-tv.ru/cdn/shayan/playlist.m3u8

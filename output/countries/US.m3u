@@ -1,6 +1,6 @@
 #EXTM3U
 #PLAYLIST: 美国 (US) IPTV 直播源
-#生成时间: 2026-08-16 02:57:50
+#生成时间: 2026-08-16 14:20:10
 #频道数: 1705
 
 # ===== 美国 (US) =====
@@ -400,6 +400,9 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00684-accuweather-accuweather-plex/
 
 #EXTINF:-1 tvg-id="AceTV.us@SD" tvg-logo="https://www.acetelevisionnetwork.com/wp-content/uploads/2021/09/ACE_Logo_Medium_White.png" group-title="美国",Ace TV (480p)
 https://c.streamhoster.com/link/hls/W5s3fS/inLo5pcsHjo/iqg9wps0m1x_5/playlist.m3u8
+
+#EXTINF:-1 group-title="美国",Action Hollywood Movies
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
 
 #EXTINF:-1 group-title="美国",Action Hollywood Movies (1080p)
 https://amg01076-lightningintern-actionhollywood-samsungau-rs69y.amagi.tv/playlist/amg01076-lightningintern-actionhollywood-samsungau/playlist.m3u8
@@ -2734,9 +2737,6 @@ https://jmp2.uk/plu-5f6108d8cc331900075e98e4.m3u8
 
 #EXTINF:-1 tvg-id="MTVAva.fi@SD" tvg-logo="https://i.imgur.com/WxNCiAk.png" group-title="美国",MTV Ava (720p)
 https://live-fi.tvkaista.net/ava/live.m3u8
-
-#EXTINF:-1 tvg-id="MTVAzerbaijan.az" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/MTV_Az%C9%99rbaycan_%282022%29.png/622px-MTV_Az%C9%99rbaycan_%282022%29.png" group-title="美国",MTV Azerbaijan Ⓢ
-https://www.tvkaista.net/stream-forwarder/get.php?x=MTVAzerbaijan
 
 #EXTINF:-1 tvg-id="MTVBiggestPop.us@US" tvg-logo="https://images.pluto.tv/channels/6047fbdbbb776a0007e7f2ff/colorLogoPNG.png" group-title="美国",MTV Biggest Pop (1080p)
 https://jmp2.uk/plu-5d14fd1a252d35decbc4080c.m3u8
