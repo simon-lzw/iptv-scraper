@@ -1,7 +1,7 @@
 #EXTM3U
 #PLAYLIST: 美国 (US) IPTV 直播源
-#生成时间: 2026-08-17 02:57:52
-#频道数: 1689
+#生成时间: 2026-08-17 14:25:05
+#频道数: 1694
 
 # ===== 美国 (US) =====
 
@@ -193,9 +193,6 @@ https://aegis-cloudfront-1.tubi.video/a53514a7-f2aa-4d34-802e-c2b5594fc0d7/playl
 
 #EXTINF:-1 tvg-id="ABCEntertains.au@Sydney" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/35/ABC_Entertains_logo.svg/960px-ABC_Entertains_logo.svg.png" group-title="美国",ABC Entertains (720p)
 https://c.mjh.nz/abc-me.m3u8
-
-#EXTINF:-1 tvg-id="ABCKids.au@Sydney" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/29/ABC_Kids_%282020%29.svg/revision/latest/scale-to-width-down/512" group-title="美国",ABC Kids
-https://c.mjh.nz/abc-kids.m3u8
 
 #EXTINF:-1 tvg-id="ABCNewsLive1.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/ABC_News_Live_logo_2021.svg/960px-ABC_News_Live_logo_2021.svg.png" group-title="美国",ABC News Live 1 (720p)
 https://abcnews-streams.akamaized.net/hls/live/2023560/abcnewshudson1/master.m3u8
@@ -482,11 +479,17 @@ https://d24l3uppudokci.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-id="AmazingFactsTV.us@SD" tvg-logo="https://i.imgur.com/4d65Bev.png" group-title="美国",Amazing Facts TV (1080p)
 https://hlspackager.akamaized.net/live/DB/AMAZING_FACTS/HLS/AMAZING_FACTS.m3u8
 
+#EXTINF:-1 tvg-id="AmericaTeVe.us" tvg-logo="https://pbs.twimg.com/profile_images/2067373416173260801/9cUCY5wX_200x200.jpg" group-title="美国",America TeVe
+https://live.gideo.video/americateve2/master.m3u8
+
 #EXTINF:-1 tvg-id="AmericasNextTopModel.us@SD" tvg-logo="https://images.pluto.tv/channels/68679fc6bb46d0bdd38ac9a4/colorLogoPNG_1756466390265.png" group-title="美国",America's Next Top Model
 https://jmp2.uk/plu-68757c45759366af05b3b199.m3u8
 
 #EXTINF:-1 tvg-id="AmericasTestKitchen.us@SD" tvg-logo="https://i.imgur.com/prMkTsZ.png" group-title="美国",America's Test Kitchen (1080p) [Geo-blocked]
 https://pb-zwcfuzg8t5abc.akamaized.net/Americas_Test_Kitchen.m3u8
+
+#EXTINF:-1 tvg-id="AmericasVoice.us" tvg-logo="https://graph.facebook.com/RealAmericasVoice/picture?width=200&height=200" group-title="美国",America's Voice
+https://d2jiqiw4g5lj5k.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/AmericasVoiceChannel-prod/AVSamsung/AVSamsung.m3u8
 
 #EXTINF:-1 tvg-id="AmericasVoice.us@SD" group-title="美国",America's Voice (720p)
 https://content.uplynk.com/channel/26bd482ffe364a1282bc3df28bd3c21f.m3u8
@@ -1322,9 +1325,6 @@ https://cdn3.wowza.com/5/dk84U1p2UUdoMGxT/sandiego/G1826_005/playlist.m3u8
 #EXTINF:-1 tvg-id="Clarity4K.us@SD" tvg-logo="https://i.imgur.com/M87kbVk.png" group-title="美国",Clarity 4K (2160p) [Geo-blocked]
 https://pb-qyrvophnifz47.akamaized.net/Clarity_4K.m3u8
 
-#EXTINF:-1 tvg-id="ClassCNBC.it@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Class_CNBC_2026.svg/960px-Class_CNBC_2026.svg.png" group-title="美国",Class CNBC (1080p) [Geo-blocked]
-https://amg14891-amg14891c5-amgplt0020.playout.now3.amagi.tv/playlist.m3u8
-
 #EXTINF:-1 tvg-id="ClassicCinema.us@SD" tvg-logo="https://i.imgur.com/FJoPnTb.png" group-title="美国",Classic Cinema (240p) [Not 24/7]
 https://rpn.bozztv.com/gusa/gusa-classiccinema/index.m3u8
 
@@ -1402,6 +1402,9 @@ https://2-fss-1.themediacdn.com/pl_122/206280-3059514-1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="CMTV.us@SD" tvg-logo="https://i.imgur.com/73LKwAK.png" group-title="美国",Costa Mesa's Municipal Access Channel CMTV 3 (720p)
 https://cdn3.wowza.com/5/UWpORHhLSEs5SkJs/costamesa/G0075_002/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CourtTV.us" tvg-logo="https://graph.facebook.com/courttv/picture?width=200&height=200" group-title="美国",Court TV
+https://content.uplynk.com/channel/6c0bd0f94b1d4526a98676e9699a10ef.m3u8
 
 #EXTINF:-1 tvg-id="CourtTV.us@SD" tvg-logo="https://i.imgur.com/qkfe3o9.png" group-title="美国",Court TV (1080p)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-courttv-tablo/playlist.m3u8
@@ -1750,6 +1753,9 @@ https://linear-688.frequency.stream/dist/stirr/688/hls/master/playlist.m3u8
 
 #EXTINF:-1 group-title="美国",FOX LOCAL Los Angeles
 https://jmp2.uk/plu-667f2c7b22acab0008b7072b.m3u8
+
+#EXTINF:-1 tvg-id="FOXLiveNow.us" tvg-logo="https://graph.facebook.com/livenowfox/picture?width=200&height=200" group-title="美国",FOX Live Now
+https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 group-title="美国",FOX Sports (1080p)
 https://d1jzu95oc8fgt3.cloudfront.net/FOX_Sports.m3u8
@@ -2687,6 +2693,9 @@ https://jmp2.uk/plu-5f6108d8cc331900075e98e4.m3u8
 #EXTINF:-1 tvg-id="MTVAva.fi@SD" tvg-logo="https://i.imgur.com/WxNCiAk.png" group-title="美国",MTV Ava (720p)
 https://live-fi.tvkaista.net/ava/live.m3u8
 
+#EXTINF:-1 tvg-id="MTVAzerbaijan.az" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/MTV_Az%C9%99rbaycan_%282022%29.png/622px-MTV_Az%C9%99rbaycan_%282022%29.png" group-title="美国",MTV Azerbaijan Ⓢ
+https://www.youtube.com/@MTVAzerbaijan/live
+
 #EXTINF:-1 tvg-id="MTVBiggestPop.us@US" tvg-logo="https://images.pluto.tv/channels/6047fbdbbb776a0007e7f2ff/colorLogoPNG.png" group-title="美国",MTV Biggest Pop (1080p)
 https://jmp2.uk/plu-5d14fd1a252d35decbc4080c.m3u8
 
@@ -3238,6 +3247,9 @@ https://amg00217-newsmax-newsmax-zeasn-022k9.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="NewsmaxSpanish.us@SD" tvg-logo="https://i.imgur.com/mrXMW7H.png" group-title="美国",Newsmax Spanish (1080p)
 https://n1ottesorkatv.akamaized.net/hls/live/2113795/Live_1/index.m3u8
+
+#EXTINF:-1 tvg-id="Newsmax.us" tvg-logo="https://graph.facebook.com/newsmax/picture?width=200&height=200" group-title="美国",Newsmax TV
+https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
 
 #EXTINF:-1 tvg-id="NewsmaxTV.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Newsmax_logo.svg/960px-Newsmax_logo.svg.png" group-title="美国",Newsmax TV (720p)
 http://40.160.24.53/NEWSMAX/index.m3u8
@@ -4903,6 +4915,9 @@ https://waypoint-waypointtv-firetv.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="WeTV.us@East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/We_TV_logo_2014.svg/960px-We_TV_logo_2014.svg.png" group-title="美国",We TV (720p)
 http://40.160.24.55/WE_TV/index.m3u8
+
+#EXTINF:-1 tvg-id="WeatherNation.us" tvg-logo="https://graph.facebook.com/WeatherNation/picture?width=200&height=200" group-title="美国",WeatherNation
+https://d2ferbiwcx1539.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-8zd06wicndthf-ssai-prd/WNNationalSamsung/WNNationalSamsung.m3u8
 
 #EXTINF:-1 tvg-id="WeatherNation.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/WeatherNation_Logo.svg/960px-WeatherNation_Logo.svg.png" group-title="美国",WeatherNation (1080p)
 http://40.160.24.55/WEATHER_NATION/index.m3u8

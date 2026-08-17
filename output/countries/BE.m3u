@@ -1,7 +1,7 @@
 #EXTM3U
 #PLAYLIST: 比利时 (BE) IPTV 直播源
-#生成时间: 2026-08-17 02:57:52
-#频道数: 16
+#生成时间: 2026-08-17 14:25:05
+#频道数: 19
 
 # ===== 比利时 (BE) =====
 
@@ -26,7 +26,10 @@ https://live.vrtcdn.be/groupb/live/9c429b62-e160-417a-b438-cdf985bcd352/live.ism
 #EXTINF:-1 tvg-id="LN24.be" tvg-logo="https://i.imgur.com/hePpxnn.png" group-title="比利时",LN24
 https://live.cdn.ln24.be/out/v1/b191621c8b9a436cad37bb36a82d2e1c/index.m3u8
 
-#EXTINF:-1 tvg-id="LaUne.be@SD" tvg-logo="https://i.imgur.com/jMwZp7z.png" group-title="比利时",La Une (720p)
+#EXTINF:-1 tvg-id="LaTrois.be" tvg-logo="https://i.imgur.com/kC3pJtA.png" group-title="比利时",La Trois
+http://145.239.5.177/330/index.m3u8
+
+#EXTINF:-1 tvg-id="LaUne.be" tvg-logo="https://i.imgur.com/hJodwJt.png" group-title="比利时",La Une
 http://145.239.5.177/329/index.m3u8
 
 #EXTINF:-1 tvg-id="Matele.be@SD" tvg-logo="https://i.imgur.com/rw72POr.png" group-title="比利时",MaTele (1080p) [Not 24/7]
@@ -38,6 +41,9 @@ https://streaming01.divercom.be/notele_live/direct.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="QMusic.be@SD" tvg-logo="https://i.imgur.com/VX5e9Xt.png" group-title="比利时",Q-Music (Belgium) (1080p)
 https://live-video.dpgmedia.net/e087512ad0c32643/out/v1/82d59bbe343b4d0896f829c59da82dc0/index.m3u8
 
+#EXTINF:-1 tvg-id="BelRTL.be" tvg-logo="https://i.imgur.com/xMhSvax.png" group-title="比利时",RTL-Be
+https://tvi-live-hls.akamaized.net/hls/live/2038650/TVI-Live-HLS/master.m3u8
+
 #EXTINF:-1 tvg-id="Radio1.be@SD" tvg-logo="https://i.ibb.co/pwCs0YY/512px-VRT-Radio-1-logo-svg.png" group-title="比利时",Radio 1 (720p)
 https://live.vrtcdn.be/groupa/live/3c3a12b5-093d-4a19-ae1f-3e775433286e/live.isml/.m3u8
 
@@ -46,6 +52,9 @@ https://live.vrtcdn.be/groupa/live/66a9668e-b37b-4de2-878e-0218563b2dd2/live.ism
 
 #EXTINF:-1 tvg-id="StuBru.be@SD" tvg-logo="https://i.ibb.co/y0TcsXw/512px-VRT-Stu-Bru-logo-svg.png" group-title="比利时",StuBru (1080p)
 https://live.vrtcdn.be/groupb/live/450aa9d1-7173-47f3-aaaa-9701426f8ddd/live.isml/.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7WHwYK3.png" group-title="比利时",TV5 Monde
+https://ott.tv5monde.com/Content/HLS/Live/channel(fbs)/variant.m3u8
 
 #EXTINF:-1 tvg-id="Tipik.be" tvg-logo="https://i.imgur.com/PVbVj8o.png" group-title="比利时",Tipik
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Belgium/5dee2de1f4661ce.m3u8

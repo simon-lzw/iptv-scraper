@@ -1,12 +1,15 @@
 #EXTM3U
 #PLAYLIST: 立陶宛 (LT) IPTV 直播源
-#生成时间: 2026-08-17 02:57:52
-#频道数: 9
+#生成时间: 2026-08-17 14:25:05
+#频道数: 13
 
 # ===== 立陶宛 (LT) =====
 
 #EXTINF:-1 tvg-id="DelfiTV.lt" tvg-logo="https://i.imgur.com/IFoHP5M.png" group-title="立陶宛",Delfi TV
 https://s1.dcdn.lt/live/televizija/playlist.m3u8
+
+#EXTINF:-1 tvg-id="LNK.lt" tvg-logo="https://i.imgur.com/arCZ56g.png" group-title="立陶宛",LNK
+http://stream.mcquack.net/30/index.m3u8
 
 #EXTINF:-1 tvg-id="LRTKlasika.lt@SD" tvg-logo="https://i.imgur.com/Fa8Vhu0.png" group-title="立陶宛",LRT Klasika (1080p)
 https://stream-live.lrt.lt/klasika/master.m3u8
@@ -16,6 +19,9 @@ https://stream-live.lrt.lt/lituanica/master.m3u8
 
 #EXTINF:-1 tvg-id="LRTOpus.lt@SD" tvg-logo="https://i.imgur.com/oLuZTMH.png" group-title="立陶宛",LRT Opus (1080p)
 https://stream-live.lrt.lt/opus/master.m3u8
+
+#EXTINF:-1 tvg-id="LRTPlius.lt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/LRT_Plius_Logo_2022.svg/500px-LRT_Plius_Logo_2022.svg.png" group-title="立陶宛",LRT Plius
+http://stream.mcquack.net/353/index.m3u8
 
 #EXTINF:-1 tvg-id="LRTRadijas.lt@SD" tvg-logo="https://i.imgur.com/gYoaqju.png" group-title="立陶宛",LRT Radijas (1080p)
 https://stream-live.lrt.lt/radijas/master.m3u8
@@ -31,4 +37,10 @@ https://m-1.data.lt/m-1/smil:m-1.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="PowerHitRadio.lt@SD" tvg-logo="https://i.imgur.com/GOlQbfC.png" group-title="立陶宛",Power Hit Radio (576p)
 https://cdnlb.tvplayhome.lt/live/eds/PWR_LTU_Live/GO3_LIVE_HLS/PWR_LTU_Live.m3u8
+
+#EXTINF:-1 tvg-id="TV3Lithuania.lt" tvg-logo="https://i.imgur.com/7nipq0y.png" group-title="立陶宛",TV3
+http://stream.mcquack.net/29/index.m3u8
+
+#EXTINF:-1 tvg-id="TV6Lithuania.lt" tvg-logo="https://i.imgur.com/oC0jiFW.png" group-title="立陶宛",TV6
+http://stream.mcquack.net/375/index.m3u8
 

@@ -1,7 +1,7 @@
 #EXTM3U
 #PLAYLIST: 爱尔兰 (IE) IPTV 直播源
-#生成时间: 2026-08-17 02:57:52
-#频道数: 16
+#生成时间: 2026-08-17 14:25:05
+#频道数: 23
 
 # ===== 爱尔兰 (IE) =====
 
@@ -35,6 +35,15 @@ https://d33zah5htxvoxb.cloudfront.net/el/live/oirtv/hls.m3u8
 #EXTINF:-1 group-title="爱尔兰",Newstalk
 https://stream.audioxi.com/NT
 
+#EXTINF:-1 tvg-id="RTENews.ie" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/78/Updated_RT%C3%89_News_and_Current_Affairs_Logo.png" group-title="爱尔兰",RTE News
+https://live.rte.ie/live/a/channel3/channel3.isml/channel3.m3u8
+
+#EXTINF:-1 tvg-id="RTEOne.ie" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e4/RT%C3%89_One_2014.svg/640px-RT%C3%89_One_2014.svg.png" group-title="爱尔兰",RTÉ One
+https://live.rte.ie/live/a/channel1/channel1.isml/channel1.m3u8
+
+#EXTINF:-1 tvg-id="RTE2.ie" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/11/RT%C3%892_logo.svg/640px-RT%C3%892_logo.svg.png" group-title="爱尔兰",RTÉ2
+https://live.rte.ie/live/a/channel2/channel2.isml/channel2.m3u8
+
 #EXTINF:-1 tvg-id="www.nova.ie" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a1/Nova-web1-228x150.jpg" group-title="爱尔兰",Radio Nova
 https://stream.audioxi.com/NOVA
 
@@ -52,4 +61,16 @@ https://fastly.live.brightcove.com/6384196213112/eu-west-1/1555966122001/eyJhbGc
 
 #EXTINF:-1 tvg-id="todayfm.com" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/Today_FM_Logo_2017.jpg" group-title="爱尔兰",Today FM
 https://stream.audioxi.com/TDAAC
+
+#EXTINF:-1 tvg-id="VirginMediaOne.ie" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4a/Virgin_Media_One_logo_2018.svg/1024px-Virgin_Media_One_logo_2018.svg.png" group-title="爱尔兰",Virgin Media 1
+https://live-virginmedia.simplestreamcdn.com/s3/rewrite/virgin_one/index.m3u8
+
+#EXTINF:-1 tvg-id="VirginMediaTwo.ie" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c5/Virgin_Media_Two_logo_2018.svg/1024px-Virgin_Media_Two_logo_2018.svg.png" group-title="爱尔兰",Virgin Media 2
+https://live-virginmedia.simplestreamcdn.com/s3/rewrite/virgin_two/index.m3u8
+
+#EXTINF:-1 tvg-id="VirginMediaThree.ie" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/2f/Virgin_Media_Three_logo_2018.svg/1024px-Virgin_Media_Three_logo_2018.svg.png" group-title="爱尔兰",Virgin Media 3
+https://live-virginmedia.simplestreamcdn.com/s3/rewrite/virgin_three/index.m3u8
+
+#EXTINF:-1 tvg-id="VirginMediaFour.ie" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Virgin_Media_Four_logo.svg/1024px-Virgin_Media_Four_logo.svg.png" group-title="爱尔兰",Virgin Media 4
+https://live-virginmedia.simplestreamcdn.com/s3/rewrite/virgin_four/index.m3u8
 

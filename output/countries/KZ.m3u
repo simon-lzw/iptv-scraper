@@ -1,12 +1,15 @@
 #EXTM3U
 #PLAYLIST: 哈萨克斯坦 (KZ) IPTV 直播源
-#生成时间: 2026-08-17 02:57:52
-#频道数: 2
+#生成时间: 2026-08-17 14:25:05
+#频道数: 3
 
 # ===== 哈萨克斯坦 (KZ) =====
 
 #EXTINF:-1 tvg-id="Balapan.kz" group-title="哈萨克斯坦",Balapan TV
 https://balapantv-stream.qazcdn.com/balapantv/balapantv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="QazSport.kz" group-title="哈萨克斯坦",QazSport
+http://stream.mcquack.net/72/index.m3u8
 
 #EXTINF:-1 tvg-id="QazaqstanInternational.kz" group-title="哈萨克斯坦",Qazaqstan
 https://qazaqstantv-stream.qazcdn.com/international/international/playlist.m3u8

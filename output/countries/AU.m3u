@@ -1,9 +1,15 @@
 #EXTM3U
 #PLAYLIST: 澳大利亚 (AU) IPTV 直播源
-#生成时间: 2026-08-17 02:57:52
-#频道数: 29
+#生成时间: 2026-08-17 14:25:05
+#频道数: 32
 
 # ===== 澳大利亚 (AU) =====
+
+#EXTINF:-1 tvg-id="10Bold.au" tvg-logo="https://i.imgur.com/2cq3fY1.png" group-title="澳大利亚",10 Bold
+https://dce3793146fef017.mediapackage.us-west-2.amazonaws.com/out/v1/55cdf73af7894775ba6de8f57482b66a/CMAF_HLS/index.m3u8
+
+#EXTINF:-1 tvg-id="9Gem.au" tvg-logo="https://i.imgur.com/sWmE1kq.png" group-title="澳大利亚",9Gem
+https://9now-livestreams.akamaized.net/hls/live/2008311/gem-syd/master.m3u8
 
 #EXTINF:-1 tvg-id="9Go.au" tvg-logo="https://i.imgur.com/1CFGu5O.png" group-title="澳大利亚",9Go!
 https://9now-livestreams.akamaized.net/hls/live/2008312/go-syd/master.m3u8
@@ -19,6 +25,9 @@ https://c.mjh.nz/101002210221/
 
 #EXTINF:-1 tvg-id="ABCAustralia.au@SD" tvg-logo="https://i.imgur.com/qQ33TVM.png" group-title="澳大利亚",ABC Australia (1080p)
 http://103.154.3.101:5001/live/2782.m3u8
+
+#EXTINF:-1 tvg-id="ABCKids.au" tvg-logo="https://i.imgur.com/GWDRR1t.png" group-title="澳大利亚",ABC Kids
+https://c.mjh.nz/abc-kids.m3u8
 
 #EXTINF:-1 tvg-id="ABCMe.au" tvg-logo="https://i.imgur.com/gBh54wY.png" group-title="澳大利亚",ABC Me
 https://c.mjh.nz/101002210224/

@@ -1,7 +1,7 @@
 #EXTM3U
 #PLAYLIST: 韩国 (KR) IPTV 直播源
-#生成时间: 2026-08-17 02:57:52
-#频道数: 100
+#生成时间: 2026-08-17 14:25:05
+#频道数: 102
 
 # ===== 韩国 (KR) =====
 
@@ -104,6 +104,9 @@ http://mytv.dothome.co.kr/ch/public/1.php
 #EXTINF:-1 tvg-id="KBSKorea.kr" tvg-logo="https://kbsworldimage.kbs.co.kr/images/layout/logo/logo_korea_n.png" group-title="韩国",KBS Korea
 https://www.youtube.com/c/kbsworldtv/live
 
+#EXTINF:-1 tvg-id="KBSWorld.kr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/KBS_World_%282009%29.svg/500px-KBS_World_%282009%29.svg.png" group-title="韩国",KBS World
+https://www.youtube.com/@kbsworldtv/live
+
 #EXTINF:-1 tvg-id="KCTV.kr@SD" tvg-logo="https://i.imgur.com/IHkZpaI.png" group-title="韩国",KCTV 광주 CH05 (720p) [Not 24/7]
 http://119.77.96.184:1935/chn05/chn05/playlist.m3u8
 
@@ -199,6 +202,9 @@ http://mytv.dothome.co.kr/ch/catv/28.php
 
 #EXTINF:-1 tvg-id="MBCPersia.ae@SD" tvg-logo="https://i.imgur.com/4FXiyjn.png" group-title="韩国",MBC Persia (1080p)
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-persia/818ee8e4b592dc497608f066d825bfb4/index.m3u8
+
+#EXTINF:-1 tvg-id="MBCTV.kr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Munhwa_Broadcasting_Company.svg/500px-Munhwa_Broadcasting_Company.svg.png" group-title="韩国",MBC TV
+https://www.youtube.com/c/mbctvlive/live
 
 #EXTINF:-1 tvg-id="HLATDTV.kr@SD" tvg-logo="https://i.imgur.com/3VSuYsn.png" group-title="韩国",MBC Yeosu (여수 MBC) (1080p) [Not 24/7]
 https://5c3639aa99149.streamlock.net/live_TV/tv/playlist.m3u8

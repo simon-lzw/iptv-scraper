@@ -1,7 +1,7 @@
 #EXTM3U
 #PLAYLIST: 蒙古 (MN) IPTV 直播源
-#生成时间: 2026-08-17 02:57:52
-#频道数: 37
+#生成时间: 2026-08-17 14:25:05
+#频道数: 38
 
 # ===== 蒙古 (MN) =====
 
@@ -67,6 +67,9 @@ https://cdn4.skygo.mn/live/disk1/MNCTV/HLSv3-FTA/MNCTV.m3u8
 
 #EXTINF:-1 tvg-id="MalchinTV.mn" group-title="蒙古",Malchin TV
 https://cdn4.skygo.mn/live/disk1/Malchin/HLSv3-FTA/Malchin.m3u8
+
+#EXTINF:-1 group-title="蒙古",Mongol TV
+https://www.youtube.com/c/MONGOLTVnow/live
 
 #EXTINF:-1 group-title="蒙古",Mongolia Music
 https://cdn4.skygo.mn/live/disk1/Khugjim/HLSv3-FTA/Khugjim.m3u8

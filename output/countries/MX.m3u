@@ -1,9 +1,12 @@
 #EXTM3U
 #PLAYLIST: 墨西哥 (MX) IPTV 直播源
-#生成时间: 2026-08-17 02:57:52
-#频道数: 39
+#生成时间: 2026-08-17 14:25:05
+#频道数: 45
 
 # ===== 墨西哥 (MX) =====
+
+#EXTINF:-1 tvg-id="ADNNoticias.mx" tvg-logo="https://pbs.twimg.com/profile_images/1968512728059850752/KUWD445m_200x200.jpg" group-title="墨西哥",ADN Noticias
+https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
 
 #EXTINF:-1 tvg-id="AXNLatinAmerica.us@Mexico" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png" group-title="墨西哥",AXN Latin America Mexico
 http://190.11.225.124:5000/live/axn_hd/playlist.m3u8
@@ -53,6 +56,12 @@ https://video0.rogohosting.com:19360/tvcozumel/tvcozumel.m3u8
 #EXTINF:-1 tvg-id="Canal5TVMax.py@SD" tvg-logo="https://i.imgur.com/6oihaDM.png" group-title="墨西哥",Canal 5 TV Max (1080p)
 https://tvmaxsa.com.py/hls/FB-430927919930380-0-AbzjnbAzAIR0NaFg.m3u8
 
+#EXTINF:-1 tvg-id="Canal6Multimedios.mx" tvg-logo="https://graph.facebook.com/multimediostv/picture?width=200&height=200" group-title="墨西哥",Canal 6 Multimedios
+https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
+
+#EXTINF:-1 tvg-id="CanalOnce.mx" tvg-logo="https://graph.facebook.com/CANALONCETV/picture?width=200&height=200" group-title="墨西哥",Canal Once
+https://vivo.canaloncelive.tv/secureoncedos/oncedigital/playlist.m3u8
+
 #EXTINF:-1 tvg-id="CanaldelCongreso451.mx@SD" tvg-logo="https://i.imgur.com/xAC6gQO.png" group-title="墨西哥",Canal del Congreso 45.1
 https://ccstreaming.packet.mx/WebRTCAppEE/streams/45.1_kd5oiNTTWO0gEOFc431277834.m3u8
 
@@ -61,6 +70,9 @@ https://video.cdmx.gob.mx/redes/stream.m3u8
 
 #EXTINF:-1 tvg-id="ELatinAmerica.us@Mexico" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/E%21_Logo_2012.svg/500px-E%21_Logo_2012.svg.png" group-title="墨西哥",E! Latin America Mexico (720p)
 http://72.1.184.5:8089/play/a05d/index.m3u8
+
+#EXTINF:-1 tvg-id="EstrellaTV.mx" tvg-logo="https://graph.facebook.com/EstrellaTV/picture?width=200&height=200" group-title="墨西哥",Estrella TV
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00567-estrellamedia-estrellatv-estrellamedia/playlist.m3u8
 
 #EXTINF:-1 tvg-id="HipodromodelasAmericas.mx" tvg-logo="https://i.imgur.com/wc8MlGw.png" group-title="墨西哥",Hipodromo de las Americas
 http://wms30.tecnoxia.com/soelvi/abr_soelvi/playlist.m3u8
@@ -89,14 +101,17 @@ https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Mariavision/master.m3u8
 #EXTINF:-1 tvg-id="MyTimeMovieNetwork.mx@SD" tvg-logo="https://i.imgur.com/pw4NZK1.png" group-title="墨西哥",MyTime Movie Network Mexico (720p)
 https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
 
+#EXTINF:-1 tvg-id="MexicoTravelTV.mx" tvg-logo="https://graph.facebook.com/MexicoTravelChannelTV/picture?width=200&height=200" group-title="墨西哥",México Travel TV
+https://5ca9af4645e15.streamlock.net/mexicotravel/videomexicotravel/playlist.m3u8
+
 #EXTINF:-1 tvg-id="noticiasnrt.com" tvg-logo="https://i.imgur.com/IudKE0n.png" group-title="墨西哥",NRT 4 Monclova
 https://59e88b197fb16.streamlock.net:4443/live/canal4/playlist.m3u8
 
-#EXTINF:-1 tvg-id="NayaritComunica.mx@SD" tvg-logo="https://i.imgur.com/aZCTkjU.jpg" group-title="墨西哥",Nayarit Comunica (1080p)
-https://live.iplanay.gob.mx/hls/nayarittv.m3u8
-
 #EXTINF:-1 tvg-id="NuestraImagenTV.gt@SD" tvg-logo="https://i.imgur.com/sknLXZI.jpeg" group-title="墨西哥",Nuestra Imagen TV
 https://live.tvcontrolcp.com:1936/tvnitelevision/tvnitelevision/playlist.m3u8
+
+#EXTINF:-1 tvg-id="QuieroTV.mx" tvg-logo="https://graph.facebook.com/quierotvGDL/picture?width=200&height=200" group-title="墨西哥",Quiero TV
+https://stream.ontvmx.com/ontv/ghxTYEQmKkB2UJyVuW/playlist.m3u8
 
 #EXTINF:-1 tvg-id="RCGTV3.mx" tvg-logo="https://i.imgur.com/NefH5qZ.png" group-title="墨西哥",RCG 3 Saltillo
 http://wowzacontrol.com:1936/stream56/stream56/playlist.m3u8
@@ -106,6 +121,9 @@ https://webprod.sipse.com.mx:8080/show/merida.m3u8
 
 #EXTINF:-1 tvg-id="SIPSETVCUN81.mx@SD" tvg-logo="https://i.imgur.com/uiTgClU.png" group-title="墨西哥",SIPSE TVCUN 8.1 (1080p) [Not 24/7]
 https://webprod.sipse.com.mx:8080/show/tvcun.m3u8
+
+#EXTINF:-1 tvg-id="Tele10Nayarit.mx" tvg-logo="https://graph.facebook.com/Tele10Nayarit/picture?width=200&height=200" group-title="墨西哥",TELE 10 Nayarit
+https://live.iplanay.gob.mx/hls/nayarittv.m3u8
 
 #EXTINF:-1 tvg-id="TVBUAP.mx@SD" tvg-logo="https://i.imgur.com/hHrIn0r.png" group-title="墨西哥",TV BUAP (1080p)
 https://tvenvivo.buap.mx/livestream/stream/index.m3u8

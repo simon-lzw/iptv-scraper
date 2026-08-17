@@ -1,7 +1,7 @@
 #EXTM3U
 #PLAYLIST: 英国 (GB) IPTV 直播源
-#生成时间: 2026-08-17 02:57:52
-#频道数: 1193
+#生成时间: 2026-08-17 14:25:05
+#频道数: 1207
 
 # ===== 英国 (GB) =====
 
@@ -210,7 +210,7 @@ https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_alba/
 https://vs-cmaf-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_arabic_tv/pc_hd_abr_v2.mpd
 
 #EXTINF:-1 tvg-id="BBCRadioAsianNetwork.uk" tvg-logo="https://experiencersinternational.github.io/tvsetup/tvg-ico/bbcasiannet-epg.png" group-title="英国",BBC Asian Network
-http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_asian_network/bbc_asian_network.isml/bbc_asian_network-audio%3d96000.norewind.m3u8
+https://lsn.lv/bbcradio.m3u8?station=bbc_asian_network&bitrate=320000
 
 #EXTINF:-1 group-title="英国",BBC Comedy (720p)
 https://d1em2hga7sgumq.cloudfront.net/playlist.m3u8
@@ -233,8 +233,8 @@ http://193.46.58.239:8080/CbeebiesHD/index.m3u8
 #EXTINF:-1 group-title="英国",BBC Impossible
 https://bbc-impossible-1-us.xumo.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="BBCNews.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/bbc-news-uk.png" group-title="英国",BBC News
-https://vs-hls-push-uk.live.fastly.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/iptv_hd_abr_v1.m3u8
+#EXTINF:-1 tvg-id="BBCNews.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/BBC_News_2022_%28Alt%29.svg/640px-BBC_News_2022_%28Alt%29.svg.png" group-title="英国",BBC News
+https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
 
 #EXTINF:-1 tvg-id="BBCNews.uk@UK" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_BBC_NEWS/images/LOGO_HD/image.png" group-title="英国",BBC News (1080p)
 https://xemzi.short.gy/1000015
@@ -333,31 +333,31 @@ https://vs-cmaf-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_persi
 https://vs-cmaf-pushb-uk.live.cf.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:red_button_one/iptv_hd_abr_v1.mpd
 
 #EXTINF:-1 tvg-id="BBCRadio1.uk" tvg-logo="https://experiencersinternational.github.io/tvsetup/tvg-ico/bbcrd1-epg.png" group-title="英国",BBC Radio 1
-http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_one/bbc_radio_one.isml/bbc_radio_one-audio%3d96000.norewind.m3u8
+https://lsn.lv/bbcradio.m3u8?station=bbc_radio_one&bitrate=320000
 
 #EXTINF:-1 tvg-id="BBCRadio1Xtra.uk" tvg-logo="https://experiencersinternational.github.io/tvsetup/tvg-ico/bbcrd1x-epg.png" group-title="英国",BBC Radio 1Xtra
-http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_1xtra/bbc_1xtra.isml/bbc_1xtra-audio%3d96000.norewind.m3u8
+https://lsn.lv/bbcradio.m3u8?station=bbc_1xtra&bitrate=320000
 
 #EXTINF:-1 tvg-id="BBCRadio2.uk" tvg-logo="https://experiencersinternational.github.io/tvsetup/tvg-ico/bbcrd2-epg.png" group-title="英国",BBC Radio 2
-http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_two/bbc_radio_two.isml/bbc_radio_two-audio%3d96000.norewind.m3u8
+https://lsn.lv/bbcradio.m3u8?station=bbc_radio_two&bitrate=320000
 
 #EXTINF:-1 tvg-id="BBCRadio3.uk" tvg-logo="https://experiencersinternational.github.io/tvsetup/tvg-ico/bbcrd3-epg.png" group-title="英国",BBC Radio 3
-http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_three/bbc_radio_three.isml/bbc_radio_three-audio%3d96000.norewind.m3u8
+https://lsn.lv/bbcradio.m3u8?station=bbc_radio_three&bitrate=320000
 
 #EXTINF:-1 tvg-id="BBCRadio4FM.uk" tvg-logo="https://experiencersinternational.github.io/tvsetup/tvg-ico/bbcrd4-epg.png" group-title="英国",BBC Radio 4
-http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_fourfm/bbc_radio_fourfm.isml/bbc_radio_fourfm-audio%3d96000.norewind.m3u8
+https://lsn.lv/bbcradio.m3u8?station=bbc_radio_fourfm&bitrate=320000
 
 #EXTINF:-1 tvg-id="BBCRadio4Extra.uk" tvg-logo="https://experiencersinternational.github.io/tvsetup/tvg-ico/bbcrd4x-epg.png" group-title="英国",BBC Radio 4 Extra
-http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_four_extra/bbc_radio_four_extra.isml/bbc_radio_four_extra-audio%3d96000.norewind.m3u8
+https://lsn.lv/bbcradio.m3u8?station=bbc_radio_four_extra&bitrate=320000
 
 #EXTINF:-1 tvg-id="BBCRadio5Live.uk" tvg-logo="https://experiencersinternational.github.io/tvsetup/tvg-ico/bbcrd5l-epg.png" group-title="英国",BBC Radio 5 Live
-http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_five_live/bbc_radio_five_live.isml/bbc_radio_five_live-audio%3d96000.norewind.m3u8
+https://lsn.lv/bbcradio.m3u8?station=bbc_radio_five_live&bitrate=320000
 
 #EXTINF:-1 tvg-id="BBCRadio5SportsExtra.uk" tvg-logo="https://experiencersinternational.github.io/tvsetup/tvg-ico/bbcrd5s-epg.png" group-title="英国",BBC Radio 5 Sports Extra
-http://as-hls-uk-live.akamaized.net/pool_904/live/uk/bbc_radio_five_live_sports_extra/bbc_radio_five_live_sports_extra.isml/bbc_radio_five_live_sports_extra-audio%3d96000.norewind.m3u8
+https://lsn.lv/bbcradio.m3u8?station=bbc_radio_five_live_sports_extra&bitrate=320000
 
 #EXTINF:-1 tvg-id="BBCRadio6Music.uk" tvg-logo="https://experiencersinternational.github.io/tvsetup/tvg-ico/bbcrd6-epg.png" group-title="英国",BBC Radio 6 Music
-http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_6music/bbc_6music.isml/bbc_6music-audio%3d96000.norewind.m3u8
+https://lsn.lv/bbcradio.m3u8?station=bbc_6music&bitrate=320000
 
 #EXTINF:-1 tvg-id="BBCRedButton10.uk@SD" tvg-logo="https://i.imgur.com/g2Aga13.png" group-title="英国",BBC Red Button 10 (720p) [Geo-blocked]
 https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_010/iptv_hd_abr_v1.mpd
@@ -698,11 +698,11 @@ https://jmp2.uk/plu-656e2a10954b020008ed167c.m3u8
 #EXTINF:-1 group-title="英国",Celeb Reality (684p)
 https://jmp2.uk/plu-65788076b228b7000843fc9a.m3u8
 
+#EXTINF:-1 tvg-id="Channel5.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/cb/Channel_5_%28UK%29_2016.svg/530px-Channel_5_%28UK%29_2016.svg.png" group-title="英国",Channel 5
+http://193.46.58.239:8080/Channel5/index.m3u8
+
 #EXTINF:-1 group-title="英国",Channel 5 (1080p)
 https://streamer2.nexgen.bz/05-CHANNEL5/index.m3u8
-
-#EXTINF:-1 tvg-id="Channel5.uk@HD" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1800.png" group-title="英国",Channel 5 HD (720p)
-http://193.46.58.239:8080/Channel5/index.m3u8
 
 #EXTINF:-1 tvg-id="Channel5International.ru@SD" tvg-logo="https://i.imgur.com/KPXMa3U.png" group-title="英国",Channel 5 International (576p)
 http://178.134.1.158:8081/5channel/index.m3u8
@@ -1196,6 +1196,9 @@ https://jmp2.uk/plu-6971fc07c945e6e4e5bc46bf.m3u8
 #EXTINF:-1 group-title="英国",Gata salvaje
 https://jmp2.uk/plu-69c5100c3d2597380f0f6422.m3u8
 
+#EXTINF:-1 tvg-id="GemsTV.uk" tvg-logo="https://i.imgur.com/IR2sTag.png" group-title="英国",GemsTV
+https://lo3.gemporia.com/abrgemporiaukgfx/smil:livestream.smil/playlist.m3u8
+
 #EXTINF:-1 tvg-id="GeordieShore.de@GB" tvg-logo="https://images.pluto.tv/channels/619263ee9541940007d20d60/colorLogoPNG.png" group-title="英国",Geordie Shore
 https://jmp2.uk/plu-65c4960d11ced7000812c433.m3u8
 
@@ -1216,6 +1219,12 @@ https://jmp2.uk/plu-65493029ab052400089e9d2f.m3u8
 
 #EXTINF:-1 group-title="英国",Gormiti
 https://jmp2.uk/plu-66a8c64814a2bb00084d09d6.m3u8
+
+#EXTINF:-1 tvg-id="GreatMovies.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/92/Great%21_Movies_logo_2021.svg/640px-Great%21_Movies_logo_2021.svg.png" group-title="英国",Great! Movies
+https://amg01753-narrativeuk-amg01753c3-lg-gb-1833.playouts.now.amagi.tv/playlist/amg01753-narrativeuk-greatmovies-lggb/playlist.m3u8
+
+#EXTINF:-1 tvg-id="GreatRomance.uk" tvg-logo="https://www.freeview.co.uk/sites/default/files/styles/255_wide/public/2023-09/GREAT-Christmas-logo.png" group-title="英国",Great! Romance
+https://amg01753-narrativeuk-amg01753c2-lg-gb-1832.playouts.now.amagi.tv/playlist/amg01753-narrativeuk-greatchristmas-lggb/playlist.m3u8
 
 #EXTINF:-1 group-title="英国",GrowthDay Network (720p)
 https://jmp2.uk/plu-69699ae5d301d54fb3dc1499.m3u8
@@ -1277,6 +1286,9 @@ https://jmp2.uk/plu-69b83e4169056557a9252f61.m3u8
 #EXTINF:-1 group-title="英国",Hoarders
 https://jmp2.uk/plu-698a040b48d98175cb870fc5.m3u8
 
+#EXTINF:-1 tvg-id="HobbyMaker.uk" tvg-logo="https://i.imgur.com/VWHp5Tl.png" group-title="英国",Hobby Maker
+https://lo3.gemporia.com/abrhobbymakerukgfx/smil:livestreamFullHD.smil/playlist.m3u8
+
 #EXTINF:-1 group-title="英国",Home Cooking by Food Network
 https://jmp2.uk/plu-68bb16916523408b14bac7f8.m3u8
 
@@ -1336,6 +1348,12 @@ https://jmp2.uk/plu-65453f30085df200085883d8.m3u8
 
 #EXTINF:-1 tvg-id="ITV.ua@SD" tvg-logo="https://i.imgur.com/NZdT9yJ.png" group-title="英国",ITV (480p)
 https://cdn10.live-tv.cloud/itvrv/abr-lq/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ITV1.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1f/ITV1_logo_%282022%29.svg/640px-ITV1_logo_%282022%29.svg.png" group-title="英国",ITV 1
+http://45.14.84.37/itv1/index.m3u8
+
+#EXTINF:-1 tvg-id="ITV2.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/ITV2_logo_2022.svg/640px-ITV2_logo_2022.svg.png" group-title="英国",ITV 2
+http://45.14.84.37/itv2/index.m3u8
 
 #EXTINF:-1 group-title="英国",ITV Choice (1080p) [Geo-blocked]
 https://amg00654-itvstudios-itvchoice-samsungau-2bacj.amagi.tv/playlist/amg00654-itvstudios-itvchoice-samsungau/playlist.m3u8
@@ -1948,6 +1966,9 @@ https://jmp2.uk/plu-6565413e4261ca0008215320.m3u8
 
 #EXTINF:-1 tvg-id="PimpMyRide.se@DK" tvg-logo="https://images.pluto.tv/channels/61c091343bf4940007803e03/colorLogoPNG.png" group-title="英国",Pimp My Ride
 https://jmp2.uk/plu-61c091343bf4940007803e03.m3u8
+
+#EXTINF:-1 tvg-id="PixelTV.pl@HD" tvg-logo="https://i.ibb.co/S4jM2WXk/pixeltv.png" group-title="英国",Pixel.tv (720p)
+https://jmp2.uk/plu-66bb374ba4ee27000841a62c.m3u8
 
 #EXTINF:-1 group-title="英国",Plato del Dia by elGourmet (720p)
 https://jmp2.uk/plu-6894febddbd49c964f3b66c8.m3u8
@@ -2684,6 +2705,9 @@ https://jmp2.uk/plu-6304f530440dc90007f514d3.m3u8
 #EXTINF:-1 group-title="英国",Pokémon en español
 https://jmp2.uk/plu-69e6be40fde57cd5ba562b29.m3u8
 
+#EXTINF:-1 tvg-id="Pop.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/36/Pop_UK_TV_Logo_%282015%29.svg/640px-Pop_UK_TV_Logo_%282015%29.svg.png" group-title="英国",Pop
+https://amg01753-narrativeentert-popkids-lggb-xyy5k.amagi.tv/ts-eu-w1-n2/playlist/amg01753-narrativeentert-popkids-lggb/playlist.m3u8
+
 #EXTINF:-1 group-title="英国",Popeye
 https://jmp2.uk/plu-677d93f37bffa600080795e7.m3u8
 
@@ -3179,6 +3203,12 @@ https://jmp2.uk/plu-691491c6bb69fb3258c3524a.m3u8
 #EXTINF:-1 group-title="英国",Sí quiero ese vestido
 https://jmp2.uk/plu-6578836cdfed030008ce5bdb.m3u8
 
+#EXTINF:-1 tvg-id="TBNUK.uk" tvg-logo="https://i.imgur.com/9vzEz1b.png" group-title="英国",TBN UK
+https://live-tbn-ssai.simplestreamcdn.com/v1/master/774d979dd66704abea7c5b62cb34c6815fda0d35/tbn-live/manifest.m3u8
+
+#EXTINF:-1 tvg-id="TJC.uk" tvg-logo="https://i.imgur.com/fk5rEje.png" group-title="英国",TJC
+https://cdn-shop-lc-01.akamaized.net/Content/HLS_HLS/Live/channel(TJCOTT)/index.m3u8
+
 #EXTINF:-1 group-title="英国",TNA Wrestling (720p)
 https://jmp2.uk/plu-62ea4dadce395f0007086df2.m3u8
 
@@ -3187,6 +3217,12 @@ https://cd198.anystream.uk:9092/iqapp/t5kb86tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TakeshisCastle.de@DACH" tvg-logo="https://images.pluto.tv/channels/6054a9f4bc8a5f000771504c/colorLogoPNG.png" group-title="英国",Takeshi's Castle
 https://jmp2.uk/plu-6054a9f4bc8a5f000771504c.m3u8
+
+#EXTINF:-1 tvg-id="TalkTV.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/83/TalkTV_logo.png" group-title="英国",TalkTV
+https://488f4ce4.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctZ2JfVGFsa19ITFM/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TalkingPicturesTV.uk" tvg-logo="https://i.imgur.com/S1zoIp7.png" group-title="英国",Talking Pictures TV
+http://92.114.85.72:8000/play/a0la
 
 #EXTINF:-1 group-title="英国",Tandem
 https://jmp2.uk/plu-66a8c8b3d2d50d000821fc4c.m3u8
@@ -3356,6 +3392,9 @@ https://jmp2.uk/plu-61c1a05ef30f5d0007e562f3.m3u8
 #EXTINF:-1 tvg-id="Tiljulefrokosthosr8Dio.se@DK" tvg-logo="https://images.pluto.tv/channels/69256bd7db5cc2f81d8a1a08/colorLogoPNG_1764256965972.png" group-title="英国",Til julefrokost hos r8Dio
 https://jmp2.uk/plu-69256bd7db5cc2f81d8a1a08.m3u8
 
+#EXTINF:-1 tvg-id="TogetherTV.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/ce/Together_TV_logo.svg/640px-Together_TV_logo.svg.png" group-title="英国",Together TV
+http://92.114.85.72:8000/play/a0j8
+
 #EXTINF:-1 tvg-id="Tokusato.us@Brazil" tvg-logo="https://i.imgur.com/tWpjXtl.png" group-title="英国",Tokusato
 https://jmp2.uk/plu-5ff609de50ab210008025c1b.m3u8
 
@@ -3388,6 +3427,9 @@ https://jmp2.uk/plu-67b4b4a21a5ca760802d25fd.m3u8
 
 #EXTINF:-1 tvg-id="TransformersTV.us@CA" tvg-logo="https://images.pluto.tv/channels/63da36dea995710008727d4d/colorLogoPNG.png" group-title="英国",Transformers
 https://jmp2.uk/plu-63da36dea995710008727d4d.m3u8
+
+#EXTINF:-1 tvg-id="TrueCrime.uk" tvg-logo="https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/TV/True-Crime-UK.png" group-title="英国",True Crime
+https://b6cca454.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1nYl9UcnVlQ3JpbWVVS2Zyb21DQlNSZWFsaXR5X0hMUw/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TrueCrimebyPlutoTV.de@FR" tvg-logo="https://images.pluto.tv/channels/5f914f4b36d67d0007a91a04/colorLogoPNG.png" group-title="英国",True Crime by Pluto TV
 https://jmp2.uk/plu-5f914f4b36d67d0007a91a04.m3u8

@@ -1,7 +1,7 @@
 #EXTM3U
 #PLAYLIST: 意大利 (IT) IPTV 直播源
-#生成时间: 2026-08-17 02:57:52
-#频道数: 598
+#生成时间: 2026-08-17 14:25:05
+#频道数: 600
 
 # ===== 意大利 (IT) =====
 
@@ -176,6 +176,9 @@ https://live02-seg.msf.cdn.mediaset.net/live/ch-c5/c5-clr.isml/index.m3u8
 #EXTINF:-1 tvg-id="Canale5.it@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Canale_5_-_2018_logo.svg/960px-Canale_5_-_2018_logo.svg.png" group-title="意大利",Canale 5 [Geo-blocked]
 https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(C5)/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RlFc74C.png" group-title="意大利",Canale 58
+https://dotfvxkfj90ca.cloudfront.net/live/canale58_aac/master.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9cuOLCn.png" group-title="意大利",Canale 7
 http://wms.shared.streamshow.it:80/canale7/canale7/playlist.m3u8
 
@@ -238,6 +241,9 @@ https://minerva-cinemasegreto-1-it.samsung.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9RVriNK.jpeg" group-title="意大利",Cittaceleste Tv
 https://sportitaliaamd.akamaized.net/live/Cittaceleste/hls/A990687F506536598442FC5CD12C97CB78873FBA/index.m3u8
+
+#EXTINF:-1 tvg-id="ClassCNBC.it" tvg-logo="https://i.imgur.com/oAiSU8O.png" group-title="意大利",Class CNBC
+https://amg14891-amg14891c5-amgplt0020.playout.now3.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ytN6jfl.jpeg" group-title="意大利",Classico – Rakuten TV
 https://rakuten-classico-1-eu.rakuten.wurl.tv/playlist.m3u8

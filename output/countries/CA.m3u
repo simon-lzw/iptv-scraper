@@ -1,7 +1,7 @@
 #EXTM3U
 #PLAYLIST: 加拿大 (CA) IPTV 直播源
-#生成时间: 2026-08-17 02:57:52
-#频道数: 108
+#生成时间: 2026-08-17 14:25:05
+#频道数: 110
 
 # ===== 加拿大 (CA) =====
 
@@ -119,7 +119,7 @@ https://bcsecurelivehls-i.akamaihd.net/hls/live/680604/1242843915001_3/master.m3
 #EXTINF:-1 tvg-id="CTV.bo@SD" tvg-logo="https://i.imgur.com/ljKb0UX.png" group-title="加拿大",CTV (1080p)
 http://15.204.246.24:8080/CTVHD/index.m3u8
 
-#EXTINF:-1 tvg-id="CTV2Atlantic.ca@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/CTV_2_2018.svg/960px-CTV_2_2018.svg.png" group-title="加拿大",CTV 2 Atlantic (720p)
+#EXTINF:-1 group-title="加拿大",CTV 2
 http://stream.cammonitorplus.net/1731/index.m3u8
 
 #EXTINF:-1 tvg-id="CTV9.kh@SD" tvg-logo="https://i.imgur.com/jgVJt2G.png" group-title="加拿大",CTV 9 (1080p)
@@ -127,6 +127,12 @@ http://43.252.18.195:5080/live/streams/ctv9_hd_playlist.m3u8
 
 #EXTINF:-1 tvg-id="CTVLifeChannel.ca@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/CTV_Life_Channel_2019.svg/500px-CTV_Life_Channel_2019.svg.png" group-title="加拿大",CTV Life Channel (720p)
 http://185.246.209.113/ANIMALPLANETHD/index.m3u8
+
+#EXTINF:-1 tvg-id="CTVNewsChannel.ca" tvg-logo="https://i.imgur.com/T3oBeiX.png" group-title="加拿大",CTV News
+https://www.youtube.com/c/CTVNews/live
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qOutOWN.png" group-title="加拿大",CTV Toronto
+http://stream.cammonitorplus.net/1712/index.m3u8
 
 #EXTINF:-1 tvg-id="CanadaOne.ca@SD" group-title="加拿大",Canada One (720p) [Not 24/7]
 http://cdn8.live247stream.com/canadaone/tv/playlist.m3u8

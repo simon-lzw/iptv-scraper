@@ -1,7 +1,7 @@
 #EXTM3U
 #PLAYLIST: 中国 (CN) IPTV 直播源
-#生成时间: 2026-08-17 02:57:52
-#频道数: 717
+#生成时间: 2026-08-17 14:25:05
+#频道数: 719
 
 # ===== 中国 (CN) =====
 
@@ -185,7 +185,7 @@ rtp://239.3.1.153:8136
 #EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/CCTV16.png" group-title="中国",CCTV-16
 http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227002/1.m3u8?
 
-#EXTINF:-1 tvg-id="CCTV16.cn@HD" tvg-logo="https://i.imgur.com/ZzV6JQp.png" group-title="中国",CCTV-16 (1080p)
+#EXTINF:-1 tvg-id="CCTV16.cn" tvg-logo="https://i.imgur.com/gaA4Cjy.png" group-title="中国",CCTV-16 奥林匹克
 http://74.91.26.218:82/live/cctv16hd.m3u8
 
 #EXTINF:-1 tvg-id="16" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/CCTV/CCTV-16.png" group-title="中国",CCTV-16高清
@@ -227,11 +227,11 @@ http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221
 #EXTINF:-1 tvg-id="CCTV4Asia.cn@SD" tvg-logo="https://i.imgur.com/tWt4Wou.png" group-title="中国",CCTV-4 Asia (720p)
 http://74.91.26.218:82/live/cctv4hd.m3u8
 
-#EXTINF:-1 tvg-id="CCTV4Europe.cn@SD" tvg-logo="https://i.imgur.com/HGLFdfk.png" group-title="中国",CCTV-4 Europe
-https://dash2.antik.sk/live/test_cctv_tizen/playlist.m3u8
-
 #EXTINF:-1 tvg-id="CCTV4Asia.cn" tvg-logo="https://i.imgur.com/ovUSVEQ.png" group-title="中国",CCTV-4 中文国际（亚）
 https://www.youtube.com/channel/UC4K_LI-Tn3-LshNgG0-YypQ/live
+
+#EXTINF:-1 tvg-id="CCTV4Europe.cn" tvg-logo="https://i.imgur.com/kx8metk.png" group-title="中国",CCTV-4 中文国际（欧）
+https://dash2.antik.sk/live/test_cctv_tizen/playlist.m3u8
 
 #EXTINF:-1 tvg-id="CCTV4America.cn" tvg-logo="https://i.imgur.com/1TPiRqR.png" group-title="中国",CCTV-4 中文国际（美）
 https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
@@ -518,9 +518,6 @@ rtp://239.3.1.156:8148
 #EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/东方卫视.png" group-title="中国",东方卫视
 http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226898/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7E0uh4lyjjBCCN7TCq21vSIQ%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 
-#EXTINF:-1 tvg-id="东方卫视4K" tvg-logo="https://tb.zbds.top/logo/东方卫视4K.png" group-title="中国",东方卫视4K
-https://bp-resource-dfl.bestv.cn/148/3/video.m3u8
-
 #EXTINF:-1 tvg-id="45" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/WeiShi/DongFang.png" group-title="中国",东方卫视高清
 rtp://239.3.1.119:3006
 
@@ -677,8 +674,8 @@ http://liveout.btzx.com.cn/62ds9e/4nxdih.m3u8?fbl=
 #EXTINF:-1 tvg-id="兵团八师石河子新闻综合" tvg-logo="https://tb.zbds.top/logo/兵团八师石河子新闻综合.png" group-title="中国",兵团八师石河子新闻综合
 http://124.88.144.73:1935/live/xwzh/playlist.m3u8?zxinjd
 
-#EXTINF:-1 tvg-id="6" tvg-logo="https://tb.zbds.top/logo/兵团卫视.png" group-title="中国",兵团卫视
-http://139.214.181.174:9901/tsfile/live/1097_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="10" tvg-logo="https://tb.zbds.top/logo/兵团卫视.png" group-title="中国",兵团卫视
+http://27.39.122.2:9901/tsfile/live/1089_1.m3u8?key=txiptv&playlive=1&authid=0
 
 #EXTINF:-1 tvg-id="65" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/WeiShi/BingTuan.png" group-title="中国",兵团卫视高清
 rtp://239.3.1.168:8196
@@ -1118,8 +1115,8 @@ rtp://239.3.1.27:2000
 #EXTINF:-1 tvg-id="1" tvg-logo="https://tb.zbds.top/logo/广东少儿.png" group-title="中国",广东少儿
 http://171.38.148.188:9003/hls/45/index.m3u8
 
-#EXTINF:-1 tvg-id="1" tvg-logo="https://tb.zbds.top/logo/广东影视.png" group-title="中国",广东影视
-http://218.13.138.139:59901/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="2" tvg-logo="https://tb.zbds.top/logo/广东影视.png" group-title="中国",广东影视
+http://171.38.148.188:9003/hls/38/index.m3u8
 
 #EXTINF:-1 tvg-id="广东新闻" tvg-logo="https://www.xn--rgv465a.top/tvlogo/广东新闻.png" group-title="中国",广东新闻
 https://hk.188766.xyz/?migutoken=4254e1ca8dcef82514ec6ce2a8bd39e4&id=gd_gdxw&type=sz
@@ -1292,6 +1289,9 @@ rtp://239.3.1.90:4120
 #EXTINF:-1 tvg-id="武清综合" tvg-logo="https://www.xn--rgv465a.top/tvlogo/武清综合.png" group-title="中国",武清综合
 https://tvpull.smartwq.cn/wqlive/convergencemedia/playlist.m3u8?ztianjd
 
+#EXTINF:-1 tvg-id="武进新闻" tvg-logo="https://tb.zbds.top/logo/武进新闻.png" group-title="中国",武进新闻
+https://live.wjyanghu.com/live/CH1.m3u8
+
 #EXTINF:-1 tvg-id="永城综合" tvg-logo="https://www.xn--rgv465a.top/tvlogo/永城综合.png" group-title="中国",永城综合
 http://tvpull.dxhmt.cn:9081/tv/11481-1.m3u8
 
@@ -1400,6 +1400,12 @@ https://migu.188766.xyz/?migutoken=599bb7fdd4f9cab36d202bb38a0da046&id=%E6%B0%91
 #EXTINF:-1 tvg-id="河南都市" tvg-logo="https://www.xn--rgv465a.top/tvlogo/河南都市.png" group-title="中国",河南都市
 http://1.94.31.214/php/hntv.php?id=hnds
 
+#EXTINF:-1 tvg-id="河源公共" tvg-logo="https://tb.zbds.top/logo/河源公共.png" group-title="中国",河源公共
+http://tmpstream.hyrtv.cn/hygg/sd/live.m3u8
+
+#EXTINF:-1 tvg-id="河源综合" tvg-logo="https://tb.zbds.top/logo/河源综合.png" group-title="中国",河源综合
+http://tmpstream.hyrtv.cn/xwzh/sd/live.m3u8
+
 #EXTINF:-1 group-title="中国",河源综合 (540p)
 https://tmpstream.hyrtv.cn/xwzh/sd/live.m3u8
 
@@ -1475,8 +1481,8 @@ http://ali-vl.cztv.com/channels/lantian/channel009/360p.m3u8
 #EXTINF:-1 tvg-id="浙江经济" tvg-logo="https://www.xn--rgv465a.top/tvlogo/浙江经济.png" group-title="中国",浙江经济
 http://ali-m-l.cztv.com/channels/lantian/channel03/720p.m3u8
 
-#EXTINF:-1 tvg-id="浙江经济生活" tvg-logo="https://tb.zbds.top/logo/浙江经济生活.png" group-title="中国",浙江经济生活
-http://ali-m-l.cztv.com/channels/lantian/channel03/1080p.m3u8#https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8#http://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
+#EXTINF:-1 tvg-id="1" tvg-logo="https://tb.zbds.top/logo/浙江经济生活.png" group-title="中国",浙江经济生活
+http://ali-m-l.cztv.com/channels/lantian/channel03/1080p.m3u8
 
 #EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/浙江经济生活.png" group-title="中国",浙江经视
 https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8

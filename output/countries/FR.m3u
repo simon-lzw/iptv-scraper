@@ -1,9 +1,12 @@
 #EXTM3U
 #PLAYLIST: 法国 (FR) IPTV 直播源
-#生成时间: 2026-08-17 02:57:52
-#频道数: 64
+#生成时间: 2026-08-17 14:25:05
+#频道数: 74
 
 # ===== 法国 (FR) =====
+
+#EXTINF:-1 tvg-id="6ter.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/a/a9/6ter_2012.png/73px-6ter_2012.png" group-title="法国",6ter
+http://145.239.5.177/314/index.m3u8
 
 #EXTINF:-1 tvg-id="Africanews.cg" tvg-logo="https://i.imgur.com/xocvePC.png" group-title="法国",Africanews
 https://www.youtube.com/c/Africanewsfr/live
@@ -20,6 +23,9 @@ http://45.162.64.114/ARTE1/index.m3u8
 #EXTINF:-1 group-title="法国",BBC Top Gear France (1080p)
 https://amg00793-amg00793c45-rakuten-fr-5539.playouts.now.amagi.tv/playlist.m3u8
 
+#EXTINF:-1 tvg-id="BFMTV.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Logo_BFM_TV_%282019%29.png/53px-Logo_BFM_TV_%282019%29.png" group-title="法国",BFM TV
+https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TV/index.m3u8?end=END&start=LIVE
+
 #EXTINF:-1 tvg-id="CGTNFrench.cn" tvg-logo="https://i.imgur.com/fMsJYzl.png" group-title="法国",CGTN Français
 https://news.cgtn.com/resource/live/french/cgtn-f.m3u8
 
@@ -28,6 +34,9 @@ http://145.239.5.177/214/index.m3u8
 
 #EXTINF:-1 tvg-id="CNews.fr" tvg-logo="https://i.imgur.com/UMRGAHx.png" group-title="法国",CNews
 https://www.dailymotion.com/video/x3b68jn
+
+#EXTINF:-1 tvg-id="CStar.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Logo_projet_CStar.svg/80px-Logo_projet_CStar.svg.png" group-title="法国",CStar
+http://145.239.5.177/361/index.m3u8
 
 #EXTINF:-1 tvg-id="CanalPlusCinemas.fr@SD" tvg-logo="https://i.imgur.com/fvPoNEa.jpeg" group-title="法国",Canal+ Cinemas (720p)
 http://151.80.18.177:86/Canal+_cinema_HD/index.m3u8
@@ -80,29 +89,35 @@ https://live.france24.com/hls/live/2037179-b/F24_FR_HI_HLS/master_5000.m3u8
 #EXTINF:-1 tvg-id="France24Arabic.fr" tvg-logo="https://i.imgur.com/61MSiq9.png" group-title="法国",France 24 العربية
 https://www.youtube.com/c/FRANCE24Arabic/live
 
-#EXTINF:-1 tvg-id="France3.fr@CotedAzur" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/France_3_Cote_d%27Azur_-_Logo_2018.svg" group-title="法国",France 3 Cote d'Azur
+#EXTINF:-1 tvg-id="France3.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/France_3_2018.svg/899px-France_3_2018.svg.png" group-title="法国",France 3
 http://89.187.185.76:8080/France3/index.m3u8
 
 #EXTINF:-1 tvg-id="France3.fr@Lorraine" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/61/France_3_Lorraine_-_Logo_2018.svg" group-title="法国",France 3 Lorraine (1080p)
 http://5.180.164.197:8080/FRANCE3/index.m3u8
 
-#EXTINF:-1 tvg-id="France4.fr@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/France_4_2018.svg/960px-France_4_2018.svg.png" group-title="法国",France 4
+#EXTINF:-1 tvg-id="France4.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/France_4_2018.svg/998px-France_4_2018.svg.png" group-title="法国",France 4
 http://176.65.146.100:8047/play/a074/index.m3u8
 
 #EXTINF:-1 tvg-id="France4.fr@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/France_4_2018.svg/960px-France_4_2018.svg.png" group-title="法国",France 4 HD (1080p)
 https://sv1.data-stream.top/8c0a287e56a6e1843143904778be3775b4d3edd4fba4ffcc3f72638c7a71d4d4/hls/francetv4.m3u8
 
-#EXTINF:-1 tvg-id="France5.fr@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/France_5_2018.svg/960px-France_5_2018.svg.png" group-title="法国",France 5 (720p)
+#EXTINF:-1 tvg-id="France5.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/France_5_2018.svg/900px-France_5_2018.svg.png" group-title="法国",France 5
 http://145.239.5.177/305/index.m3u8
 
 #EXTINF:-1 tvg-id="FranceInter.fr" tvg-logo="https://i.imgur.com/d9Ncl8m.png" group-title="法国",France Inter
 https://www.youtube.com/c/FranceInter/live
+
+#EXTINF:-1 tvg-id="Gulli.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/4/43/18._Gulli.png/57px-18._Gulli.png" group-title="法国",Gulli
+http://99.27.51.147:8080/Gulli/index.m3u8
 
 #EXTINF:-1 tvg-id="HandicapTV.fr" group-title="法国",Handicap TV
 https://srv.webtvmanager.fr:3697/stream/play.m3u8
 
 #EXTINF:-1 tvg-id="LEquipe.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/L%27%C3%89quipe_wordmark.svg/640px-L%27%C3%89quipe_wordmark.svg.png" group-title="法国",L'Équipe
 https://www.dailymotion.com/video/x2lefik
+
+#EXTINF:-1 tvg-id="LCI.fr" group-title="法国",LCI
+http://145.239.5.177/368/index.m3u8
 
 #EXTINF:-1 tvg-id="LCP.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/6/6a/Logo_LCP-AN_-_Public_S%C3%A9nat_%282019%29.svg/53px-Logo_LCP-AN_-_Public_S%C3%A9nat_%282019%29.svg.png" group-title="法国",LCP
 https://lcp.fr/le-live-lcp-tnt-5433
@@ -112,6 +127,9 @@ https://video1.getstreamhosting.com:1936/8282/8282/playlist.m3u8
 
 #EXTINF:-1 group-title="法国",La maison France 5
 https://jmp2.uk/plu-685a999bd33909bdd7d2fb1e.m3u8
+
+#EXTINF:-1 tvg-id="M6.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Logo_M6_%282020%2C_fond_clair%29.svg/49px-Logo_M6_%282020%2C_fond_clair%29.svg.png" group-title="法国",M6
+http://99.27.51.147:8080/M6/index.m3u8
 
 #EXTINF:-1 tvg-id="M6Music.fr@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c9/M6_Music_%282012%29.png" group-title="法国",M6 Music (720p)
 http://145.239.5.177/320/index.m3u8
@@ -143,11 +161,23 @@ https://live4.presstv.ir/live/smil:presstvfr.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="PublicSenat.fr" tvg-logo="https://i.imgur.com/bJOdFT1.png" group-title="法国",Public Sénat
 https://www.publicsenat.fr/direct
 
+#EXTINF:-1 tvg-id="RMCLife.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/f/f0/Ch%C3%A9rie_25_logo_2015.svg/51px-Ch%C3%A9rie_25_logo_2015.svg.png" group-title="法国",RMC Life (ex-Chérie 25)
+http://145.239.5.177/333/index.m3u8
+
 #EXTINF:-1 tvg-id="RTFrance.fr@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/RT-France-logo.svg/960px-RT-France-logo.svg.png" group-title="法国",RT France (1080p) [Geo-blocked]
 https://rt-fra.rttv.com/dvr/rtfrance/playlist.m3u8
 
 #EXTINF:-1 group-title="法国",Rakuten TV Top Films France (720p)
 https://93ed06eba1ef4cf783b66dc6ea7c4f28.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5986/master.m3u8
+
+#EXTINF:-1 tvg-id="TF1.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/7/77/TF1_%282013%29.svg/640px-TF1_%282013%29.svg.png" group-title="法国",TF1
+http://151.80.18.177:86/TF1_HD/index.m3u8
+
+#EXTINF:-1 tvg-id="TFX.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/8/83/TFX_logo_2018.svg/640px-TFX_logo_2018.svg.png" group-title="法国",TFX
+http://145.239.5.177/315/index.m3u8
+
+#EXTINF:-1 tvg-id="TMC.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/a/a8/TMC_logo_2016.svg/500px-TMC_logo_2016.svg.png" group-title="法国",TMC
+http://151.80.18.177:86/TMC/index.m3u8
 
 #EXTINF:-1 tvg-id="TVAlsace.fr" tvg-logo="https://i.imgur.com/zaJDEOv.png" group-title="法国",TV Alsace
 http://194.163.157.137:8080/hls/radioalsace.m3u8
@@ -164,9 +194,6 @@ https://ott.tv5monde.com/Content/HLS/Live/channel(fbs)/index.m3u8
 #EXTINF:-1 tvg-id="TV5MondeInfo.fr" tvg-logo="https://i.imgur.com/NcysrWH.png" group-title="法国",TV5 Monde Info
 https://ott.tv5monde.com/Content/HLS/Live/channel(info)/index.m3u8
 
-#EXTINF:-1 tvg-id="TV5MondeFranceBelgiumSwitzerlandMonaco.fr@SD" tvg-logo="https://i.imgur.com/WmRbudc.png" group-title="法国",TV5Monde France Belgique Suisse Monaco (1080p) [Geo-blocked]
-https://ott.tv5monde.com/Content/HLS/Live/channel(fbs)/variant.m3u8
-
 #EXTINF:-1 tvg-id="TV78.fr@SD" tvg-logo="https://i.imgur.com/stzE1Ij.png" group-title="法国",TV78 (720p)
 https://streamtv.cdn.dvmr.fr/TV78/ngrp:tv78.stream_all/master.m3u8
 
@@ -178,6 +205,9 @@ https://travelxp-travelxp-4-fr.rakuten.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TeleGohelle.fr@SD" tvg-logo="https://i.imgur.com/Oa3Pwbf.png" group-title="法国",TéléGohelle
 https://videas.agglo-lenslievin.fr/index.m3u8
+
+#EXTINF:-1 tvg-id="W9.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/W9_2018.svg/56px-W9_2018.svg.png" group-title="法国",W9
+http://145.239.5.177/331a/index.m3u8
 
 #EXTINF:-1 tvg-id="W9.fr@SD" tvg-logo="https://i.imgur.com/reYeMuE.png" group-title="法国",W9 (1080p)
 https://origin-m6web.live.6cloud.fr/out/v1/6play/6play-w9/cmaf_q2hyb21h/hls-short-hd.m3u8

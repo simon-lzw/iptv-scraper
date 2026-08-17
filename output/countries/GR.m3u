@@ -1,7 +1,7 @@
 #EXTM3U
 #PLAYLIST: 希腊 (GR) IPTV 直播源
-#生成时间: 2026-08-17 02:57:52
-#频道数: 82
+#生成时间: 2026-08-17 14:25:05
+#频道数: 83
 
 # ===== 希腊 (GR) =====
 
@@ -38,7 +38,7 @@ https://itv.streams.ovh/ALEERT/ALEERT/playlist.m3u8
 #EXTINF:-1 tvg-id="AlphaTV.gr" tvg-logo="https://i.imgur.com/bAVGX0l.png" group-title="希腊",AlphaTV
 https://alphatvlive2.siliconweb.com/alphatvlive/live_abr/playlist.m3u8
 
-#EXTINF:-1 tvg-id="AstraTV.gr@SD" tvg-logo="https://i.imgur.com/oYRPfZm.png" group-title="希腊",Astra TV (1080p)
+#EXTINF:-1 tvg-id="astratv.gr" tvg-logo="https://i.imgur.com/oYRPfZm.png" group-title="希腊",Astra
 https://server.gointernet.gr/live/livestream.m3u8
 
 #EXTINF:-1 tvg-id="besttv.gr" tvg-logo="https://i.imgur.com/VA13E3w.png" group-title="希腊",Best TV
@@ -154,6 +154,9 @@ https://thor.mental-media.gr:19360/imp/imp.m3u8
 
 #EXTINF:-1 tvg-id="MakTV.gr" tvg-logo="https://i.imgur.com/90iDHbQ.png" group-title="希腊",MAK TV
 https://mcdn.antennaplus.gr/live/media0/MAK/HLS/MAK.m3u8
+
+#EXTINF:-1 tvg-id="Mad.gr" tvg-logo="https://i.imgur.com/OTTxxGe.png" group-title="希腊",Mad
+https://www.youtube.com/c/madtvgreece/live
 
 #EXTINF:-1 tvg-id="Mega.cl@SD" tvg-logo="https://i.imgur.com/RlZfR84.png" group-title="希腊",Mega (1080p)
 http://15.204.246.24:8080/MEGAHD/index.m3u8

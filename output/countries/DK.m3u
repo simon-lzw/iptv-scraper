@@ -1,7 +1,7 @@
 #EXTM3U
 #PLAYLIST: 丹麦 (DK) IPTV 直播源
-#生成时间: 2026-08-17 02:57:52
-#频道数: 8
+#生成时间: 2026-08-17 14:25:05
+#频道数: 15
 
 # ===== 丹麦 (DK) =====
 
@@ -26,6 +26,27 @@ https://cdnapi.kaltura.com/p/2158211/sp/327418300/playManifest/entryId/1_24gfa7q
 #EXTINF:-1 tvg-id="KKRtv.dk@SD" tvg-logo="https://i.imgur.com/TbtjWHI.png" group-title="丹麦",KKRtv (720p) [Not 24/7]
 http://stream.kkr.dk/live/kkr/playlist.m3u8
 
-#EXTINF:-1 tvg-id="KanalHovedstaden.dk@SD" tvg-logo="https://i.imgur.com/afujBQs.jpeg" group-title="丹麦",Kanal Hovedstaden (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="KanalHovedstaden.dk" tvg-logo="https://i.imgur.com/MCXYDwH.png" group-title="丹麦",Kanal Hovedstaden
 http://khkbh.dk:8080/hls/livestream/index.m3u8
+
+#EXTINF:-1 tvg-id="TV2Bornholm.dk" tvg-logo="https://i.imgur.com/cEOpXU6.png" group-title="丹麦",TV 2/Bornholm
+https://livecdn.euw1-0005.jwplive.com/live/sites/J42OBHtp/media/vvNWt4O9/live.isml/.m3u8
+
+#EXTINF:-1 tvg-id="TV2Fyn.dk" tvg-logo="https://i.imgur.com/4L6AIMH.png" group-title="丹麦",TV 2/Fyn
+http://grevsen.dk/live/catchuptv/catchuptv/11.m3u8
+
+#EXTINF:-1 tvg-id="TV2Nord.dk" tvg-logo="https://i.imgur.com/tEJ22UW.png" group-title="丹麦",TV 2/Nord
+http://grevsen.dk/live/catchuptv/catchuptv/14.m3u8
+
+#EXTINF:-1 tvg-id="TV2Ost.dk" tvg-logo="https://i.imgur.com/H9l6Ulw.png" group-title="丹麦",TV 2/Øst
+http://grevsen.dk/live/catchuptv/catchuptv/16.m3u8
+
+#EXTINF:-1 tvg-id="TV2Ostjylland.dk" tvg-logo="https://i.imgur.com/qEUXjHp.png" group-title="丹麦",TV 2/Østjylland
+http://grevsen.dk/live/catchuptv/catchuptv/17.m3u8
+
+#EXTINF:-1 tvg-id="TVSYD.dk" tvg-logo="https://i.imgur.com/k2jf591.png" group-title="丹麦",TV Syd+
+http://grevsen.dk/live/catchuptv/catchuptv/15.m3u8
+
+#EXTINF:-1 tvg-id="TVMidtvest.dk" tvg-logo="https://i.imgur.com/OU7xIVa.png" group-title="丹麦",TV/Midt-Vest
+http://grevsen.dk/live/catchuptv/catchuptv/13.m3u8
 

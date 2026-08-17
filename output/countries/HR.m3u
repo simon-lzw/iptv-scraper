@@ -1,14 +1,14 @@
 #EXTM3U
 #PLAYLIST: 克罗地亚 (HR) IPTV 直播源
-#生成时间: 2026-08-17 02:57:52
-#频道数: 40
+#生成时间: 2026-08-17 14:25:05
+#频道数: 43
 
 # ===== 克罗地亚 (HR) =====
 
 #EXTINF:-1 tvg-id="AlJazeeraBalkans.ba" tvg-logo="https://i.imgur.com/Z1FB6wl.png" group-title="克罗地亚",Al Jazeera Balkans
 https://live-hls-web-ajb.getaj.net/AJB/index.m3u8
 
-#EXTINF:-1 tvg-id="Alsat.mk@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Logo_of_Alsat_TV_%282020-%29.svg/960px-Logo_of_Alsat_TV_%282020-%29.svg.png" group-title="克罗地亚",Alsat [Geo-blocked]
+#EXTINF:-1 tvg-id="Alsat.mk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Logo_of_Alsat_TV_%282020-%29.svg/640px-Logo_of_Alsat_TV_%282020-%29.svg.png" group-title="克罗地亚",Alsat M Ⓢ
 https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(Alsat_M)/index.m3u8
 
 #EXTINF:-1 tvg-id="BravoKidsTV.hr@SD" tvg-logo="https://i.imgur.com/JcJ6fQ9.png" group-title="克罗地亚",Bravo! Kids TV
@@ -16,6 +16,9 @@ https://streaming.radiohub.hr/RadioHub_WEB_streaming/BHWUC27pGZ/3.m3u8
 
 #EXTINF:-1 tvg-id="CMCTV.hr" tvg-logo="https://i.imgur.com/Fh2vawT.png" group-title="克罗地亚",CMC TV
 https://stream.cmctv.hr:49998/cmc/live.m3u8
+
+#EXTINF:-1 tvg-id="DiadoraTV.hr" tvg-logo="https://i.imgur.com/qZzsASl.png" group-title="克罗地亚",Diadora
+https://diadoratv.stream/live/diadora/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ExtraTV.hr@SD" tvg-logo="https://i.imgur.com/5edYPBO.png" group-title="克罗地亚",Extra TV (1080p)
 https://streaming.social3.hr/ExtraTVudzdhr5/uUankWqpXD/1.m3u8
@@ -38,7 +41,7 @@ https://webtvstream.bhtelecom.ba/hls9/hrt3_1200.m3u8
 #EXTINF:-1 tvg-id="HRT3.hr@HD" tvg-logo="https://i.imgur.com/4OrOJRx.png" group-title="克罗地亚",HRT 3 HD (720p) [Geo-blocked]
 https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/HRT3/default/index.mpd
 
-#EXTINF:-1 tvg-id="HRT4.hr@HD" tvg-logo="https://i.imgur.com/VcNrY0m.png" group-title="克罗地亚",HRT 4 HD (720p) [Geo-blocked]
+#EXTINF:-1 tvg-id="HRT4.hr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/76/HRT4-logo.png" group-title="克罗地亚",HRT 4
 https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/HRT4/default/index.mpd
 
 #EXTINF:-1 tvg-id="HTVKey.vn@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9e/Logo_HTV_Key.png" group-title="克罗地亚",HTV Key (1080p)
@@ -62,16 +65,16 @@ https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(MRT_2)/index.m3u8
 #EXTINF:-1 tvg-id="MRTSobraniskikanal.mk@SD" tvg-logo="https://i.imgur.com/fyNQ8Nf.png" group-title="克罗地亚",MRT Sobraniski kanal [Geo-blocked]
 https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(Sobraniski_Kanal)/index.m3u8
 
-#EXTINF:-1 tvg-id="MTM.mk@SD" tvg-logo="https://i.ibb.co/HCRZVVz/images-4.png" group-title="克罗地亚",MTM 1 [Geo-blocked]
+#EXTINF:-1 tvg-id="mtm.mk" tvg-logo="https://i.imgur.com/w6Uy2Zd.png" group-title="克罗地亚",MTM 1 Скопска
 https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(MTM)/index.m3u8
 
-#EXTINF:-1 tvg-id="NovaTV.hr@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Nova_TV_Croatia_logo.png/960px-Nova_TV_Croatia_logo.png" group-title="克罗地亚",Nova TV (1080p)
-http://176.61.157.250/NovaTV/index.m3u8
+#EXTINF:-1 tvg-id="N1Croatia.hr" tvg-logo="https://i.imgur.com/qcD1OOZ.png" group-title="克罗地亚",N1 Hrvatska
+https://www.youtube.com/@N1_Hrvatska/live
 
 #EXTINF:-1 tvg-id="NovaTVBrasov.ro@SD" tvg-logo="https://i.imgur.com/33Vn0Ij.png" group-title="克罗地亚",Nova TV Brasov (576p) [Not 24/7]
 http://novapress.ro:2022/live/nova/playlist.m3u8
 
-#EXTINF:-1 tvg-id="OTV.hr@SD" tvg-logo="https://i.imgur.com/67zVdu2.png" group-title="克罗地亚",OTV (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="OTV.hr" tvg-logo="https://i.imgur.com/67zVdu2.png" group-title="克罗地亚",OTV
 https://stream.agatin.hr:3559/live/otvlive.m3u8
 
 #EXTINF:-1 tvg-id="OSTV.hr" tvg-logo="https://i.imgur.com/o9JgEyG.png" group-title="克罗地亚",Osječka televizija (OSTV)
@@ -92,7 +95,7 @@ https://d1rzyyum8t0q1e.cloudfront.net/rtl-kockica/playlist.m3u8
 #EXTINF:-1 tvg-id="RadioTelevizijaBanovina.hr@SD" tvg-logo="https://i.imgur.com/gCFgC5D.png" group-title="克罗地亚",Radio Televizija Banovina (1080p) [Not 24/7]
 https://pool.alter-media.hr:1936/live/myStream/playlist.m3u8?DVR=
 
-#EXTINF:-1 tvg-id="SBTV.hr@SD" tvg-logo="https://i.imgur.com/MIampxZ.png" group-title="克罗地亚",SBTV (1080p) [Not 24/7]
+#EXTINF:-1 tvg-id="SBTV.hr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/SBTV_Logo.svg/480px-SBTV_Logo.svg.png" group-title="克罗地亚",SBTV
 https://live.leveex.hr/hls/live.m3u8
 
 #EXTINF:-1 tvg-id="SportskaTV.hr" tvg-logo="https://i.imgur.com/xdxjcVh.png" group-title="克罗地亚",Sportska televizija
@@ -100,6 +103,9 @@ https://stream.agatin.hr:3087/live/sptvlive.m3u8
 
 #EXTINF:-1 tvg-id="SutelTV.mk@SD" tvg-logo="https://i.imgur.com/hk3lhuF.png" group-title="克罗地亚",Sutel TV [Geo-blocked]
 https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(Shutel)/index.m3u8
+
+#EXTINF:-1 tvg-id="TVDalmacija.hr" tvg-logo="https://upload.wikimedia.org/wikipedia/hr/b/ba/Televizija_dalmacija_logo.jpg" group-title="克罗地亚",TV Dalmacija
+https://www.youtube.com/channel/UCvNIJIY4CM-T28UQgbUE4rQ/live
 
 #EXTINF:-1 tvg-id="TVERA.mk@SD" tvg-logo="https://i.imgur.com/ds0uf7A.png" group-title="克罗地亚",TV ERA [Geo-blocked]
 https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(ERA)/index.m3u8
@@ -124,4 +130,7 @@ http://webtv.zapad.tv:8080/memfs/1ad23803-84c3-41c7-aa91-fce4c7eac52e.m3u8
 
 #EXTINF:-1 tvg-id="TrendTV.hr" tvg-logo="https://upload.wikimedia.org/wikipedia/hr/2/22/TrendTV.jpg" group-title="克罗地亚",Trend TV
 http://185.62.75.22:1935/trend/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Z1.hr" tvg-logo="https://upload.wikimedia.org/wikipedia/hr/9/9e/Z1-tv_logo.png" group-title="克罗地亚",Z1
+https://www.youtube.com/@z1televizija/live
 
