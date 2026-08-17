@@ -1,6 +1,6 @@
 #EXTM3U
 #PLAYLIST: 阿联酋 (AE) IPTV 直播源
-#生成时间: 2026-08-16 14:20:10
+#生成时间: 2026-08-17 02:57:52
 #频道数: 44
 
 # ===== 阿联酋 (AE) =====
@@ -29,11 +29,11 @@ https://live-hls-apps-aje-fa.getaj.net/AJE/index.m3u8
 #EXTINF:-1 tvg-id="AlJazeera.qa@Arabic" tvg-logo="https://i.imgur.com/7bRVpnu.png" group-title="阿联酋",Al Jazeera (1080p)
 https://live-hls-apps-aja-fa.getaj.net/AJA/01.m3u8
 
+#EXTINF:-1 tvg-id="AlJazeeraDocumentary.qa" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e6/Al_Jazeera_Doc.png" group-title="阿联酋",Al Jazeera Documentary
+https://live-hls-web-ajd.getaj.net/AJD/index.m3u8
+
 #EXTINF:-1 tvg-id="AlJazeeraDocumentary.qa@SD" tvg-logo="https://i.imgur.com/5dNJlLo.png" group-title="阿联酋",Al Jazeera Documentary (1080p) [Geo-blocked]
 https://live-hls-apps-ajd-fa.getaj.net/AJD/index.m3u8
-
-#EXTINF:-1 tvg-id="AlJazeeraDocumentary.qa" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e6/Al_Jazeera_Doc.png" group-title="阿联酋",Al Jazeera Documentary Ⓖ
-https://live-hls-web-ajd.getaj.net/AJD/index.m3u8
 
 #EXTINF:-1 tvg-id="AlJazeera.qa@EnglishHD" tvg-logo="https://i.imgur.com/7bRVpnu.png" group-title="阿联酋",Al Jazeera English HD (576p)
 http://stream.mcquack.net/131/index.m3u8
@@ -83,7 +83,7 @@ https://dmiffthvll.cdn.mangomolo.com/dubaizaman/smil:dubaizaman.stream.smil/play
 #EXTINF:-1 tvg-id="MBC1.ae" tvg-logo="https://i.imgur.com/CiA3plN.png" group-title="阿联酋",MBC 1
 https://mbc1-enc.edgenextcdn.net/out/v1/0965e4d7deae49179172426cbfb3bc5e/index.m3u8
 
-#EXTINF:-1 tvg-id="MBC2.ae" tvg-logo="https://i.imgur.com/n9mSHuP.png" group-title="阿联酋",MBC 2 Ⓢ
+#EXTINF:-1 tvg-id="MBC2.ae" tvg-logo="https://i.imgur.com/n9mSHuP.png" group-title="阿联酋",MBC 2
 http://37.122.156.107:4000/play/a07g/index.m3u8
 
 #EXTINF:-1 tvg-id="MBC3.ae" tvg-logo="https://i.imgur.com/PVt8OPN.png" group-title="阿联酋",MBC 3
@@ -95,7 +95,7 @@ https://mbc4-prod-dub-ak.akamaized.net/out/v1/c08681f81775496ab4afa2bac7ae7638/i
 #EXTINF:-1 tvg-id="MBC5.ae" tvg-logo="https://i.imgur.com/fRWaDyF.png" group-title="阿联酋",MBC 5
 https://shls-mbc5-prod-dub.shahid.net/out/v1/2720564b6a4641658fdfb6884b160da2/index.m3u8
 
-#EXTINF:-1 tvg-id="MBCAction.ae" tvg-logo="https://i.imgur.com/OWZAghw.png" group-title="阿联酋",MBC Action Ⓢ
+#EXTINF:-1 tvg-id="MBCAction.ae" tvg-logo="https://i.imgur.com/OWZAghw.png" group-title="阿联酋",MBC Action
 http://37.122.156.107:4000/play/a07h/index.m3u8
 
 #EXTINF:-1 tvg-id="MBCBollywood.ae" tvg-logo="https://i.imgur.com/TTAGFHG.png" group-title="阿联酋",MBC Bollywood
@@ -104,7 +104,7 @@ https://shls-mbcbollywood-prod-dub.shahid.net/out/v1/a79c9d7ef2a64a54a64d5c4567b
 #EXTINF:-1 tvg-id="MBCDrama.ae" tvg-logo="https://i.imgur.com/g5PWnqp.png" group-title="阿联酋",MBC Drama
 https://mbc1-enc.edgenextcdn.net/out/v1/b0b3a0e6750d4408bb86d703d5feffd1/index.m3u8
 
-#EXTINF:-1 tvg-id="MBCMax.ae" tvg-logo="https://i.imgur.com/A02CptP.png" group-title="阿联酋",MBC Max Ⓢ
+#EXTINF:-1 tvg-id="MBCMax.ae" tvg-logo="https://i.imgur.com/A02CptP.png" group-title="阿联酋",MBC Max
 http://37.122.156.107:4000/play/a07i/index.m3u8
 
 #EXTINF:-1 tvg-id="MBCPersia.ae" tvg-logo="https://i.imgur.com/4FXiyjn.png" group-title="阿联酋",MBC Persia

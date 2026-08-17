@@ -1,7 +1,7 @@
 #EXTM3U
 #PLAYLIST: 加拿大 (CA) IPTV 直播源
-#生成时间: 2026-08-16 14:20:10
-#频道数: 119
+#生成时间: 2026-08-17 02:57:52
+#频道数: 108
 
 # ===== 加拿大 (CA) =====
 
@@ -86,16 +86,13 @@ https://cbcrclinear-tor.akamaized.net/hls/live/2042764/CBCRCLINEAR_TOR_10/master
 #EXTINF:-1 tvg-id="CBCSofra.eg@SD" tvg-logo="https://i.imgur.com/YAdk2WR.png" group-title="加拿大",CBC Sofra (576p)
 https://flu.systemnet.tv/CBCSofra/index.m3u8
 
-#EXTINF:-1 tvg-id="CBCSport.az" tvg-logo="https://upload.wikimedia.org/wikipedia/az/0/04/CBC_Sport_TV_loqo.png" group-title="加拿大",CBC Sport Ⓖ
+#EXTINF:-1 tvg-id="CBCSport.az" tvg-logo="https://upload.wikimedia.org/wikipedia/az/0/04/CBC_Sport_TV_loqo.png" group-title="加拿大",CBC Sport
 https://mn-nl.mncdn.com/cbcsports_live/cbcsports/playlist.m3u8
 
 #EXTINF:-1 tvg-id="CBCTV8.bb@SD" tvg-logo="https://i.imgur.com/WsD83lq.png" group-title="加拿大",CBC TV8 (1080p) [Not 24/7]
 https://1740288887.rsc.cdn77.org/1740288887/index.m3u8
 
 #EXTINF:-1 tvg-id="CBCTDT.ca" tvg-logo="https://i.imgur.com/H5yEbxf.png" group-title="加拿大",CBC Toronto
-https://bozztv.com/teleyupp1/teleup-ydcl2V1MVC/playlist.m3u8
-
-#EXTINF:-1 tvg-id="CBLTDT.ca@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/CBC_Logo_1992-Present.svg/960px-CBC_Logo_1992-Present.svg.png" group-title="加拿大",CBC Toronto (CBLT-DT) (720p) [Geo-blocked]
 https://cbcrclinear-tor.akamaized.net/hls/live/2042760/CBCRCLINEAR_TOR_6/master5.m3u8
 
 #EXTINF:-1 tvg-id="CBUTDT.ca@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/CBUT_Logo_%28cleaned_up_ver%29.png" group-title="加拿大",CBC Vancouver (CBUT-DT) (720p) [Geo-blocked]
@@ -131,17 +128,8 @@ http://43.252.18.195:5080/live/streams/ctv9_hd_playlist.m3u8
 #EXTINF:-1 tvg-id="CTVLifeChannel.ca@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/CTV_Life_Channel_2019.svg/500px-CTV_Life_Channel_2019.svg.png" group-title="加拿大",CTV Life Channel (720p)
 http://185.246.209.113/ANIMALPLANETHD/index.m3u8
 
-#EXTINF:-1 tvg-id="CTVNewsChannel.ca" tvg-logo="https://i.imgur.com/T3oBeiX.png" group-title="加拿大",CTV News
-https://pe-fa-lp02a.9c9media.com/live/News1Digi/p/hls/00000201/38ef78f479b07aa0/index/0c6a10a2/live/stream/h264/v1/3500000/manifest.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/qOutOWN.png" group-title="加拿大",CTV Toronto
-https://bozztv.com/teleyupp1/teleup-zxsJFt6VvY/playlist.m3u8
-
 #EXTINF:-1 tvg-id="CanadaOne.ca@SD" group-title="加拿大",Canada One (720p) [Not 24/7]
 http://cdn8.live247stream.com/canadaone/tv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BlFNlHz.png" group-title="加拿大",Citytv
-https://bozztv.com/teleyupp1/teleup-iSykLSKMFr/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="EWTN.us@Canada" tvg-logo="https://i.imgur.com/sua70RO.png" group-title="加拿大",EWTN Canada (720p)
 https://cdn3.wowza.com/1/YW5wSWZiRGd2eFlU/bGV0aVBq/hls/live/playlist.m3u8
@@ -149,35 +137,29 @@ https://cdn3.wowza.com/1/YW5wSWZiRGd2eFlU/bGV0aVBq/hls/live/playlist.m3u8
 #EXTINF:-1 tvg-id="GTNCanada.ca@SD" tvg-logo="https://i.imgur.com/7bQPJOd.png" group-title="加拿大",GTN Canada (1080i) [Geo-blocked]
 https://streamer12.vdn.dstreamone.net/carishowtime/showtime/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/2CxLO4H.png" group-title="加拿大",Global Calgary
-https://dfmjr9irb1dl5.cloudfront.net/out/v1/454010ff309e4963a087f5802856e346/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/2CxLO4H.png" group-title="加拿大",Global Edmonton
-https://da7sdtkzly6qj.cloudfront.net/out/v1/b317f6c10f2e493993bd2b5314df1c7c/index_1.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IpfmG93.png" group-title="加拿大",Global News
 https://i.mjh.nz/PlutoTV/62cbef9ebb857100072fc187-alt.m3u8
 
-#EXTINF:-1 tvg-id="CHANDT.ca" tvg-logo="https://i.imgur.com/IpfmG93.png" group-title="加拿大",Global News BC
-https://i.mjh.nz/PlutoTV/62cbf063257170000724590c-alt.m3u8
+#EXTINF:-1 group-title="加拿大",Global News BC
+https://jmp2.uk/plu-62cbf063257170000724590c.m3u8
 
-#EXTINF:-1 tvg-id="CICTDT.ca" tvg-logo="https://i.imgur.com/IpfmG93.png" group-title="加拿大",Global News Calgary
-https://i.mjh.nz/PlutoTV/62cbf23dcfb48300077f8348-alt.m3u8
+#EXTINF:-1 group-title="加拿大",Global News Calgary
+https://jmp2.uk/plu-62cbf23dcfb48300077f8348.m3u8
 
 #EXTINF:-1 group-title="加拿大",Global News Edmonton
 https://jmp2.uk/plu-62cbf2de1fba5f0007e47d9c.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/IpfmG93.png" group-title="加拿大",Global News Halifax
-https://i.mjh.nz/PlutoTV/62cbf398b8e02600071deda5-alt.m3u8
+#EXTINF:-1 group-title="加拿大",Global News Halifax
+https://jmp2.uk/plu-62cbf398b8e02600071deda5.m3u8
 
-#EXTINF:-1 tvg-id="CKWSDT.ca" tvg-logo="https://i.imgur.com/IpfmG93.png" group-title="加拿大",Global News Kingston
-https://i.mjh.nz/PlutoTV/62cbf4964446e2000742073e-alt.m3u8
+#EXTINF:-1 group-title="加拿大",Global News Kingston
+https://jmp2.uk/plu-62cbf4964446e2000742073e.m3u8
 
 #EXTINF:-1 group-title="加拿大",Global News Lethbridge
 https://jmp2.uk/plu-62cbf7439cb58900088dc77b.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/IpfmG93.png" group-title="加拿大",Global News Montreal
-https://i.mjh.nz/PlutoTV/62cbfbd6ad95670007f567af-alt.m3u8
+#EXTINF:-1 group-title="加拿大",Global News Montreal
+https://jmp2.uk/plu-62cbfbd6ad95670007f567af.m3u8
 
 #EXTINF:-1 group-title="加拿大",Global News National (720p)
 https://jmp2.uk/plu-62cbef9ebb857100072fc187.m3u8
@@ -185,11 +167,11 @@ https://jmp2.uk/plu-62cbef9ebb857100072fc187.m3u8
 #EXTINF:-1 group-title="加拿大",Global News Okanagan (720p)
 https://jmp2.uk/plu-62cbfc572dc3750007a493ce.m3u8
 
-#EXTINF:-1 tvg-id="CHEXDT.ca" tvg-logo="https://i.imgur.com/IpfmG93.png" group-title="加拿大",Global News Peterborough
-https://i.mjh.nz/PlutoTV/62cbfcd8c2db990007861e43-alt.m3u8
+#EXTINF:-1 group-title="加拿大",Global News Peterborough
+https://jmp2.uk/plu-62cbfcd8c2db990007861e43.m3u8
 
-#EXTINF:-1 tvg-id="CFREDT.ca" tvg-logo="https://i.imgur.com/IpfmG93.png" group-title="加拿大",Global News Regina
-https://i.mjh.nz/PlutoTV/62cbff53ca8f2200080253b5-alt.m3u8
+#EXTINF:-1 group-title="加拿大",Global News Regina
+https://jmp2.uk/plu-62cbff53ca8f2200080253b5.m3u8
 
 #EXTINF:-1 tvg-id="CFSKDT.ca" tvg-logo="https://i.imgur.com/IpfmG93.png" group-title="加拿大",Global News Saskatoon
 https://i.mjh.nz/PlutoTV/62cc00359cb58900088dc840-alt.m3u8
@@ -209,9 +191,6 @@ http://190.93.224.42/GLOBAL/index.m3u8
 #EXTINF:-1 tvg-id="GlobalTV.do@SD" tvg-logo="https://i.imgur.com/1rQaROm.png" group-title="加拿大",Global TV (720p)
 https://stmv4.voxtvhd.com.br/globaltv/globaltv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/2CxLO4H.png" group-title="加拿大",Global Toronto
-https://d128o1k7zh3htz.cloudfront.net/out/v1/74a58360a3734f97b74ba439bc678044/index.m3u8
-
 #EXTINF:-1 tvg-id="HaberGlobal.tr@SD" tvg-logo="https://i.imgur.com/fu6XeGS.png" group-title="加拿大",Haber Global (720p) [Not 24/7]
 https://tv.ensonhaber.com/haberglobal/haberglobal.m3u8
 
@@ -221,7 +200,7 @@ https://amdici.akamaized.net/hls/live/873426/ICI-Live-Stream/master.m3u8
 #EXTINF:-1 tvg-id="IciRDI.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/ICI_RDI_logo.svg/640px-ICI_RDI_logo.svg.png" group-title="加拿大",ICI RDI
 https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/HsSi3NV.png" group-title="加拿大",ICI Télé HD Ⓖ
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HsSi3NV.png" group-title="加拿大",ICI Télé HD
 https://rcavlive.akamaized.net/hls/live/696615/xcancbft/master.m3u8
 
 #EXTINF:-1 tvg-id="CBFTDT.ca@SD" tvg-logo="https://i.imgur.com/pFCJGj4.png" group-title="加拿大",Ici Radio-Canada Télé (1080p) [Geo-blocked]
@@ -293,9 +272,6 @@ http://152.89.62.111:8080/nXyAiP3DNp/QgOuvocpGv/223012
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BL9ziSJ.png" group-title="加拿大",Noovo
 https://pe-ak-lp04a-9c9media.akamaized.net/live/NOOVO/p/dash/00000001/f481c583dbd06b6c/manifest.mpd
 
-#EXTINF:-1 tvg-id="ONNtv.ca" tvg-logo="https://i.imgur.com/zz5ST9K.png" group-title="加拿大",ONNtv Ontario
-https://onntv.vantrix.tv:443/onntv_hls/1080p/onntv_hls-HLS-1080p.m3u8
-
 #EXTINF:-1 tvg-id="OntarioParliamentaryNetwork.ca@SD" tvg-logo="https://i.imgur.com/xKXs6ER.png" group-title="加拿大",Ontario Parliamentary Network (720p)
 https://origin-http-delivery.isilive.ca/live/_definst_/ontla/house-en/playlist.m3u8
 
@@ -320,9 +296,6 @@ https://d28xtgmk9tfk6b.cloudfront.net/master.m3u8
 #EXTINF:-1 tvg-id="SouthParkWelcometoCanada.us@CA" tvg-logo="https://images.pluto.tv/channels/663115d923e24f000843b49c/colorLogoPNG.png" group-title="加拿大",South Park: Welcome to Canada!
 https://jmp2.uk/plu-663115d923e24f000843b49c.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ap54LCC.png" group-title="加拿大",Star TV
-http://live.canadastartv.com:1935/canadastartv/canadastartv/playlist.m3u
-
 #EXTINF:-1 tvg-id="TOIGlobal.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/npnhm84gz9.png" group-title="加拿大",TOI Global (1080p)
 https://live.sli.ke/live/npnhm84gz9/master.m3u8
 
@@ -335,6 +308,9 @@ http://103.250.28.74:8000/play/a04i/index.m3u8
 #EXTINF:-1 tvg-id="TV5QuebecCanada.ca@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/TV5_%28logo%29.svg/960px-TV5_%28logo%29.svg.png" group-title="加拿大",TV5 Quebec Canada (1080p)
 http://23.133.220.149/TV5/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1GR8Szn.png" group-title="加拿大",TVA
+https://tvalive-dai01.akamaized.net/Content/HLS/Live/channel(575b93c5-be31-ee34-6285-14620fd14048)/index.m3u8
+
 #EXTINF:-1 tvg-id="TVA.de@SD" tvg-logo="https://i.imgur.com/Gg6d4Jb.png" group-title="加拿大",TVA (1080p) [Not 24/7]
 https://tvaktuellr.iptv-playoutcenter.de/tvaktuellr/tvaktuellr.stream_1/playlist.m3u8
 
@@ -343,15 +319,6 @@ http://hls.cdn.ua/tva.ua_live/livestream/chunklist_w396178779.m3u8
 
 #EXTINF:-1 tvg-id="TVANava.ir@SD" tvg-logo="https://i.imgur.com/JRxrsrw.png" group-title="加拿大",TVA Nava
 https://ncdn.telewebion.ir/nava/live/playlist.m3u8
-
-#EXTINF:-1 tvg-id="CFTMDT.ca@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/TVA_logo_2020.svg/960px-TVA_logo_2020.svg.png" group-title="加拿大",TVA [Geo-blocked]
-https://tvalive-dai01.akamaized.net/Content/HLS/Live/channel(575b93c5-be31-ee34-6285-14620fd14048)/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/1GR8Szn.png" group-title="加拿大",TVA Ⓖ
-https://tvalive.akamaized.net/hls/live/2012413/tva01/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/PkBPPcL.png" group-title="加拿大",TVO
-https://bozztv.com/teleyupp1/teleup-OMZsmYVUMp/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Toronto360.tv" tvg-logo="https://i.imgur.com/PkWndsv.png" group-title="加拿大",Toronto 360 TV
 http://cdn3.toronto360.tv:8081/toronto360/hd/playlist.m3u8

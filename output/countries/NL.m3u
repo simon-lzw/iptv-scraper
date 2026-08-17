@@ -1,7 +1,7 @@
 #EXTM3U
 #PLAYLIST: 荷兰 (NL) IPTV 直播源
-#生成时间: 2026-08-16 14:20:10
-#频道数: 61
+#生成时间: 2026-08-17 02:57:52
+#频道数: 58
 
 # ===== 荷兰 (NL) =====
 
@@ -17,7 +17,7 @@ https://bnr-cache-cdp.triple-it.nl/studio/index.m3u8
 #EXTINF:-1 tvg-id="DenHaagTV.nl@SD" tvg-logo="https://i.imgur.com/gkzlRED.jpg" group-title="荷兰",Den Haag TV (1080p) [Not 24/7]
 http://wowza5.video-streams.nl:1935/denhaag/denhaag/playlist.m3u8
 
-#EXTINF:-1 tvg-id="L1TV.nl" tvg-logo="https://i.imgur.com/Jyhn1iP.png" group-title="荷兰",L1 Ⓢ
+#EXTINF:-1 tvg-id="L1TV.nl" tvg-logo="https://i.imgur.com/Jyhn1iP.png" group-title="荷兰",L1
 http://d34pj260kw1xmk.cloudfront.net/live/l1/tv/index.m3u8
 
 #EXTINF:-1 tvg-id="LONTV.nl@SD" tvg-logo="https://i.imgur.com/bH4XSGw.png" group-title="荷兰",LON TV (720p)
@@ -29,19 +29,10 @@ https://server-23.stream-server.nl:1936/Magic-PowerRadio/Magic-PowerRadio/playli
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SQPVOwn.png" group-title="荷兰",NH Nieuws
 https://rrr.sz.xlcdn.com/?account=nhnieuws&file=live&type=live&service=wowza&protocol=https&output=playlist.m3u8
 
-#EXTINF:-1 tvg-id="NPO1.nl" tvg-logo="https://i.imgur.com/pUBy4Pb.png" group-title="荷兰",NPO 1 Ⓖ
-http://resolver.streaming.api.nos.nl/livestream?url=/live/npo/tvlive/npo1/npo1.isml/.m3u8
-
-#EXTINF:-1 tvg-id="NPO2.nl" tvg-logo="https://i.imgur.com/Vl2G1H3.png" group-title="荷兰",NPO 2 Ⓖ
-http://resolver.streaming.api.nos.nl/livestream?url=/live/npo/tvlive/npo2/npo2.isml/.m3u8
-
-#EXTINF:-1 tvg-id="NPO3.nl" tvg-logo="https://i.imgur.com/dVB4Pqc.png" group-title="荷兰",NPO 3 Ⓖ
-http://resolver.streaming.api.nos.nl/livestream?url=/live/npo/tvlive/npo3/npo3.isml/.m3u8
-
 #EXTINF:-1 tvg-id="OmroepBrabantTV.nl" tvg-logo="https://i.imgur.com/Jv7IjHJ.png" group-title="荷兰",Omroep Brabant
 http://d3slqp9xhts6qb.cloudfront.net/live/omroepbrabant/tv/index.m3u8
 
-#EXTINF:-1 tvg-id="OmroepFlevolandTV.nl" tvg-logo="https://i.imgur.com/d1CmTcI.png" group-title="荷兰",Omroep Flevoland Ⓢ
+#EXTINF:-1 tvg-id="OmroepFlevolandTV.nl" tvg-logo="https://i.imgur.com/d1CmTcI.png" group-title="荷兰",Omroep Flevoland
 https://d5ms27yy6exnf.cloudfront.net/live/omroepflevoland/tv/index.m3u8
 
 #EXTINF:-1 tvg-id="OmroepGelderlandTV.nl" tvg-logo="https://i.imgur.com/TPlyvUQ.png" group-title="荷兰",Omroep Gelderland

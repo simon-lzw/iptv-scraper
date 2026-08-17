@@ -1,6 +1,6 @@
 #EXTM3U
 #PLAYLIST: 香港 (HK) IPTV 直播源
-#生成时间: 2026-08-16 14:20:10
+#生成时间: 2026-08-17 02:57:52
 #频道数: 37
 
 # ===== 香港 (HK) =====
@@ -17,11 +17,11 @@ https://hoytv-live-stream.hoy.tv/ch78/index.m3u8
 #EXTINF:-1 tvg-id="HongKongInternationalBusinessChannel.hk@SD" tvg-logo="https://i.imgur.com/jaIdkbz.png" group-title="香港",HOY International Business Channel (1080p) [Geo-blocked]
 https://hoytv-live-stream.hoy.tv/ch76/index-fhd.m3u8
 
+#EXTINF:-1 tvg-id="HKIBC.hk" tvg-logo="https://i.imgur.com/NfVZPTT.png" group-title="香港",HOY TV
+https://hoytv-live-stream.hoy.tv/ch78/index-fhd.m3u8
+
 #EXTINF:-1 tvg-id="HOYTV.hk@SD" tvg-logo="https://i.imgur.com/NfVZPTT.png" group-title="香港",HOY TV (1080p) [Geo-blocked]
 https://hoytv-live-stream.hoy.tv/ch77/index.m3u8
-
-#EXTINF:-1 tvg-id="HKIBC.hk" tvg-logo="https://i.imgur.com/NfVZPTT.png" group-title="香港",HOY TV Ⓖ
-https://hoytv-live-stream.hoy.tv/ch78/index-fhd.m3u8
 
 #EXTINF:-1 tvg-id="J2" tvg-logo="https://www.xn--rgv465a.top/tvlogo/J2.png" group-title="香港",J2
 http://api.kkitv.itv888.vip:8080/streams/48uxa7dlbga/index.m3u8
