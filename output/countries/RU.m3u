@@ -1,7 +1,7 @@
 #EXTM3U
 #PLAYLIST: 俄罗斯 (RU) IPTV 直播源
-#生成时间: 2026-08-17 14:25:05
-#频道数: 255
+#生成时间: 2026-08-18 02:58:44
+#频道数: 252
 
 # ===== 俄罗斯 (RU) =====
 
@@ -278,9 +278,6 @@ https://live-tdk42kz.cdnvideo.ru/tdk42kz/tdk42kz_720.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="TNVTatarstan.ru@SD" tvg-logo="https://i.imgur.com/58u9TQT.png" group-title="俄罗斯",TNV-Tatarstan (720p)
 https://user91229.clients-cdnnow.ru/hls/user91229_1.m3u8
 
-#EXTINF:-1 tvg-id="TVBRICSChinese.cn@SD" tvg-logo="https://i.imgur.com/896132Z.png" group-title="俄罗斯",TV BRICS Chinese (1080p)
-https://chibrics.mediacdn.ru/cdn/brics/chinese/playlist.m3u8
-
 #EXTINF:-1 tvg-id="TVBRICSEnglish.in@SD" tvg-logo="https://i.imgur.com/8rKNuS6.png" group-title="俄罗斯",TV BRICS English (1080p)
 https://engbrics.mediacdn.ru/cdn/brics/english/playlist.m3u8
 
@@ -357,9 +354,6 @@ https://streaming.astrakhan.ru/astrakhanrulivehd/playlist.m3u8
 https://bsttv.bonus-tv.ru/cdn/bst/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Bashkortostan24.ru" tvg-logo="https://i.imgur.com/FQhWs1M.png" group-title="俄罗斯",Башкортостан 24
-https://vgtrkregion-reg.cdnvideo.ru/vgtrk/ufa/russia1-hd/index.m3u8
-
-#EXTINF:-1 tvg-id="Bashkortostan24.ru@SD" tvg-logo="https://i.imgur.com/s34Wtz6.png" group-title="俄罗斯",Башкортостан 24 (1080p)
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/ufa/bashkortostan24-hd/index.m3u8
 
 #EXTINF:-1 tvg-id="Belgorod24.ru" tvg-logo="https://i.imgur.com/EEirvyx.png" group-title="俄罗斯",Белгород 24
@@ -548,6 +542,9 @@ https://v4.proofix.ru/0mir/index.m3u8
 #EXTINF:-1 tvg-id="OshPirim.kg@SD" tvg-logo="https://i.ibb.co/9VBnyQ1/cropped-white.png" group-title="俄罗斯",Ош Пирим (1080p) [Not 24/7]
 http://gohoski.fvds.ru:3000/mediabay/697/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://smotret.tv/images/pervyj-informacionnyj.webp" group-title="俄罗斯",Первый Информацыйнный
+https://ngtrk.dc.beltelecom.by/ngtrk/smil:informacionnyy.smil/playlist.m3u8
+
 #EXTINF:-1 tvg-id="PerviyKrymskiy.ru@SD" tvg-logo="https://i.imgur.com/i6hg7QG.png" group-title="俄罗斯",Первый Крымский (720p)
 https://live1.1tvcrimea.ru/1tvcrimea.m3u8
 
@@ -639,9 +636,6 @@ http://ott-cdn.ucom.am/s52/04.m3u8
 https://bsttv.bonus-tv.ru/cdn/salyam/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Samara24.ru" tvg-logo="https://i.imgur.com/Xg7Xzna.png" group-title="俄罗斯",Самара 24
-https://vgtrkregion.cdnvideo.ru/vgtrk/samara/regionHD/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Samara24.ru@SD" tvg-logo="https://i.imgur.com/YUe3Dwd.png" group-title="俄罗斯",Самара 24 (1080p)
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/samara/samara24-hd/index.m3u8
 
 #EXTINF:-1 tvg-id="SamaraGIS.ru@SD" tvg-logo="https://samaragis.ru/wp-includes/images/logo.png" group-title="俄罗斯",Самара ГИС (1080p) [Not 24/7]
@@ -735,9 +729,6 @@ https://tvtogliatti24.ru/hls/live1080/index.m3u8
 https://hls.tv.3angels.ru/stream.m3u8
 
 #EXTINF:-1 tvg-id="Ural24.ru" tvg-logo="https://i.imgur.com/EaxyGh0.png" group-title="俄罗斯",Урал 24
-https://vgtrkregion-reg.cdnvideo.ru/vgtrk/chelyabinsk/russia1-hd/index.m3u8
-
-#EXTINF:-1 tvg-id="Ural24.ru@SD" tvg-logo="https://i.imgur.com/eoI4KuB.png" group-title="俄罗斯",Урал 24 (Челябинск) (1080p)
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/chelyabinsk/ural24-hd/index.m3u8
 
 #EXTINF:-1 tvg-id="HuzurTV.ru@SD" tvg-logo="https://i.imgur.com/Abg1fct.png" group-title="俄罗斯",Хузур ТВ (1080p) [Not 24/7]

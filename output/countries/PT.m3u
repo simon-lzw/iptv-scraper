@@ -1,7 +1,7 @@
 #EXTM3U
 #PLAYLIST: 葡萄牙 (PT) IPTV 直播源
-#生成时间: 2026-08-17 14:25:05
-#频道数: 32
+#生成时间: 2026-08-18 02:58:44
+#频道数: 31
 
 # ===== 葡萄牙 (PT) =====
 
@@ -18,7 +18,7 @@ https://playout172.livextend.cloud/liveiframe/_definst_/ngrp:liveartvabr_abr/pla
 https://janya-digimix.akamaized.net/vglive-sk-382409/portuese/ngrp:angelportuguese_all/playlist.m3u8
 
 #EXTINF:-1 tvg-id="CNNPortugal.pt" tvg-logo="https://i.imgur.com/NYH39xs.png" group-title="葡萄牙",CNN Portugal
-https://sktv-forwarders.7m.pl/get.php?x=CNN_Portugal
+https://github.com/LITUATUI/M3UPT/raw/main/M3U/CNN_Portugal.m3u8
 
 #EXTINF:-1 tvg-id="EuronewsPortuguese.fr@SD" tvg-logo="https://i.imgur.com/8t9mdg9.png" group-title="葡萄牙",Euronews Portuguese (720p)
 https://jmp2.uk/plu-619e6614c9d9650007a2b171.m3u8
@@ -30,7 +30,7 @@ https://www.youtube.com/euronewspt/live
 https://e3be9ac5.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctYnJfRklGQVBsdXNQb3J0dWd1ZXNlX0hMUw/playlist.m3u8
 
 #EXTINF:-1 tvg-id="PortoCanal.pt" tvg-logo="https://i.imgur.com/wsyvP2H.png" group-title="葡萄牙",Porto Canal
-https://streamer-a01.videos.sapo.pt/live/portocanal/playlist.m3u8
+https://pull-live-156-1.global.ssl.fastly.net/pc5865dc25400thmb-ea6bf03b14fa318f7133/smil:pc1-jhrgyuoqe5865db-68tkgb14fa318f7133f03.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="RTP.it@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/8/86/Logo_Radio_Televisione_Peloritana.svg/512px-Logo_Radio_Televisione_Peloritana.svg.png" group-title="葡萄牙",RTP (404p)
 https://flash2.xdevel.com/rtptv/rtptv/playlist.m3u8
@@ -84,9 +84,6 @@ http://178.124.179.122:8080/SportTV/mpegts
 https://porbrics.mediacdn.ru/cdn/brics/portuguese/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TVI.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/63/TVI_logo_2017.png" group-title="葡萄牙",TVI
-https://d36mxwpltmym4d.cloudfront.net/playlist.m3u8
-
-#EXTINF:-1 tvg-id="TVI.pt@SD" tvg-logo="https://i.imgur.com/H8Tgl7m.png" group-title="葡萄牙",TVI (720p)
 https://raw.githubusercontent.com/thomraider12/canaistvpt/main/m3u8s/tvi.m3u8
 
 #EXTINF:-1 tvg-id="TVIFiccao.pt@SD" tvg-logo="https://cdn.iol.pt/img/logostvi/branco/tvificcao.png" group-title="葡萄牙",TVI Ficção (720p)

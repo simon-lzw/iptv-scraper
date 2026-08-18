@@ -1,7 +1,7 @@
 #EXTM3U
 #PLAYLIST: 罗马尼亚 (RO) IPTV 直播源
-#生成时间: 2026-08-17 14:25:05
-#频道数: 60
+#生成时间: 2026-08-18 02:58:44
+#频道数: 61
 
 # ===== 罗马尼亚 (RO) =====
 
@@ -76,6 +76,9 @@ https://tv.streambox.ro/hls/itv/index.m3u8
 
 #EXTINF:-1 tvg-id="InformatiaTV.ro@SD" tvg-logo="https://i.imgur.com/P1ZbVRg.png" group-title="罗马尼亚",Informatia TV
 https://informatia.streamnet.ro/mobile_tv/informatiatv.m3u8
+
+#EXTINF:-1 tvg-id="KanalD2.ro@SD" tvg-logo="https://i.imgur.com/0SMSIm9.png" group-title="罗马尼亚",Kanal D2 (1080i)
+https://stream2.kanald.ro/iphone/knd2-live.m3u8
 
 #EXTINF:-1 tvg-id="KissTV.ro@SD" tvg-logo="https://i.imgur.com/NKfVymH.png" group-title="罗马尼亚",Kiss TV (1080p)
 https://tv.broadcasting.ro/kisstv/a629c031-2170-4ee9-a36d-87a891aa3131.m3u8
