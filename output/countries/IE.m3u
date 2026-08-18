@@ -1,7 +1,7 @@
 #EXTM3U
 #PLAYLIST: 爱尔兰 (IE) IPTV 直播源
-#生成时间: 2026-08-18 02:58:44
-#频道数: 23
+#生成时间: 2026-08-18 14:30:58
+#频道数: 22
 
 # ===== 爱尔兰 (IE) =====
 
@@ -24,10 +24,10 @@ https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_two_n
 https://stream.audioxi.com/CLASSIC
 
 #EXTINF:-1 tvg-id="q102.ie" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e7/Dublins_Q102_Logo.png" group-title="爱尔兰",Dublin's Q102
-https://wg.cdn.tibus.net/q102MP3128
+https://onic.dublin.live.stream.broadcasting.news/stream-q102
 
 #EXTINF:-1 tvg-id="fm104.ie" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cb/FM104_logo_tile.png" group-title="爱尔兰",FM104
-https://wg.cdn.tibus.net/fm104MP3128
+https://onic.dublin.live.stream.broadcasting.news/stream-fm104
 
 #EXTINF:-1 tvg-id="OireachtasTV.ie" tvg-logo="https://i.imgur.com/aC4fsCI.png" group-title="爱尔兰",Houses of the Oireachtas Channel
 https://d33zah5htxvoxb.cloudfront.net/el/live/oirtv/hls.m3u8
@@ -45,7 +45,7 @@ https://live.rte.ie/live/a/channel1/channel1.isml/channel1.m3u8
 https://live.rte.ie/live/a/channel2/channel2.isml/channel2.m3u8
 
 #EXTINF:-1 tvg-id="www.nova.ie" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a1/Nova-web1-228x150.jpg" group-title="爱尔兰",Radio Nova
-https://stream.audioxi.com/NOVA
+https://playerservices.streamtheworld.com/api/livestream-redirect/RADIONOVA.mp3
 
 #EXTINF:-1 tvg-id="spin1038.com" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2e/Spin_400x400.png" group-title="爱尔兰",Spin 103.8
 https://stream.audioxi.com/SP
@@ -54,9 +54,6 @@ https://stream.audioxi.com/SP
 https://live-bauerie.sharp-stream.com/SUN
 
 #EXTINF:-1 tvg-id="TG4.ie" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/TG4_logo.svg/1024px-TG4_logo.svg.png" group-title="爱尔兰",TG4
-https://dx4452e0qv6r9.cloudfront.net/tg4_vod_national.m3u8
-
-#EXTINF:-1 tvg-id="TG4.ie@SD" tvg-logo="https://i.imgur.com/XiAKb4E.png" group-title="爱尔兰",TG4 (1080p)
 https://fastly.live.brightcove.com/6384196213112/eu-west-1/1555966122001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoieDl2YzlnLmVncmVzcy55ODN1ZWIiLCJhY2NvdW50X2lkIjoiMTU1NTk2NjEyMjAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyIxNTU1OTY2MTIyMDAxIl0sImp0aSI6IjYzODQxOTYyMTMxMTIifQ.Co2xR3kmJBoxTaFTpwU0b37lJ05vNt-y32-SwfM26EA/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="todayfm.com" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/Today_FM_Logo_2017.jpg" group-title="爱尔兰",Today FM

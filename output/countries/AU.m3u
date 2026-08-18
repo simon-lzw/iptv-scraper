@@ -1,12 +1,30 @@
 #EXTM3U
 #PLAYLIST: 澳大利亚 (AU) IPTV 直播源
-#生成时间: 2026-08-18 02:58:44
-#频道数: 31
+#生成时间: 2026-08-18 14:30:58
+#频道数: 39
 
 # ===== 澳大利亚 (AU) =====
 
 #EXTINF:-1 tvg-id="10Bold.au" tvg-logo="https://i.imgur.com/2cq3fY1.png" group-title="澳大利亚",10 Bold
 https://dce3793146fef017.mediapackage.us-west-2.amazonaws.com/out/v1/55cdf73af7894775ba6de8f57482b66a/CMAF_HLS/index.m3u8
+
+#EXTINF:-1 tvg-id="10Sydney.au" tvg-logo="https://i.imgur.com/ZjKvXPn.png" group-title="澳大利亚",10 HD
+https://i.mjh.nz/.r/10-nsw.m3u8
+
+#EXTINF:-1 tvg-id="10Peach.au" tvg-logo="https://i.imgur.com/NlZLut8.png" group-title="澳大利亚",10 Peach
+https://i.mjh.nz/.r/10peach-nsw.m3u8
+
+#EXTINF:-1 tvg-id="10Shake.au" tvg-logo="https://i.imgur.com/OXtIkOn.png" group-title="澳大利亚",10 Shake
+https://i.mjh.nz/.r/10shake-nsw.m3u8
+
+#EXTINF:-1 tvg-id="7flix.au" tvg-logo="https://i.imgur.com/6iIYCyC.png" group-title="澳大利亚",7flix
+https://i.mjh.nz/.r/7flix-syd.m3u8
+
+#EXTINF:-1 tvg-id="7mate.au" tvg-logo="https://i.imgur.com/zpr12HP.png" group-title="澳大利亚",7mate
+https://i.mjh.nz/.r/7mate-syd.m3u8
+
+#EXTINF:-1 tvg-id="7two.au" tvg-logo="https://i.imgur.com/6pyIg02.png" group-title="澳大利亚",7two
+https://i.mjh.nz/.r/7two-syd.m3u8
 
 #EXTINF:-1 tvg-id="9Gem.au" tvg-logo="https://i.imgur.com/sWmE1kq.png" group-title="澳大利亚",9Gem
 https://9now-livestreams.akamaized.net/hls/live/2008311/gem-syd/master.m3u8
@@ -68,8 +86,14 @@ https://jmp2.uk/plu-69162af591700f4c4c135c95.m3u8
 #EXTINF:-1 tvg-id="M4TV.au" tvg-logo="https://i.imgur.com/HZohlNk.png" group-title="澳大利亚",M4TV
 https://5a32c05065c79.streamlock.net/live/stream/playlist.m3u8
 
+#EXTINF:-1 tvg-id="NineNetwork.au" tvg-logo="https://i.imgur.com/SMXwfr5.png" group-title="澳大利亚",Nine
+https://i.mjh.nz/.r/channel-9-nsw.m3u8
+
 #EXTINF:-1 tvg-id="Racingcom.au" tvg-logo="https://i.imgur.com/pma0OCf.png" group-title="澳大利亚",Racing.com
 https://racingvic-i.akamaized.net/hls/live/598695/racingvic/1500.m3u8
+
+#EXTINF:-1 tvg-id="SevenNetwork.au" tvg-logo="https://i.imgur.com/6zwKJaa.png" group-title="澳大利亚",Seven
+https://i.mjh.nz/.r/seven-syd.m3u8
 
 #EXTINF:-1 tvg-id="SevenChannel.mn@SD" tvg-logo="https://i.imgur.com/9Ld5ATz.png" group-title="澳大利亚",Seven Channel (720p) [Not 24/7]
 https://xykt-fix.github.io/liveh42-syhtv-mn/7Channel_HD/03.m3u8

@@ -1,0 +1,46 @@
+#EXTM3U
+#PLAYLIST: 黎巴嫩 (LB) IPTV 直播源
+#生成时间: 2026-08-18 14:30:58
+#频道数: 13
+
+# ===== 黎巴嫩 (LB) =====
+
+#EXTINF:-1 tvg-id="AlIttihadTV.lb" group-title="黎巴嫩",Al Ittihad
+http://185.105.4.151:8080/_defapp_/ittihad/index.m3u8
+
+#EXTINF:-1 tvg-id="AlManar.lb" group-title="黎巴嫩",Al Manar
+https://edge.fastpublish.me/live/index.m3u8
+
+#EXTINF:-1 tvg-id="AlMayadeenTV.lb" group-title="黎巴嫩",Al Mayadeen
+https://mdnlv.cdn.octivid.com/almdn/smil:mpegts.stream.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AlImanTV.lb" group-title="黎巴嫩",Aliman TV
+https://svs.itworkscdn.net/alimanlive/imantv.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CharityTV.lb" group-title="黎巴嫩",CharityTV
+http://185.105.4.236:1935/live/ngrp:livestream_all/live.m3u8
+
+#EXTINF:-1 tvg-id="FalestinonaChannel.lb" group-title="黎巴嫩",Falestinona Channel
+https://ffs3.gulfsat.com/Falestinona-TV/index.fmp4.m3u8
+
+#EXTINF:-1 tvg-id="MTV.lb" group-title="黎巴嫩",MTV Lebanon
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mtv-lebanon/b8ebb2a5affb812f1541712adde10e26/index.m3u8
+
+#EXTINF:-1 tvg-id="NourAlKoddass.lb" group-title="黎巴嫩",Nour Al Koddas
+https://svs.itworkscdn.net/nour1satlive/livestream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="NourAlSharq.lb" group-title="黎巴嫩",Nour Al Sharq
+https://svs.itworkscdn.net/nour8satlive/livestream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Noursat.lb" group-title="黎巴嫩",NourSAT
+https://svs.itworkscdn.net/nour4satlive/livestream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="NoursatEnglish.lb" group-title="黎巴嫩",Noursat English
+https://svs.itworkscdn.net/noursatenglive/noursateng.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TeleLiban.lb" group-title="黎巴嫩",Tele Liban
+https://cdn.catiacast.video/abr/ed8f807e2548db4507d2a6f4ba0c4a06/playlist.m3u8
+
+#EXTINF:-1 tvg-id="VoiceofLebanon.lb" group-title="黎巴嫩",Voice of Lebanon
+https://svs.itworkscdn.net/vdltvlive/vdltv.smil/playlist.m3u8
+

@@ -1,7 +1,7 @@
 #EXTM3U
 #PLAYLIST: 希腊 (GR) IPTV 直播源
-#生成时间: 2026-08-18 02:58:44
-#频道数: 83
+#生成时间: 2026-08-18 14:30:58
+#频道数: 84
 
 # ===== 希腊 (GR) =====
 
@@ -115,6 +115,9 @@ https://neon.streams.gr:8081/epsilontv/index.m3u8
 
 #EXTINF:-1 tvg-id="eurotv.gr" tvg-logo="https://i.imgur.com/mHCk05E.png" group-title="希腊",Euro
 https://live20.bozztv.com/akamaissh101/ssh101/eurotvlive/playlist.m3u8
+
+#EXTINF:-1 tvg-id="EuronewsGreek.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Euronews_2016_logo.svg/640px-Euronews_2016_logo.svg.png" group-title="希腊",Euronews Greek
+https://www.youtube.com/euronewsGreek/live
 
 #EXTINF:-1 tvg-id="EuronewsGreek.fr@SD" tvg-logo="https://i.imgur.com/8t9mdg9.png" group-title="希腊",Euronews Greek (720p)
 https://cdn-euronews.akamaized.net/live/eds/euronews-el/25068/index.m3u8
