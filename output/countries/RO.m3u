@@ -1,7 +1,7 @@
 #EXTM3U
 #PLAYLIST: 罗马尼亚 (RO) IPTV 直播源
-#生成时间: 2026-08-19 14:30:57
-#频道数: 61
+#生成时间: 2026-08-20 02:54:25
+#频道数: 63
 
 # ===== 罗马尼亚 (RO) =====
 
@@ -55,6 +55,9 @@ https://atomic.streamnet.ro/atomictv.m3u8
 
 #EXTINF:-1 tvg-id="BucovinaTV.ro@SD" tvg-logo="https://i.imgur.com/6klhXxp.png" group-title="罗马尼亚",Bucovina TV (576i)
 https://www.bucovinatv.ro/proxy/video/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ComedyPlay.ro@SD" tvg-logo="https://i.imgur.com/6kAeVOk.png" group-title="罗马尼亚",Comedy Play (576i)
+https://stream1.antenaplay.ro/live/ComedyPlay/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="Digi24.ro@SD" tvg-logo="https://i.imgur.com/qmRnD0M.png" group-title="罗马尼亚",Digi 24 (720p)
 https://edge-ar.rcs-rds.ro/digi24ar/index.m3u8
@@ -184,6 +187,9 @@ https://tvr-tgmures.lg.mncdn.com/tvrtgmures/smil:tvrtgmures.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Tele7ABCHD.ro@SD" tvg-logo="https://i.imgur.com/CheqyWH.png" group-title="罗马尼亚",Tele7ABC HD (720p)
 https://live.tele7abc.ro/hls/stream/index.m3u8
+
+#EXTINF:-1 tvg-id="Tele7music.ro@SD" tvg-logo="https://i.imgur.com/11b5W8u.png" group-title="罗马尼亚",Tele7music (576i)
+https://live.tele7music.ro/hls/stream/index.m3u8
 
 #EXTINF:-1 tvg-id="Telestar1.ro" tvg-logo="https://i.imgur.com/UZQjEsd.png" group-title="罗马尼亚",Telestar1
 https://dvb.tennet.ro/mobile_tv/telestar.m3u8
