@@ -1,6 +1,6 @@
 #EXTM3U
 #PLAYLIST: 奥地利 (AT) IPTV 直播源
-#生成时间: 2026-08-20 14:35:50
+#生成时间: 2026-08-21 03:00:21
 #频道数: 35
 
 # ===== 奥地利 (AT) =====
@@ -21,7 +21,7 @@ https://d19e55ehz2il4i.cloudfront.net/ts:abr.m3u8
 https://cdn-alanyatv.yayin.com.tr/alanyatv/alanyatv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ATVAvrupa.tr@SD" tvg-logo="https://i.tmgrup.com.tr/aav/site/v1/i/atv-avrupa-logo.png" group-title="奥地利",ATV Avrupa (576p)
-https://flaskapihls-atv-avrupa-trkvzlive.onrender.com/hls_stream/master.m3u8
+https://flask-api-hls-atvavrupahdtrkvz-live.onrender.com/hls_stream/master.m3u8
 
 #EXTINF:-1 tvg-id="ATV.at@HD" tvg-logo="https://i.imgur.com/1pA0Tid.png" group-title="奥地利",ATV HD (1080p)
 http://212.186.45.34:9981/stream/channelid/692531719?profile=pass
