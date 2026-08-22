@@ -1,15 +1,12 @@
 #EXTM3U
 #PLAYLIST: 日本 (JP) IPTV 直播源
-#生成时间: 2026-08-21 14:32:37
-#频道数: 66
+#生成时间: 2026-08-22 02:53:47
+#频道数: 65
 
 # ===== 日本 (JP) =====
 
 #EXTINF:-1 tvg-id="BSFilm.pk@SD" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3953-640x360-FFFFFF.jpg" group-title="日本",BS Film (576p)
 https://lbgo.bozztv.com/ssh101/ssh101/bsfilm/playlist.m3u8
-
-#EXTINF:-1 tvg-id="BSFuji.jp@SD" tvg-logo="https://i.imgur.com/GzdCXAJ.png" group-title="日本",BS Fuji (1080p)
-https://streams.comclark.com/pknsd/fuji/playlist.m3u8
 
 #EXTINF:-1 tvg-id="BSTBS.jp" tvg-logo="https://i.imgur.com/BSt9UG2.png" group-title="日本",BS-TBS
 https://naori-test.netgenx.site/pxx.php?shk_cid=bs05#.m3u8
@@ -71,9 +68,6 @@ https://stream01.willfonk.com/live_playlist.m3u8?cid=CS325&r=FHD&ccode=JP&m=d0:2
 #EXTINF:-1 tvg-id="NHKBS.jp" tvg-logo="https://i.imgur.com/t0uZcSR.png" group-title="日本",NHK BS
 https://naori-test.netgenx.site/pxx.php?shk_cid=bs02#.m3u8
 
-#EXTINF:-1 tvg-id="NHKBS.jp@SD" tvg-logo="https://i.imgur.com/t0uZcSR.png" group-title="日本",NHK BS (1080p)
-https://streams.comclark.com/pknsd/nhk_bs1/playlist.m3u8
-
 #EXTINF:-1 tvg-id="JOABDTV.jp" tvg-logo="https://i.imgur.com/WxtftlO.png" group-title="日本",NHK Eテレ（東京）
 https://naori-test.netgenx.site/pxx.php?shk_cid=hdgd02#.m3u8
 
@@ -83,11 +77,17 @@ https://nhk4.mov3.co/hls/nhk.m3u8
 #EXTINF:-1 tvg-id="NHKWorldJapan.jp" tvg-logo="https://i.imgur.com/Mhw1Ihk.png" group-title="日本",NHK WORLD JAPAN
 https://master.nhkworld.jp/nhkworld-tv/playlist/live.m3u8
 
-#EXTINF:-1 tvg-id="NHKWorldJapan.jp@HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/NHK_World_Japan.png" group-title="日本",NHK World Japan (1080p)
-https://streams.comclark.com/pknsd/nhk_world/playlist.m3u8
+#EXTINF:-1 tvg-id="NHKWorldJapan.jp@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/NHK_World_Japan.png" group-title="日本",NHK World-Japan (1080p)
+https://masterpl.hls.nhkworld.jp/hls/w/live/smarttv.m3u8
+
+#EXTINF:-1 tvg-id="NHKWorldJapan.jp@HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/NHK_World_Japan.png" group-title="日本",NHK World-Japan HD (1080p) [Geo-blocked]
+https://nhk.lls.pbs.org/index.m3u8
 
 #EXTINF:-1 tvg-id="JOAKDTV.jp" tvg-logo="https://i.imgur.com/fAZ2BEZ.png" group-title="日本",NHK総合 (東京)
 https://naori-test.netgenx.site/pxx.php?shk_cid=hdgd01#.m3u8
+
+#EXTINF:-1 tvg-id="NTV.cl@SD" tvg-logo="https://i.imgur.com/NnkSyta.png" group-title="日本",NTV (1080p)
+http://cdn1tlinkgo.tlink.cl/ntvhd/mono.m3u8
 
 #EXTINF:-1 tvg-id="NTV.ci@SD" tvg-logo="https://i.imgur.com/qqLXdHz.png" group-title="日本",NTV Afrique (1080p) [Not 24/7]
 https://strhlslb01.streamakaci.tv/str_ntv_ntv/str_ntv_ntv_multi/playlist.m3u8
@@ -124,9 +124,6 @@ https://d1flvb4iqlercm.cloudfront.net/live/live_1080p_2nd.m3u8
 
 #EXTINF:-1 tvg-id="ShopChannel.jp@SD" tvg-logo="https://www.shopch.jp/com/images/common/logo_2021.png" group-title="日本",Shop Channel (1080p) [Not 24/7]
 https://stream3.shopch.jp/HLS/master.m3u8
-
-#EXTINF:-1 tvg-id="StarChannel.jp@SD" tvg-logo="https://i.imgur.com/ZElxkCs.png" group-title="日本",Star Channel (480p) [Not 24/7]
-https://streams.comclark.com/pknsd/starchannel1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="JORXDTV.jp" tvg-logo="https://i.imgur.com/jIZ9TlO.png" group-title="日本",TBSテレビ
 https://naori-test.netgenx.site/pxx.php?shk_cid=hdgd04#.m3u8

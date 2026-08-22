@@ -1,7 +1,7 @@
 #EXTM3U
 #PLAYLIST: 希腊 (GR) IPTV 直播源
-#生成时间: 2026-08-21 14:32:37
-#频道数: 84
+#生成时间: 2026-08-22 02:53:47
+#频道数: 85
 
 # ===== 希腊 (GR) =====
 
@@ -169,6 +169,9 @@ http://15.204.246.24:8080/Mega2HD/index.m3u8
 
 #EXTINF:-1 tvg-id="MegaCineTV.do@HD" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/2893-294x165-FFFFFF.jpg" group-title="希腊",Mega Cine TV (1080p)
 https://cnn.hostlagarto.com/megacinetv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MegaFiccion.cl@SD" tvg-logo="https://i.imgur.com/aQdhJie.png" group-title="希腊",Mega Ficcion (1080p)
+http://cdn1tlinkgo.tlink.cl/megaficcion/mono.m3u8
 
 #EXTINF:-1 tvg-id="MegaChannel.gr" tvg-logo="https://i.imgur.com/Z3k7iA0.png" group-title="希腊",Mega News
 https://c98db5952cb54b358365984178fb898a.msvdn.net/live/S99841657/NU0xOarAMJ5X/playlist.m3u8

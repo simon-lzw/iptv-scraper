@@ -1,27 +1,18 @@
 #EXTM3U
 #PLAYLIST: 菲律宾 (PH) IPTV 直播源
-#生成时间: 2026-08-21 14:32:37
-#频道数: 21
+#生成时间: 2026-08-22 02:53:47
+#频道数: 17
 
 # ===== 菲律宾 (PH) =====
 
-#EXTINF:-1 tvg-id="ANC.ph@SD" tvg-logo="https://i.imgur.com/odwRbRk.png" group-title="菲律宾",ANC (480p)
-https://streams.comclark.com/pknsd/anc/playlist.m3u8
-
 #EXTINF:-1 tvg-id="ANCTelevision.co@SD" tvg-logo="https://i.imgur.com/xjTU14t.jpg" group-title="菲律宾",ANC Television (720p)
 https://live.amelbatv.co:81/anctvlive/index.m3u8
-
-#EXTINF:-1 tvg-id="GMATV.ph@SD" tvg-logo="https://i.imgur.com/cGvKkQy.png" group-title="菲律宾",GMA TV (480p) [Not 24/7]
-https://streams.comclark.com/pknsd/gma_7/playlist.m3u8
 
 #EXTINF:-1 tvg-id="HopeChannelPhilippines.ph@SD" tvg-logo="https://i.imgur.com/LB2vmMt.png" group-title="菲律宾",Hope Channel Philippines (1080p)
 https://jstre.am/live/jsl:nX5eC7gQvZb.m3u8
 
 #EXTINF:-1 tvg-id="PTV.bo@SD" tvg-logo="https://i.imgur.com/vPvR7dX.png" group-title="菲律宾",PTV (720p)
 https://giatv.bozztv.com/giatv/giatv-PTVonLINE/PTVonLINE/playlist.m3u8
-
-#EXTINF:-1 tvg-id="PTV.ph@SD" tvg-logo="https://i.imgur.com/MMccHNd.png" group-title="菲律宾",PTV 4 (480p) [Not 24/7]
-https://streams.comclark.com/pknsd/ptv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="PTVCordoba.es@SD" tvg-logo="https://i.imgur.com/X3eIdVf.png" group-title="菲律宾",PTV Córdoba (1080p)
 https://streamer.zapitv.com/PTV_CORDOBA/index.m3u8
@@ -46,9 +37,6 @@ http://103.250.28.74:8000/play/a019/index.m3u8
 
 #EXTINF:-1 tvg-id="RadioAncon.pa@SD" tvg-logo="https://i.imgur.com/xum8PNe.jpg" group-title="菲律宾",Radio Ancón (720p)
 https://www.streaming507.net:19360/anconvideo/anconvideo.m3u8
-
-#EXTINF:-1 tvg-id="TV5.ph@SD" tvg-logo="https://i.imgur.com/PYJhTiq.png" group-title="菲律宾",TV5 (480p) [Not 24/7]
-https://streams.comclark.com/pknsd/tv5/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TV5Cambodia.kh@SD" tvg-logo="https://i.imgur.com/iMZLyoX.png" group-title="菲律宾",TV5 Cambodia
 https://ip.pdtvhd.com/Khmer/streams/CTV5.m3u8
