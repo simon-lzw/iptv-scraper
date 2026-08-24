@@ -5,7 +5,6 @@
   - iptvcat.com
   - 直接爬取各电视官网（如 tv.cctv.com）
 """
-import re
 from typing import Optional, List
 from bs4 import BeautifulSoup
 from scrapers.base import BaseScraper
@@ -71,6 +70,7 @@ class WebScraper(BaseScraper):
                                 "region": self._classify_region(name),
                                 "logo": "",
                                 "tvg_id": "",
+                                "kodi_props": "",
                                 "source": f"web:{site_name}",
                             })
         except Exception as e:
@@ -96,6 +96,7 @@ class WebScraper(BaseScraper):
                             "region": self._classify_region(text),
                             "logo": "",
                             "tvg_id": "",
+                            "kodi_props": "",
                             "source": f"web:{site_name}",
                         })
         except Exception as e:
@@ -129,6 +130,7 @@ class WebScraper(BaseScraper):
                         "region": "mainland",
                         "logo": "",
                         "tvg_id": "",
+                        "kodi_props": "",
                         "source": "web:cctv",
                     }
                     channels.append(ch)

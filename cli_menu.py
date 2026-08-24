@@ -71,6 +71,7 @@ class CLIMenu:
         print("  │ 4. ❌ 查看失效频道                   │")
         print("  │ 5. 🔧 修复失效频道                   │")
         print("  │ 6. 🏥 健康检查                       │")
+        print("  │ d. 🧪 深度检查（含 ffprobe 探测）     │")
         print("  │ 7. 🚪 退出                           │")
         print("  └─────────────────────────────────────┘")
 
@@ -106,15 +107,17 @@ class CLIMenu:
         print("    5. 全部")
 
         choice = input("\n  请输入 [1-5]: ").strip()
+        # 无效输入提示重输，避免被误当作"全部"(5)
         region_map = {"1": "mainland", "2": "hongkong", "3": "macau", "4": "taiwan", "5": None}
+        if choice not in region_map:
+            print("\n  ⚠ 无效选项，请输入 1-5")
+            return
 
-        region = region_map.get(choice)
+        region = region_map[choice]
         if region is None:
             channels = self.db.get_all_channels()
-        elif region:
-            channels = self.db.get_channels_by_region(region)
         else:
-            return
+            channels = self.db.get_channels_by_region(region)
 
         if not channels:
             print("  ⚠ 没有频道")

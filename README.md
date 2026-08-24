@@ -440,6 +440,7 @@ POST /api/heal      # 触发修复
 | `MAX_FAIL_COUNT` | `3` | 连续失败次数阈值 |
 | `MAX_CONCURRENT_CHECKS` | `20` | 并发检查数 |
 | `PIPELINE_MAX_SECONDS` | `0` | 全球管线验证总超时（秒），`0` 表示无限制；单频道仍受 `HEALTH_CHECK_TIMEOUT_SECONDS` 兜底 |
+| `PIPELINE_MAX_WORKERS` | `20` | 全球管线验证并发数（独立于健康检查，按 CPU 调整） |
 
 ### 搜刮源
 

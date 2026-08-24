@@ -60,6 +60,9 @@ SCORE_WEIGHTS = {
 # 注意: 即使设为 0，单个频道的流验证仍有 HEALTH_CHECK_TIMEOUT_SECONDS 超时兜底
 PIPELINE_MAX_SECONDS = 0
 
+# 全球管线验证并发数（独立于健康检查的 MAX_CONCURRENT_CHECKS，按机器 CPU 调整）
+PIPELINE_MAX_WORKERS = 20
+
 # 输出目录
 OUTPUT_DIR = ROOT_DIR / "output"
 OUTPUT_COUNTRIES_DIR = OUTPUT_DIR / "countries"

@@ -22,10 +22,10 @@ from pipeline.speed_tester import measure_speed
 from pipeline.ranker import score_stream
 
 from config import (
-    HEALTH_CHECK_TIMEOUT_SECONDS, MAX_CONCURRENT_CHECKS,
+    HEALTH_CHECK_TIMEOUT_SECONDS,
     GITHUB_RAW_PROXY, ENABLE_SPEED_TEST, MIN_SPEED_KBPS,
     ENABLE_STREAM_VALIDATION, IP_TYPE_PREFER, SCORE_WEIGHTS,
-    PIPELINE_MAX_SECONDS,
+    PIPELINE_MAX_SECONDS, PIPELINE_MAX_WORKERS,
 )
 
 
@@ -39,7 +39,7 @@ class PipelineConfig:
         self.ip_type_prefer = IP_TYPE_PREFER
         self.score_weights = SCORE_WEIGHTS
         self.timeout = HEALTH_CHECK_TIMEOUT_SECONDS
-        self.max_workers = MAX_CONCURRENT_CHECKS
+        self.max_workers = PIPELINE_MAX_WORKERS
         self.max_seconds = PIPELINE_MAX_SECONDS
 
 

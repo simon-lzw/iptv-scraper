@@ -114,9 +114,18 @@ class GitHubScraper(BaseScraper):
         if m:
             logo = m.group(1)
 
-        # 提取频道名（最后一个逗号后）
-        channel_name = info_line.split(",")[-1].strip() if "," in info_line else ""
-        channel_name = tvg_name or channel_name
+        # 提取频道名：优先 tvg-name；否则用最后一个属性值之后第一个逗号后（避免属性值含逗号时取错段）
+        channel_name = ""
+        if tvg_name:
+            channel_name = tvg_name
+        else:
+            # 找最后一个属性引号结束后的第一个逗号
+            last_quote = info_line.rfind('"')
+            after_attr = info_line[last_quote + 1:] if last_quote != -1 else info_line
+            if "," in after_attr:
+                channel_name = after_attr.split(",", 1)[1].strip()
+            elif "," in info_line:
+                channel_name = info_line.split(",")[-1].strip()
 
         if not channel_name or not url:
             return None

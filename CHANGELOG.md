@@ -6,7 +6,17 @@
 
 ### Bug 修复
 
-- **`README.md`**：修正快速开始中不存在的 `playlist_cn.m3u` / `playlist_ipv4.m3u` 链接（代码不生成这两个文件），改为引用真实存在的 `output/Greater-China.m3u`（中文频道）和 `output/all.m3u`（全球总频道，IPv4 优先排序）；同步源数量（7 → 16 个活跃源）与频道数（2334+ → 2300+）
+- **`main.py`**：`_dicts_to_channels` 补读 `item["kodi_props"]`（此前 DRM 信息在转换阶段被丢弃）
+- **`cli_menu.py`**：频道列表区域选择无效输入（非 1-5）提示重输，不再被误当作"全部"；菜单显示深度检查 `d` 选项
+- **`scrapers/github_sources.py`**：修复 EXTINF 属性值含逗号时频道名提取错误（改为取属性引号后首个逗号）
+- **`scrapers/web_sources.py`**：返回 dict 补 `kodi_props` 键（与 github_sources 一致）
+
+### 优化
+
+- **`config.py` / `pipeline/orchestrator.py`**：新增 `PIPELINE_MAX_WORKERS=20` 独立验证并发数，不再与健康检查 `MAX_CONCURRENT_CHECKS` 耦合；参照 iptv-org 等成熟项目"验证并发可调"实践
+
+### 修复（2016-08-04 批）
+
 - **`db.py`**：
   - 修复 `add_channel()` 参数数量不匹配（11 个占位符缺 `kodi_props` 值）导致必崩的 `ProgrammingError`
   - 修复连接泄漏：`_get_conn()` 改为上下文管理器（自动 commit + close）
@@ -20,6 +30,7 @@
 - **`main.py`**：`_classify_region` 补排除逻辑（杭州明珠/六鳌翡翠湾）；`_count_new_channels` 改为逐条索引查询，避免全表加载
 - **`m3u_generator.py`**：频道名/分组/tvg-id/logo 转义引号、反斜杠和换行，防止破坏 M3U 格式
 - **`pipeline/ranker.py` / `pipeline/validator.py`**：删除死代码（`pick_best`、`_HLS_MARKERS`、`_SEGMENT_RE`）
+- **`README.md`**：修正快速开始中不存在的 `playlist_cn.m3u` / `playlist_ipv4.m3u` 链接，改为引用真实存在的 `output/Greater-China.m3u` 和 `output/all.m3u`；同步源数量（7 → 16 个活跃源）与频道数
 
 ### 新功能：全球 IPTV 管线
 

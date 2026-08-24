@@ -316,6 +316,7 @@ class IPTVScheduler:
                 logo=item.get("logo", ""),
                 tvg_id=item.get("tvg_id", ""),
                 source=item.get("source", f"scraper:{type(scraper).__name__}"),
+                kodi_props=item.get("kodi_props", ""),
                 is_active=True,
             )
             if ch.name and ch.url:
