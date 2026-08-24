@@ -1,7 +1,7 @@
 #EXTM3U
 #PLAYLIST: 日本 (JP) IPTV 直播源
-#生成时间: 2026-08-23 14:20:39
-#频道数: 66
+#生成时间: 2026-08-24 03:01:58
+#频道数: 67
 
 # ===== 日本 (JP) =====
 
@@ -79,6 +79,9 @@ https://nhk4.mov3.co/hls/nhk.m3u8
 
 #EXTINF:-1 tvg-id="NHKWorldJapan.jp" tvg-logo="https://i.imgur.com/Mhw1Ihk.png" group-title="日本",NHK WORLD JAPAN
 https://master.nhkworld.jp/nhkworld-tv/playlist/live.m3u8
+
+#EXTINF:-1 tvg-id="NHKWorldPremium.jp@SD" tvg-logo="https://i.imgur.com/4ESi2La.png" group-title="日本",NHK World Premium (720p)
+https://media-tyo.hls.nhkworld.jp/hls/wp/live/master.m3u8
 
 #EXTINF:-1 tvg-id="NHKWorldJapan.jp@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/NHK_World_Japan.png" group-title="日本",NHK World-Japan (1080p)
 https://masterpl.hls.nhkworld.jp/hls/w/live/smarttv.m3u8

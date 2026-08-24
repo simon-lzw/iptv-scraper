@@ -1,7 +1,7 @@
 #EXTM3U
 #PLAYLIST: 乌克兰 (UA) IPTV 直播源
-#生成时间: 2026-08-23 14:20:39
-#频道数: 67
+#生成时间: 2026-08-24 03:01:58
+#频道数: 68
 
 # ===== 乌克兰 (UA) =====
 
@@ -70,6 +70,9 @@ http://cdn10.live-tv.od.ua:8081/itvrv/abr/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Inter.ua" tvg-logo="https://i.imgur.com/R06gbuT.png" group-title="乌克兰",Inter
 http://stream.mcquack.net/174/index.m3u8
+
+#EXTINF:-1 tvg-id="InterTV.it@SD" tvg-logo="https://i.imgur.com/FUTqh2L.png" group-title="乌克兰",Inter TV (1080p)
+https://d3k8wzt41aflvx.cloudfront.net/INTERTV/Live.m3u8
 
 #EXTINF:-1 tvg-id="K1.ua" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/K1_Logo_2014.svg/655px-K1_Logo_2014.svg.png" group-title="乌克兰",K1
 http://stream.mcquack.net/270/index.m3u8

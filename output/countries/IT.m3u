@@ -1,7 +1,7 @@
 #EXTM3U
 #PLAYLIST: 意大利 (IT) IPTV 直播源
-#生成时间: 2026-08-23 14:20:39
-#频道数: 598
+#生成时间: 2026-08-24 03:01:58
+#频道数: 599
 
 # ===== 意大利 (IT) =====
 
@@ -973,6 +973,9 @@ https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=1&output=7&forceUser
 
 #EXTINF:-1 tvg-id="RaiNews24.it@SD" tvg-logo="https://i.imgur.com/n2u57y3.png" group-title="意大利",Rai News 24 (720p)
 https://rainews1-live.akamaized.net/hls/live/598326/rainews1/rainews1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RaiNews24.it@HD" tvg-logo="https://i.imgur.com/n2u57y3.png" group-title="意大利",Rai News 24 HD (1080p)
+https://d3k8wzt41aflvx.cloudfront.net/RAINEWS24/Live.m3u8
 
 #EXTINF:-1 tvg-id="RaiPremium.it" tvg-logo="https://i.imgur.com/RKI4nFy.png" group-title="意大利",Rai Premium
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746992&output=7&forceUserAgent=rainet/4.0.5

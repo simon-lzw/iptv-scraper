@@ -1,12 +1,9 @@
 #EXTM3U
 #PLAYLIST: 罗马尼亚 (RO) IPTV 直播源
-#生成时间: 2026-08-23 14:20:39
+#生成时间: 2026-08-24 03:01:58
 #频道数: 63
 
 # ===== 罗马尼亚 (RO) =====
-
-#EXTINF:-1 tvg-id="AXNBlack.us@Romania" tvg-logo="https://i.imgur.com/Peo1QiZ.png" group-title="罗马尼亚",AXN Black Romania [Not 24/7]
-http://315e5a5d.ottrast.com/iptv/MM4E93NGF5LADZ/6952/index.m3u8
 
 #EXTINF:-1 tvg-id="AgroTV.ro@SD" tvg-logo="https://i.imgur.com/S7X1PiC.png" group-title="罗马尼亚",Agro TV (360p) [Not 24/7]
 https://agrotv.streamnet.ro/mobile_tv/agrotv.m3u8
@@ -70,6 +67,9 @@ https://astra.emitv.ro/hls/emi/index.m3u8
 
 #EXTINF:-1 tvg-id="EuronewsRomania.ro" tvg-logo="https://i.imgur.com/jUOVUXt.png" group-title="罗马尼亚",Euronews România
 https://www.youtube.com/euronewsro/live
+
+#EXTINF:-1 tvg-id="FightBox.nl@HD" tvg-logo="https://i.imgur.com/mRsnztA.png" group-title="罗马尼亚",FightBox HD
+https://nosignal1.antenaplay.ro/hls/fightbox-hd/index.m3u8
 
 #EXTINF:-1 tvg-id="HelloTaste.ro@SD" tvg-logo="https://i.imgur.com/TdKO0er.png" group-title="罗马尼亚",Hello Taste (720p)
 https://stream1.antenaplay.ro/live/HelloTaste/playlist.m3u8
