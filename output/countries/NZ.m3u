@@ -1,7 +1,7 @@
 #EXTM3U
 #PLAYLIST: 新西兰 (NZ) IPTV 直播源
-#生成时间: 2026-08-24 17:02:18
-#频道数: 14
+#生成时间: 2026-08-25 02:57:49
+#频道数: 13
 
 # ===== 新西兰 (NZ) =====
 
@@ -10,9 +10,6 @@ https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_three
 
 #EXTINF:-1 tvg-id="BBCThreeCBBC.uk@HD" tvg-logo="https://i.imgur.com/CGXC5fp.png" group-title="新西兰",BBC Three/CBBC (720p)
 http://193.46.58.239:8080/CBBCHD/index.m3u8
-
-#EXTINF:-1 tvg-id="Bravo.nz@Plus1" tvg-logo="https://i.imgur.com/hphQ2kw.png" group-title="新西兰",Bravo +1
-https://i.mjh.nz/.r/bravo-plus1.m3u8
 
 #EXTINF:-1 tvg-id="HGTV.nz@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/HGTV_US_Logo_2015.svg/960px-HGTV_US_Logo_2015.svg.png" group-title="新西兰",HGTV (1080p)
 https://i.mjh.nz/.r/sky-hgtv.m3u8

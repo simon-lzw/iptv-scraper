@@ -1,9 +1,12 @@
 #EXTM3U
 #PLAYLIST: 巴基斯坦 (PK) IPTV 直播源
-#生成时间: 2026-08-24 17:02:18
-#频道数: 8
+#生成时间: 2026-08-25 02:57:49
+#频道数: 9
 
 # ===== 巴基斯坦 (PK) =====
+
+#EXTINF:-1 tvg-id="ARYNews.pk@SD" tvg-logo="https://i.imgur.com/R4KtTbJ.jpg" group-title="巴基斯坦",ARY News
+https://cdn07lhr.tamashaweb.com:8087/jazzauth/vsat-arynews-abr/live/vsat-arynews-H/chunks_dvr_timeshift-0-3600.m3u8
 
 #EXTINF:-1 tvg-id="BharatExpress.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_BHARAT_EXPRESS/images/LOGO_HD/image.png" group-title="巴基斯坦",Bharat Express (576p)
 https://mumt07.tangotv.in/zHjX9OFlBHARATEXPRESS/index.m3u8
