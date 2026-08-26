@@ -1,7 +1,7 @@
 #EXTM3U
 #PLAYLIST: 加拿大 (CA) IPTV 直播源
-#生成时间: 2026-08-25 14:42:24
-#频道数: 110
+#生成时间: 2026-08-26 03:02:27
+#频道数: 111
 
 # ===== 加拿大 (CA) =====
 
@@ -199,6 +199,9 @@ http://nmk.ioapk.com:5050/4gtv-live112/index.m3u8
 
 #EXTINF:-1 tvg-id="HaberGlobal.tr@SD" tvg-logo="https://i.imgur.com/fu6XeGS.png" group-title="加拿大",Haber Global (720p) [Not 24/7]
 https://tv.ensonhaber.com/haberglobal/haberglobal.m3u8
+
+#EXTINF:-1 tvg-id="HosannaTV.in@Global" tvg-logo="https://i.imgur.com/VYorU1L.png" group-title="加拿大",Hosanna TV Global
+https://ktismaservers.in:3349/live/hosannatvlive.m3u8
 
 #EXTINF:-1 tvg-id="CBFTDT.ca" tvg-logo="https://i.imgur.com/Z1b2TJD.png" group-title="加拿大",ICI Montreal
 https://amdici.akamaized.net/hls/live/873426/ICI-Live-Stream/master.m3u8
