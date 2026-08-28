@@ -1,7 +1,7 @@
 #EXTM3U
 #PLAYLIST: 台湾 (TW) IPTV 直播源
-#生成时间: 2026-08-27 23:35:06
-#频道数: 56
+#生成时间: 2026-08-28 13:46:41
+#频道数: 57
 
 # ===== 台湾 (TW) =====
 
@@ -32,11 +32,11 @@ https://www.youtube.com/watch?v=x6XVbD7Ln78
 #EXTINF:-1 tvg-id="CongressChannel2.tw" tvg-logo="https://i.imgur.com/htGr996.png" group-title="台湾",Congress Channel 2
 https://www.youtube.com/watch?v=Lj8OWF6nzcg
 
+#EXTINF:-1 tvg-id="DaAi2.tw@SD" tvg-logo="https://i.imgur.com/KdJi9af.png" group-title="台湾",DaAi 2 (1080p)
+http://nmk.ioapk.com:5050/4gtv-live106/index.m3u8
+
 #EXTINF:-1 tvg-id="DaAi1.tw@SD" tvg-logo="https://i.imgur.com/KdJi9af.png" group-title="台湾",DaAi1 (大愛1) (720p)
 https://pulltv1.wanfudaluye.com/live/tv1.m3u8
-
-#EXTINF:-1 tvg-id="DaAi2.tw@SD" tvg-logo="https://i.imgur.com/KdJi9af.png" group-title="台湾",DaAi2 (大愛2) (720p)
-https://pulltv2.wanfudaluye.com/live/tv2.m3u8
 
 #EXTINF:-1 tvg-id="DaliTV.tw@SD" tvg-logo="https://i.imgur.com/pFIMLsA.png" group-title="台湾",Dali TV (大立電視台) (720p)
 http://www.dalitv.com.tw:4568/live/dali/index.m3u8
@@ -70,6 +70,9 @@ https://h5cul1yar48um3t.wcetv.com/hls/hakkatv.m3u8
 
 #EXTINF:-1 tvg-id="IndigenousTV.tw@SD" tvg-logo="https://i.imgur.com/vmk4F9u.png" group-title="台湾",Indigenous TV (720p)
 http://streamipcf.akamaized.net/live/_definst_/smil:liveabr.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MOMOTV.tw@SD" tvg-logo="https://m.momoshop.com.tw/img/message.png" group-title="台湾",MOMO TV (1080p)
+http://nmk.ioapk.com:5050/4gtv-live107/index.m3u8
 
 #EXTINF:-1 tvg-id="NTDTVAsiaPacific.us@SD" tvg-logo="https://i.imgur.com/iyFXcDy.png" group-title="台湾",NTD TV Asia-Pacific
 https://live.ntdtv.com/aplive200/playlist.m3u8

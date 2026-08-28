@@ -1,9 +1,12 @@
 #EXTM3U
 #PLAYLIST: 巴拉圭 (PY) IPTV 直播源
-#生成时间: 2026-08-27 23:35:06
-#频道数: 1
+#生成时间: 2026-08-28 13:46:41
+#频道数: 2
 
 # ===== 巴拉圭 (PY) =====
+
+#EXTINF:-1 tvg-id="ParaguayTV.py@SD" tvg-logo="https://i.imgur.com/fkK7i8g.png" group-title="巴拉圭",Paraguay TV (1080p)
+https://stream.paraguaytv.gov.py/memfs/bbe36fed-9b49-4d1d-adaa-4bd6d1b2e386.m3u8
 
 #EXTINF:-1 tvg-id="Unicanal.py" tvg-logo="https://i.imgur.com/brlepuX.png" group-title="巴拉圭",Unicanal
 https://www.youtube.com/@unicanalpy/live
