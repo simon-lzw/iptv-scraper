@@ -56991,6 +56991,17 @@
     "is_active": true
   },
   {
+    "name": "Xinjiang TV 2",
+    "url": "http://110.153.180.106:55555/out_3/index.m3u8",
+    "group": "Undefined",
+    "country_code": "ZZ",
+    "country_name_zh": "ZZ",
+    "ip_version": "ipv4",
+    "score": 0.0,
+    "source": "iptv-org all streams",
+    "is_active": true
+  },
+  {
     "name": "Xinjiang TV 8",
     "url": "http://120.70.60.179:9901/tsfile/live/1002_1.m3u8?authid=0&key=txiptv&playlive=1",
     "group": "Undefined",
@@ -75263,7 +75274,7 @@
   },
   {
     "name": "农林卫视",
-    "url": "http://111.59.24.227:8181/tsfile/live/1039_1.m3u8?key=txiptv&playlive=1&authid=0",
+    "url": "http://112.27.5.218:9901/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&authid=0",
     "group": "卫视频道",
     "country_code": "CN",
     "country_name_zh": "中国",
@@ -77899,6 +77910,28 @@
     "ip_version": "ipv4",
     "score": 0.0,
     "source": "Guovin/iptv-api (combined)",
+    "is_active": true
+  },
+  {
+    "name": "河源公共",
+    "url": "http://tmpstream.hyrtv.cn/hygg/sd/live.m3u8",
+    "group": "地方频道",
+    "country_code": "CN",
+    "country_name_zh": "中国",
+    "ip_version": "domain",
+    "score": 0.0,
+    "source": "vbskycn/iptv (ipv4)",
+    "is_active": true
+  },
+  {
+    "name": "河源综合",
+    "url": "http://tmpstream.hyrtv.cn/xwzh/sd/live.m3u8",
+    "group": "地方频道",
+    "country_code": "CN",
+    "country_name_zh": "中国",
+    "ip_version": "domain",
+    "score": 0.0,
+    "source": "vbskycn/iptv (ipv4)",
     "is_active": true
   },
   {
