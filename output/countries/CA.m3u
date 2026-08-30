@@ -1,7 +1,7 @@
 #EXTM3U
 #PLAYLIST: 加拿大 (CA) IPTV 直播源
-#生成时间: 2026-08-29 17:30:33
-#频道数: 111
+#生成时间: 2026-08-30 07:52:03
+#频道数: 112
 
 # ===== 加拿大 (CA) =====
 
@@ -265,6 +265,9 @@ https://temp3.isilive.ca/live/_definst_/ontla/rm151-en/playlist.m3u8
 
 #EXTINF:-1 group-title="加拿大",Legislative Assembly of Ontario Committees (room 2)
 https://lin13.isilive.ca/live/_definst_/ontla/committee_2-en/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MTVGlobal.uk@SD" tvg-logo="https://i.imgur.com/n2BoU7Q.png" group-title="加拿大",MTV Global (720p)
+http://dvr2.kablova.tv/MTV/index.m3u8
 
 #EXTINF:-1 tvg-id="NewsoftheWorld.us@Global" tvg-logo="https://i.imgur.com/MfyRQCs.png" group-title="加拿大",NOW News Global (720p)
 https://nowhls.wns.live/hls/stream.m3u8

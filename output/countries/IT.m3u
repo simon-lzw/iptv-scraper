@@ -1,6 +1,6 @@
 #EXTM3U
 #PLAYLIST: 意大利 (IT) IPTV 直播源
-#生成时间: 2026-08-29 17:30:33
+#生成时间: 2026-08-30 07:52:03
 #频道数: 599
 
 # ===== 意大利 (IT) =====
@@ -614,6 +614,9 @@ https://f5842579ff984c1c98d63b8d789673eb.msvdn.net/live/S47282891/JWjL3xqPf4bX/p
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OpRS6Fl.png" group-title="意大利",Lab Tv
 https://customer-yzibk50951uq418a.cloudflarestream.com/a58893dee4b9922a75e41b4ec4243f84/manifest/video.m3u8
 
+#EXTINF:-1 tvg-id="LazioStyleChannel.it@HD" tvg-logo="https://i.imgur.com/vDB8HFq.png" group-title="意大利",Lazio Style Channel HD (720p)
+https://distribution.sportitalialive.it/origin/laziostyle_abr/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DAj5Uwb.png" group-title="意大利",Lazio Tv
 https://streaming.softwarecreation.it/LazioTv/LazioTv/playlist.m3u8
 
@@ -724,9 +727,6 @@ https://stream.nuvola.tv:8181/memfs/4aaa6328-1879-4ebf-b18a-498146d0c61c.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/M1tVBuH.png" group-title="意大利",Odeon 24
 https://streaming.softwarecreation.it/Odeon/Odeon/manifest.m3u8
-
-#EXTINF:-1 tvg-id="Odeon24.it@SD" tvg-logo="https://i.imgur.com/Ho7SdXY.png" group-title="意大利",Odeon 24 (288p)
-https://streaming.softwarecreation.it/Odeon/Odeon/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UCgATWn.png" group-title="意大利",Ofanto Tv
 https://videostream.isgm.it:3276/live/tvofantolive.m3u8
