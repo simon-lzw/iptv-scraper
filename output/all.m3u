@@ -1,7 +1,7 @@
 #EXTM3U
 #PLAYLIST: 全球 IPTV 直播源
-#生成时间: 2026-08-30 07:52:03
-#频道数: 7461
+#生成时间: 2026-08-30 17:54:28
+#频道数: 7440
 
 # ===== 阿联酋 (AE) =====
 
@@ -2378,9 +2378,6 @@ https://0472.org/hls/cgtnx.m3u8
 #EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/CGTN阿语.png" group-title="中国",CGTN阿语
 https://0472.org/hls/cgtna.m3u8
 
-#EXTINF:-1 tvg-id="CHC电影" tvg-logo="https://tb.zbds.top/logo/CHC电影.png" group-title="中国",CHC电影
-http://183.237.95.108:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=0&authid=0
-
 #EXTINF:-1 tvg-id="ChifengComprehensiveNewsChanel.cn@SD" tvg-logo="https://www.tvchinese.net/uploads/tv/cfxwzhpd.jpg" group-title="中国",Chifeng Comprehensive News Chanel
 http://play1-qk.nmtv.cn/live/1735546697341033.m3u8
 
@@ -2392,6 +2389,9 @@ https://fastlive.cctvplus.com/out/v1/ca6f9297b7314a63959435028af287fc/index.m3u8
 
 #EXTINF:-1 tvg-id="DiscoveringChina.cn@SD" tvg-logo="https://i.imgur.com/wr2bLaA.png" group-title="中国",Discovering China (1080p)
 https://fastlive.cctvplus.com/out/v1/8442c3bfd4c64a3984389328f6087879/index.m3u8
+
+#EXTINF:-1 tvg-id="FZTV3.cn" tvg-logo="https://i.imgur.com/jt7CWDT.png" group-title="中国",FZTV-3 Lifestyle Channel 生活频道
+http://live.zohi.tv/video/s10001-fztv-3/index.m3u8
 
 #EXTINF:-1 group-title="中国",Foshan News TV
 http://dslive.grtn.cn/fszh/sd/live.m3u8
@@ -2480,9 +2480,6 @@ http://live.qthnews.org.cn:1935/live/live1/800k/tzwj_video.m3u8
 #EXTINF:-1 tvg-id="万州综合" tvg-logo="https://www.xn--rgv465a.top/tvlogo/万州综合.png" group-title="中国",万州综合
 http://wanzhoulive.cbg.cn:8017/iTXwrGs/800/live.m3u8
 
-#EXTINF:-1 tvg-id="万荣综合" tvg-logo="https://tb.zbds.top/logo/万荣综合.png" group-title="中国",万荣综合
-http://60.222.246.220:19433/hls1.m3u8
-
 #EXTINF:-1 tvg-id="上海外语" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/上海外语.png" group-title="中国",上海外语
 http://t.061899.xyz/tl/tl.php?id=shics
 
@@ -2512,9 +2509,6 @@ rtp://239.3.1.156:8148
 
 #EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/东方卫视.png" group-title="中国",东方卫视
 http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226898/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7E0uh4lyjjBCCN7TCq21vSIQ%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
-
-#EXTINF:-1 tvg-id="东方卫视4K" tvg-logo="https://tb.zbds.top/logo/东方卫视4K.png" group-title="中国",东方卫视4K
-https://bp-resource-dfl.bestv.cn/148/3/video.m3u8
 
 #EXTINF:-1 tvg-id="45" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/WeiShi/DongFang.png" group-title="中国",东方卫视高清
 rtp://239.3.1.119:3006
@@ -2669,9 +2663,6 @@ https://liveout.btzx.com.cn/62ds9e/6o77s4.m3u8?zxinjd
 #EXTINF:-1 tvg-id="兵团五师双河新闻综合" tvg-logo="https://tb.zbds.top/logo/兵团五师双河新闻综合.png" group-title="中国",兵团五师双河新闻综合
 http://liveout.btzx.com.cn/62ds9e/4nxdih.m3u8?fbl=
 
-#EXTINF:-1 tvg-id="兵团八师石河子新闻综合" tvg-logo="https://tb.zbds.top/logo/兵团八师石河子新闻综合.png" group-title="中国",兵团八师石河子新闻综合
-http://124.88.144.73:1935/live/xwzh/playlist.m3u8?zxinjd
-
 #EXTINF:-1 tvg-id="3" tvg-logo="https://tb.zbds.top/logo/兵团卫视.png" group-title="中国",兵团卫视
 http://222.71.55.147:9901/tsfile/live/0115_1.m3u8?key=txiptv&playlive=0&authid=0
 
@@ -2795,23 +2786,11 @@ http://stream3.jlntv.cn:80/aac_slgb/playlist.m3u8
 #EXTINF:-1 tvg-id="双鸭山综合" tvg-logo="https://www.xn--rgv465a.top/tvlogo/双鸭山综合.png" group-title="中国",双鸭山综合
 http://live.qthnews.org.cn:1935/live/live2/800k/tzwj_video.m3u8
 
-#EXTINF:-1 tvg-id="古县综合" tvg-logo="https://tb.zbds.top/logo/古县综合.png" group-title="中国",古县综合
-https://l2fpdktp.live.sxmty.com/live/hls/e4c3b363cc4549788e2d983f403e07db/d99ce1eb686e41b9afc888110bd95aa7.m3u8?zshanxd
-
 #EXTINF:-1 tvg-id="古天乐电影" tvg-logo="https://tb.zbds.top/logo/古天乐电影.png" group-title="中国",古天乐电影
 https://live.metshop.top/huya/29982675
 
 #EXTINF:-1 tvg-id="353" group-title="中国",古装剧场
 rtp://239.3.1.69:4120
-
-#EXTINF:-1 tvg-id="句容党建" tvg-logo="https://tb.zbds.top/logo/句容党建.png" group-title="中国",句容党建
-http://jrlive.jrntv.com/live/_definst_/dangjians/playlist.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
-
-#EXTINF:-1 tvg-id="句容影院" tvg-logo="https://tb.zbds.top/logo/句容影院.png" group-title="中国",句容影院
-http://jrlive.jrntv.com/live/_definst_/yingshis/chunklist_w1994429382.m3u8?zjiangsd
-
-#EXTINF:-1 tvg-id="句容生活" tvg-logo="https://tb.zbds.top/logo/句容生活.png" group-title="中国",句容生活
-http://jrlive.jrntv.com/live/_definst_/shenghuos/playlist.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
 
 #EXTINF:-1 tvg-id="可克达拉综合" tvg-logo="https://tb.zbds.top/logo/可克达拉综合.png" group-title="中国",可克达拉综合
 http://file.loulannews.cn/nmip-media/channellive/channel103824/playlist.m3u8
@@ -2838,16 +2817,13 @@ https://live.metshop.top/huya/11342412
 https://livestream-bt.nmtv.cn/nmtv/2331general.m3u8?txSecret=4d7342ca5cd74480526ab6d292247aff&txTime=771E8800
 
 #EXTINF:-1 tvg-id="哈尔滨娱乐" tvg-logo="https://tb.zbds.top/logo/哈尔滨娱乐.png" group-title="中国",哈尔滨娱乐
-https://stream.hrbtv.net/ylpd/sd/live.m3u8
+http://stream.hrbtv.net/ylpd/sd/live.m3u8?zheild
 
 #EXTINF:-1 tvg-id="哈尔滨影视" tvg-logo="https://tb.zbds.top/logo/哈尔滨影视.png" group-title="中国",哈尔滨影视
 http://stream.hrbtv.net/yspd/sd/live.m3u8?zheild
 
 #EXTINF:-1 tvg-id="哈尔滨生活" tvg-logo="https://tb.zbds.top/logo/哈尔滨生活.png" group-title="中国",哈尔滨生活
 http://stream.hrbtv.net/shpd/sd/live.m3u8?zheild
-
-#EXTINF:-1 tvg-id="哈尔滨资讯" tvg-logo="https://tb.zbds.top/logo/哈尔滨资讯.png" group-title="中国",哈尔滨资讯
-http://stream.hrbtv.net/zxpd/sd/live.m3u8
 
 #EXTINF:-1 tvg-id="哈尔滨都市咨询" tvg-logo="https://tb.zbds.top/logo/哈尔滨都市咨询.png" group-title="中国",哈尔滨都市咨询
 http://stream.hrbtv.net/zxpd/sd/live.m3u8?zheild
@@ -2923,9 +2899,6 @@ rtp://239.3.1.67:4120
 
 #EXTINF:-1 tvg-id="大唐双龙传" tvg-logo="https://tb.zbds.top/logo/大唐双龙传.png" group-title="中国",大唐双龙传
 https://live.metshop.top/huya/29465850
-
-#EXTINF:-1 tvg-id="大宁综合" tvg-logo="https://tb.zbds.top/logo/大宁综合.png" group-title="中国",大宁综合
-http://live.daningtv.com/aac_dngb/playlist.m3u8
 
 #EXTINF:-1 tvg-id="大时代" tvg-logo="https://tb.zbds.top/logo/大时代.png" group-title="中国",大时代
 https://live.metshop.top/huya/23865161
@@ -3101,9 +3074,6 @@ https://jwcdnqx.hebyun.com.cn/zb/pqys/1500k/tzwj_video.m3u8
 #EXTINF:-1 tvg-id="平泉综合" tvg-logo="https://www.xn--rgv465a.top/tvlogo/平泉综合.png" group-title="中国",平泉综合
 https://jwcdnqx.hebyun.com.cn/live/pqzh/1500k/tzwj_video.m3u8
 
-#EXTINF:-1 tvg-id="平遥新闻综合" tvg-logo="https://tb.zbds.top/logo/平遥新闻综合.png" group-title="中国",平遥新闻综合
-https://tntgjhjb.live.sxmty.com/live/hls/3a4585ac11ec4e1bb07b419101b370c3/baf63e2b313440c2a25d7859f9b73b05-1.m3u8?zshanxd
-
 #EXTINF:-1 group-title="中国",广东 Ⅰ 韶关公共台 (720p) [Not 24/7]
 https://www.sgmsw.cn/videos/tv/201805/1308/9P424TC5M000AFO13CXK6GN6BOA889D2/hls/live.m3u8
 
@@ -3179,9 +3149,6 @@ https://live.chinacert.cftest5.cn/cnmg/live/639731747
 #EXTINF:-1 tvg-id="德惠综合" tvg-logo="https://tb.zbds.top/logo/德惠综合.png" group-title="中国",德惠综合
 http://stream11.jlntv.cn/dehuitv/sd/live.m3u8
 
-#EXTINF:-1 tvg-id="怀仁综合" tvg-logo="https://tb.zbds.top/logo/怀仁综合.png" group-title="中国",怀仁综合
-https://1yp7hc5p.live.sxmty.com/live/hls/bff8529922344209985b6e49baa9555a/efa2543628fc4a7ea93d3d6c975f77dc-1.m3u8
-
 #EXTINF:-1 tvg-id="怪兽电影" tvg-logo="https://tb.zbds.top/logo/怪兽电影.png" group-title="中国",怪兽电影
 https://live.metshop.top/huya/21059577
 
@@ -3210,7 +3177,7 @@ https://vip.ffzy-online.com/20221015/722_e32c42bc/index.m3u8
 https://vd2.bdstatic.com/mda-sctj0f6r4u1bpebc/1080p/cae_h264/1774706523506678171/mda-sctj0f6r4u1bpebc.mp4
 
 #EXTINF:-1 tvg-id="敦化一套" tvg-logo="https://tb.zbds.top/logo/敦化一套.png" group-title="中国",敦化一套
-http://stream8.jlntv.cn/dhtv/playlist.m3u8
+http://stream8.jlntv.cn/dhtv/playlist.m3u8?zjild
 
 #EXTINF:-1 tvg-id="文山州公共" tvg-logo="https://www.xn--rgv465a.top/tvlogo/文山州公共.png" group-title="中国",文山州公共
 http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel8/playlist.m3u8
@@ -3284,9 +3251,6 @@ https://m3u8.channel.dzsm.com/nmip-media/channellive/channel104601/playlist.m3u8
 #EXTINF:-1 tvg-id="李连杰电影" tvg-logo="https://tb.zbds.top/logo/李连杰电影.png" group-title="中国",李连杰电影
 https://live.metshop.top/huya/11342390
 
-#EXTINF:-1 tvg-id="来宾综合" tvg-logo="https://tb.zbds.top/logo/来宾综合.png" group-title="中国",来宾综合
-http://zb.gxlbamc.com:1935/live/lbzh.stream/playlist.m3u8
-
 #EXTINF:-1 group-title="中国",松原新闻综合 [Geo-blocked]
 https://stream2.jlntv.cn/sytv/sd/live.m3u8
 
@@ -3325,9 +3289,6 @@ https://live.metshop.top/huya/11342427
 
 #EXTINF:-1 tvg-id="武清综合" tvg-logo="https://www.xn--rgv465a.top/tvlogo/武清综合.png" group-title="中国",武清综合
 https://tvpull.smartwq.cn/wqlive/convergencemedia/playlist.m3u8?ztianjd
-
-#EXTINF:-1 tvg-id="武进新闻" tvg-logo="https://tb.zbds.top/logo/武进新闻.png" group-title="中国",武进新闻
-https://live.wjyanghu.com/live/CH1.m3u8
 
 #EXTINF:-1 tvg-id="永城综合" tvg-logo="https://www.xn--rgv465a.top/tvlogo/永城综合.png" group-title="中国",永城综合
 http://tvpull.dxhmt.cn:9081/tv/11481-1.m3u8
@@ -3440,12 +3401,6 @@ https://migu.188766.xyz/?migutoken=599bb7fdd4f9cab36d202bb38a0da046&id=%E6%B0%91
 #EXTINF:-1 tvg-id="河南都市" tvg-logo="https://www.xn--rgv465a.top/tvlogo/河南都市.png" group-title="中国",河南都市
 http://1.94.31.214/php/hntv.php?id=hnds
 
-#EXTINF:-1 tvg-id="河源公共" tvg-logo="https://tb.zbds.top/logo/河源公共.png" group-title="中国",河源公共
-http://tmpstream.hyrtv.cn/hygg/sd/live.m3u8
-
-#EXTINF:-1 tvg-id="河源综合" tvg-logo="https://tb.zbds.top/logo/河源综合.png" group-title="中国",河源综合
-http://tmpstream.hyrtv.cn/xwzh/sd/live.m3u8
-
 #EXTINF:-1 group-title="中国",河源综合 (540p)
 https://tmpstream.hyrtv.cn/xwzh/sd/live.m3u8
 
@@ -3460,9 +3415,6 @@ http://lxfile.lxxcb.cn/nmip-media/channellive/channel103799/playlist.m3u8
 
 #EXTINF:-1 tvg-id="洗冤录" tvg-logo="https://tb.zbds.top/logo/洗冤录.png" group-title="中国",洗冤录
 https://live.metshop.top/huya/29465851
-
-#EXTINF:-1 tvg-id="津南一套" tvg-logo="https://tb.zbds.top/logo/津南一套.png" group-title="中国",津南一套
-http://play.jinnantv.top/live/JNTV1.m3u8?ztianjd
 
 #EXTINF:-1 tvg-id="活佛济公3" tvg-logo="https://tb.zbds.top/logo/活佛济公3.png" group-title="中国",活佛济公3
 https://live.metshop.top/huya/23903123
@@ -3569,8 +3521,8 @@ https://migu.188766.xyz/?migutoken=410e218b52bfcc506bef1f814d8d3b5f&id=hn_xwpd&t
 #EXTINF:-1 tvg-id="海南自贸频道" tvg-logo="https://www.xn--rgv465a.top/tvlogo/海南自贸.png" group-title="中国",海南自贸
 https://migu.188766.xyz/?migutoken=2795391bf2380a7870585be391603d6a&id=hn_jjpd&type=sz
 
-#EXTINF:-1 tvg-id="4" tvg-logo="https://tb.zbds.top/logo/海峡卫视.png" group-title="中国",海峡卫视
-http://221.226.51.220:50081/newlive/live/hls/27/live.m3u8
+#EXTINF:-1 tvg-id="1" tvg-logo="https://tb.zbds.top/logo/海峡卫视.png" group-title="中国",海峡卫视
+http://120.40.39.246:352/newlive/live/hls/27/live.m3u8
 
 #EXTINF:-1 group-title="中国",海西州综合 (576p)
 http://stream.haixitv.cn/1/sd/live.m3u8
@@ -3704,17 +3656,8 @@ https://live.metshop.top/huya/11602058
 #EXTINF:-1 tvg-id="玛纳斯" tvg-logo="https://tb.zbds.top/logo/玛纳斯.png" group-title="中国",玛纳斯
 http://218.84.127.245:1026/hls/main1/playlist.m3u8?zxinjd
 
-#EXTINF:-1 tvg-id="玛纳斯综合" tvg-logo="https://tb.zbds.top/logo/玛纳斯综合.png" group-title="中国",玛纳斯综合
-http://218.84.127.245:1026/hls/main1/playlist.m3u8?zxinjd,
-
 #EXTINF:-1 tvg-id="珲春新闻" tvg-logo="https://tb.zbds.top/logo/珲春新闻.png" group-title="中国",珲春新闻
 http://stream8.jlntv.cn/hctv/sd/live.m3u8?zjild
-
-#EXTINF:-1 tvg-id="璧山综合" tvg-logo="https://tb.zbds.top/logo/璧山综合.png" group-title="中国",璧山综合
-http://222.179.42.129:8181/hls1.m3u8
-
-#EXTINF:-1 tvg-id="甘南县综合" tvg-logo="https://tb.zbds.top/logo/甘南县综合.png" group-title="中国",甘南县综合
-https://stream.hrbtv.net/zxpd/sd/live.m3u8
 
 #EXTINF:-1 tvg-id="甘孜综合" tvg-logo="https://tb.zbds.top/logo/甘孜综合.png" group-title="中国",甘孜综合
 http://tv.drs.ganzitv.com:8100/channellive/gztv.flv
@@ -4097,14 +4040,8 @@ rtp://239.3.1.58:8156
 #EXTINF:-1 tvg-id="鉴证实录" tvg-logo="https://tb.zbds.top/logo/鉴证实录.png" group-title="中国",鉴证实录
 https://live.metshop.top/huya/23903183
 
-#EXTINF:-1 tvg-id="铜梁综合" tvg-logo="https://tb.zbds.top/logo/铜梁综合.png" group-title="中国",铜梁综合
-http://183.64.174.171:40123/ch1.m3u8?zzhongqd
-
 #EXTINF:-1 tvg-id="镇江新闻综合" tvg-logo="https://www.xn--rgv465a.top/tvlogo/镇江新闻综合.png" group-title="中国",镇江新闻综合
 https://live.chinacert.cftest5.cn/cnmg/live/639731783
-
-#EXTINF:-1 tvg-id="长子综合" tvg-logo="https://tb.zbds.top/logo/长子综合.png" group-title="中国",长子综合
-https://www.wxhcgbds.com:8081/channelTv/WXTV_1.m3u8?zshanxd
 
 #EXTINF:-1 tvg-id="长影频道" tvg-logo="https://tb.zbds.top/logo/长影频道.png" group-title="中国",长影频道
 http://tpc.x3322.net:9901/tsfile/live/1010_1.m3u8
