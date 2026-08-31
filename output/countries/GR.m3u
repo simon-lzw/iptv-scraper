@@ -1,7 +1,7 @@
 #EXTM3U
 #PLAYLIST: 希腊 (GR) IPTV 直播源
-#生成时间: 2026-08-31 08:06:38
-#频道数: 85
+#生成时间: 2026-08-31 19:50:09
+#频道数: 83
 
 # ===== 希腊 (GR) =====
 
@@ -19,9 +19,6 @@ https://mcdn.antennaplus.gr/live/media0/Ant1/HLS/Ant1.m3u8
 
 #EXTINF:-1 tvg-id="ANT1Cyprus.cy@SD" tvg-logo="https://i.imgur.com/2KAObBt.png" group-title="希腊",ANT1 Cyprus (1080p)
 http://l2.cloudskep.com/ant1cm2/abr/playlist.m3u8
-
-#EXTINF:-1 tvg-id="arttv.gr" tvg-logo="https://i.imgur.com/7TyUxLj.png" group-title="希腊",ART
-https://rumble.com/live-hls-dvr/73h8c2/playlist.m3u8
 
 #EXTINF:-1 tvg-id="arttv.gr" tvg-logo="https://i.imgur.com/LyCqQvx.png" group-title="希腊",ART TV
 https://rtmp.win:3696/live/arttvgrlive.m3u8
@@ -71,6 +68,9 @@ https://ert-live.siliconweb.com/bpk-tv/ERT2/default/index.mpd
 #EXTINF:-1 tvg-id="ERT3.gr" tvg-logo="https://i.imgur.com/KyhzDRm.png" group-title="希腊",ERT 3
 https://ert-live.siliconweb.com/bpk-tv/ERT3/default/index.mpd
 
+#EXTINF:-1 tvg-id="ERTWorld.gr" tvg-logo="https://i.imgur.com/KsMTWYw.png" group-title="希腊",ERT Cosmos
+https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERTCosmos/default/index.mpd
+
 #EXTINF:-1 tvg-id="ERTCosmos.gr@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/ERT_Cosmos_Logo_2026.svg/960px-ERT_Cosmos_Logo_2026.svg.png" group-title="希腊",ERT Cosmos (1080p)
 https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERTCosmos/default/index.m3u8
 
@@ -78,7 +78,7 @@ https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERTCosmos/default/index.m3u8
 https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERTKids/default/index.mpd
 
 #EXTINF:-1 tvg-id="ERTNews.gr" tvg-logo="https://i.imgur.com/saIGLvr.png" group-title="希腊",ERT News
-https://ert-live.siliconweb.com/bpk-tv/ERTNews/default/index.mpd
+https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERTNews/default/index.mpd
 
 #EXTINF:-1 tvg-id="ERTNews.gr@HD" tvg-logo="https://i.imgur.com/HXbsPfB.png" group-title="希腊",ERT News HD (1080p)
 https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERTNews/default/index.m3u8
@@ -100,9 +100,6 @@ https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERTSports3/default/index.mpd
 
 #EXTINF:-1 tvg-id="ERTSports4.gr" tvg-logo="https://i.imgur.com/gebWmAB.png" group-title="希腊",ERT Sports 4
 https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERTSports4/default/index.mpd
-
-#EXTINF:-1 tvg-id="ERTWorld.gr" tvg-logo="https://i.imgur.com/KsMTWYw.png" group-title="希腊",ERT World
-https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERTWorld/default/index.mpd
 
 #EXTINF:-1 tvg-id="egnatiatv.gr" tvg-logo="https://i.imgur.com/zuyYIca.png" group-title="希腊",Egnatia
 https://video.streams.ovh:1936/egnatiatv/egnatiatv/index.m3u
@@ -242,7 +239,7 @@ https://av.hellasnet.tv/rst/trt/index.m3u8
 #EXTINF:-1 tvg-id="TV100.gr" tvg-logo="https://i.imgur.com/9rtf8OR.png" group-title="希腊",TV 100
 https://panel.gwebstream.eu:19360/tv100skg/tv100skg.m3u8
 
-#EXTINF:-1 tvg-id="TeleKriti.gr" tvg-logo="https://i.imgur.com/18ZYiyi.png" group-title="希腊",TeleKriti
+#EXTINF:-1 tvg-id="Telekriti.gr@SD" tvg-logo="https://telekriti.com/wp-content/uploads/2023/08/NEW-LOGO-7c-300x50.png" group-title="希腊",Telekriti (720p) [Not 24/7]
 https://neon.streams.gr:8081/telekriti/index.m3u8
 
 #EXTINF:-1 tvg-id="thessaliatv.gr" tvg-logo="https://i.imgur.com/KXz67LY.png" group-title="希腊",Thessalia
@@ -256,7 +253,4 @@ https://verginanews.gr:8443/hls_live/stream1.m3u8
 
 #EXTINF:-1 tvg-id="VouliTV.gr" tvg-logo="https://i.imgur.com/1vqW7lc.png" group-title="希腊",Vouli TV
 https://diavlos-cache.cnt.grnet.gr/parltv/webtv-1b.sdp/playlist.m3u8
-
-#EXTINF:-1 tvg-id="ERTWorld1.gr" tvg-logo="https://upload.wikimedia.org/wikipedia/el/thumb/5/58/VoiceOfGreece.svg/500px-VoiceOfGreece.svg.png" group-title="希腊",Η Φωνή της Ελλάδας
-https://ertmmd.akamaized.net/ertradio/voiceofgreece/default/index.mpd
 
