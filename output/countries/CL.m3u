@@ -1,7 +1,7 @@
 #EXTM3U
 #PLAYLIST: 智利 (CL) IPTV 直播源
-#生成时间: 2026-09-02 17:35:50
-#频道数: 154
+#生成时间: 2026-09-03 06:50:58
+#频道数: 155
 
 # ===== 智利 (CL) =====
 
@@ -85,6 +85,9 @@ https://redirector.dps.live/hls/13cl/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Canal13.cl@SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/01/Canal_13_2018.png/revision/latest/scale-to-width-down/512/" group-title="智利",Canal 13 (1080p)
 http://15.204.246.24:8080/Canal13HD/index.m3u8
+
+#EXTINF:-1 tvg-id="Canal13.gt@SD" tvg-logo="https://i.imgur.com/C1yVU3J.png" group-title="智利",Canal 13 (720p)
+http://190.61.101.11:7050/play/a07f/index.m3u8
 
 #EXTINF:-1 tvg-id="Canal13Bajio.mx@SD" tvg-logo="https://i.imgur.com/SlycKgZ.png" group-title="智利",Canal 13 Bajío (720p) [Not 24/7]
 https://stream-207963.castr.net/65313d270e749722b6474684/live_1c690d40dfb711eeabd66ba1b9ba93a1/index.fmp4.m3u8
@@ -219,7 +222,7 @@ https://v4.tustreaming.cl/limachemovil/index.m3u8
 https://cdn1tlinkgo.tlink.cl/eurochannel/index.m3u8
 
 #EXTINF:-1 tvg-id="EuropaEuropa.ar@SD" tvg-logo="https://i.imgur.com/w5SOfyJ.png" group-title="智利",Europa Europa (1080p)
-https://cdn1tlinkgo.tlink.cl/europaeuropa/index.m3u8
+https://iptv.bitred.cl/EUROPAEUROPA_HD/index.m3u8
 
 #EXTINF:-1 tvg-id="FMPlusTV.cl@SD" tvg-logo="https://i.imgur.com/1UokOyN.png" group-title="智利",FM Plus TV (720p)
 https://v2.tustreaming.cl/fmplus/index.m3u8

@@ -1,6 +1,6 @@
 #EXTM3U
 #PLAYLIST: 捷克 (CZ) IPTV 直播源
-#生成时间: 2026-09-02 17:35:50
+#生成时间: 2026-09-03 06:50:58
 #频道数: 55
 
 # ===== 捷克 (CZ) =====
@@ -8,7 +8,7 @@
 #EXTINF:-1 tvg-id="BBCEarth.uk@Czechia" tvg-logo="https://i.imgur.com/nGSsUd4.png" group-title="捷克",BBC Earth Czechia
 http://88.212.15.29/live/test_bbc_eartch_hevc/playlist.m3u8
 
-#EXTINF:-1 tvg-id="CBHTDT.ca@SD" tvg-logo="https://i.imgur.com/jdlYY4t.png" group-title="捷克",CBC Nova Scotia (CBHT-DT) (720p) [Geo-blocked]
+#EXTINF:-1 tvg-id="CBHTDT.ca@SD" group-title="捷克",CBC Nova Scotia (CBHT-DT) (720p) [Geo-blocked]
 https://cbcrclinear-tor.akamaized.net/hls/live/2042758/CBCRCLINEAR_TOR_4/master5.m3u8
 
 #EXTINF:-1 tvg-id="CNNPrimaNews.cz" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/cnn-prima-news-cz.png" group-title="捷克",CNN Prima News
@@ -26,8 +26,8 @@ https://sktv.mxnticek.eu/new/stream.php?ch=CS%20History
 #EXTINF:-1 tvg-id="CSMystery.cz" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/cs-mystery-cz.png" group-title="捷克",CS Mystery
 https://sktv.mxnticek.eu/new/stream.php?ch=CS%20Mystery
 
-#EXTINF:-1 tvg-id="CanalPlusActionEurope.nl@Czechia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Canal%2B_Action_2024.svg/1920px-Canal%2B_Action_2024.svg.png" group-title="捷克",Canal+ Action Europe Czechia (720p)
-http://151.80.18.177:86/Canal+_Family_HD/index.m3u8
+#EXTINF:-1 tvg-id="CanalPlusActionEurope.nl@Czechia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Canal%2B_Action_2024.svg/1920px-Canal%2B_Action_2024.svg.png" group-title="捷克",Canal+ Action Europe Czechia
+http://46.149.191.219:9106/play/a01g
 
 #EXTINF:-1 tvg-id="ElektrikaTV.cz@SD" tvg-logo="https://i.imgur.com/OLd5od5.png" group-title="捷克",Elektrika TV (1080p)
 https://rtmp.elektrika.cz/live/myStream.sdp/playlist.m3u8
