@@ -1,6 +1,6 @@
 #EXTM3U
 #PLAYLIST: 匈牙利 (HU) IPTV 直播源
-#生成时间: 2026-09-04 17:22:27
+#生成时间: 2026-09-05 06:40:35
 #频道数: 70
 
 # ===== 匈牙利 (HU) =====
@@ -83,8 +83,8 @@ https://iptv01.eurocable.co.hu/EC-HANGULATTV/index.m3u8
 #EXTINF:-1 tvg-id="Hatoscsatorna.hu@SD" tvg-logo="https://i.imgur.com/XZqg1Pj.png" group-title="匈牙利",Hatoscsatorna (360p) [Not 24/7]
 https://hatoscsatorna.hu:8082/Hatoscsatorna/livestream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="HegyvidekTV.hu@SD" tvg-logo="https://i.imgur.com/t5bw1J1.png" group-title="匈牙利",Hegyvidek Tv Budapest (576p) [Not 24/7]
-https://tv.hegyvidek.hu/stream_mpeg.flv
+#EXTINF:-1 tvg-id="HegyvidekTV.hu@SD" tvg-logo="https://i.imgur.com/t5bw1J1.png" group-title="匈牙利",Hegyvidek TV
+https://iptv02.eurocable.co.hu:15400/EC-HEGYVIDEKTV-FTA/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://hegyvidektv.hu/wp-content/uploads/2025/05/BUDATV_logo_picon.png" group-title="匈牙利",Hegyvidék TV (Buda TV)
 http://budatv.streaming.aiproduction.hu/playlist.m3u

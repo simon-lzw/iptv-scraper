@@ -1,9 +1,12 @@
 #EXTM3U
 #PLAYLIST: 巴拉圭 (PY) IPTV 直播源
-#生成时间: 2026-09-04 17:22:27
-#频道数: 2
+#生成时间: 2026-09-05 06:40:35
+#频道数: 3
 
 # ===== 巴拉圭 (PY) =====
+
+#EXTINF:-1 tvg-id="FarraPlay.py@SD" tvg-logo="https://i.imgur.com/bXWzstH.png" group-title="巴拉圭",Farra Play (576p)
+https://stream.farra.com.py/live/farra_low.m3u8
 
 #EXTINF:-1 tvg-id="ParaguayTV.py@SD" tvg-logo="https://i.imgur.com/fkK7i8g.png" group-title="巴拉圭",Paraguay TV (1080p)
 https://stream.paraguaytv.gov.py/memfs/bbe36fed-9b49-4d1d-adaa-4bd6d1b2e386.m3u8

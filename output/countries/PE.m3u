@@ -1,7 +1,7 @@
 #EXTM3U
 #PLAYLIST: 秘鲁 (PE) IPTV 直播源
-#生成时间: 2026-09-04 17:22:27
-#频道数: 90
+#生成时间: 2026-09-05 06:40:35
+#频道数: 91
 
 # ===== 秘鲁 (PE) =====
 
@@ -253,6 +253,9 @@ https://live-evg10.tv360.bitel.com.pe/bitel/nasca/playlist.m3u8
 
 #EXTINF:-1 tvg-id="VisionLatina.pa@SD" tvg-logo="https://i.imgur.com/TG30lWA.jpg" group-title="秘鲁",Vision Latina (1080p)
 https://cdn-cloudfront.us-east-1.prod.ingest.aws-infra.dacast.com/live/64917431-2f51-0a46-d4d0-04d111b2393f/master.m3u8
+
+#EXTINF:-1 tvg-id="VisionSur.pe@SD" tvg-logo="https://i.imgur.com/AbZYWEQ.png" group-title="秘鲁",Vision Sur (720p)
+https://live-evg8.tv360.bitel.com.pe/bitel/visionsur/playlist.m3u8
 
 #EXTINF:-1 tvg-id="WayraTV.pe@SD" tvg-logo="https://i.imgur.com/eQLRVFp.png" group-title="秘鲁",Wayra TV (720p)
 https://live-evg11.tv360.bitel.com.pe/bitel/wayratv/playlist.m3u8

@@ -1,12 +1,15 @@
 #EXTM3U
 #PLAYLIST: 斯里兰卡 (LK) IPTV 直播源
-#生成时间: 2026-09-04 17:22:27
-#频道数: 2
+#生成时间: 2026-09-05 06:40:35
+#频道数: 3
 
 # ===== 斯里兰卡 (LK) =====
 
 #EXTINF:-1 tvg-id="HiruTV.lk@SD" tvg-logo="https://i.imgur.com/M66UqPB.png" group-title="斯里兰卡",Hiru TV (360p) [Not 24/7]
 https://tv.hiruhost.com:1936/8012/8012/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Swarnavahini.lk@SD" tvg-logo="https://i.imgur.com/0hnpeq9.png" group-title="斯里兰卡",Swarnavahini (480p)
+https://teledrama.ebc.lk/TTT/proxy.php
 
 #EXTINF:-1 tvg-id="TalentTV.lk@HD" tvg-logo="https://talenttv.lk/logo-footer.png" group-title="斯里兰卡",Talent TV (720p)
 http://live.talenttv.lk:8080/hls/x8kd5n3tm8e8lsv/index.m3u8

@@ -1,7 +1,7 @@
 #EXTM3U
 #PLAYLIST: 斯洛伐克 (SK) IPTV 直播源
-#生成时间: 2026-09-04 17:22:27
-#频道数: 67
+#生成时间: 2026-09-05 06:40:35
+#频道数: 70
 
 # ===== 斯洛伐克 (SK) =====
 
@@ -92,6 +92,9 @@ https://dash2.antik.sk/live/test_kuskus_tv_atktv/playlist.m3u8
 #EXTINF:-1 tvg-id="LifeTv.sk@SD" tvg-logo="https://i.imgur.com/jO8kAY2.png" group-title="斯洛伐克",LifeTv (1080p)
 https://lifetv.mpks.sk/s.m3u8
 
+#EXTINF:-1 tvg-id="MDRFernsehen.de@Thuringen" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/MDR_Logo_2017.svg/960px-MDR_Logo_2017.svg.png" group-title="斯洛伐克",MDR Fernsehen Thuringen
+https://dash4.antik.sk/live/test_mdr_tizen/playlist.m3u8
+
 #EXTINF:-1 tvg-id="Markiza.sk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/slovakia/markiza-sk.png" group-title="斯洛伐克",Markíza
 https://sktv.mxnticek.eu/new/stream.php?ch=Markiza
 
@@ -100,6 +103,9 @@ https://sktv.mxnticek.eu/new/stream.php?ch=Mark%C3%ADza%20TN%20Live
 
 #EXTINF:-1 group-title="斯洛伐克",NR SR
 https://sktv.mxnticek.eu/new/stream.php?ch=NR%20SR
+
+#EXTINF:-1 tvg-id="NZTV.sk@SD" tvg-logo="https://i.imgur.com/jGZlnzT.png" group-title="斯洛伐克",NZTV
+https://dash2.antik.sk/live/test_nove_zamky/playlist.m3u8
 
 #EXTINF:-1 tvg-id="OckoBlack.cz@SD" tvg-logo="https://i.imgur.com/5rw9tWy.png" group-title="斯洛伐克",Ocko Black
 https://dash2.antik.sk/live/test_ocko_black/playlist.m3u8
@@ -161,14 +167,17 @@ https://n11.stv.livebox.sk/stv-tv/stv4.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="TVNitricka.sk@SD" tvg-logo="https://i.imgur.com/iwWyG1A.png" group-title="斯洛伐克",TV Nitricka
 https://dash4.antik.sk/live/test_nitricka/playlist.m3u8
 
-#EXTINF:-1 tvg-id="NZTV.sk@SD" tvg-logo="https://i.imgur.com/jGZlnzT.png" group-title="斯洛伐克",TV Nové Zámky (486p) [Not 24/7]
-http://s1.media-planet.sk/live/novezamky/BratuMarian.m3u8
-
 #EXTINF:-1 tvg-id="TVPovazie.sk@SD" tvg-logo="https://i.imgur.com/JRD9YIY.png" group-title="斯洛伐克",TV Povazie (1080p)
 https://dash3.antik.sk/live/test_povazie/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TVRuzinov.sk@SD" tvg-logo="https://i.imgur.com/bUGuntH.png" group-title="斯洛伐克",TV Ružinov (1080p) [Not 24/7]
 http://lb.streaming.sk/tvruzinov/stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVSLO1.si@HD" tvg-logo="https://i.imgur.com/E3YmlxF.png" group-title="斯洛伐克",TV SLO 1 HD
+https://dash2.antik.sk/live/test_slo1_tizen/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVSLO2.si@HD" tvg-logo="https://i.imgur.com/OPlzjjv.png" group-title="斯洛伐克",TV SLO 2 HD
+https://dash2.antik.sk/live/test_slo2_tizen/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TVVita.sk@SD" tvg-logo="https://i.imgur.com/Cx1GLbo.png" group-title="斯洛伐克",TV Vita
 https://dash3.antik.sk/live/test_vita/playlist.m3u8

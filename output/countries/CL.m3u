@@ -1,7 +1,7 @@
 #EXTM3U
 #PLAYLIST: 智利 (CL) IPTV 直播源
-#生成时间: 2026-09-04 17:22:27
-#频道数: 155
+#生成时间: 2026-09-05 06:40:35
+#频道数: 154
 
 # ===== 智利 (CL) =====
 
@@ -22,9 +22,6 @@ https://origin.dpsgo.com/ssai/event/g7_JOM0ORki9SR5RKHe-Kw/master.m3u8
 
 #EXTINF:-1 tvg-id="13T.cl" tvg-logo="https://i.imgur.com/aJMBnse.png" group-title="智利",13 Teleseries
 https://origin.dpsgo.com/ssai/event/f4TrySe8SoiGF8Lu3EIq1g/master.m3u8
-
-#EXTINF:-1 tvg-id="13Rec.cl@SD" tvg-logo="https://i.imgur.com/WtBbxEf.png" group-title="智利",13Rec (720p)
-http://cdn1tlinkgo.tlink.cl/13rec/mono.m3u8
 
 #EXTINF:-1 tvg-id="151BPB.cl@SD" tvg-logo="https://i.imgur.com/hyxkJYV.png" group-title="智利",15.1 BPB (720p)
 https://v2.tustreaming.cl/enlacebpbtv/index.m3u8
@@ -47,8 +44,8 @@ https://cdn1tlinkgo.tlink.cl/axnhd/index.m3u8
 #EXTINF:-1 tvg-id="AtacamaNoticias.cl@SD" tvg-logo="https://i.imgur.com/Avx4Ecf.png" group-title="智利",Atacama Noticias (720p) [Not 24/7]
 https://v2.tustreaming.cl/atacamanoticias/index.m3u8
 
-#EXTINF:-1 tvg-id="AtacamaTV.cl@SD" tvg-logo="https://i.postimg.cc/rwS082hL/atacama-tv.png" group-title="智利",Atacama TV (Copiapó) (720p) [Not 24/7]
-https://v2.tustreaming.cl/atacamatv/index.m3u8
+#EXTINF:-1 tvg-id="AtacamaTV.cl@SD" tvg-logo="https://i.postimg.cc/rwS082hL/atacama-tv.png" group-title="智利",Atacama TV
+https://v2.tustreaming.cl/atacamatv/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="AysenTV.cl@SD" tvg-logo="https://i.imgur.com/DmdBf9S.png" group-title="智利",Aysen TV (720p)
 https://v1.tustreaming.cl/aysentv/index.m3u8

@@ -1,7 +1,7 @@
 #EXTM3U
 #PLAYLIST: 瑞士 (CH) IPTV 直播源
-#生成时间: 2026-09-04 17:22:27
-#频道数: 22
+#生成时间: 2026-09-05 06:40:35
+#频道数: 23
 
 # ===== 瑞士 (CH) =====
 
@@ -58,6 +58,9 @@ https://58de7a369a9c4.streamlock.net/srf/stream_720p/playlist.m3u8
 
 #EXTINF:-1 tvg-id="SRF1.ch" tvg-logo="https://i.imgur.com/KCPHba2.png" group-title="瑞士",SRF 1
 http://51.91.73.99:25461/sweden/PM66f7Y43H/25849
+
+#EXTINF:-1 tvg-id="TV5MondeFranceBelgiumSwitzerlandMonaco.fr@SD" tvg-logo="https://i.imgur.com/WmRbudc.png" group-title="瑞士",TV5Monde France Belgium Switzerland Monaco
+http://5.78.65.164/TV5Monde/index.m3u8
 
 #EXTINF:-1 tvg-id="TVM3.ch" tvg-logo="https://i.imgur.com/3v6iZE6.png" group-title="瑞士",TVM 3
 http://livevideo.infomaniak.com/streaming/livecast/tvm3/playlist.m3u8
