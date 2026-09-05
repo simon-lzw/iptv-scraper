@@ -1,7 +1,7 @@
 #EXTM3U
 #PLAYLIST: 匈牙利 (HU) IPTV 直播源
-#生成时间: 2026-09-05 06:40:35
-#频道数: 70
+#生成时间: 2026-09-05 16:32:23
+#频道数: 73
 
 # ===== 匈牙利 (HU) =====
 
@@ -44,6 +44,9 @@ http://88.212.15.19/live/duna_hun/index.m3u8
 #EXTINF:-1 tvg-id="DunaWorld.hu" tvg-logo="https://i.imgur.com/DciAdFF.png" group-title="匈牙利",Duna World / M4+ Sport
 http://88.212.15.19/live/duna_world_hun/index.m3u8
 
+#EXTINF:-1 tvg-id="EsztergomTV.hu" group-title="匈牙利",ES TV (Esztergom)
+https://cloudfront44.lexanetwork.com:1344/relay44_1/HDE040.sdp/playlist.m3u8
+
 #EXTINF:-1 tvg-id="BonumTV.hu" tvg-logo="https://katolikus.tv/wp-content/themes/bonum/img/ewtn-badge.jpg" group-title="匈牙利",EWTN TV
 https://hls.iptvservice.eu/hls/ewtn-hd.m3u8
 
@@ -63,7 +66,7 @@ https://cdn-euronews.akamaized.net/live/eds/euronews-hu/25075/index.m3u8
 http://88.212.15.19/live/test_fem3_atktv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.fehervartv.hu/css/img/icon-1-2.png" group-title="匈牙利",FehérvárTV
-https://cloudfront44.lexanetwork.com:1344/freerelay/fehervartv.sdp/playlist.m3u8?key=EWSj2
+https://cloudfront44.lexanetwork.com:1344/relay44_1/HDE046.sdp/playlist.m3u8
 
 #EXTINF:-1 tvg-id="GranTV.hu@SD" tvg-logo="https://i.ibb.co/qJN7Qh2/gran-kicsi.png" group-title="匈牙利",Gran TV (720p)
 https://stream.medialive.hu/gran/grantvlive/playlist.m3u8
@@ -101,11 +104,17 @@ https://cloudfront44.lexanetwork.com:1344/relay01/broadcast007.sdp/playlist.m3u8
 #EXTINF:-1 group-title="匈牙利",Kanizsa TV
 https://cloudfront44.lexanetwork.com:1344/freerelay/kanizsavtv.sdp/playlist.m3u8
 
+#EXTINF:-1 tvg-id="KaposTV.hu" tvg-logo="https://kapos.hu/static/keptar/13/b/9490.jpg" group-title="匈牙利",Kapos TV
+https://cloudfront44.lexanetwork.com:1344/relay01/broadcast004.sdp/playlist.m3u8
+
 #EXTINF:-1 tvg-id="KecskemetiTV.hu" tvg-logo="https://kecskemetitv.hu/templates/kecskemetitv/img/ktv_logo.png" group-title="匈牙利",Kecskemét TV
 http://rtmp1.40e.hu:8000/live/ktv.m3u8
 
 #EXTINF:-1 tvg-id="KomlosTV.hu" tvg-logo="https://i.imgur.com/MDYb5yz.png" group-title="匈牙利",Komlos TV
 https://stream.streaming4u.hu/KomlosTV/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="KomaromiTelevizio.hu" group-title="匈牙利",Komáromi Televízió
+https://cloudfront44.lexanetwork.com:1344/relay01/HDE017.sdp/playlist.m3u8
 
 #EXTINF:-1 group-title="匈牙利",Líceum TV
 http://193.225.32.62:8890/live.m3u8
