@@ -1,7 +1,7 @@
 #EXTM3U
 #PLAYLIST: 澳大利亚 (AU) IPTV 直播源
-#生成时间: 2026-09-06 06:51:25
-#频道数: 38
+#生成时间: 2026-09-06 16:42:35
+#频道数: 44
 
 # ===== 澳大利亚 (AU) =====
 
@@ -27,16 +27,16 @@ https://i.mjh.nz/.r/7mate-syd.m3u8
 https://i.mjh.nz/.r/7two-syd.m3u8
 
 #EXTINF:-1 tvg-id="9Gem.au" tvg-logo="https://i.imgur.com/sWmE1kq.png" group-title="澳大利亚",9Gem
-https://9now-livestreams.akamaized.net/hls/live/2008311/gem-syd/master.m3u8
+https://i.mjh.nz/.r/gem-nsw.m3u8
 
 #EXTINF:-1 tvg-id="9Go.au" tvg-logo="https://i.imgur.com/1CFGu5O.png" group-title="澳大利亚",9Go!
-https://9now-livestreams.akamaized.net/hls/live/2008312/go-syd/master.m3u8
+https://i.mjh.nz/.r/go-nsw.m3u8
 
 #EXTINF:-1 tvg-id="9Life.au" tvg-logo="https://i.imgur.com/ZCUiqlL.png" group-title="澳大利亚",9Life
-https://9now-livestreams.akamaized.net/hls/live/2008313/life-syd/master.m3u8
+https://i.mjh.nz/.r/life-nsw.m3u8
 
 #EXTINF:-1 tvg-id="9Rush.au" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c2/Logo_of_9RUSH.png" group-title="澳大利亚",9Rush
-https://9now-livestreams.akamaized.net/hls/live/2010626/rush-syd/master.m3u8
+https://i.mjh.nz/.r/rush-nsw.m3u8
 
 #EXTINF:-1 tvg-id="ABCTV.au" tvg-logo="https://i.imgur.com/5CVl5EF.png" group-title="澳大利亚",ABC
 https://c.mjh.nz/abc-nsw.m3u8
@@ -68,6 +68,9 @@ https://janya-digimix.akamaized.net/vglive-sk-310787/australia/ngrp:angelaustral
 #EXTINF:-1 tvg-id="BloombergTV.us@Australia" tvg-logo="https://i.imgur.com/OuogLHx.png" group-title="澳大利亚",Bloomberg TV Australia (270p)
 https://bloomberg.com/media-manifest/streams/aus.m3u8
 
+#EXTINF:-1 tvg-id="C31Melbourne.au" tvg-logo="https://i.imgur.com/dXwkFei.png" group-title="澳大利亚",C31 Melbourne
+https://d1k6kax80wecy5.cloudfront.net/RLnAKY/index.m3u8
+
 #EXTINF:-1 tvg-id="CTBPerth.au@SD" tvg-logo="https://i.imgur.com/VB8gtCy.jpeg" group-title="澳大利亚",CTB Perth (720p)
 https://live.ctbperth.net.au/hls/0/stream.m3u8
 
@@ -83,11 +86,26 @@ https://jmp2.uk/plu-69162af591700f4c4c135c95.m3u8
 #EXTINF:-1 tvg-id="M4TV.au" tvg-logo="https://i.imgur.com/HZohlNk.png" group-title="澳大利亚",M4TV
 https://5a32c05065c79.streamlock.net/live/stream/playlist.m3u8
 
+#EXTINF:-1 tvg-id="NITV.au" tvg-logo="https://i.imgur.com/YR7sXaN.png" group-title="澳大利亚",NITV
+https://i.mjh.nz/.r/sbs-5nsw.m3u8
+
 #EXTINF:-1 tvg-id="NineNetwork.au" tvg-logo="https://i.imgur.com/SMXwfr5.png" group-title="澳大利亚",Nine
 https://i.mjh.nz/.r/channel-9-nsw.m3u8
 
 #EXTINF:-1 tvg-id="Racingcom.au" tvg-logo="https://i.imgur.com/pma0OCf.png" group-title="澳大利亚",Racing.com
 https://racingvic-i.akamaized.net/hls/live/598695/racingvic/1500.m3u8
+
+#EXTINF:-1 tvg-id="SBSTV.au" tvg-logo="https://i.imgur.com/GBl1ynA.png" group-title="澳大利亚",SBS
+https://i.mjh.nz/.r/sbs-sbst.m3u8
+
+#EXTINF:-1 tvg-id="SBSFood.au" tvg-logo="https://i.imgur.com/qN9p4h0.png" group-title="澳大利亚",SBS Food
+https://i.mjh.nz/.r/sbs-3syd.m3u8
+
+#EXTINF:-1 tvg-id="SBSViceland.au" tvg-logo="https://i.imgur.com/WMKCkD0.png" group-title="澳大利亚",SBS Viceland
+https://i.mjh.nz/.r/sbs-2syd.m3u8
+
+#EXTINF:-1 tvg-id="SBSWorldMovies.au" tvg-logo="https://i.imgur.com/V6hhtCx.png" group-title="澳大利亚",SBS World Movies
+https://i.mjh.nz/.r/sbs-4syd.m3u8
 
 #EXTINF:-1 tvg-id="SevenNetwork.au" tvg-logo="https://i.imgur.com/6zwKJaa.png" group-title="澳大利亚",Seven
 https://i.mjh.nz/.r/seven-syd.m3u8

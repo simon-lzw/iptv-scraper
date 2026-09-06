@@ -979,6 +979,39 @@
     "is_active": true
   },
   {
+    "name": "9Gem (720p) [Geo-blocked]",
+    "url": "https://9now-livestreams.akamaized.net/hls/live/2008311/gem-syd/master.m3u8",
+    "group": "Entertainment",
+    "country_code": "ZZ",
+    "country_name_zh": "ZZ",
+    "ip_version": "domain",
+    "score": 0.0,
+    "source": "iptv-org all streams",
+    "is_active": true
+  },
+  {
+    "name": "9Go! (720p) [Geo-blocked]",
+    "url": "https://9now-livestreams.akamaized.net/hls/live/2008312/go-syd/master.m3u8",
+    "group": "Entertainment;Kids",
+    "country_code": "ZZ",
+    "country_name_zh": "ZZ",
+    "ip_version": "domain",
+    "score": 0.0,
+    "source": "iptv-org all streams",
+    "is_active": true
+  },
+  {
+    "name": "9Life (720p) [Geo-blocked]",
+    "url": "https://9now-livestreams.akamaized.net/hls/live/2008313/life-syd/master.m3u8",
+    "group": "Lifestyle",
+    "country_code": "ZZ",
+    "country_name_zh": "ZZ",
+    "ip_version": "domain",
+    "score": 0.0,
+    "source": "iptv-org all streams",
+    "is_active": true
+  },
+  {
     "name": "9X Jalwa (1080p)",
     "url": "https://wiselp.wiseplayout.com/9X_Jalwa/master.m3u8",
     "group": "Music",
@@ -7538,17 +7571,6 @@
     "name": "C Malayalam TV (1080p)",
     "url": "https://2-fss-2.streamhoster.com/pl_120/206508-3261972-1/playlist.m3u8",
     "group": "Culture",
-    "country_code": "ZZ",
-    "country_name_zh": "ZZ",
-    "ip_version": "domain",
-    "score": 0.0,
-    "source": "iptv-org all streams",
-    "is_active": true
-  },
-  {
-    "name": "C31 Melbourne (240p)",
-    "url": "https://d1k6kax80wecy5.cloudfront.net/RLnAKY/index.m3u8",
-    "group": "General",
     "country_code": "ZZ",
     "country_name_zh": "ZZ",
     "ip_version": "domain",
@@ -25011,6 +25033,17 @@
     "ip_version": "domain",
     "score": 0.0,
     "source": "iptv-org all streams",
+    "is_active": true
+  },
+  {
+    "name": "Kibris TV",
+    "url": "https://old.kuzeykibris.tv/m3u8/kktv.m3u8",
+    "group": "Cyprus",
+    "country_code": "ZZ",
+    "country_name_zh": "ZZ",
+    "ip_version": "domain",
+    "score": 0.0,
+    "source": "Free-TV/IPTV (global)",
     "is_active": true
   },
   {
@@ -47014,6 +47047,17 @@
     "is_active": true
   },
   {
+    "name": "TV 2020",
+    "url": "https://www.youtube.com/@TV2020KIBRIS/live",
+    "group": "Cyprus",
+    "country_code": "ZZ",
+    "country_name_zh": "ZZ",
+    "ip_version": "domain",
+    "score": 0.0,
+    "source": "Free-TV/IPTV (global)",
+    "is_active": true
+  },
+  {
     "name": "TV 21 (576p)",
     "url": "http://178.134.1.158:8081/TVXXI/index.m3u8",
     "group": "Movies",
@@ -47092,7 +47136,7 @@
   },
   {
     "name": "TV 7 Albania",
-    "url": "https://vs.sednastream.com:1936/tv7/tv7/playlist.m3u8",
+    "url": "https://rpn3.bozztv.com/albaniatv/Med7-TV7Tirana/index.m3u8",
     "group": "Albania",
     "country_code": "ZZ",
     "country_name_zh": "ZZ",
@@ -47169,7 +47213,7 @@
   },
   {
     "name": "TV Apollon",
-    "url": "https://live.apollon.tv/Apollon-WEB/video.m3u8?token=tnt3u76re30d2",
+    "url": "https://live.apollon.tv/Apollon-Web/video.m3u8?token=tnt9u76reF0d1",
     "group": "Albania",
     "country_code": "ZZ",
     "country_name_zh": "ZZ",
@@ -66628,24 +66672,13 @@
   },
   {
     "name": "Telefe",
-    "url": "https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8",
-    "group": "Argentina",
-    "country_code": "AR",
-    "country_name_zh": "阿根廷",
-    "ip_version": "domain",
-    "score": 0.0,
-    "source": "Free-TV/IPTV (global)",
-    "is_active": true
-  },
-  {
-    "name": "Telefe Buenos Aires (1080p)",
     "url": "http://45.134.141.161:2200/ARG/TELEFE_HD/index.m3u8",
-    "group": "General",
+    "group": "Argentina",
     "country_code": "AR",
     "country_name_zh": "阿根廷",
     "ip_version": "ipv4",
     "score": 0.0,
-    "source": "iptv-org all streams",
+    "source": "Free-TV/IPTV (global)",
     "is_active": true
   },
   {
@@ -67222,7 +67255,7 @@
   },
   {
     "name": "9Gem",
-    "url": "https://9now-livestreams.akamaized.net/hls/live/2008311/gem-syd/master.m3u8",
+    "url": "https://i.mjh.nz/.r/gem-nsw.m3u8",
     "group": "Australia",
     "country_code": "AU",
     "country_name_zh": "澳大利亚",
@@ -67233,7 +67266,7 @@
   },
   {
     "name": "9Go!",
-    "url": "https://9now-livestreams.akamaized.net/hls/live/2008312/go-syd/master.m3u8",
+    "url": "https://i.mjh.nz/.r/go-nsw.m3u8",
     "group": "Australia",
     "country_code": "AU",
     "country_name_zh": "澳大利亚",
@@ -67244,7 +67277,7 @@
   },
   {
     "name": "9Life",
-    "url": "https://9now-livestreams.akamaized.net/hls/live/2008313/life-syd/master.m3u8",
+    "url": "https://i.mjh.nz/.r/life-nsw.m3u8",
     "group": "Australia",
     "country_code": "AU",
     "country_name_zh": "澳大利亚",
@@ -67255,7 +67288,7 @@
   },
   {
     "name": "9Rush",
-    "url": "https://9now-livestreams.akamaized.net/hls/live/2010626/rush-syd/master.m3u8",
+    "url": "https://i.mjh.nz/.r/rush-nsw.m3u8",
     "group": "Australia",
     "country_code": "AU",
     "country_name_zh": "澳大利亚",
@@ -67375,6 +67408,17 @@
     "is_active": true
   },
   {
+    "name": "C31 Melbourne",
+    "url": "https://d1k6kax80wecy5.cloudfront.net/RLnAKY/index.m3u8",
+    "group": "Australia",
+    "country_code": "AU",
+    "country_name_zh": "澳大利亚",
+    "ip_version": "domain",
+    "score": 0.0,
+    "source": "Free-TV/IPTV (global)",
+    "is_active": true
+  },
+  {
     "name": "CTB Perth (720p)",
     "url": "https://live.ctbperth.net.au/hls/0/stream.m3u8",
     "group": "General",
@@ -67430,6 +67474,17 @@
     "is_active": true
   },
   {
+    "name": "NITV",
+    "url": "https://i.mjh.nz/.r/sbs-5nsw.m3u8",
+    "group": "Australia",
+    "country_code": "AU",
+    "country_name_zh": "澳大利亚",
+    "ip_version": "domain",
+    "score": 0.0,
+    "source": "Free-TV/IPTV (global)",
+    "is_active": true
+  },
+  {
     "name": "Nine",
     "url": "https://i.mjh.nz/.r/channel-9-nsw.m3u8",
     "group": "Australia",
@@ -67443,6 +67498,50 @@
   {
     "name": "Racing.com",
     "url": "https://racingvic-i.akamaized.net/hls/live/598695/racingvic/1500.m3u8",
+    "group": "Australia",
+    "country_code": "AU",
+    "country_name_zh": "澳大利亚",
+    "ip_version": "domain",
+    "score": 0.0,
+    "source": "Free-TV/IPTV (global)",
+    "is_active": true
+  },
+  {
+    "name": "SBS",
+    "url": "https://i.mjh.nz/.r/sbs-sbst.m3u8",
+    "group": "Australia",
+    "country_code": "AU",
+    "country_name_zh": "澳大利亚",
+    "ip_version": "domain",
+    "score": 0.0,
+    "source": "Free-TV/IPTV (global)",
+    "is_active": true
+  },
+  {
+    "name": "SBS Food",
+    "url": "https://i.mjh.nz/.r/sbs-3syd.m3u8",
+    "group": "Australia",
+    "country_code": "AU",
+    "country_name_zh": "澳大利亚",
+    "ip_version": "domain",
+    "score": 0.0,
+    "source": "Free-TV/IPTV (global)",
+    "is_active": true
+  },
+  {
+    "name": "SBS Viceland",
+    "url": "https://i.mjh.nz/.r/sbs-2syd.m3u8",
+    "group": "Australia",
+    "country_code": "AU",
+    "country_name_zh": "澳大利亚",
+    "ip_version": "domain",
+    "score": 0.0,
+    "source": "Free-TV/IPTV (global)",
+    "is_active": true
+  },
+  {
+    "name": "SBS World Movies",
+    "url": "https://i.mjh.nz/.r/sbs-4syd.m3u8",
     "group": "Australia",
     "country_code": "AU",
     "country_name_zh": "澳大利亚",
@@ -70885,8 +70984,8 @@
   },
   {
     "name": "RTS 3 (720p)",
-    "url": "http://145.239.5.177/224/index.m3u8",
-    "group": "General",
+    "url": "http://185.81.240.65:15000/udp/233.233.233.36:12000",
+    "group": "Undefined",
     "country_code": "CH",
     "country_name_zh": "瑞士",
     "ip_version": "ipv4",
@@ -78085,7 +78184,7 @@
     "country_name_zh": "中国",
     "ip_version": "domain",
     "score": 0.0,
-    "source": "vbskycn/iptv (ipv4)",
+    "source": "zhi35 aggregated",
     "is_active": true
   },
   {
@@ -78096,7 +78195,7 @@
     "country_name_zh": "中国",
     "ip_version": "domain",
     "score": 0.0,
-    "source": "vbskycn/iptv (ipv4)",
+    "source": "zhi35 aggregated",
     "is_active": true
   },
   {
@@ -82017,7 +82116,7 @@
   },
   {
     "name": "Praha TV",
-    "url": "https://stream.polar.cz/prahatv/prahatvlive-1/playlist.m3u8",
+    "url": "https://1977134029.rsc.cdn77.org/1977134029/index.m3u8",
     "group": "Czech Republic",
     "country_code": "CZ",
     "country_name_zh": "捷克",
@@ -101927,68 +102026,35 @@
   },
   {
     "name": "HRT 1",
-    "url": "https://webtvstream.bhtelecom.ba/hls9/hrt1_1200.m3u8",
+    "url": "https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/HRT1/default/index.mpd",
     "group": "Croatia",
     "country_code": "HR",
     "country_name_zh": "克罗地亚",
     "ip_version": "domain",
     "score": 0.0,
     "source": "Free-TV/IPTV (global)",
-    "is_active": true
-  },
-  {
-    "name": "HRT 1 HD (1080p) [Geo-blocked]",
-    "url": "https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/HRT1/default/index.mpd",
-    "group": "General",
-    "country_code": "HR",
-    "country_name_zh": "克罗地亚",
-    "ip_version": "domain",
-    "score": 0.0,
-    "source": "iptv-org all streams",
     "is_active": true
   },
   {
     "name": "HRT 2",
-    "url": "https://webtvstream.bhtelecom.ba/hls9/hrt2_1200.m3u8",
+    "url": "https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/HRT2/default/index.mpd",
     "group": "Croatia",
     "country_code": "HR",
     "country_name_zh": "克罗地亚",
     "ip_version": "domain",
     "score": 0.0,
     "source": "Free-TV/IPTV (global)",
-    "is_active": true
-  },
-  {
-    "name": "HRT 2 HD (1080p) [Geo-blocked]",
-    "url": "https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/HRT2/default/index.mpd",
-    "group": "General",
-    "country_code": "HR",
-    "country_name_zh": "克罗地亚",
-    "ip_version": "domain",
-    "score": 0.0,
-    "source": "iptv-org all streams",
     "is_active": true
   },
   {
     "name": "HRT 3",
-    "url": "https://webtvstream.bhtelecom.ba/hls9/hrt3_1200.m3u8",
+    "url": "https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/HRT3/default/index.mpd",
     "group": "Croatia",
     "country_code": "HR",
     "country_name_zh": "克罗地亚",
     "ip_version": "domain",
     "score": 0.0,
     "source": "Free-TV/IPTV (global)",
-    "is_active": true
-  },
-  {
-    "name": "HRT 3 HD (720p) [Geo-blocked]",
-    "url": "https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/HRT3/default/index.mpd",
-    "group": "Culture;Documentary",
-    "country_code": "HR",
-    "country_name_zh": "克罗地亚",
-    "ip_version": "domain",
-    "score": 0.0,
-    "source": "iptv-org all streams",
     "is_active": true
   },
   {
@@ -115699,7 +115765,7 @@
   },
   {
     "name": "NTV Kenya",
-    "url": "https://nation.africa/kenya/tv/live",
+    "url": "https://www.youtube.com/c/NTVKenyaOnline/live",
     "group": "Kenya",
     "country_code": "KE",
     "country_name_zh": "肯尼亚",
@@ -122596,11 +122662,11 @@
   },
   {
     "name": "RTS 3",
-    "url": "http://185.81.240.65:15000/udp/233.233.233.36:12000",
+    "url": "https://webtvstream.bhtelecom.ba/rts_sat.m3u8",
     "group": "Serbia",
     "country_code": "RS",
     "country_name_zh": "塞尔维亚",
-    "ip_version": "ipv4",
+    "ip_version": "domain",
     "score": 0.0,
     "source": "Free-TV/IPTV (global)",
     "is_active": true
@@ -138432,17 +138498,6 @@
     "ip_version": "domain",
     "score": 0.0,
     "source": "iptv-org United States",
-    "is_active": true
-  },
-  {
-    "name": "LiveNOW from FOX",
-    "url": "https://lnc-fox-live-now.tubi.video/index.m3u8",
-    "group": "News",
-    "country_code": "US",
-    "country_name_zh": "美国",
-    "ip_version": "domain",
-    "score": 0.0,
-    "source": "Free-TV/IPTV (global)",
     "is_active": true
   },
   {
