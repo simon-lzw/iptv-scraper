@@ -1,7 +1,7 @@
 #EXTM3U
 #PLAYLIST: 瑞典 (SE) IPTV 直播源
-#生成时间: 2026-09-05 16:32:23
-#频道数: 28
+#生成时间: 2026-09-06 06:51:25
+#频道数: 26
 
 # ===== 瑞典 (SE) =====
 
@@ -33,19 +33,19 @@ https://cdn0-03837-liveedge0.dna.ip-only.net/03837-liveedge0/smil:03837-tx2/play
 https://rrr.sz.xlcdn.com/?account=cn_kanal10media&file=live_transcoded&type=live&service=wowza&protocol=https&output=playlist.m3u8
 
 #EXTINF:-1 tvg-id="Kunskapskanalen.se" tvg-logo="https://i.imgur.com/9YBxoGc.png" group-title="瑞典",Kunskapskanalen
-https://ed2.cdn.svt.se/ed7/d1/c/se/svtk/manifest.mpd?defaultSubLang=1
+https://svt-live-channel.akamaized.net/l6/se/svtk/manifest.mpd?format=dash&defaultSubLang=1
 
 #EXTINF:-1 tvg-id="LTVU.se" tvg-logo="https://i.imgur.com/cnLkbOT.png" group-title="瑞典",Lokal-TV Uddevalla / Fyrbodal-TV
 https://www.youtube.com/@LtvuSeTube/live
 
 #EXTINF:-1 tvg-id="SVT1.se" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/SVT1_logo_2016.svg/960px-SVT1_logo_2016.svg.png" group-title="瑞典",SVT 1
-https://ed2.cdn.svt.se/ed7/d1/c/se/svt1/manifest.mpd?defaultSubLang=1
+https://svt-live-channel.akamaized.net/l4/se/svt1/manifest.mpd?format=dash&defaultSubLang=1
 
 #EXTINF:-1 tvg-id="SVT2.se" tvg-logo="https://i.imgur.com/iB3veGx.png" group-title="瑞典",SVT 2
-https://ed2.cdn.svt.se/ed7/d1/c/se/svt2/manifest.mpd?defaultSubLang=1
+https://svt-live-channel.akamaized.net/l6/se/svt2/manifest.mpd?format=dash&defaultSubLang=1
 
 #EXTINF:-1 tvg-id="SVT24.se" tvg-logo="https://i.imgur.com/o9M7Tiq.png" group-title="瑞典",SVT 24
-https://ed2.cdn.svt.se/ed7/d1/c/se/svtb/manifest.mpd?defaultSubLang=1
+https://svt-live-channel.akamaized.net/l6/se/svtb/manifest.mpd?format=dash&defaultSubLang=1
 
 #EXTINF:-1 tvg-id="SVTBarnSVT24.se@HD" tvg-logo="https://i.imgur.com/uMEwuTH.png" group-title="瑞典",SVT Barn/SVT24 (1080p) [Geo-blocked]
 https://svt-live-channel.akamaized.net/l6/se/svtb/master-fmp4.m3u8?defaultSubLang=1&format=hls
@@ -80,12 +80,6 @@ https://the-pet-collective-international-se.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="VastmanlandsTV.se" tvg-logo="https://i.imgur.com/EXBaQ88.jpg" group-title="瑞典",Västmanlands TV
 https://edg01-prd-se-dcs.solidtango.com/edge/lo9yf4l5/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TVMalmo.se" tvg-logo="https://i.imgur.com/sjw8dsM.jpg" group-title="瑞典",Öppna Kanalen Malmö
-https://edg01-prd-de-ixn.solidtango.com/edge/_8ynhbua3_/8ynhbua3/manifest.m3u8
-
 #EXTINF:-1 tvg-id="OppnaKanalenSkovde.se" tvg-logo="https://i.imgur.com/1LkYbaQ.png" group-title="瑞典",Öppna Kanalen Skövde
 https://edg01-prd-de-ixn.solidtango.com/edge/_c6697zkv_/c6697zkv/manifest.m3u8
-
-#EXTINF:-1 tvg-id="OppnaKanalenStockholm.se" tvg-logo="https://i.imgur.com/GWlstv5.png" group-title="瑞典",Öppna Kanalen Stockholm
-https://edg03-prd-se-ixn.solidtango.com/edge/451iw2h/playlist.m3u8
 
