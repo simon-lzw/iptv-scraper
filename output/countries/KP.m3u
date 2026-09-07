@@ -1,10 +1,13 @@
 #EXTM3U
 #PLAYLIST: 朝鲜 (KP) IPTV 直播源
-#生成时间: 2026-09-06 16:42:35
-#频道数: 1
+#生成时间: 2026-09-07 07:00:07
+#频道数: 2
 
 # ===== 朝鲜 (KP) =====
 
 #EXTINF:-1 tvg-id="KCTV.kp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Logo_of_the_Korean_Central_Television.svg/500px-Logo_of_the_Korean_Central_Television.svg.png" group-title="朝鲜",KCTV
 https://kctv.koryofront.org/stream/index.m3u8
+
+#EXTINF:-1 tvg-id="RyongnamsanTV.kp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/RyongnamsanTV_DPRK.png/500px-RyongnamsanTV_DPRK.png" group-title="朝鲜",Ryongnamsan TV
+https://kctv.koryofront.org/stream/ryongnamsan/index.m3u8
 

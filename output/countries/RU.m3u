@@ -1,7 +1,7 @@
 #EXTM3U
 #PLAYLIST: 俄罗斯 (RU) IPTV 直播源
-#生成时间: 2026-09-06 16:42:35
-#频道数: 256
+#生成时间: 2026-09-07 07:00:07
+#频道数: 258
 
 # ===== 俄罗斯 (RU) =====
 
@@ -52,6 +52,9 @@ https://dwamdstream110.akamaized.net/hls/live/2017971/dwstream110/master.m3u8
 
 #EXTINF:-1 tvg-id="DanceHits80.ru@SD" tvg-logo="https://i.imgur.com/uMw3kks.png" group-title="俄罗斯",DanceHits80
 http://dancehits80.denvs.ru:8080/index.m3u8
+
+#EXTINF:-1 tvg-id="DocuBox.nl@Russia" tvg-logo="https://i.imgur.com/pX4U9OG.png" group-title="俄罗斯",DocuBox Russia
+http://dtv.vol.net.ua/DOCUBOX-HD/index.m3u8
 
 #EXTINF:-1 tvg-id="EuronewsRussian.fr@SD" tvg-logo="https://i.imgur.com/8t9mdg9.png" group-title="俄罗斯",Euronews Russian (720p)
 https://cdn-euronews.akamaized.net/live/eds/euronews-ru/25071/index.m3u8
@@ -313,6 +316,9 @@ http://live-saha.cdnvideo.ru/saha/tooky/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TraceSportStars.fr@Russia" tvg-logo="https://i.imgur.com/FabFP5A.png" group-title="俄罗斯",Trace Sport Stars Russia (720p)
 https://stream8.cinerama.uz/1274/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="Travelxp.in@Russia" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_TRAVELXP/images/LOGO_HD/image.png" group-title="俄罗斯",Travelxp Russia (1080p)
+http://stream.mcquack.net/451/index.m3u8
 
 #EXTINF:-1 tvg-id="TsargradTV.ru@SD" tvg-logo="https://i.imgur.com/34RINpb.png" group-title="俄罗斯",Tsargrad TV (1080p) [Geo-blocked]
 https://bl.rutube.ru/livestream/91815da4edb167b5bd617bae490e57da/index.m3u8?e=2070278263&s=is_mLq_kjPYLsOJ4qj85tw&scheme=https

@@ -1,6 +1,6 @@
 #EXTM3U
 #PLAYLIST: 中国大陆/香港/澳门/台湾 IPTV 直播源
-#生成时间: 2026-09-06 16:42:35
+#生成时间: 2026-09-07 07:00:07
 #频道数: 875
 
 # ===== 中国 (CN) =====
@@ -73,9 +73,6 @@ https://svip.high24-playback.com/20250129/17159_7bca93c4/2000k/hls/mixed.m3u8
 
 #EXTINF:-1 tvg-id="40" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/QiTa/BJIPTV_4KChaoQing.png" group-title="中国",4K超清
 rtp://239.3.1.249:8001
-
-#EXTINF:-1 tvg-id="AMC音乐" tvg-logo="https://tb.zbds.top/logo/AMC音乐.png" group-title="中国",AMC音乐
-https://AMChls.wns.live/hls/stream.m3u8
 
 #EXTINF:-1 tvg-id="AngelTV.in@IndoChina" tvg-logo="https://i.imgur.com/qKLEGU7.png" group-title="中国",Angel TV Indo-China (720p)
 https://janya-digimix.akamaized.net/vglive-sk-703035/indochina/ngrp:angelindochina_all/playlist.m3u8
@@ -275,6 +272,9 @@ rtp://239.3.1.62:8112
 #EXTINF:-1 tvg-id="CCTVHealth.cn@HD" tvg-logo="https://i.imgur.com/AzpRtCz.png" group-title="中国",CCTV-Health (1080p)
 http://38.75.136.137:98/gslb/dsdqpub/wsjk.m3u8?auth=testpub
 
+#EXTINF:-1 tvg-id="CCTV4K" tvg-logo="https://tb.zbds.top/logo/CCTV4K.png" group-title="中国",CCTV4K
+http://vip1.xinketongxun.fun:8082/tsfile/live/1026_1.m3u8
+
 #EXTINF:-1 tvg-id="85" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/CCTV/CCTV-4K.png" group-title="中国",CCTV4K超高清
 rtp://239.3.1.245:2000
 
@@ -439,9 +439,6 @@ http://live.qthnews.org.cn:1935/live/live1/800k/tzwj_video.m3u8
 
 #EXTINF:-1 tvg-id="万州综合" tvg-logo="https://www.xn--rgv465a.top/tvlogo/万州综合.png" group-title="中国",万州综合
 http://wanzhoulive.cbg.cn:8017/iTXwrGs/800/live.m3u8
-
-#EXTINF:-1 tvg-id="万荣综合" tvg-logo="https://tb.zbds.top/logo/万荣综合.png" group-title="中国",万荣综合
-http://60.222.246.220:19433/hls1.m3u8
 
 #EXTINF:-1 tvg-id="上海外语" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/上海外语.png" group-title="中国",上海外语
 http://t.061899.xyz/tl/tl.php?id=shics
@@ -768,7 +765,7 @@ https://live.nbs.cn/channels/njtv/jkpd/m3u8:500k/live.m3u8
 https://gcalic.v.myalicdn.com/gc/xwh01_1/index.m3u8
 
 #EXTINF:-1 tvg-id="南国都市" tvg-logo="https://tb.zbds.top/logo/南国都市.png" group-title="中国",南国都市
-https://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=550af55c0ea34ce492748481415b6dfa&txTime=1903e7b17de
+http://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=140110ae3d6c936a77f94c4f4d85b0d3&txTime=18d57929bd4
 
 #EXTINF:-1 tvg-id="南宁影视娱乐" tvg-logo="https://www.xn--rgv465a.top/tvlogo/南宁影视娱乐.png" group-title="中国",南宁影视娱乐
 http://hls.nntv.cn/nnlive/YSYL_244.m3u8
@@ -790,6 +787,9 @@ http://stream3.jlntv.cn:80/aac_slgb/playlist.m3u8
 
 #EXTINF:-1 tvg-id="双鸭山综合" tvg-logo="https://www.xn--rgv465a.top/tvlogo/双鸭山综合.png" group-title="中国",双鸭山综合
 http://live.qthnews.org.cn:1935/live/live2/800k/tzwj_video.m3u8
+
+#EXTINF:-1 tvg-id="古县综合" tvg-logo="https://tb.zbds.top/logo/古县综合.png" group-title="中国",古县综合
+https://l2fpdktp.live.sxmty.com/live/hls/e4c3b363cc4549788e2d983f403e07db/d99ce1eb686e41b9afc888110bd95aa7.m3u8?zshanxd
 
 #EXTINF:-1 tvg-id="古天乐电影" tvg-logo="https://tb.zbds.top/logo/古天乐电影.png" group-title="中国",古天乐电影
 https://live.metshop.top/huya/29982675
