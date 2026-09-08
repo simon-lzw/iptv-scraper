@@ -1,15 +1,21 @@
 #EXTM3U
 #PLAYLIST: 香港 (HK) IPTV 直播源
-#生成时间: 2026-09-07 18:38:19
-#频道数: 36
+#生成时间: 2026-09-08 06:55:13
+#频道数: 40
 
 # ===== 香港 (HK) =====
 
 #EXTINF:-1 tvg-id="981PearlFM.sx@SD" tvg-logo="https://i.imgur.com/GY750xh.jpg" group-title="香港",98.1 Pearl FM (720p)
 https://live2.tensila.com/pearl-v-1.pearlfm/hls/live/mystream.m3u8
 
+#EXTINF:-1 tvg-id="AsianDrama.hk@SD" tvg-logo="https://i.imgur.com/wqtN7mH.png" group-title="香港",Asian Drama (1080p)
+http://103.172.187.30:12000/stream/mytv/null-11/master.m3u8
+
 #EXTINF:-1 tvg-id="CelestialMovies.hk@SD" tvg-logo="https://i.imgur.com/Mb5ssnu.png" group-title="香港",Celestial Movies (576i)
 http://103.58.160.157:8278/720-CELESTIALMOVIES/playlist.m3u8
+
+#EXTINF:-1 tvg-id="GoldenJade.hk@SD" tvg-logo="https://i.imgur.com/lPYxsUr.png" group-title="香港",Golden Jade (1080p)
+http://103.172.187.30:12000/stream/mytv/null-12/master.m3u8
 
 #EXTINF:-1 tvg-id="HOYInfotainment.hk@HD" tvg-logo="https://i.imgur.com/LNokYLQ.png" group-title="香港",HOY Infotainment (1080p) [Geo-blocked]
 https://hoytv-live-stream.hoy.tv/ch78/index.m3u8
@@ -26,11 +32,17 @@ https://hoytv-live-stream.hoy.tv/ch77/index.m3u8
 #EXTINF:-1 tvg-id="J2" tvg-logo="https://www.xn--rgv465a.top/tvlogo/J2.png" group-title="香港",J2
 https://hls-gateway.vpstv.net/streams/476932.m3u8
 
+#EXTINF:-1 tvg-id="Jade.hk@SD" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TVB1.png" group-title="香港",Jade (1080p)
+http://103.172.187.30:12000/stream/mytv/null-1/master.m3u8
+
 #EXTINF:-1 group-title="香港",Jade Fever
 https://jmp2.uk/plu-660d6ade0cd4630008f4a127.m3u8
 
 #EXTINF:-1 group-title="香港",La fiebre del Jade
 https://jmp2.uk/plu-65254e8d81f9420008342cee.m3u8
+
+#EXTINF:-1 tvg-id="MeiAhMovieChannel.hk@SD" tvg-logo="https://i.imgur.com/laGiFM1.png" group-title="香港",Mei Ah Movie Channel (1080p)
+http://103.172.187.30:12000/stream/mytv/null-9/master.m3u8
 
 #EXTINF:-1 tvg-id="PetClubTV.hk@SD" tvg-logo="https://i.imgur.com/ykPNNwQ.png" group-title="香港",Pet Club TV (1080p)
 https://petclub-samsungaus.amagi.tv/playlist.m3u8

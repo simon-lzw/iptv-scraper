@@ -1,7 +1,7 @@
 #EXTM3U
 #PLAYLIST: 罗马尼亚 (RO) IPTV 直播源
-#生成时间: 2026-09-07 18:38:19
-#频道数: 69
+#生成时间: 2026-09-08 06:55:13
+#频道数: 72
 
 # ===== 罗马尼亚 (RO) =====
 
@@ -49,6 +49,9 @@ https://atomic.streamnet.ro/academia.m3u8
 
 #EXTINF:-1 tvg-id="AtomicTV.ro@SD" tvg-logo="https://i.imgur.com/O4uI0Uy.png" group-title="罗马尼亚",Atomic TV (360p)
 https://atomic.streamnet.ro/atomictv.m3u8
+
+#EXTINF:-1 tvg-id="B1.ro@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/B1_TV_logo.svg/960px-B1_TV_logo.svg.png" group-title="罗马尼亚",B1
+https://hls02ns.antenaplay.ro/hls/b1-tv-hd/index.m3u8
 
 #EXTINF:-1 tvg-id="BucovinaTV.ro@SD" tvg-logo="https://i.imgur.com/6klhXxp.png" group-title="罗马尼亚",Bucovina TV (576i)
 https://www.bucovinatv.ro/proxy/video/playlist.m3u8
@@ -109,6 +112,12 @@ https://stream1.antenaplay.ro/live/MireasaExtra/playlist.m3u8
 
 #EXTINF:-1 tvg-id="MoldovaTV.md@SD" tvg-logo="https://i.imgur.com/gPMlDCP.png" group-title="罗马尼亚",Moldova TV (1080p)
 https://moldovatv.ro/live-tv/live.m3u8
+
+#EXTINF:-1 tvg-id="National24Plus.ro@SD" tvg-logo="https://i.imgur.com/VxBdga3.png" group-title="罗马尼亚",National 24 Plus
+https://hls01ns.antenaplay.ro/hls/n24-plus-sd/index.m3u8
+
+#EXTINF:-1 tvg-id="NationalTV.ro@SD" tvg-logo="https://i.imgur.com/KHzUIwG.png" group-title="罗马尼亚",National TV
+https://hls01ns.antenaplay.ro/hls/national-tv-sd/index.m3u8
 
 #EXTINF:-1 tvg-id="ObservatorNews.ro@SD" tvg-logo="https://i.imgur.com/f6xEIAr.png" group-title="罗马尼亚",Observator News (360p)
 https://live77cdn2.antenaplay.ro/live_ObservatorNews/live_ObservatorNews.m3u8
