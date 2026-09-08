@@ -67,6 +67,7 @@ def re_sub_keep_cn(text: str) -> str:
 
 
 def deduplicate(channels: List[dict]) -> List[dict]:
+    """URL/名称去重（预留 API：当前 orchestrator 使用内联去重逻辑，本函数供未来接入）"""
     """
     去重主入口。
     输入: List[dict]，至少包含 name/url。
@@ -112,5 +113,6 @@ def deduplicate(channels: List[dict]) -> List[dict]:
 
 
 def merge_sources(channels: List[dict]) -> List[dict]:
+    """同频道多源合并（预留 API：当前 orchestrator 使用内联合并逻辑，本函数供未来接入）"""
     """将同频道多源合并（若此前未合并），返回最终频道列表"""
     return deduplicate(channels)

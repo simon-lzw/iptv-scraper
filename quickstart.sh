@@ -46,8 +46,8 @@ echo -e "${GREEN}✅ 检测到 Git${NC}"
 # 检测是否在项目目录中
 if [ ! -f "main.py" ] || [ ! -f "requirements.txt" ]; then
     echo -e "${YELLOW}📦 克隆项目...${NC}"
-    git clone --depth 1 https://github.com/Shra1V32/iptv-scraper.git 2>/dev/null || \
-    git clone --depth 1 https://github.com/你的用户名/iptv-scraper.git
+    # 注意：请将 <你的用户名> 替换为你的 GitHub 用户名（fork 后）
+    git clone --depth 1 https://github.com/<你的用户名>/iptv-scraper.git
     cd iptv-scraper
 fi
 

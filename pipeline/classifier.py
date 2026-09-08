@@ -205,6 +205,7 @@ def classify_country(name: str = "", group: str = "", url: str = "",
 
 
 def region_to_country(region: str) -> str:
+    """旧 region 值 → 国家代码（预留 API：raw_to_channel 现走 classify_country）"""
     """旧 region 值 → 国家代码"""
     mapping = {
         "mainland": "CN",

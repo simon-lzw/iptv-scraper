@@ -6,6 +6,9 @@
 
 ### Bug 修复
 
+- **`docs/ARCHITECTURE.md` / `docs/RESEARCH.md`**：编码从 UTF-16LE 转为 UTF-8（无 BOM），修复 GitHub/Gitee 网页渲染中文乱码及 grep 无法匹配的问题；内容零变更
+- **`quickstart.sh`**：删除硬编码的他人仓库 `Shra1V32/iptv-scraper` clone 候选（避免用户误 clone 到错误仓库），改为单一占位符 + 替换提示
+- **死代码清理**：删除 `pipeline/normalizer.py` 的 `EXACT_OVERRIDES`（17 行纯数据，正则已覆盖该功能）与 `scrapers/web_sources.py` 的废弃方法 `scrape_cctv`（返回页面 URL 非直链）；为 5 个保留的预留 API（`deduplicate`/`merge_sources`/`get_sort_key`/`region_to_country`/`ip_priority`）补充说明注释，消除"已接入主流程"的误导
 - **`main.py`**：`_dicts_to_channels` 补读 `item["kodi_props"]`（此前 DRM 信息在转换阶段被丢弃）
 - **`cli_menu.py`**：频道列表区域选择无效输入（非 1-5）提示重输，不再被误当作"全部"；菜单显示深度检查 `d` 选项
 - **`scrapers/github_sources.py`**：修复 EXTINF 属性值含逗号时频道名提取错误（改为取属性引号后首个逗号）

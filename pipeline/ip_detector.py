@@ -83,6 +83,7 @@ def resolve_domain(host: str, timeout: float = 3.0) -> dict:
 
 
 def ip_priority(ip_version: str) -> int:
+    """IP 协议优先级（预留 API：当前由 ranker 评分权重处理）"""
     """
     返回 IPv4 优先级分数（越高越优先）：
     ipv4 直连 = 100

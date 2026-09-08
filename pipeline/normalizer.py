@@ -7,27 +7,6 @@
 import re
 from typing import Optional
 
-# 常见频道名变体 → 标准名（精确匹配）
-EXACT_OVERRIDES = {
-    "CCTV1": "CCTV-1",
-    "CCTV2": "CCTV-2",
-    "CCTV3": "CCTV-3",
-    "CCTV4": "CCTV-4",
-    "CCTV5": "CCTV-5",
-    "CCTV6": "CCTV-6",
-    "CCTV7": "CCTV-7",
-    "CCTV8": "CCTV-8",
-    "CCTV9": "CCTV-9",
-    "CCTV10": "CCTV-10",
-    "CCTV11": "CCTV-11",
-    "CCTV12": "CCTV-12",
-    "CCTV13": "CCTV-13",
-    "CCTV14": "CCTV-14",
-    "CCTV15": "CCTV-15",
-    "CCTV16": "CCTV-16",
-    "CCTV17": "CCTV-17",
-}
-
 # 正则变体（顺序重要，先匹配更具体的）
 _PATTERNS = [
     (re.compile(r"^CCTV\s*(\d+)$", re.I), r"CCTV-\1"),
@@ -75,6 +54,7 @@ def is_valid_name(name: str) -> bool:
 
 
 def get_sort_key(name: str) -> str:
+    """获取排序键（预留 API：当前排序由 ranker.rank_and_sort 负责）"""
     """获取排序键（拼音/数字优先）"""
     name = name.strip().lower()
     # 数字开头的排最前

@@ -103,38 +103,3 @@ class WebScraper(BaseScraper):
             self.logger.warning("解析失败 %s", e)
 
         return channels
-
-    def scrape_cctv(self) -> List[dict]:
-        """
-        专门爬取 CCTV 官网直播
-        tv.cctv.com/live
-        """
-        channels = []
-        url = "https://tv.cctv.com/live"
-        html = self._fetch(url)
-        if not html:
-            return []
-
-        try:
-            soup = BeautifulSoup(html, "lxml")
-            # CCTV 直播页面结构 - 查找频道列表
-            for item in soup.select("a[href*='live']"):
-                text = item.get_text(strip=True)
-                href = item.get("href", "")
-                if text and ("cctv" in href.lower() or text.startswith("CCTV")):
-                    # 需要进一步获取播放页的 m3u8
-                    ch = {
-                        "name": self._clean_name(text),
-                        "url": href,  # 页面URL，不是直接流
-                        "group": "央视",
-                        "region": "mainland",
-                        "logo": "",
-                        "tvg_id": "",
-                        "kodi_props": "",
-                        "source": "web:cctv",
-                    }
-                    channels.append(ch)
-        except Exception as e:
-            self.logger.warning("CCTV解析失败 %s", e)
-
-        return channels
