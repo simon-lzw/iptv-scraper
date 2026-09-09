@@ -1,7 +1,7 @@
 #EXTM3U
 #PLAYLIST: 香港 (HK) IPTV 直播源
-#生成时间: 2026-09-09 07:04:12
-#频道数: 40
+#生成时间: 2026-09-09 17:33:57
+#频道数: 36
 
 # ===== 香港 (HK) =====
 
@@ -35,12 +35,6 @@ https://hls-gateway.vpstv.net/streams/476932.m3u8
 #EXTINF:-1 tvg-id="Jade.hk@SD" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TVB1.png" group-title="香港",Jade (1080p)
 http://103.172.187.30:12000/stream/mytv/null-1/master.m3u8
 
-#EXTINF:-1 group-title="香港",Jade Fever
-https://jmp2.uk/plu-660d6ade0cd4630008f4a127.m3u8
-
-#EXTINF:-1 group-title="香港",La fiebre del Jade
-https://jmp2.uk/plu-65254e8d81f9420008342cee.m3u8
-
 #EXTINF:-1 tvg-id="MeiAhMovieChannel.hk@SD" tvg-logo="https://i.imgur.com/laGiFM1.png" group-title="香港",Mei Ah Movie Channel (1080p)
 http://103.172.187.30:12000/stream/mytv/null-9/master.m3u8
 
@@ -61,9 +55,6 @@ https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/master.m3u8
 
 #EXTINF:-1 tvg-id="RTHKTV35.hk@HD" tvg-logo="https://i.imgur.com/FQmNKDS.png" group-title="香港",RTHK TV 35 (港台電視35) (1080p) [Geo-blocked]
 https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/master.m3u8
-
-#EXTINF:-1 group-title="香港",RTHK TV 36 (港台電視36) (1080p) [Geo-blocked]
-https://rthktv36-live.akamaized.net/hls/live/2112176/RTHKTV36/master.m3u8
 
 #EXTINF:-1 tvg-id="TVBFinanceSportsInformationChannel.hk" tvg-logo="https://i.imgur.com/Fkkp7x7.png" group-title="香港",TVB Finance (Sports & Information Channel)
 https://tvp22.sky4k.top/index2.php
@@ -100,9 +91,6 @@ http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221226923/index.m3u8
 
 #EXTINF:-1 tvg-id="凤凰香港" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/凤凰香港台.png" group-title="香港",凤凰香港
 http://r.jdshipin.com/yDoTN
-
-#EXTINF:-1 group-title="香港",凤凰香港 (720p)
-http://223.110.245.136/PLTV/3/224/3221226975/index.m3u8
 
 #EXTINF:-1 tvg-id="无线新闻台" tvg-logo="https://www.xn--rgv465a.top/tvlogo/无线新闻.png" group-title="香港",无线新闻
 https://h5cdn3.kylintv.tv/live/tvbnews_iphone.m3u8

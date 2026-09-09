@@ -1,7 +1,7 @@
 #EXTM3U
 #PLAYLIST: 土耳其 (TR) IPTV 直播源
-#生成时间: 2026-09-09 07:04:12
-#频道数: 49
+#生成时间: 2026-09-09 17:33:57
+#频道数: 48
 
 # ===== 土耳其 (TR) =====
 
@@ -107,6 +107,9 @@ https://tv-e-okul02.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yfPTvRx.png" group-title="土耳其",TRT EBA Ortaokul
 https://tv-e-okul01.medya.trt.com.tr/master.m3u8
 
+#EXTINF:-1 tvg-id="TRTGenc.tr@SD" tvg-logo="https://i.imgur.com/fCHQYWS.png" group-title="土耳其",TRT Genc (1440p) [Geo-blocked]
+https://tv-trtgenc.medya.trt.com.tr/master.m3u8
+
 #EXTINF:-1 tvg-id="TRTHaber.tr" tvg-logo="https://i.imgur.com/OVfo8Ab.png" group-title="土耳其",TRT Haber
 https://tv-trthaber.medya.trt.com.tr/master.m3u8
 
@@ -143,12 +146,6 @@ https://canli.tv42.com.tr/memfs/d936e417-c4bd-4d42-89a2-02f289892d1d.m3u8
 #EXTINF:-1 tvg-id="TVDen.tr@SD" tvg-logo="https://i.imgur.com/Uhg95Ze.png" group-title="土耳其",TV Den (576p) [Not 24/7]
 http://canli.tvden.com.tr/hls/live.m3u8
 
-#EXTINF:-1 group-title="土耳其",Vive Kanal D Drama (720p)
-https://jmp2.uk/plu-639751f81a36b400072b8f5a.m3u8
-
 #EXTINF:-1 tvg-id="ZarokTV.tr@SD" tvg-logo="https://i.imgur.com/o0eevnb.png" group-title="土耳其",Zarok TV (720p)
 https://zindikurmanci.zaroktv.com.tr/hls/stream.m3u8
-
-#EXTINF:-1 group-title="土耳其",Zarok TV Sorani (720p)
-https://zindisorani.zaroktv.com.tr/hls/stream.m3u8
 

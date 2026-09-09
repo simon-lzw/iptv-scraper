@@ -1,15 +1,12 @@
 #EXTM3U
 #PLAYLIST: 澳门 (MO) IPTV 直播源
-#生成时间: 2026-09-09 07:04:12
-#频道数: 9
+#生成时间: 2026-09-09 17:33:57
+#频道数: 7
 
 # ===== 澳门 (MO) =====
 
 #EXTINF:-1 tvg-id="CanalMacau.mo@SD" tvg-logo="https://i.imgur.com/oFPUZ97.png" group-title="澳门",Canal Macau Ch. 92 (720p) [Not 24/7]
 https://live3.tdm.com.mo/ch2/ch2.live/playlist.m3u8
-
-#EXTINF:-1 group-title="澳门",Directo das Reuniões da Assembleia de Macau (720p)
-https://live3.tdm.com.mo/tv/ch22.live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TDMMacauSatellite.mo@SD" tvg-logo="https://i.imgur.com/iIfZsD6.png" group-title="澳门",Ou-Mun Macau Satellite Ch. 96 (720p)
 https://live3.tdm.com.mo/ch3/ch3.live/playlist.m3u8
@@ -28,7 +25,4 @@ https://live3.tdm.com.mo/ch4/sport_ch4.live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="xg05" tvg-logo="https://ghproxy.zhi35.com/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Aoshi1.png" group-title="澳门",澳门澳视
 https://iptv.hiper25.com/TDM/video.m3u8
-
-#EXTINF:-1 group-title="澳门",立法會直播 (Legislative Council Live) (720p)
-https://live3.tdm.com.mo/tv/ch21.live/playlist.m3u8
 

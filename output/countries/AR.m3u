@@ -1,6 +1,6 @@
 #EXTM3U
 #PLAYLIST: 阿根廷 (AR) IPTV 直播源
-#生成时间: 2026-09-09 07:04:12
+#生成时间: 2026-09-09 17:33:57
 #频道数: 71
 
 # ===== 阿根廷 (AR) =====
@@ -131,9 +131,6 @@ https://vd01.streaminghd.net.ar:3349/live/bzuctkgnlive.m3u8
 #EXTINF:-1 tvg-id="LaNacionPlus.ar" tvg-logo="https://i.imgur.com/vJYzGt1.png" group-title="阿根廷",LN+
 https://www.youtube.com/c/LaNacionMas/live
 
-#EXTINF:-1 group-title="阿根廷",MasterChef Argentina
-https://jmp2.uk/plu-69fcaa88e022927e1c94c533.m3u8
-
 #EXTINF:-1 tvg-id="MercurioNoticias.ar@SD" tvg-logo="https://i.imgur.com/sfd87LX.png" group-title="阿根廷",Mercurio Noticias
 https://videostream.shockmedia.com.ar/hls/mercuriotv/mercuriotv.m3u8
 
@@ -175,6 +172,9 @@ https://edge.enhdtv.com/redamerica/index.m3u8
 
 #EXTINF:-1 tvg-id="SanPedroTV.ar@SD" tvg-logo="https://i.imgur.com/UkpXogr.png" group-title="阿根廷",San Pedro TV (1080p) [Not 24/7]
 https://iptv.ixfo.com.ar:30443/live/sanpedrotv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="StudioPlusTV.ec@HD" tvg-logo="https://carjocosa.space/studio/logo.png" group-title="阿根廷",Studio + TV (1080p)
+https://vd01.streaminghd.net.ar:3113/hybrid/play.m3u8
 
 #EXTINF:-1 tvg-id="TodoNoticias.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/TN_todo_noticias_logo.svg/250px-TN_todo_noticias_logo.svg.png" group-title="阿根廷",TN Todo Noticias
 https://www.youtube.com/c/todonoticias/live

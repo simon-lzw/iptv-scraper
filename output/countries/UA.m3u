@@ -1,7 +1,7 @@
 #EXTM3U
 #PLAYLIST: 乌克兰 (UA) IPTV 直播源
-#生成时间: 2026-09-09 07:04:12
-#频道数: 75
+#生成时间: 2026-09-09 17:33:57
+#频道数: 77
 
 # ===== 乌克兰 (UA) =====
 
@@ -128,6 +128,9 @@ http://stream.mcquack.net/435/index.m3u8
 #EXTINF:-1 tvg-id="SuspilneSport.ua" tvg-logo="https://i.imgur.com/16IhU0M.png" group-title="乌克兰",Suspilne Sport
 http://cdnua05.hls.tv/934/hls/8743361621b245838bee193c9ec28322/4856/stream.m3u8
 
+#EXTINF:-1 tvg-id="SuspilneDonbas.ua@SD" tvg-logo="https://i.imgur.com/GPXrpJC.png" group-title="乌克兰",Suspilne. Donbas (576p)
+http://hls127.freeott.top:8080/UA_DONBAS/video.m3u8
+
 #EXTINF:-1 tvg-id="Svarozhychy.ua@SD" tvg-logo="https://i.imgur.com/VnAgQA4.png" group-title="乌克兰",Svarozhychy
 http://svarozhichi.cdn-04.cosmonova.net.ua/mobile-app/main/svarozhichi/master.m3u8
 
@@ -142,6 +145,9 @@ https://stream.rai.ua/rai/stream.m3u8
 
 #EXTINF:-1 tvg-id="Televsesvit.ua@SD" tvg-logo="https://i.imgur.com/ygexoKO.png" group-title="乌克兰",Televsesvit (1080p)
 https://televsesvit.cdn-04.cosmonova.net.ua/hls/televsesvit_ua_hi/index.m3u8
+
+#EXTINF:-1 tvg-id="UPLTV.ua@SD" tvg-logo="https://s4.vcdn.biz/static/f/9219528031/image.jpg" group-title="乌克兰",UPL.TV
+http://dtv.vol.net.ua/UPL-TV/index.m3u8
 
 #EXTINF:-1 tvg-id="ViasatExplore.ua@SD" tvg-logo="https://i.imgur.com/RBqKj6R.png" group-title="乌克兰",Viasat Explore (576p)
 http://dtv.vol.net.ua/Viasat-Explore/index.m3u8
