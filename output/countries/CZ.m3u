@@ -1,7 +1,7 @@
 #EXTM3U
 #PLAYLIST: 捷克 (CZ) IPTV 直播源
-#生成时间: 2026-09-09 17:33:57
-#频道数: 55
+#生成时间: 2026-09-10 07:00:29
+#频道数: 56
 
 # ===== 捷克 (CZ) =====
 
@@ -100,6 +100,9 @@ http://88.212.15.19/live/test_prima_star_hevc_25p/playlist.m3u8
 
 #EXTINF:-1 tvg-id="PrimaShow.cz" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/prima-show-cz.png" group-title="捷克",Prima Show
 http://88.212.15.19/live/test_prima_show_hevc_25p/playlist.m3u8
+
+#EXTINF:-1 tvg-id="PrimaTV.ro@HD" tvg-logo="https://i.imgur.com/p2umWAT.png" group-title="捷克",Prima TV HD
+http://eb4b8dcf.kablakaka.ru/iptv/AE8BY6FHF5ZGAG/6995/index.m3u8
 
 #EXTINF:-1 tvg-id="PrimaZoom.cz" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/prima-zoom-cz.png" group-title="捷克",Prima Zoom
 http://88.212.15.19/live/prima_zoom_avc_25p/playlist.m3u8
