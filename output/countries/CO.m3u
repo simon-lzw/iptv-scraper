@@ -1,7 +1,7 @@
 #EXTM3U
 #PLAYLIST: 哥伦比亚 (CO) IPTV 直播源
-#生成时间: 2026-09-10 17:29:05
-#频道数: 42
+#生成时间: 2026-09-11 07:00:09
+#频道数: 43
 
 # ===== 哥伦比亚 (CO) =====
 
@@ -16,6 +16,9 @@ http://streamer02.nbo1.angani.co:1935/aviationtv/myStream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="BemMelhor.br@SD" tvg-logo="https://www.ubplay.com.br/wp-content/uploads/sites/67/2025/10/capa-site-bemmelhor.png" group-title="哥伦比亚",Bem Melhor (720p)
 https://cdn-tiva-video01-logicahost-com-br.smartbit.co/bemmelhor/bemmelhor/playlist.m3u8
+
+#EXTINF:-1 tvg-id="BethelColombia.co@SD" tvg-logo="https://i.imgur.com/BYdMsLL.png" group-title="哥伦比亚",Bethel Colombia (720p)
+http://138.121.15.230:9002/BETHEL/index.m3u8
 
 #EXTINF:-1 tvg-id="BuenisimaRadioTV.co@SD" tvg-logo="https://i.imgur.com/URKDlOZ.png" group-title="哥伦比亚",Buenisima Radio TV
 https://canal.mediaserver.com.co/live/buenisimatv.m3u8
