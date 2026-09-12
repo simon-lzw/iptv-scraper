@@ -1,7 +1,7 @@
 #EXTM3U
 #PLAYLIST: 斯洛伐克 (SK) IPTV 直播源
-#生成时间: 2026-09-12 06:51:26
-#频道数: 71
+#生成时间: 2026-09-12 16:45:00
+#频道数: 70
 
 # ===== 斯洛伐克 (SK) =====
 
@@ -30,7 +30,7 @@ https://dash3.antik.sk/live/test_docubox_medium_atk/playlist.m3u8
 https://sktv.mxnticek.eu/new/stream.php?ch=Doma
 
 #EXTINF:-1 tvg-id="STV2.sk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/slovakia/dvojka-sk.png" group-title="斯洛伐克",Dvojka
-https://sktv.mxnticek.eu/new/stream.php?ch=Dvojka
+http://88.212.15.19/live/test_dvojka_25p/playlist.m3u8
 
 #EXTINF:-1 tvg-id="EWTNBonumTV.hu@SD" tvg-logo="https://i.imgur.com/LdsRz2E.png" group-title="斯洛伐克",EWTN/Bonum TV
 https://dash2.antik.sk/live/ewtn_bonum/index.m3u8
@@ -75,7 +75,7 @@ https://sktv.mxnticek.eu/new/stream.php?ch=JOJ%20Plus
 https://sktv.mxnticek.eu/new/stream.php?ch=JOJ%20%C5%A0port
 
 #EXTINF:-1 tvg-id="STV1.sk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/slovakia/jednotka-sk.png" group-title="斯洛伐克",Jednotka
-https://sktv.mxnticek.eu/new/stream.php?ch=Jednotka
+http://88.212.15.19/live/test_jednotka_25p/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Jojko.sk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/slovakia/jojko-sk.png" group-title="斯洛伐克",Jojko
 https://sktv.mxnticek.eu/new/stream.php?ch=Jojko
@@ -84,7 +84,7 @@ https://sktv.mxnticek.eu/new/stream.php?ch=Jojko
 https://dash4.antik.sk/live/test_kika_tizen/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/slovakia/markiza-sk.png" group-title="斯洛伐克",Klasik
-https://sktv.mxnticek.eu/new/stream.php?ch=Klasik
+https://cdnsk003.panaccess.com/local/Markiza_Klasik/index.m3u8
 
 #EXTINF:-1 tvg-id="MarkizaKrimi.sk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/slovakia/markiza-krimi-sk.png" group-title="斯洛伐克",Krimi
 https://sktv.mxnticek.eu/new/stream.php?ch=Krimi
@@ -99,13 +99,13 @@ https://lifetv.mpks.sk/s.m3u8
 https://dash4.antik.sk/live/test_mdr_tizen/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Markiza.sk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/slovakia/markiza-sk.png" group-title="斯洛伐克",Markíza
-https://sktv.mxnticek.eu/new/stream.php?ch=Markiza
+https://cdnsk003.panaccess.com/local/Markiza/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/slovakia/markiza-sk.png" group-title="斯洛伐克",Markíza TN Live
 https://sktv.mxnticek.eu/new/stream.php?ch=Mark%C3%ADza%20TN%20Live
 
 #EXTINF:-1 group-title="斯洛伐克",NR SR
-https://sktv.mxnticek.eu/new/stream.php?ch=NR%20SR
+https://n11.stv.livebox.sk/stv-tv/stv4.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="NZTV.sk@SD" tvg-logo="https://i.imgur.com/jGZlnzT.png" group-title="斯洛伐克",NZTV
 https://dash2.antik.sk/live/test_nove_zamky/playlist.m3u8
@@ -163,9 +163,6 @@ https://stream.tvlux.sk/lux/ngrp:lux.stream_all/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TVMistral.sk@SD" tvg-logo="https://i.imgur.com/IOJ6rcb.jpeg" group-title="斯洛伐克",TV Mistral
 https://dash3.antik.sk/live/test_mistral_atktv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="TVNRSR.sk@SD" tvg-logo="https://i.imgur.com/hsJsu3I.png" group-title="斯洛伐克",TV NRSR (720p) [Not 24/7]
-https://n11.stv.livebox.sk/stv-tv/stv4.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TVNitricka.sk@SD" tvg-logo="https://i.imgur.com/iwWyG1A.png" group-title="斯洛伐克",TV Nitricka
 https://dash4.antik.sk/live/test_nitricka/playlist.m3u8
