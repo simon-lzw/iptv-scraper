@@ -1,7 +1,7 @@
 #EXTM3U
 #PLAYLIST: 捷克 (CZ) IPTV 直播源
-#生成时间: 2026-09-12 16:45:00
-#频道数: 56
+#生成时间: 2026-09-13 07:10:17
+#频道数: 57
 
 # ===== 捷克 (CZ) =====
 
@@ -94,6 +94,9 @@ http://88.212.15.19/live/prima_love_cz_avc/index.m3u8
 
 #EXTINF:-1 tvg-id="PrimaMax.cz" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/prima-max-cz.png" group-title="捷克",Prima MAX
 https://sktv.mxnticek.eu/new/stream.php?ch=PrimaMax
+
+#EXTINF:-1 tvg-id="PrimaNews.ro@SD" tvg-logo="https://i.imgur.com/wlqGfU2.png" group-title="捷克",Prima News
+https://hls02ns.antenaplay.ro/hls/prima-news-hd/index.m3u8
 
 #EXTINF:-1 tvg-id="PrimaStar.cz" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/prima-star-cz.png" group-title="捷克",Prima STAR
 http://88.212.15.19/live/test_prima_star_hevc_25p/playlist.m3u8
