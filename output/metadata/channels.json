@@ -1716,17 +1716,6 @@
     "is_active": true
   },
   {
-    "name": "AXN Latin America Andes (1080p)",
-    "url": "http://177.234.249.178:8888/AXN/index.m3u8",
-    "group": "Movies",
-    "country_code": "ZZ",
-    "country_name_zh": "ZZ",
-    "ip_version": "ipv4",
-    "score": 0.0,
-    "source": "iptv-org all streams",
-    "is_active": true
-  },
-  {
     "name": "AXN Latin America South",
     "url": "http://45.228.235.116:8000/play/a0iy/index.m3u8",
     "group": "Movies",
@@ -11033,8 +11022,8 @@
     "is_active": true
   },
   {
-    "name": "Crime + Investigation Asia (1080p)",
-    "url": "http://nmk.ioapk.com:5050/4gtv-live027/index.m3u8",
+    "name": "Crime + Investigation Asia HD (720p) [Geo-blocked]",
+    "url": "https://cdn09jtedge.indihometv.com/joss/133/crimeinvestigation/index.m3u8",
     "group": "Entertainment",
     "country_code": "ZZ",
     "country_name_zh": "ZZ",
@@ -11815,11 +11804,11 @@
   },
   {
     "name": "DW Espanol (1080p)",
-    "url": "http://177.234.249.178:8888/DW/index.m3u8",
+    "url": "https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/master.m3u8",
     "group": "News",
     "country_code": "ZZ",
     "country_name_zh": "ZZ",
-    "ip_version": "ipv4",
+    "ip_version": "domain",
     "score": 0.0,
     "source": "iptv-org all streams",
     "is_active": true
@@ -14157,17 +14146,6 @@
     "is_active": true
   },
   {
-    "name": "Encuentro (576p)",
-    "url": "http://138.121.113.175:8000/play/a04c/index.m3u8",
-    "group": "Culture",
-    "country_code": "ZZ",
-    "country_name_zh": "ZZ",
-    "ip_version": "ipv4",
-    "score": 0.0,
-    "source": "iptv-org all streams",
-    "is_active": true
-  },
-  {
     "name": "Energia TV (720p) [Not 24/7]",
     "url": "https://sincerecloud.stream/loadbalancer/public/actMdyoE.m3u8",
     "group": "General",
@@ -14224,11 +14202,11 @@
   },
   {
     "name": "Enlace (720p)",
-    "url": "http://177.234.249.178:8888/ENLACE/index.m3u8",
+    "url": "https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8",
     "group": "Religious",
     "country_code": "ZZ",
     "country_name_zh": "ZZ",
-    "ip_version": "ipv4",
+    "ip_version": "domain",
     "score": 0.0,
     "source": "iptv-org all streams",
     "is_active": true
@@ -17144,17 +17122,6 @@
     "country_code": "ZZ",
     "country_name_zh": "ZZ",
     "ip_version": "domain",
-    "score": 0.0,
-    "source": "iptv-org all streams",
-    "is_active": true
-  },
-  {
-    "name": "GolTV Latin America (720p)",
-    "url": "http://177.234.249.178:8888/GOLTV/index.m3u8",
-    "group": "Sports",
-    "country_code": "ZZ",
-    "country_name_zh": "ZZ",
-    "ip_version": "ipv4",
     "score": 0.0,
     "source": "iptv-org all streams",
     "is_active": true
@@ -28072,12 +28039,12 @@
     "is_active": true
   },
   {
-    "name": "Nick Jr. Latin America (1080p)",
-    "url": "http://177.234.249.178:8888/NICK-JR/index.m3u8",
+    "name": "Nick Jr. Latin America (720p)",
+    "url": "https://streamer.metronethn.com/NickJr/index.m3u8",
     "group": "Kids",
     "country_code": "ZZ",
     "country_name_zh": "ZZ",
-    "ip_version": "ipv4",
+    "ip_version": "domain",
     "score": 0.0,
     "source": "iptv-org all streams",
     "is_active": true
@@ -30140,17 +30107,6 @@
     "is_active": true
   },
   {
-    "name": "Pakapaka (576p)",
-    "url": "http://138.121.113.175:8000/play/a04d/index.m3u8",
-    "group": "Kids",
-    "country_code": "ZZ",
-    "country_name_zh": "ZZ",
-    "ip_version": "ipv4",
-    "score": 0.0,
-    "source": "iptv-org all streams",
-    "is_active": true
-  },
-  {
     "name": "Palenque TV (576p)",
     "url": "http://15.204.246.24:8080/PalenqueTVSD/index.m3u8",
     "group": "General",
@@ -32181,17 +32137,6 @@
     "country_code": "ZZ",
     "country_name_zh": "ZZ",
     "ip_version": "domain",
-    "score": 0.0,
-    "source": "iptv-org all streams",
-    "is_active": true
-  },
-  {
-    "name": "Quiero Musica en mi Idioma (1080p)",
-    "url": "http://177.234.249.178:8888/MTV/index.m3u8",
-    "group": "Music",
-    "country_code": "ZZ",
-    "country_name_zh": "ZZ",
-    "ip_version": "ipv4",
     "score": 0.0,
     "source": "iptv-org all streams",
     "is_active": true
@@ -44880,17 +44825,6 @@
     "is_active": true
   },
   {
-    "name": "Television Publica (1080p)",
-    "url": "http://138.121.113.175:8000/play/a03l/index.m3u8",
-    "group": "General",
-    "country_code": "ZZ",
-    "country_name_zh": "ZZ",
-    "ip_version": "ipv4",
-    "score": 0.0,
-    "source": "iptv-org all streams",
-    "is_active": true
-  },
-  {
     "name": "Television del Este (1080p) [Not 24/7]",
     "url": "https://edge.essastream.com/televisiondeleste/tracks-v1a1/mono.m3u8",
     "group": "News",
@@ -48059,6 +47993,17 @@
     "is_active": true
   },
   {
+    "name": "Venevision (576p)",
+    "url": "http://181.78.8.199:8000/play/a0if/index.m3u8",
+    "group": "General",
+    "country_code": "ZZ",
+    "country_name_zh": "ZZ",
+    "ip_version": "ipv4",
+    "score": 0.0,
+    "source": "iptv-org all streams",
+    "is_active": true
+  },
+  {
     "name": "Ventdelnord TV (404p)",
     "url": "http://ventdelnord.tv:8080/hls/directe.m3u8",
     "group": "Undefined",
@@ -49544,6 +49489,17 @@
     "is_active": true
   },
   {
+    "name": "Xinjiang TV 2",
+    "url": "http://110.153.180.106:55555/out_3/index.m3u8",
+    "group": "Undefined",
+    "country_code": "ZZ",
+    "country_name_zh": "ZZ",
+    "ip_version": "ipv4",
+    "score": 0.0,
+    "source": "iptv-org all streams",
+    "is_active": true
+  },
+  {
     "name": "Xinjiang TV 8",
     "url": "http://120.70.60.179:9901/tsfile/live/1002_1.m3u8?authid=0&key=txiptv&playlive=1",
     "group": "Undefined",
@@ -49623,7 +49579,7 @@
   {
     "name": "YES",
     "url": "https://customer-ujex1meek7koqd9x.cloudflarestream.com/4f0b316cdb0fbb7f8ca93860ed11d38b/manifest/video.m3u8",
-    "group": "News",
+    "group": "Culture;Entertainment;Sports",
     "country_code": "ZZ",
     "country_name_zh": "ZZ",
     "ip_version": "domain",
@@ -67646,7 +67602,7 @@
     "country_name_zh": "中国",
     "ip_version": "domain",
     "score": 0.0,
-    "source": "zhi35 aggregated",
+    "source": "vbskycn/iptv (ipv4)",
     "is_active": true
   },
   {
@@ -67657,7 +67613,7 @@
     "country_name_zh": "中国",
     "ip_version": "domain",
     "score": 0.0,
-    "source": "zhi35 aggregated",
+    "source": "vbskycn/iptv (ipv4)",
     "is_active": true
   },
   {
@@ -116985,17 +116941,6 @@
     "is_active": true
   },
   {
-    "name": "Cine Mexicano (1080p)",
-    "url": "http://177.234.249.178:8888/AMERICA/index.m3u8",
-    "group": "Movies",
-    "country_code": "US",
-    "country_name_zh": "美国",
-    "ip_version": "ipv4",
-    "score": 0.0,
-    "source": "iptv-org United States",
-    "is_active": true
-  },
-  {
     "name": "Cine Premiere",
     "url": "https://jmp2.uk/plu-5cf968040ab7d8f181e6a68b.m3u8",
     "group": "Movies",
@@ -117018,12 +116963,12 @@
     "is_active": true
   },
   {
-    "name": "Cine Sony (1080p)",
-    "url": "http://177.234.249.178:8888/SONY-MOVIES/index.m3u8",
+    "name": "Cine Sony (720p)",
+    "url": "https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8",
     "group": "Movies",
     "country_code": "US",
     "country_name_zh": "美国",
-    "ip_version": "ipv4",
+    "ip_version": "domain",
     "score": 0.0,
     "source": "iptv-org United States",
     "is_active": true
