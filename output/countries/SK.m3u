@@ -1,7 +1,7 @@
 #EXTM3U
 #PLAYLIST: 斯洛伐克 (SK) IPTV 直播源
-#生成时间: 2026-09-14 19:01:45
-#频道数: 70
+#生成时间: 2026-09-15 07:10:59
+#频道数: 72
 
 # ===== 斯洛伐克 (SK) =====
 
@@ -110,6 +110,9 @@ https://n11.stv.livebox.sk/stv-tv/stv4.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="NZTV.sk@SD" tvg-logo="https://i.imgur.com/jGZlnzT.png" group-title="斯洛伐克",NZTV
 https://dash2.antik.sk/live/test_nove_zamky/playlist.m3u8
 
+#EXTINF:-1 tvg-id="Nitro.de@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Nitro_Logo.svg/960px-Nitro_Logo.svg.png" group-title="斯洛伐克",Nitro
+https://dash4.antik.sk/live/test_rtl_nitro_tizen/playlist.m3u8
+
 #EXTINF:-1 tvg-id="OckoBlack.cz@SD" tvg-logo="https://i.imgur.com/5rw9tWy.png" group-title="斯洛伐克",Ocko Black
 https://dash2.antik.sk/live/test_ocko_black/playlist.m3u8
 
@@ -136,6 +139,9 @@ https://sktv.mxnticek.eu/new/stream.php?ch=STVR%20%3AO
 
 #EXTINF:-1 tvg-logo=" Liv" group-title="斯洛伐克",STVR Live
 https://sktv.mxnticek.eu/new/stream.php?ch=STVR%20Live
+
+#EXTINF:-1 tvg-id="SWRFernsehenHD.de@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/SWR_Logo_2023.svg/960px-SWR_Logo_2023.svg.png" group-title="斯洛伐克",SWR Fernsehen HD
+https://dash4.antik.sk/live/test_swr_tizen/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Senzi.sk@SD" tvg-logo="https://i.imgur.com/1qJMmBu.png" group-title="斯洛伐克",Senzi (720p)
 http://lb.streaming.sk/senzi/stream/playlist.m3u8

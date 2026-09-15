@@ -1,7 +1,7 @@
 #EXTM3U
 #PLAYLIST: 英国 (GB) IPTV 直播源
-#生成时间: 2026-09-14 19:01:45
-#频道数: 714
+#生成时间: 2026-09-15 07:10:59
+#频道数: 715
 
 # ===== 英国 (GB) =====
 
@@ -97,6 +97,9 @@ https://vs-cmaf-pushb-uk.live.fastly.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:bb
 
 #EXTINF:-1 tvg-id="BBCFourCBeebies.uk@HD" tvg-logo="https://i.imgur.com/aH0PCPy.png" group-title="英国",BBC Four/CBeebies (720p)
 http://193.46.58.239:8080/CbeebiesHD/index.m3u8
+
+#EXTINF:-1 tvg-id="BBCLifestyle.uk@Asia" tvg-logo="https://i.imgur.com/9mzJJ3y.png" group-title="英国",BBC Lifestyle Asia (720p)
+http://58.8.186.128:10003/bysid/2333
 
 #EXTINF:-1 tvg-id="BBCNews.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/BBC_News_2022_%28Alt%29.svg/500px-BBC_News_2022_%28Alt%29.svg.png" group-title="英国",BBC News
 https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8

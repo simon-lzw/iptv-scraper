@@ -1,6 +1,6 @@
 #EXTM3U
 #PLAYLIST: 德国 (DE) IPTV 直播源
-#生成时间: 2026-09-14 19:01:45
+#生成时间: 2026-09-15 07:10:59
 #频道数: 119
 
 # ===== 德国 (DE) =====
@@ -230,11 +230,11 @@ https://budapest-cache-1.antik.sk/live/test_film_plus_2_hungary_1200_atk/playlis
 #EXTINF:-1 tvg-id="RTLGold.lu@SD" tvg-logo="https://i.imgur.com/LzHQoUv.png" group-title="德国",RTL Gold (1080p)
 https://stream.rtl.lu/data/live/tele/rtlgold/playlist.m3u8
 
-#EXTINF:-1 tvg-id="RTL.de@HD" tvg-logo="https://i.imgur.com/94K94k2.png" group-title="德国",RTL HD (1080p)
-https://live.omni3.pl/rtlde/index.m3u8?token=ebnk.xyz
-
 #EXTINF:-1 tvg-id="RTLWebRadioTV.lu@SD" tvg-logo="https://i.imgur.com/qyc8LsE.png" group-title="德国",RTL Radio Web TV (1080p)
 https://rtlradio-streaming.rtl.lu/rtlradiowebtv/smil:rtlradiowebtv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RTLSuper.de@SD" tvg-logo="https://i.imgur.com/KbdK8t9.png" group-title="德国",RTL Super
+https://dash4.antik.sk/live/test_super_rtl_tizen/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TodayRadio.lu@SD" tvg-logo="https://i.imgur.com/O1c6wpt.png" group-title="德国",RTL Today Radio (720p)
 https://stream.rtl.lu/data/live/tele/rtltodayradio/playlist.m3u8
@@ -245,8 +245,8 @@ https://live-edge.rtl.lu/channel1/smil:channel1/playlist.m3u8
 #EXTINF:-1 tvg-id="RTLTeleLuxembourg.lu" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/RTL_Zwee_2023.svg/960px-RTL_Zwee_2023.svg.png" group-title="德国",RTL Zwee
 https://live-edge.rtl.lu/channel2/smil:channel2/playlist.m3u8
 
-#EXTINF:-1 tvg-id="RTLZwei.de@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/RTLZWEI_Logo_2019.svg/960px-RTLZWEI_Logo_2019.svg.png" group-title="德国",RTL Zwei (1080p)
-https://live.omni3.pl/rtl2de/index.m3u8?token=ebnk.xyz
+#EXTINF:-1 tvg-id="RTLZwei.de@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/RTLZWEI_Logo_2019.svg/960px-RTLZWEI_Logo_2019.svg.png" group-title="德国",RTL Zwei
+https://dash4.antik.sk/live/test_rtl_zwei_tizen/playlist.m3u8
 
 #EXTINF:-1 tvg-id="RadioBremenFernsehen.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Logo_Radio_Bremen.svg/500px-Logo_Radio_Bremen.svg.png" group-title="德国",Radio Bremen
 https://rbhlslive.akamaized.net/hls/live/2020435/rbfs/master.m3u8
@@ -323,6 +323,9 @@ https://h057.video-stream-hosting.de/tv38-live/_definst_/smil:livestream.smil/pl
 #EXTINF:-1 tvg-id="tagesschau24.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Tagesschau24-2012.svg/500px-Tagesschau24-2012.svg.png" group-title="德国",Tagesschau24
 https://tagesschau.akamaized.net/hls/live/2020115/tagesschau/tagesschau_1/master.m3u8
 
+#EXTINF:-1 tvg-id="VOX.de@SD" tvg-logo="https://i.imgur.com/QPcmfZb.png" group-title="德国",VOX
+https://dash4.antik.sk/live/test_vox_tizen/playlist.m3u8
+
 #EXTINF:-1 tvg-id="VolksmusikTV.de@SD" tvg-logo="https://i.imgur.com/EsWuCJ3.png" group-title="德国",Volksmusik TV (1080p)
 https://vmtv.iptv-playoutcenter.de/vmtv/vmtv1/playlist.m3u8
 
@@ -343,9 +346,6 @@ https://d726x48n2pd5h.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a
 
 #EXTINF:-1 tvg-id="ZDF.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/ZDF_logo.svg/500px-ZDF_logo.svg.png" group-title="德国",ZDF
 http://zdf-hls-15.akamaized.net/hls/live/2016498/de/veryhigh/master.m3u8
-
-#EXTINF:-1 tvg-id="ZDF.de@SD" tvg-logo="https://i.imgur.com/rtLb6m9.png" group-title="德国",ZDF (720p) [Geo-blocked]
-https://zdf-hls-15.akamaized.net/hls/live/2016498/de/high/master.m3u8
 
 #EXTINF:-1 tvg-id="ZDFinfo.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/ZDFinfo_2011.svg/500px-ZDFinfo_2011.svg.png" group-title="德国",ZDFinfo
 https://zdf-hls-17.akamaized.net/hls/live/2016500/de/veryhigh/master.m3u8

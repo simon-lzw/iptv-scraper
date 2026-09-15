@@ -1,12 +1,15 @@
 #EXTM3U
 #PLAYLIST: 泰国 (TH) IPTV 直播源
-#生成时间: 2026-09-14 19:01:45
-#频道数: 31
+#生成时间: 2026-09-15 07:10:59
+#频道数: 33
 
 # ===== 泰国 (TH) =====
 
 #EXTINF:-1 tvg-id="13SiamThai.th@SD" tvg-logo="https://i.imgur.com/FvEp1S2.png" group-title="泰国",13 Siam Thai (1080p)
 https://live.x2.co.th/live/13livetv-th.m3u8
+
+#EXTINF:-1 tvg-id="AXNAsia.sg@Thailand" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png" group-title="泰国",AXN Asia Thailand (720p)
+http://58.8.186.128:10007/bysid/2814
 
 #EXTINF:-1 tvg-id="BoonniyomTV.th@SD" tvg-logo="https://i.imgur.com/KvdFCD5.png" group-title="泰国",Boonniyom TV
 https://live.x2.co.th/live/bntv.m3u8
@@ -88,6 +91,9 @@ https://lb1-live-mv.v2h-cdn.com/hls/ffaf/thairath/thairath.m3u8
 
 #EXTINF:-1 tvg-id="TopNews.th@SD" tvg-logo="https://i.imgur.com/tRFnV9M.png" group-title="泰国",Top News (720p)
 https://live.topnews.co.th/hls/topnews_a_720.m3u8
+
+#EXTINF:-1 tvg-id="TrueThaiFilm.th@SD" tvg-logo="https://i.imgur.com/MfLY3LF.png" group-title="泰国",True Thai Film (720p)
+http://58.8.186.128:10003/bysid/2326
 
 #EXTINF:-1 tvg-id="UniquelyThai.vn@SD" tvg-logo="https://i.imgur.com/cTSDB8O.png" group-title="泰国",Uniquely Thai (720p)
 https://livefta.malimarcdn.com/ftaedge00/uniquely.sdp/playlist.m3u8

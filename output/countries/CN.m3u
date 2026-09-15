@@ -1,6 +1,6 @@
 #EXTM3U
 #PLAYLIST: 中国 (CN) IPTV 直播源
-#生成时间: 2026-09-14 19:01:45
+#生成时间: 2026-09-15 07:10:59
 #频道数: 711
 
 # ===== 中国 (CN) =====
@@ -350,6 +350,9 @@ https://fastlive.cctvplus.com/out/v1/ca6f9297b7314a63959435028af287fc/index.m3u8
 #EXTINF:-1 tvg-id="DiscoveringChina.cn@SD" tvg-logo="https://i.imgur.com/wr2bLaA.png" group-title="中国",Discovering China (1080p)
 https://fastlive.cctvplus.com/out/v1/8442c3bfd4c64a3984389328f6087879/index.m3u8
 
+#EXTINF:-1 tvg-id="FZTV3.cn" tvg-logo="https://i.imgur.com/jt7CWDT.png" group-title="中国",FZTV-3 Lifestyle Channel 生活频道
+http://live.zohi.tv/video/s10001-fztv-3/index.m3u8
+
 #EXTINF:-1 tvg-id="GuangdongSatelliteTV.cn@SD" tvg-logo="https://parco-zh.github.io/demo/guangdong.jpg" group-title="中国",Guangdong Satellite TV
 https://h5cul1yar48um3t.wcetv.com/hls/gdsatellite.m3u8
 
@@ -430,9 +433,6 @@ http://live.qthnews.org.cn:1935/live/live1/800k/tzwj_video.m3u8
 
 #EXTINF:-1 tvg-id="万州综合" tvg-logo="https://www.xn--rgv465a.top/tvlogo/万州综合.png" group-title="中国",万州综合
 http://wanzhoulive.cbg.cn:8017/iTXwrGs/800/live.m3u8
-
-#EXTINF:-1 tvg-id="万荣综合" tvg-logo="https://tb.zbds.top/logo/万荣综合.png" group-title="中国",万荣综合
-http://60.222.246.220:19433/hls1.m3u8
 
 #EXTINF:-1 tvg-id="上海外语" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/上海外语.png" group-title="中国",上海外语
 http://t.061899.xyz/tl/tl.php?id=shics

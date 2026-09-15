@@ -1,7 +1,7 @@
 #EXTM3U
 #PLAYLIST: 越南 (VN) IPTV 直播源
-#生成时间: 2026-09-14 19:01:45
-#频道数: 48
+#生成时间: 2026-09-15 07:10:59
+#频道数: 47
 
 # ===== 越南 (VN) =====
 
@@ -95,14 +95,11 @@ https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv7/master.m3u8
 #EXTINF:-1 tvg-id="SCTV9.vn@SD" tvg-logo="https://i.imgur.com/OJMbhow.png" group-title="越南",SCTV9 (720p)
 https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv9/master.m3u8
 
-#EXTINF:-1 tvg-id="SonLaTV.vn@SD" tvg-logo="https://i.imgur.com/MxV9psR.png" group-title="越南",Son La TV (720p)
-https://kenhdp-vtvgo.vtvdigital.vn/kenhdp/sonla-720p.m3u8
-
 #EXTINF:-1 tvg-id="TVBVietnam.vn@SD" tvg-logo="https://raw.githubusercontent.com/songwenhui239/Songwenhui239/refs/heads/main/TVB%20Vietnam.jpeg" group-title="越南",TVB Vietnam (1080p)
 https://amg01868-amg01868c3-tvbanywhere-us-4491.playouts.now.amagi.tv/playlist/amg01868-tvbusa-tvbvietnam-tvbanywhereus/playlist.m3u8
 
-#EXTINF:-1 tvg-id="VTV.mv@SD" tvg-logo="https://i.imgur.com/6bY9Umo.png" group-title="越南",VTV (1080p) [Not 24/7]
-https://vtvstream.vnews.mv/vtvlive/vmedia/playlist.m3u8
+#EXTINF:-1 tvg-id="VTV.mv@SD" tvg-logo="https://i.imgur.com/6bY9Umo.png" group-title="越南",VTV
+https://sunplay-cdn.bitratelabs.com/live/local-channel/vtv-7a0f24809c234ea78d972b1f336ac1b9/index.m3u8
 
 #EXTINF:-1 tvg-id="VTV.hn@SD" tvg-logo="https://i.imgur.com/CsPkwD5.png" group-title="越南",VTV (480p) [Not 24/7]
 https://d3q93l5bumjyoq.cloudfront.net/index.m3u8

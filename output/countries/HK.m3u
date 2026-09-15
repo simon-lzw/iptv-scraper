@@ -1,7 +1,7 @@
 #EXTM3U
 #PLAYLIST: 香港 (HK) IPTV 直播源
-#生成时间: 2026-09-14 19:01:45
-#频道数: 36
+#生成时间: 2026-09-15 07:10:59
+#频道数: 37
 
 # ===== 香港 (HK) =====
 
@@ -76,6 +76,9 @@ http://ali.hlspull.yximgs.com/live/tboxprofhwwqpthqyqtqqqxcxbfhqqfqvhdtqdvbtvqsq
 
 #EXTINF:-1 tvg-id="ViuTV" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/ViuTV.png" group-title="香港",Viutv
 http://r.jdshipin.com/vSJvl
+
+#EXTINF:-1 tvg-id="tvNAsia.hk@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Logo_tvN.svg/960px-Logo_tvN.svg.png" group-title="香港",tvN Asia HD (720p)
+http://58.8.186.128:10005/bysid/2518
 
 #EXTINF:-1 tvg-id="凤凰中文" tvg-logo="https://www.xn--rgv465a.top/tvlogo/凤凰中文.png" group-title="香港",凤凰中文
 https://7612-5516-affc-d88b.kylintv.tv/live/pxinhd_iphone.m3u8
