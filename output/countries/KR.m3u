@@ -1,7 +1,7 @@
 #EXTM3U
 #PLAYLIST: 韩国 (KR) IPTV 直播源
-#生成时间: 2026-09-17 07:09:25
-#频道数: 94
+#生成时间: 2026-09-17 17:56:05
+#频道数: 95
 
 # ===== 韩国 (KR) =====
 
@@ -187,6 +187,9 @@ http://mytv.dothome.co.kr/ch/catv/28.php
 
 #EXTINF:-1 tvg-id="MBCTV.kr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Munhwa_Broadcasting_Corporation.svg/500px-Munhwa_Broadcasting_Corporation.svg.png" group-title="韩国",MBC TV
 https://www.youtube.com/c/mbctvlive/live
+
+#EXTINF:-1 tvg-id="MBCTV.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s135691_ld_h15_aa.png?lock=720x540" group-title="韩国",MBC TV (576p)
+https://mumbai-edge.smartplaytv.in/MBCTV/index.m3u8
 
 #EXTINF:-1 tvg-id="HLATDTV.kr@SD" tvg-logo="https://i.imgur.com/3VSuYsn.png" group-title="韩国",MBC Yeosu (여수 MBC) (1080p) [Not 24/7]
 https://5c3639aa99149.streamlock.net/live_TV/tv/playlist.m3u8

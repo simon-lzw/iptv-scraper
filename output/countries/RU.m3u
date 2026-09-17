@@ -1,7 +1,7 @@
 #EXTM3U
 #PLAYLIST: 俄罗斯 (RU) IPTV 直播源
-#生成时间: 2026-09-17 07:09:25
-#频道数: 259
+#生成时间: 2026-09-17 17:56:05
+#频道数: 260
 
 # ===== 俄罗斯 (RU) =====
 
@@ -250,6 +250,9 @@ http://178.134.1.158:8081/CTC/index.m3u8
 
 #EXTINF:-1 tvg-id="STSkids.ru@SD" tvg-logo="https://i.imgur.com/o9kLpAL.png" group-title="俄罗斯",STS kids (1080p)
 http://31.148.48.15/STS_Kids_HD/index.m3u8
+
+#EXTINF:-1 tvg-id="STSkids.ru@HD" tvg-logo="https://i.imgur.com/o9kLpAL.png" group-title="俄罗斯",STS kids HD (1080p)
+http://45.145.32.13:20440/ctc_kids_hd/index.m3u8?token=test
 
 #EXTINF:-1 tvg-id="STSkids.ru@International" tvg-logo="https://i.imgur.com/o9kLpAL.png" group-title="俄罗斯",STS kids International (576p)
 https://fs.uplink.kz/sts_kids/mono.m3u8?token=onlinetv
