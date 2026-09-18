@@ -1,7 +1,7 @@
 #EXTM3U
 #PLAYLIST: 匈牙利 (HU) IPTV 直播源
-#生成时间: 2026-09-18 07:02:43
-#频道数: 73
+#生成时间: 2026-09-18 17:29:45
+#频道数: 78
 
 # ===== 匈牙利 (HU) =====
 
@@ -11,8 +11,14 @@ https://cloudfront44.lexanetwork.com:1344/freerelay/16tv.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="ATV.hu" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Atv_logo_2018.png/250px-Atv_logo_2018.png" group-title="匈牙利",ATV
 http://88.212.15.19/live/test_atv_hungary_1200_atk/playlist.m3u8
 
+#EXTINF:-1 tvg-id="ATV.hu@SD" tvg-logo="https://i.imgur.com/85sIvrX.png" group-title="匈牙利",ATV (Hungary) (160p)
+https://streamservers.atv.hu/atvlive/atvstream_1_aac/playlist.m3u8
+
 #EXTINF:-1 tvg-id="ApostolTV.hu" tvg-logo="https://www.apostoltv.hu/images/header-logo.png" group-title="匈牙利",Apostol TV
 https://live.apostoltv.hu/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="BTV.hu@SD" tvg-logo="https://i.imgur.com/0PKqn3V.png" group-title="匈牙利",BTV (Hungary) (360p)
+https://cloudfront44.lexanetwork.com:1344/freerelay/babolnatv.sdp/playlist.m3u8
 
 #EXTINF:-1 tvg-id="BalatonTV.hu" tvg-logo="https://i.imgur.com/ip8L5Vt.jpg" group-title="匈牙利",Balaton TV
 https://stream.iptvservice.eu/hls/balatontv.m3u8
@@ -28,6 +34,9 @@ https://citytv.hu/playlist.m3u8
 
 #EXTINF:-1 tvg-id="CsurgoTV.hu@SD" tvg-logo="https://i.imgur.com/vVOEYuj.png" group-title="匈牙利",Csurgo TV (720p)
 https://cstv.medialivecdn.hu/csurgotv/27725804dc13aa23b3970414524d2dbf.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="DSTV.hu@SD" tvg-logo="https://i.imgur.com/xKJoN8L.png" group-title="匈牙利",DSTV (Hungary) (720p)
+http://79.120.178.90:1935/dstv/dstvlive/playlist.m3u8
 
 #EXTINF:-1 tvg-id="DTV.hu" tvg-logo="https://i.imgur.com/YSpqmSO.png" group-title="匈牙利",DTV
 http://cloudfront44.lexanetwork.com:1732/hlsrelay003/hls/livestream.sdp.m3u8
@@ -50,7 +59,7 @@ https://cloudfront44.lexanetwork.com:1344/relay44_1/HDE040.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="BonumTV.hu" tvg-logo="https://katolikus.tv/wp-content/themes/bonum/img/ewtn-badge.jpg" group-title="匈牙利",EWTN TV
 https://hls.iptvservice.eu/hls/ewtn-hd.m3u8
 
-#EXTINF:-1 tvg-id="EgykerTV.hu@SD" tvg-logo="https://i.imgur.com/yhMhvPq.png" group-title="匈牙利",Elsö Kerület TV (1080p)
+#EXTINF:-1 tvg-id="EgykerTV.hu@SD" tvg-logo="https://i.imgur.com/yhMhvPq.png" group-title="匈牙利",Egyker TV (1080p)
 https://iptv01.eurocable.co.hu/EC-EGYKERTVHD/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://kommunikacio.ro/wp-content/uploads/2017/10/erdelytv.png" group-title="匈牙利",ErdélyTV
@@ -68,16 +77,19 @@ http://88.212.15.19/live/test_fem3_atktv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.fehervartv.hu/css/img/icon-1-2.png" group-title="匈牙利",FehérvárTV
 https://cloudfront44.lexanetwork.com:1344/relay44_1/HDE046.sdp/playlist.m3u8
 
+#EXTINF:-1 tvg-id="GloboTV.hu@SD" tvg-logo="https://i.imgur.com/PJ4c4jq.png" group-title="匈牙利",Globo TV (Hungary) (720p) [Geo-blocked]
+https://stream.streaming4u.hu/GloboTV/index.m3u8
+
+#EXTINF:-1 tvg-id="GolyaTV.hu@SD" tvg-logo="https://i.imgur.com/TeK6Pzb.png" group-title="匈牙利",Golya TV (480p) [Geo-blocked]
+https://stream.streaming4u.hu/GolyaTV/index.m3u8
+
 #EXTINF:-1 tvg-id="GranTV.hu@SD" tvg-logo="https://i.ibb.co/qJN7Qh2/gran-kicsi.png" group-title="匈牙利",Gran TV (720p)
 https://stream.medialive.hu/gran/grantvlive/playlist.m3u8
 
 #EXTINF:-1 tvg-id="GyongyosiTV.hu" tvg-logo="https://i.imgur.com/RHgaPCk.png" group-title="匈牙利",Gyöngyös TV
 https://cloudfront44.lexanetwork.com:1344/relay44_1/HDE043.sdp/playlist.m3u8
 
-#EXTINF:-1 tvg-id="GolyaTV.hu@SD" tvg-logo="https://i.imgur.com/TeK6Pzb.png" group-title="匈牙利",Gólya TV (480p) [Geo-blocked]
-https://stream.streaming4u.hu/GolyaTV/index.m3u8
-
-#EXTINF:-1 tvg-id="HtMusicChannel.hu@SD" tvg-logo="https://i.imgur.com/sqC2hqV.png" group-title="匈牙利",H!T Music Channel (480p)
+#EXTINF:-1 tvg-id="HtMusicChannel.hu@SD" tvg-logo="https://i.imgur.com/sqC2hqV.png" group-title="匈牙利",H!t Music Channel (480p)
 http://hitmusic.hu/hitmusic.m3u8
 
 #EXTINF:-1 tvg-id="HangulatTV.hu@SD" tvg-logo="https://play-lh.googleusercontent.com/uBasB1USS1zI0tdHUbhUg356TwmworMA5P_7UGnhvg3z6LXX6n1bEk7Qj3cE3-yuToA" group-title="匈牙利",Hangulat TV (720p)
@@ -131,20 +143,20 @@ http://88.212.15.19/live/m2_hun/index.m3u8
 #EXTINF:-1 tvg-id="M5.hu" tvg-logo="https://i.imgur.com/qLQz2V6.png" group-title="匈牙利",M5 Hungary
 http://88.212.15.19/live/test_m_5_hun_atk_1200/playlist.m3u8
 
-#EXTINF:-1 tvg-id="MakoiVarosiTelevizio.hu@SD" tvg-logo="https://i.imgur.com/PF3BP4X.png" group-title="匈牙利",Makói Városi (576p)
+#EXTINF:-1 tvg-id="MakoiVarosiTelevizio.hu@SD" tvg-logo="https://i.imgur.com/PF3BP4X.png" group-title="匈牙利",Makoi Varosi Televizio (576p)
 http://makomedia.mikrohalo.hu/hls/makotv.m3u8
 
-#EXTINF:-1 tvg-id="MoraNetTV.hu@SD" tvg-logo="https://i.imgur.com/yT0RmKi.png" group-title="匈牙利",Móra-Net TV (576p)
+#EXTINF:-1 tvg-id="MoraNetTV.hu@SD" tvg-logo="https://i.imgur.com/yT0RmKi.png" group-title="匈牙利",Mora-Net TV (576p)
 https://stream.moranettv.hu/live/index.m3u8
 
 #EXTINF:-1 tvg-id="OroszlanyiVarosiTelevizio.hu" tvg-logo="https://i.imgur.com/P0fxUH5.png" group-title="匈牙利",Oroszlányi Városi Televízió
 https://cloudfront44.lexanetwork.com:1344/relay01/broadcast002.sdp/playlist.m3u8
 
-#EXTINF:-1 tvg-id="OrszaggyulesOGYplenaris.hu@SD" tvg-logo="https://i.imgur.com/hbblRpZ.png" group-title="匈牙利",Országgyűlés (Plenáris) (720p) [Not 24/7]
-http://plenaris.parlament.hu:1935/edgelive/smil:mkogyplen.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-id="OrszaggyulesOGYTAB.hu@SD" tvg-logo="https://i.imgur.com/hbblRpZ.png" group-title="匈牙利",Országgyűlés (Törvényalkotási bizottság) (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="OrszaggyulesOGYTAB.hu@SD" tvg-logo="https://i.imgur.com/hbblRpZ.png" group-title="匈牙利",Orszaggyules: OGY TAB (720p) [Not 24/7]
 http://tab.parlament.hu:1935/edgelive/smil:mkogytab.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="OrszaggyulesOGYplenaris.hu@SD" tvg-logo="https://i.imgur.com/hbblRpZ.png" group-title="匈牙利",Orszaggyules: OGY plenaris (720p) [Not 24/7]
+http://plenaris.parlament.hu:1935/edgelive/smil:mkogyplen.smil/playlist.m3u8
 
 #EXTINF:-1 group-title="匈牙利",Oxygen Music
 https://oxygenmusic.hu:2443/hls/oxygenmusic.m3u8
@@ -152,7 +164,7 @@ https://oxygenmusic.hu:2443/hls/oxygenmusic.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iD5tCjX.png" group-title="匈牙利",Pannon RTV
 https://stream2.nmih.hu:4102/live.m3u8
 
-#EXTINF:-1 tvg-id="PannonTV.rs@SD" tvg-logo="https://i.imgur.com/xQa2idL.png" group-title="匈牙利",Pannon RTV (648p)
+#EXTINF:-1 tvg-id="PannonTV.rs@SD" tvg-logo="https://i.imgur.com/xQa2idL.png" group-title="匈牙利",Pannon TV (648p)
 https://stream.nmih.hu:4102/live.m3u8
 
 #EXTINF:-1 group-title="匈牙利",Parlamenti TAB közvetítés
@@ -167,6 +179,9 @@ https://stream.streaming4u.hu/PilisTV/index.m3u8
 #EXTINF:-1 tvg-id="PVTV.hu" tvg-logo="https://i.imgur.com/eKXPBFb.png" group-title="匈牙利",Putnok Városi TV
 http://91.147.248.75:5080/LiveApp/streams/nvUds5LHykQyOVXZ1706907141950.m3u8
 
+#EXTINF:-1 tvg-id="RTLGold.hu@SD" tvg-logo="https://i.imgur.com/PwbLDUQ.png" group-title="匈牙利",RTL Gold (Hungary)
+https://budapest-cache-1.antik.sk/live/test_film_plus_2_hungary_1200_atk/playlist.m3u8
+
 #EXTINF:-1 tvg-id="RTLKlub.hu" tvg-logo="https://i.imgur.com/ruRshE1.png" group-title="匈牙利",RTL Klub
 http://88.212.15.19/live/test_rtl_klub_hungary_1200_atk/playlist.m3u8
 
@@ -176,16 +191,16 @@ https://www.youtube.com/@radio1hungary/live
 #EXTINF:-1 tvg-id="RadioDuna.cl@SD" tvg-logo="https://cdn.m3u.cl/logo/427_Radio_Duna.png" group-title="匈牙利",Radio Duna (720p)
 https://mdstrm.com/live-stream-playlist/67ed8a8d6db4af9a0188555c.m3u8
 
-#EXTINF:-1 tvg-id="RakosmenteTV.hu@SD" tvg-logo="https://i.imgur.com/n39a2DT.png" group-title="匈牙利",Rákosmente TV (720p)
+#EXTINF:-1 tvg-id="RakosmenteTV.hu@SD" tvg-logo="https://i.imgur.com/n39a2DT.png" group-title="匈牙利",Rakosmente TV (720p)
 http://rakosmentetv.hu:8080/hls/rmtv.m3u8
 
-#EXTINF:-1 tvg-id="RegioPluszTV.hu@SD" tvg-logo="https://i.imgur.com/VXPpukf.png" group-title="匈牙利",RégióPlusz TV (1080p) [Geo-blocked]
+#EXTINF:-1 tvg-id="RegioPluszTV.hu@SD" tvg-logo="https://i.imgur.com/VXPpukf.png" group-title="匈牙利",RegioPlusz TV (1080p) [Geo-blocked]
 https://stream.streaming4u.hu/RegioPluszTV/index.m3u8
 
 #EXTINF:-1 tvg-id="SpektrumHome.hu" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2d/Spektrum-home.png" group-title="匈牙利",Spektrum Home
 http://88.212.15.19/live/spektrum_home_hun/index.m3u8
 
-#EXTINF:-1 tvg-id="SzecsenyTV.hu@SD" tvg-logo="https://i.imgur.com/ilRmZtF.png" group-title="匈牙利",Szécsény TV (720p)
+#EXTINF:-1 tvg-id="SzecsenyTV.hu@SD" tvg-logo="https://i.imgur.com/ilRmZtF.png" group-title="匈牙利",Szecseny TV (720p)
 http://iptv.eurocable.co.hu/EC-SZECSENYTVHD/index.m3u8
 
 #EXTINF:-1 tvg-id="TVBudakalasz.hu@SD" tvg-logo="https://i.imgur.com/97xpqt0.png" group-title="匈牙利",TV Budakalasz (1080p) [Not 24/7]

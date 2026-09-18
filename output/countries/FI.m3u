@@ -1,7 +1,7 @@
 #EXTM3U
 #PLAYLIST: 芬兰 (FI) IPTV 直播源
-#生成时间: 2026-09-18 07:02:43
-#频道数: 45
+#生成时间: 2026-09-18 17:29:45
+#频道数: 40
 
 # ===== 芬兰 (FI) =====
 
@@ -44,14 +44,8 @@ https://live.streaming.a2d.tv/asset/20025962.isml/.m3u8
 #EXTINF:-1 tvg-id="MTV3.fi" tvg-logo="https://i.imgur.com/kNbmc8n.png" group-title="芬兰",MTV3
 https://live-fi.tvkaista.net/mtv3/live.m3u8?src=freetv
 
-#EXTINF:-1 tvg-id="MTV3.fi@SD" tvg-logo="https://i.imgur.com/C5rQbBM.png" group-title="芬兰",MTV3 (720p)
-https://live-fi.tvkaista.net/mtv3/live.m3u8
-
 #EXTINF:-1 tvg-id="NationalGeographicFinland.fi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/500px-Natgeologo.svg.png" group-title="芬兰",National Geographic Finland
 https://live-fi.tvkaista.net/national-geographic/live.m3u8?src=freetv
-
-#EXTINF:-1 tvg-id="NatureTime.ca@SD" tvg-logo="https://i.imgur.com/72JmyjM.png" group-title="芬兰",NatureTime Finland (1080p)
-https://bamusa-naturetime-emea-eng-rakuten.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Nelonen.fi" tvg-logo="https://i.imgur.com/BFbCyfY.png" group-title="芬兰",Nelonen
 https://live-fi.tvkaista.net/nelonen/live.m3u8?src=freetv
@@ -83,9 +77,6 @@ https://758ee983d61e400381dea6fa8154f4e0.mediatailor.eu-west-1.amazonaws.com/v1/
 #EXTINF:-1 tvg-id="RakutenTVTopMovies.es@Finland" tvg-logo="https://i.imgur.com/Meew6eX.png" group-title="芬兰",Rakuten TV Top Movies Finland (1080p)
 https://1d1b0d4cb6ae4c31985d13221795695b.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6057/master.m3u8
 
-#EXTINF:-1 tvg-id="STARChannel.fi@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/960px-Star_Channel_2020.svg.png" group-title="芬兰",STAR Channel (Finland) (720p)
-https://live-fi.tvkaista.net/star-channel/live.m3u8
-
 #EXTINF:-1 tvg-id="StarChannel.fi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/500px-Star_Channel_2020.svg.png" group-title="芬兰",Star Channel Finland
 https://live-fi.tvkaista.net/star-channel/live.m3u8?src=freetv
 
@@ -113,26 +104,20 @@ https://live-fi.tvkaista.net/tapahtumatv-eveo/live.m3u8?src=freetv
 #EXTINF:-1 tvg-id="ViaplayTV.fi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Viaplay_TV_logo.svg/500px-Viaplay_TV_logo.svg.png" group-title="芬兰",Viaplay TV
 https://live-fi.tvkaista.net/viaplay-tv/live.m3u8?src=freetv
 
-#EXTINF:-1 tvg-id="ViaplayTV.fi@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Viaplay_TV_logo.svg" group-title="芬兰",Viaplay TV (Finland) (720p) [Not 24/7]
-https://live-fi.tvkaista.net/viaplay-tv/live.m3u8?hd=true
-
 #EXTINF:-1 tvg-id="WorTV.fi" tvg-logo="https://i.imgur.com/P9O1jo0.png" group-title="芬兰",Wör TV
 https://www.youtube.com/@wor-tvr.f.4461/live
-
-#EXTINF:-1 tvg-id="YleTV1.fi@SD" tvg-logo="https://i.imgur.com/6yXZwUL.png" group-title="芬兰",YLE TV 1 (1080p) [Not 24/7]
-https://yletvworld.akamaized.net/hls/live/622540/yletv1w/index.m3u8
-
-#EXTINF:-1 tvg-id="YleTV2.fi@SD" tvg-logo="https://i.imgur.com/4xkc6PL.png" group-title="芬兰",YLE TV 2 (1080p) [Not 24/7]
-https://yletvworld.akamaized.net/hls/live/622541/yletv2w/index.m3u8
-
-#EXTINF:-1 tvg-id="YleTeemaFem.fi@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Yle_Teema_%26_Fem.svg/960px-Yle_Teema_%26_Fem.svg.png" group-title="芬兰",YLE TV Teema & Fem (1080p) [Not 24/7]
-https://yletvworld.akamaized.net/hls/live/622547/yletvteemafemw/index.m3u8
 
 #EXTINF:-1 tvg-id="YleTV1.fi" tvg-logo="https://i.imgur.com/6yXZwUL.png" group-title="芬兰",Yle TV1
 https://yletv.akamaized.net/hls/live/622365/yletv1fin/index.m3u8
 
+#EXTINF:-1 tvg-id="YleTV1.fi@SD" tvg-logo="https://i.imgur.com/6yXZwUL.png" group-title="芬兰",Yle TV1 (1080p) [Not 24/7]
+https://yletvworld.akamaized.net/hls/live/622540/yletv1w/index.m3u8
+
 #EXTINF:-1 tvg-id="YleTV2.fi" tvg-logo="https://i.imgur.com/4xkc6PL.png" group-title="芬兰",Yle TV2
 https://yletv.akamaized.net/hls/live/622366/yletv2fin/index.m3u8
+
+#EXTINF:-1 tvg-id="YleTeemaFem.fi@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Yle_Teema_%26_Fem.svg/960px-Yle_Teema_%26_Fem.svg.png" group-title="芬兰",Yle Teema & Fem (1080p) [Not 24/7]
+https://yletvworld.akamaized.net/hls/live/622547/yletvteemafemw/index.m3u8
 
 #EXTINF:-1 tvg-id="YleTeemaFem.fi" tvg-logo="https://i.imgur.com/iDljufz.png" group-title="芬兰",Yle Teema Fem
 https://yletv.akamaized.net/hls/live/622367/yletvteemafemfin/index.m3u8

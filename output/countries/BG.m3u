@@ -1,14 +1,14 @@
 #EXTM3U
 #PLAYLIST: 保加利亚 (BG) IPTV 直播源
-#生成时间: 2026-09-18 07:02:43
-#频道数: 26
+#生成时间: 2026-09-18 17:29:45
+#频道数: 32
 
 # ===== 保加利亚 (BG) =====
 
 #EXTINF:-1 tvg-id="AXNWhite.us@Bulgaria" tvg-logo="https://i.imgur.com/47IKxmt.png" group-title="保加利亚",AXN White Bulgaria (576p)
 http://hls127.freeott.top:8080/BG_AXN_White/video.m3u8
 
-#EXTINF:-1 tvg-id="AgroTV.bg@SD" tvg-logo="https://i.imgur.com/tPMNDtD.png" group-title="保加利亚",Agro TV (480p)
+#EXTINF:-1 tvg-id="AgroTV.bg@SD" tvg-logo="https://i.imgur.com/tPMNDtD.png" group-title="保加利亚",Agro TV (Bulgaria) (480p)
 https://restr2.bgtv.bg/agro/hls/agro.m3u8
 
 #EXTINF:-1 tvg-id="BNT1.bg" tvg-logo="https://i.imgur.com/7JU9b5j.png" group-title="保加利亚",BNT1
@@ -23,13 +23,13 @@ https://shift03.isp.bg/BNT3_HD/index.m3u8
 #EXTINF:-1 tvg-id="BNT4.bg" tvg-logo="https://i.imgur.com/Lw8b3yu.png" group-title="保加利亚",BNT4
 https://shift03.isp.bg/BNT4_HD/index.m3u8
 
-#EXTINF:-1 tvg-id="BTV.ug@SD" tvg-logo="https://i.imgur.com/rcHZ1al.png" group-title="保加利亚",BTV (480p)
+#EXTINF:-1 tvg-id="BTV.ug@SD" tvg-logo="https://i.imgur.com/rcHZ1al.png" group-title="保加利亚",BTV (Uganda) (480p)
 https://streamfi-alphadgtl1.zettawiseroutes.com:8181/hls/stream.m3u8
 
 #EXTINF:-1 tvg-id="BTVNews.kh@SD" tvg-logo="https://i.imgur.com/sUHiRj3.png" group-title="保加利亚",BTV News (720p)
 https://live-evg2.tv360.metfone.com.kh/livetest/bayontest.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="BTVPanama.pa@SD" tvg-logo="https://i.imgur.com/CiYVtgB.png" group-title="保加利亚",BTV Panamá (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="BTVPanama.pa@SD" tvg-logo="https://i.imgur.com/CiYVtgB.png" group-title="保加利亚",BTV Panama (720p) [Not 24/7]
 https://stream.oursnetworktv.com/latin/btvpanama/playlist.m3u8
 
 #EXTINF:-1 tvg-id="BulgariaOnAir.bg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/61/Bulgariaonair.png" group-title="保加利亚",Bulgaria On Air
@@ -47,11 +47,14 @@ https://cdn2.invivo.bg/Codefashion_5500/index.m3u8
 #EXTINF:-1 tvg-id="CodeHealthTV.bg@SD" tvg-logo="https://i.imgur.com/NXBMzGV.png" group-title="保加利亚",Code Health TV (1080p)
 https://cdn2.invivo.bg/codehealth_test/index.m3u8
 
+#EXTINF:-1 tvg-id="DSTV.bg@SD" tvg-logo="https://i.imgur.com/YMgzzkf.png" group-title="保加利亚",DSTV (Bulgaria) (614p) [Not 24/7]
+http://46.249.95.140:8081/hls/data.m3u8
+
+#EXTINF:-1 tvg-id="Eurocom.bg@SD" group-title="保加利亚",Eurocom (360p)
+https://live.ecomservice.bg/hls/stream.m3u8
+
 #EXTINF:-1 tvg-id="EuroNewsBulgaria.bg" tvg-logo="https://i.imgur.com/RrQVoOg.png" group-title="保加利亚",Euronews Bulgaria
 https://www.youtube.com/channel/UCU1i6qBMjY9El6q5L2OK8hA/live
-
-#EXTINF:-1 tvg-id="Eurocom.bg@SD" group-title="保加利亚",Evrokom (360p)
-https://live.ecomservice.bg/hls/stream.m3u8
 
 #EXTINF:-1 tvg-id="FILMBOXPlusLoveCrime.pl@Bulgaria" tvg-logo="https://spiintl.com/data/files/kcfinderUploadDir/images/filmboxplus/filmbox%2Blove-and-crime.png" group-title="保加利亚",FILMBOX+ Love & Crime Bulgaria (720p)
 http://hls127.freeott.top:8080/BG_FilmBox_Stars_HD/video.m3u8
@@ -62,11 +65,26 @@ http://hls127.freeott.top:8080/BG_Filmbox/video.m3u8
 #EXTINF:-1 tvg-id="HopeChannelBulgaria.bg@SD" tvg-logo="https://i.imgur.com/bxzeEML.png" group-title="保加利亚",Hope Channel Bulgaria
 https://hc1.hopetv.bg/live/hopetv_all.smil/playlist.m3u8
 
+#EXTINF:-1 tvg-id="LightChannel.bg@SD" tvg-logo="https://i.imgur.com/S3Fbf8T.png" group-title="保加利亚",Light Channel (Bulgaria) (480p) [Not 24/7]
+https://streamer1.streamhost.org/salive/GMIlcbgM/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MagicTV.bg@SD" tvg-logo="https://i.imgur.com/n7bcrrp.png" group-title="保加利亚",Magic TV (Bulgaria) (720p)
+https://bss1.neterra.tv/magictv/magictv.m3u8
+
 #EXTINF:-1 tvg-id="NovaNews.bg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fc/Nova_News_Bulgaria_logo.png" group-title="保加利亚",Nova News
 http://213.91.179.28:8000/play/a063
 
 #EXTINF:-1 tvg-id="NovaTV.bg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/NOVA_logo.svg/120px-NOVA_logo.svg.png" group-title="保加利亚",Nova TV
 http://213.91.179.28:8000/play/a03l
+
+#EXTINF:-1 tvg-id="StarChannel.bg@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/960px-Star_Channel_2020.svg.png" group-title="保加利亚",Star Channel (Bulgaria) (720p)
+http://hls127.freeott.top:8080/BG_FOX/video.m3u8
+
+#EXTINF:-1 tvg-id="StarCrime.bg@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Star_Crime_2023.svg/960px-Star_Crime_2023.svg.png" group-title="保加利亚",Star Crime (Bulgaria) (720p)
+http://hls127.freeott.top:8080/BG_FOX_Crime/video.m3u8
+
+#EXTINF:-1 tvg-id="StarLife.bg@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Star_Life_2021.svg/960px-Star_Life_2021.svg.png" group-title="保加利亚",Star Life (Bulgaria) (720p)
+http://hls127.freeott.top:8080/BG_FOX_Life/video.m3u8
 
 #EXTINF:-1 tvg-id="TVSpravedlivaBulgariya.bg@SD" tvg-logo="https://tvsb.bg/theme/images/logo.png" group-title="保加利亚",TV Spravedliva Bulgariya
 https://tv.tvsb.bg/112.m3u8

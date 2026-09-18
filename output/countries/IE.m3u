@@ -1,18 +1,18 @@
 #EXTM3U
 #PLAYLIST: 爱尔兰 (IE) IPTV 直播源
-#生成时间: 2026-09-18 07:02:43
-#频道数: 22
+#生成时间: 2026-09-18 17:29:45
+#频道数: 23
 
 # ===== 爱尔兰 (IE) =====
 
 #EXTINF:-1 tvg-id="98fm.com" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/98FM_2022.svg/1920px-98FM_2022.svg.png" group-title="爱尔兰",98FM
 https://live-bauerie.sharp-stream.com/98
 
-#EXTINF:-1 tvg-id="BBCOne.uk@NorthernIrelandHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/960px-BBC_One_logo_2021.svg.png" group-title="爱尔兰",BBC One Northern Ireland HD (1080p) (HEVC) [Geo-blocked]
-https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_northern_ireland_hd/hevc_iptv_mse_v0.mpd
-
-#EXTINF:-1 tvg-id="BBCOne.uk@NorthernIreland" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/960px-BBC_One_logo_2021.svg.png" group-title="爱尔兰",BBC One Northern Ireland HD (720p) [Geo-blocked]
+#EXTINF:-1 tvg-id="BBCOne.uk@NorthernIreland" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/960px-BBC_One_logo_2021.svg.png" group-title="爱尔兰",BBC One Northern Ireland (720p) [Geo-blocked]
 https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_northern_ireland_hd/pc_hd_abr_v2.mpd
+
+#EXTINF:-1 tvg-id="BBCOne.uk@NorthernIrelandHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/960px-BBC_One_logo_2021.svg.png" group-title="爱尔兰",BBC One Northern Ireland HD [Geo-blocked]
+https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_northern_ireland_hd/hevc_iptv_mse_v0.mpd
 
 #EXTINF:-1 tvg-id="BBCTwo.uk@NorthernIreland" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/BBC_Two_logo_2021.svg/960px-BBC_Two_logo_2021.svg.png" group-title="爱尔兰",BBC Two Northern Ireland (540p) [Geo-blocked]
 https://vs-hls-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_two_northern_ireland_hd/pc_hd_abr_v2.m3u8
@@ -46,6 +46,9 @@ https://live.rte.ie/live/a/channel2/channel2.isml/channel2.m3u8
 
 #EXTINF:-1 tvg-id="www.nova.ie" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a1/Nova-web1-228x150.jpg" group-title="爱尔兰",Radio Nova
 https://playerservices.streamtheworld.com/api/livestream-redirect/RADIONOVA.mp3
+
+#EXTINF:-1 tvg-id="SkySportsCricket.ie@SD" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1302.png" group-title="爱尔兰",Sky Sports Cricket (Ireland) (1080p)
+https://leaf.highfly.dev/m3u/now-sky-sports-cricket/live.m3u8
 
 #EXTINF:-1 tvg-id="spin1038.com" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2e/Spin_400x400.png" group-title="爱尔兰",Spin 103.8
 https://live-bauerie.sharp-stream.com/SP

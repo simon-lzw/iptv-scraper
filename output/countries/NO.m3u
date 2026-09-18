@@ -1,15 +1,15 @@
 #EXTM3U
 #PLAYLIST: 挪威 (NO) IPTV 直播源
-#生成时间: 2026-09-18 07:02:43
+#生成时间: 2026-09-18 17:29:45
 #频道数: 13
 
 # ===== 挪威 (NO) =====
 
-#EXTINF:-1 tvg-id="AnGiangTV2.vn@SD" tvg-logo="https://i.imgur.com/efrauLr.png" group-title="挪威",An Giang TV2 (1080p) [Geo-blocked]
-https://tv.angiangtv.vn/live/kgtv2/kgtv2.m3u8
-
 #EXTINF:-1 tvg-id="DVBTV.mm@SD" tvg-logo="https://i.imgur.com/VdezHOv.png" group-title="挪威",DVB TV (720p) [Geo-blocked]
 https://live-stream.dvb.no/hls/stream_src/index.m3u8
+
+#EXTINF:-1 tvg-id="DaNangTV2.vn@SD" group-title="挪威",Da Nang TV2 (1080p) [Not 24/7]
+https://live.mediatech.vn/live/2859145290d0d7947ef88b6240123b62474/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="FarosTV2.gr@SD" tvg-logo="https://i.imgur.com/7xtz1Jo.png" group-title="挪威",Faros TV2 (480p) [Geo-blocked]
 https://s1.cystream.net/live/faros2/playlist.m3u8
@@ -23,7 +23,7 @@ https://www.youtube.com/c/Kanal10Norge/live
 #EXTINF:-1 tvg-id="NRKSuper.no" tvg-logo="https://i.imgur.com/xIATe2T.png" group-title="挪威",NRK Super
 https://nrk-live-no.akamaized.net/nrksuper/muxed.m3u8
 
-#EXTINF:-1 tvg-id="NRKTegnsprak.no@SD" tvg-logo="https://i.imgur.com/VCpWG3h.png" group-title="挪威",NRK Tegnspråk (1080i) [Geo-blocked]
+#EXTINF:-1 tvg-id="NRKTegnsprak.no@SD" tvg-logo="https://i.imgur.com/VCpWG3h.png" group-title="挪威",NRK Tegnsprak (1080i) [Geo-blocked]
 https://nrk-live-no.akamaized.net/nrk_tegnspraak/muxed.m3u8
 
 #EXTINF:-1 tvg-id="NRK1.no" tvg-logo="https://i.imgur.com/9tj8ds7.png" group-title="挪威",NRK1
@@ -38,9 +38,9 @@ https://nrk-live-no.akamaized.net/nrk3/muxed.m3u8
 #EXTINF:-1 tvg-id="RTHTV2Gospel.us@SD" tvg-logo="https://i.imgur.com/4z0FiEA.png" group-title="挪威",RTH-TV2 Gospel (720p)
 https://2-fss-2.streamhoster.com/pl_120/amlst:206708-4202592/playlist.m3u8
 
-#EXTINF:-1 tvg-id="DaNangTV2.vn@SD" group-title="挪威",Đà Nẵng TV2 (1080p) [Not 24/7]
-https://live.mediatech.vn/live/2859145290d0d7947ef88b6240123b62474/chunklist.m3u8
+#EXTINF:-1 tvg-id="TV2.dz@SD" tvg-logo="https://i.imgur.com/VEb631f.png" group-title="挪威",TV2 (Algeria) (1080p)
+http://185.9.2.18/chid_347/index.m3u8
 
-#EXTINF:-1 tvg-id="TienGiangTV.vn@SD" tvg-logo="https://i.imgur.com/yonKxgZ.png" group-title="挪威",Đồng Tháp TV2 (540p)
-https://618b88f69e53b.streamlock.net/THDT2/thdttv2/chunklist.m3u8
+#EXTINF:-1 tvg-id="YleTV2.fi@SD" tvg-logo="https://i.imgur.com/4xkc6PL.png" group-title="挪威",Yle TV2 (1080p) [Not 24/7]
+https://yletvworld.akamaized.net/hls/live/622541/yletv2w/index.m3u8
 

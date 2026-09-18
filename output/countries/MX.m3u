@@ -1,7 +1,7 @@
 #EXTM3U
 #PLAYLIST: 墨西哥 (MX) IPTV 直播源
-#生成时间: 2026-09-18 07:02:43
-#频道数: 41
+#生成时间: 2026-09-18 17:29:45
+#频道数: 49
 
 # ===== 墨西哥 (MX) =====
 
@@ -10,6 +10,9 @@ https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
 
 #EXTINF:-1 tvg-id="AXNLatinAmerica.us@Mexico" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png" group-title="墨西哥",AXN Latin America Mexico
 http://190.11.225.124:5000/live/axn_hd/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AlcanceTV.mx@SD" tvg-logo="https://i.imgur.com/5nYjRlb.png" group-title="墨西哥",Alcance TV (Mexico) (720p)
+https://5bf8041cb3fed.streamlock.net/AlcanceTV/AlcanceTV/playlist.m3u8
 
 #EXTINF:-1 tvg-id="AlcarriaTV.es" tvg-logo="https://i.imgur.com/zNSuxVZ.jpg" group-title="墨西哥",Alcarria TV
 http://cls.alcarria.tv/live/alcarriatv-livestream.m3u8
@@ -23,10 +26,13 @@ https://mdstrm.com/live-stream-playlist/65a1d2fd7e7f14355550d570.m3u8
 #EXTINF:-1 tvg-id="AztecaInternacional.mx@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/eb/Azteca_Internacional_logo_2023.png" group-title="墨西哥",Azteca Internacional (1080p)
 https://azt-mun.otteravision.com/azt/mun/mun.m3u8
 
-#EXTINF:-1 tvg-id="Canal5.mx@SD" tvg-logo="https://i.imgur.com/uZdVSoW.png" group-title="墨西哥",Canal 5 (1080p)
+#EXTINF:-1 tvg-id="Canal26.mx@SD" tvg-logo="https://i.imgur.com/PAvnVN9.png" group-title="墨西哥",Canal 26 (Mexico) (1080p)
+https://60417ddeaf0d9.streamlock.net/telemetrika3/smil:telemetrika3.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Canal5.mx@SD" tvg-logo="https://i.imgur.com/uZdVSoW.png" group-title="墨西哥",Canal 5 (Mexico) (1080p)
 http://45.181.87.106/CANAL5HD/index.m3u8
 
-#EXTINF:-1 tvg-id="Canal5.uy@SD" tvg-logo="https://i.imgur.com/IpYxSr1.png" group-title="墨西哥",Canal 5 (720p)
+#EXTINF:-1 tvg-id="Canal5.uy@SD" tvg-logo="https://i.imgur.com/IpYxSr1.png" group-title="墨西哥",Canal 5 (Uruguay) (720p)
 https://tinyurl.com/canal5uy
 
 #EXTINF:-1 tvg-id="Canal5DelPueblo.ar@SD" tvg-logo="https://i.ibb.co/XzcYYMc/Canal-5-alcorta-ver.jpg" group-title="墨西哥",Canal 5 Del Pueblo [Not 24/7]
@@ -77,6 +83,9 @@ https://igd-it-runtime.otteravision.com/igd/it/it.m3u8
 #EXTINF:-1 tvg-id="JacalCanal5.gt@SD" tvg-logo="https://i.imgur.com/k1oW0C6.png" group-title="墨西哥",Jacal Canal 5 (720p) [Not 24/7]
 https://stream.oursnetworktv.com/latin/jacaltv/playlist.m3u8
 
+#EXTINF:-1 tvg-id="JusticiaTV.mx@SD" tvg-logo="https://i.imgur.com/zyAS1hk.png" group-title="墨西哥",Justicia TV (Mexico) (720p)
+https://live-scjn.ovp-vivaro.digital/ovp-origin/638a22b47746d/playlist.m3u8
+
 #EXTINF:-1 tvg-id="Lasestrellas.tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/Las_Estrellas.svg" group-title="墨西哥",Las Estrellas
 https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
 
@@ -86,10 +95,7 @@ http://15.204.246.24:8080/LasEstrellasHD/index.m3u8
 #EXTINF:-1 tvg-id="MVMNoticias.mx" tvg-logo="https://i.imgur.com/dhLXN9n.png" group-title="墨西哥",MVM Noticias
 http://dcunilive21-lh.akamaihd.net/i/dclive_1@59479/index_1_av-p.m3u8
 
-#EXTINF:-1 tvg-id="MariaVision.mx@SD" tvg-logo="https://i.imgur.com/GylOPxE.png" group-title="墨西哥",María Visión Mexico (360p) [Not 24/7]
-https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Mariavision/master.m3u8
-
-#EXTINF:-1 tvg-id="MyTimeMovieNetwork.mx@SD" tvg-logo="https://i.imgur.com/pw4NZK1.png" group-title="墨西哥",MyTime Movie Network Mexico (720p)
+#EXTINF:-1 tvg-id="MyTimeMovieNetwork.mx@SD" tvg-logo="https://i.imgur.com/pw4NZK1.png" group-title="墨西哥",MyTime Movie Network (Mexico) (720p)
 https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="MexicoTravelTV.mx" tvg-logo="https://graph.facebook.com/MexicoTravelChannelTV/picture?width=200&height=200" group-title="墨西哥",México Travel TV
@@ -100,6 +106,12 @@ https://59e88b197fb16.streamlock.net:4443/live/canal4/playlist.m3u8
 
 #EXTINF:-1 tvg-id="NuestraImagenTV.gt@SD" tvg-logo="https://i.imgur.com/sknLXZI.jpeg" group-title="墨西哥",Nuestra Imagen TV
 https://live.tvcontrolcp.com:1936/tvnitelevision/tvnitelevision/playlist.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVNovelasdeMexico.us@LatAm" tvg-logo="https://images.pluto.tv/channels/6474a7958e3c0a0008b97cae/colorLogoPNG_1765475296297.png" group-title="墨西哥",Pluto TV Novelas de Mexico
+https://jmp2.uk/plu-6474a7958e3c0a0008b97cae.m3u8
+
+#EXTINF:-1 tvg-id="PresumiendoMexico.mx@SD" tvg-logo="https://i.imgur.com/bFG4Rqz.png" group-title="墨西哥",Presumiendo Mexico (720p)
+https://60417ddeaf0d9.streamlock.net/telemetrika/smil:telemetrika.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="QuieroTV.mx" tvg-logo="https://graph.facebook.com/quierotvGDL/picture?width=200&height=200" group-title="墨西哥",Quiero TV
 https://stream.ontvmx.com/ontv/ghxTYEQmKkB2UJyVuW/playlist.m3u8
@@ -116,15 +128,27 @@ https://webprod.sipse.com.mx:8080/show/tvcun.m3u8
 #EXTINF:-1 tvg-id="Tele10Nayarit.mx" tvg-logo="https://graph.facebook.com/Tele10Nayarit/picture?width=200&height=200" group-title="墨西哥",TELE 10 Nayarit
 https://live.iplanay.gob.mx/hls/nayarittv.m3u8
 
+#EXTINF:-1 tvg-id="TUDN.mx@SD" tvg-logo="https://i.imgur.com/oT5CAvd.png" group-title="墨西哥",TUDN (Mexico) (1080p)
+https://streaming.alwaysdata.net/tudn.php
+
 #EXTINF:-1 tvg-id="TVBUAP.mx@SD" tvg-logo="https://i.imgur.com/hHrIn0r.png" group-title="墨西哥",TV BUAP (1080p)
 https://tvenvivo.buap.mx/livestream/stream/index.m3u8
 
 #EXTINF:-1 tvg-id="TeleFormula.mx" tvg-logo="https://i.imgur.com/jR6taXt.png" group-title="墨西哥",TeleFormula
 https://mdstrm.com/live-stream-playlist/62f2c855f7981b5a5a2d8763.m3u8
 
+#EXTINF:-1 tvg-id="Telemax.mx@XEWHTDT" tvg-logo="https://i.imgur.com/klhTyDU.png" group-title="墨西哥",Telemax (Mexico) XEWH-TDT (1080p)
+https://s5.mexside.net:1936/telemax/telemax/playlist.m3u8
+
 #EXTINF:-1 tvg-id="TeleplaySureste.mx@SD" tvg-logo="https://i.imgur.com/MeV5N08.png" group-title="墨西哥",Teleplay Sureste (720p)
 https://player.tvstream.mx/livestream/teleplay/livehd/playlist.m3u8
 
+#EXTINF:-1 tvg-id="ThePetCollective.us@Mexico" tvg-logo="https://i.imgur.com/yH7n2dF.png" group-title="墨西哥",The Pet Collective Mexico (720p)
+https://the-pet-collective-international-mx.samsung.wurl.tv/playlist.m3u8
+
 #EXTINF:-1 tvg-id="UnisonTV.mx@SD" tvg-logo="https://i.imgur.com/7ixWRId.png" group-title="墨西哥",Unison TV (1080p) [Not 24/7]
 https://stream.unison.mx/hls/unisontvatem.m3u8
+
+#EXTINF:-1 tvg-id="WeatherSpy.mx@SD" tvg-logo="https://i.imgur.com/KIEKOt1.png" group-title="墨西哥",WeatherSpy (Mexico) (720p)
+https://jukin-weatherspy-2-mx.samsung.wurl.tv/playlist.m3u8
 

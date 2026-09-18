@@ -1,11 +1,11 @@
 #EXTM3U
 #PLAYLIST: 新西兰 (NZ) IPTV 直播源
-#生成时间: 2026-09-18 07:02:43
+#生成时间: 2026-09-18 17:29:45
 #频道数: 12
 
 # ===== 新西兰 (NZ) =====
 
-#EXTINF:-1 tvg-id="BBCThree.uk@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/BBC_Three_2022.svg/960px-BBC_Three_2022.svg.png" group-title="新西兰",BBC Three HD (720p) [Geo-blocked]
+#EXTINF:-1 tvg-id="BBCThree.uk@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/BBC_Three_2022.svg/960px-BBC_Three_2022.svg.png" group-title="新西兰",BBC Three (720p) [Geo-blocked]
 https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_three_hd/iptv_hd_abr_v1.mpd
 
 #EXTINF:-1 tvg-id="BBCThreeCBBC.uk@HD" tvg-logo="https://i.imgur.com/CGXC5fp.png" group-title="新西兰",BBC Three/CBBC (720p)
@@ -17,7 +17,7 @@ https://juicex.nz/hls/mystream.m3u8
 #EXTINF:-1 tvg-id="KordiaTV.nz@SD" tvg-logo="https://i.imgur.com/BQ0qWzX.png" group-title="新西兰",Kordia TV (1080p)
 https://ptvlive.kordia.net.nz/out/v1/3fc2254c865a457c8d7fbbce227a2aae/index.m3u8
 
-#EXTINF:-1 tvg-id="ParliamentTV.nz@SD" tvg-logo="https://i.imgur.com/2aHW4q7.png" group-title="新西兰",Parliament TV (1080p)
+#EXTINF:-1 tvg-id="ParliamentTV.nz@SD" tvg-logo="https://i.imgur.com/2aHW4q7.png" group-title="新西兰",Parliament TV (New Zealand) (1080p)
 https://ptvlive.kordia.net.nz/out/v1/daf20b9a9ec5449dadd734e50ce52b74/index.m3u8
 
 #EXTINF:-1 tvg-id="TVNZ1.nz@SD" tvg-logo="https://i.imgur.com/Nx76HUE.png" group-title="新西兰",TVNZ 1 [Geo-blocked]
@@ -26,13 +26,13 @@ https://d2ce82tpc3p734.cloudfront.net/v1/master/b1f4432f8f95be9e629d97baabfed15b
 #EXTINF:-1 tvg-id="TVNZ2.nz@SD" tvg-logo="https://i.imgur.com/9sV4dbH.png" group-title="新西兰",TVNZ 2 [Geo-blocked]
 https://duoak7vltfob0.cloudfront.net/v1/master/b1f4432f8f95be9e629d97baabfed15b8cacd1f8/TVNZ_2/master.m3u8
 
-#EXTINF:-1 tvg-id="TVNZDUKE.nz@SD" tvg-logo="https://i.imgur.com/tJf9DEI.png" group-title="新西兰",TVNZ Duke [Geo-blocked]
+#EXTINF:-1 tvg-id="TVNZDUKE.nz@SD" tvg-logo="https://i.imgur.com/tJf9DEI.png" group-title="新西兰",TVNZ DUKE [Geo-blocked]
 https://dayqb844napyo.cloudfront.net/v1/master/b1f4432f8f95be9e629d97baabfed15b8cacd1f8/TVNZ_Duke/master.m3u8
 
 #EXTINF:-1 tvg-id="TeReo.nz@SD" tvg-logo="https://i.imgur.com/3CNvYUN.png" group-title="新西兰",Te Reo (1080p)
 https://i.mjh.nz/.r/te-reo.m3u8
 
-#EXTINF:-1 tvg-id="ThreesCompany.us@CA" tvg-logo="https://images.pluto.tv/channels/64ca723a2bc49300081a8966/colorLogoPNG.png" group-title="新西兰",Three's Company (720p)
+#EXTINF:-1 tvg-id="ThreesCompany.us@CA" tvg-logo="https://images.pluto.tv/channels/64ca723a2bc49300081a8966/colorLogoPNG.png" group-title="新西兰",Three's Company CA (720p)
 https://jmp2.uk/plu-64ca723a2bc49300081a8966.m3u8
 
 #EXTINF:-1 tvg-id="WairarapaTV.nz@SD" tvg-logo="https://i.imgur.com/xm4KBwE.png" group-title="新西兰",Wairarapa TV (1080p) [Not 24/7]

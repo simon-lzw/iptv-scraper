@@ -1,7 +1,7 @@
 #EXTM3U
 #PLAYLIST: 乌克兰 (UA) IPTV 直播源
-#生成时间: 2026-09-18 07:02:43
-#频道数: 77
+#生成时间: 2026-09-18 17:29:45
+#频道数: 82
 
 # ===== 乌克兰 (UA) =====
 
@@ -20,20 +20,23 @@ http://stream.mcquack.net/173/index.m3u8
 #EXTINF:-1 tvg-id="24Kanal.ua" tvg-logo="https://pbs.twimg.com/profile_images/1498285886714298374/EMSJzC-0_400x400.jpg" group-title="乌克兰",24 Kanal
 http://streamvideol1.luxnet.ua/news24/smil:news24.stream.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Channel24.ua@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/24_Group_Ukraine_04.png/960px-24_Group_Ukraine_04.png" group-title="乌克兰",24 Канал (1080p)
-https://streamvideol1.luxnet.ua/news24/smil:news24.stream.smil/playlist.m3u8
-
 #EXTINF:-1 tvg-id="5Kanal.ua" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Logo_5_Channel.svg/500px-Logo_5_Channel.svg.png" group-title="乌克兰",5 Kanal
 http://stream.mcquack.net/291/index.m3u8
 
 #EXTINF:-1 tvg-id="Avers.ua@SD" tvg-logo="https://i.imgur.com/rHHz94D.png" group-title="乌克兰",Avers (480p)
 https://avers.pp.ua/hls/efir.m3u8
 
-#EXTINF:-1 tvg-id="BamBarBiaTV.ua@SD" tvg-logo="https://i.imgur.com/zdRvy87.png" group-title="乌克兰",BamBarBia TV (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="BamBarBiaTV.ua@SD" tvg-logo="https://i.imgur.com/zdRvy87.png" group-title="乌克兰",BamBarBia.TV (720p) [Not 24/7]
 http://cdn1.live-tv.od.ua:8081/bbb/bbbtv-abr/playlist.m3u8
 
 #EXTINF:-1 tvg-id="SK1.ua" tvg-logo="https://i.imgur.com/XiXwr5h.png" group-title="乌克兰",CK 1
 http://cdn10.live-tv.od.ua:8081/sk1zt/sk1zt-abr/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ChPinfo.ua@SD" tvg-logo="https://i.imgur.com/2cYzroj.png" group-title="乌克兰",ChP info (576p)
+http://edge3.iptv.macc.com.ua/life/magnolia_3/index.m3u8
+
+#EXTINF:-1 tvg-id="Channel24.ua@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/24_Group_Ukraine_04.png/960px-24_Group_Ukraine_04.png" group-title="乌克兰",Channel 24 (Ukraine) (1080p)
+https://streamvideol1.luxnet.ua/news24/smil:news24.stream.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Channel7Ukraine.ua@SD" tvg-logo="https://i.imgur.com/9Ll0BIo.png" group-title="乌克兰",Channel 7 Ukraine (720p)
 http://cdn10.live-tv.od.ua:8081/7tvod/7tvod-abr/7tvod/7tvod/playlist.m3u8
@@ -62,9 +65,6 @@ http://dtv.vol.net.ua/History_HD/index.m3u8
 #EXTINF:-1 tvg-id="History2Ukraine.ua@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/History2_logo_%282022%29.svg/960px-History2_logo_%282022%29.svg.png" group-title="乌克兰",History2 Ukraine (360p)
 http://dtv.vol.net.ua/H2-HD/index.m3u8
 
-#EXTINF:-1 tvg-id="ICTV.ke@SD" tvg-logo="https://i.imgur.com/0kMhqK3.png" group-title="乌克兰",ICTV (480p) [Not 24/7]
-https://goliveafrica.media:9998/live/659a7f33bed3f/index.m3u8
-
 #EXTINF:-1 tvg-id="ICTVSerialy.ua" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7a/ICTV_Serialy_%282024%29.png" group-title="乌克兰",ICTV Serialy
 http://cdnua05.hls.tv/624/hls/f62d71219200da4130d13b21d23fb23c/4896/stream.m3u8
 
@@ -80,7 +80,7 @@ http://cdn10.live-tv.od.ua:8081/itvrv/abr/playlist.m3u8
 #EXTINF:-1 tvg-id="Inter.ua" tvg-logo="https://i.imgur.com/R06gbuT.png" group-title="乌克兰",Inter
 http://stream.mcquack.net/174/index.m3u8
 
-#EXTINF:-1 tvg-id="InterTV.it@SD" tvg-logo="https://i.imgur.com/FUTqh2L.png" group-title="乌克兰",Inter TV (1080p)
+#EXTINF:-1 tvg-id="InterTV.it@SD" tvg-logo="https://i.imgur.com/FUTqh2L.png" group-title="乌克兰",Inter TV (Italy) (1080p)
 https://d3k8wzt41aflvx.cloudfront.net/INTERTV/Live.m3u8
 
 #EXTINF:-1 tvg-id="K1.ua" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/K1_Logo_2014.svg/500px-K1_Logo_2014.svg.png" group-title="乌克兰",K1
@@ -92,14 +92,29 @@ https://api-tv.ipnet.ua/api/v1/manifest/1293296300.m3u8
 #EXTINF:-1 tvg-id="M2.ua" tvg-logo="https://i.imgur.com/AfcBWCg.png" group-title="乌克兰",M2
 http://stream.mcquack.net/330/index.m3u8
 
+#EXTINF:-1 tvg-id="Mega.ua@SD" tvg-logo="https://i.imgur.com/Hsr0EvO.png" group-title="乌克兰",Mega (Ukraine) (1080p)
+http://stream.mcquack.net/325/index.m3u8
+
 #EXTINF:-1 tvg-id="NTKTV.ua" tvg-logo="https://www.ntktv.ua/bitrix/templates/ntk_copy/images/logo.png" group-title="乌克兰",NTK TV
 http://stream.ntktv.ua/s/ntk/ntk.m3u8
+
+#EXTINF:-1 tvg-id="NTKTV.ua@SD" tvg-logo="https://www.ntktv.ua/bitrix/templates/ntk_copy/images/logo.png" group-title="乌克兰",NTK TV (1080p) [Not 24/7]
+https://stream.ntktv.ua/s/ntk/ntk.m3u8
 
 #EXTINF:-1 tvg-id="NTN.ua" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/NTNUA_logo_%282013%29.svg/500px-NTNUA_logo_%282013%29.svg.png" group-title="乌克兰",NTN
 https://cdn15.live-tv.cloud/ua_infinitas_tv/ntn-abr/playlist.m3u8
 
 #EXTINF:-1 tvg-id="NovyKanal.ua" tvg-logo="https://i.imgur.com/4JhqpPM.png" group-title="乌克兰",Novyi Kanal
 http://stream.mcquack.net/157/index.m3u8
+
+#EXTINF:-1 tvg-id="OTV.ua@SD" tvg-logo="https://i.imgur.com/TkGGGAj.png" group-title="乌克兰",OTV (Ukraine)
+https://stream.otv.ua/memfs/028e5947-073f-4b4e-a47f-70e59ca3ee36.m3u8
+
+#EXTINF:-1 tvg-id="OrbitaTV.ua@SD" tvg-logo="https://i.ibb.co/Bj4T9wB/logo-Orbita-fin14.png" group-title="乌克兰",Orbita TV (360p) [Not 24/7]
+http://ftp.orbita.dn.ua/hls/orbita.m3u8
+
+#EXTINF:-1 tvg-id="PTV.ua@SD" tvg-logo="https://i.imgur.com/WDHoSVz.png" group-title="乌克兰",PTV (Ukraine) (720p)
+https://cdn15.live-tv.cloud/ua_infinitas_tv/hrpl-abr/playlist.m3u8
 
 #EXTINF:-1 tvg-id="PershiyXTVMedia.ua@SD" tvg-logo="https://i.imgur.com/M7oDym3.png" group-title="乌克兰",Pershiy XTV Media (576p)
 https://hls.xtvmedia.pp.ua:8443/hls/trk1tv.m3u8
@@ -110,8 +125,14 @@ https://api-tv.ipnet.ua/api/v1/manifest/2118742505.m3u8
 #EXTINF:-1 tvg-id="PervyygorodskoyOdessa.ua" tvg-logo="https://i.imgur.com/8qdc6aO.png" group-title="乌克兰",Pervyy gorodskoy Odessa
 https://live.1tv.od.ua/stream1/channel1/playlist.m3u8
 
+#EXTINF:-1 tvg-id="PixelTV.ua@SD" tvg-logo="https://i.imgur.com/ECro8Ah.png" group-title="乌克兰",Pixel TV (Ukraine) (1080p)
+http://stream.mcquack.net/323/index.m3u8
+
 #EXTINF:-1 tvg-id="Prokino.ua@SD" tvg-logo="https://i.imgur.com/Vm9nbi8.png" group-title="乌克兰",Prokino (360p)
 http://dtv.vol.net.ua/ProKino/index.m3u8
+
+#EXTINF:-1 tvg-id="Reporter.ua@SD" tvg-logo="https://i.imgur.com/LyA3kBR.png" group-title="乌克兰",Reporter (720p)
+http://cdn1.live-tv.od.ua:8081/31chod/31chod-abr/31chod/31chod/playlist.m3u8
 
 #EXTINF:-1 tvg-id="SK1.ua@SD" tvg-logo="https://i.imgur.com/XiXwr5h.png" group-title="乌克兰",SK 1 (720p)
 http://cdn10.live-tv.od.ua:8081/sk1zt/sk1zt720p/playlist.m3u8
@@ -140,6 +161,9 @@ http://stream.mcquack.net/338/index.m3u8
 #EXTINF:-1 tvg-id="TV7Plus.ua" tvg-logo="https://i.imgur.com/PcTDZ8e.png" group-title="乌克兰",TV7+
 https://tv7plus.com/hls/tv7_site.m3u8
 
+#EXTINF:-1 tvg-id="TVA.ua@SD" tvg-logo="https://i.imgur.com/PtTQ5lv.png" group-title="乌克兰",TVA (Ukraine) (576p)
+http://hls.cdn.ua/tva.ua_live/livestream/chunklist_w396178779.m3u8
+
 #EXTINF:-1 tvg-id="TelekanalRAI.ua" tvg-logo="https://i.imgur.com/Ouv51WB.png" group-title="乌克兰",Telekanal RAI
 https://stream.rai.ua/rai/stream.m3u8
 
@@ -149,8 +173,11 @@ https://televsesvit.cdn-04.cosmonova.net.ua/hls/televsesvit_ua_hi/index.m3u8
 #EXTINF:-1 tvg-id="UPLTV.ua@SD" tvg-logo="https://s4.vcdn.biz/static/f/9219528031/image.jpg" group-title="乌克兰",UPL.TV
 http://dtv.vol.net.ua/UPL-TV/index.m3u8
 
-#EXTINF:-1 tvg-id="ViasatExplore.ua@SD" tvg-logo="https://i.imgur.com/RBqKj6R.png" group-title="乌克兰",Viasat Explore (576p)
+#EXTINF:-1 tvg-id="ViasatExplore.ua@SD" tvg-logo="https://i.imgur.com/RBqKj6R.png" group-title="乌克兰",Viasat Explore (Ukraine) (576p)
 http://dtv.vol.net.ua/Viasat-Explore/index.m3u8
+
+#EXTINF:-1 tvg-id="ViasatHistory.ua@SD" tvg-logo="https://i.imgur.com/39qZ68J.png" group-title="乌克兰",Viasat History (Ukraine) (1080p)
+http://hls127.freeott.top:8080/VIASAT_EXPLORE_HD_CEE/video.m3u8
 
 #EXTINF:-1 tvg-id="ViasatKino.ua@SD" tvg-logo="https://i.imgur.com/io0WAkA.png" group-title="乌克兰",Viasat Kino (576p)
 http://dtv.vol.net.ua/Viasat_Kino/index.m3u8
@@ -161,7 +188,7 @@ http://dtv.vol.net.ua/Viasat_Kino_Action_HD/index.m3u8
 #EXTINF:-1 tvg-id="XSport.ua" tvg-logo="https://i.imgur.com/CHDcfrT.png" group-title="乌克兰",XSport
 http://cdnua05.hls.tv/946/hls/8743361621b245838bee193c9ec28322/3999/stream.m3u8
 
-#EXTINF:-1 tvg-id="Z.ua@SD" tvg-logo="https://i.imgur.com/E5aV5aa.png" group-title="乌克兰",Z (Запорожье) (1080p)
+#EXTINF:-1 tvg-id="Z.ua@SD" tvg-logo="https://i.imgur.com/E5aV5aa.png" group-title="乌克兰",Z (1080p)
 https://stream.ztv.zp.ua/hls/live.m3u8
 
 #EXTINF:-1 tvg-id="ArmyTV.ua" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/ArmyTV_logo_%282023%29.svg/500px-ArmyTV_logo_%282023%29.svg.png" group-title="乌克兰",Армія ТБ
@@ -178,12 +205,6 @@ http://vcdn1.produck.company:1935/out/dtv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Kyiv.ua" tvg-logo="https://i.imgur.com/TVuCY4N.png" group-title="乌克兰",Київ 24
 https://ext.cdn.nashnet.tv/228.0.0.15/index.m3u8
-
-#EXTINF:-1 tvg-id="NTKTV.ua@SD" tvg-logo="https://www.ntktv.ua/bitrix/templates/ntk_copy/images/logo.png" group-title="乌克兰",НТК ТВ (1080p) [Not 24/7]
-https://stream.ntktv.ua/s/ntk/ntk.m3u8
-
-#EXTINF:-1 tvg-id="OrbitaTV.ua@SD" tvg-logo="https://i.ibb.co/Bj4T9wB/logo-Orbita-fin14.png" group-title="乌克兰",Орбіта ТВ (360p) [Not 24/7]
-http://ftp.orbita.dn.ua/hls/orbita.m3u8
 
 #EXTINF:-1 tvg-id="PlusPlus.ua" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/PLUSPLUSUA.svg/500px-PLUSPLUSUA.svg.png" group-title="乌克兰",ПлюсПлюс
 http://stream.mcquack.net/339/index.m3u8
@@ -227,12 +248,6 @@ http://cdnua05.hls.tv/643/hls/f62d71219200da4130d13b21d23fb23c/4790/stream.m3u8
 #EXTINF:-1 tvg-id="SuspilneChernihiv.ua" tvg-logo="https://i.imgur.com/WBChVXj.png" group-title="乌克兰",Суспільне Чернігів
 http://cdnua05.hls.tv/645/hls/f62d71219200da4130d13b21d23fb23c/4791/stream.m3u8
 
-#EXTINF:-1 tvg-id="Reporter.ua@SD" tvg-logo="https://i.imgur.com/LyA3kBR.png" group-title="乌克兰",Телеканал Репортер Одесса (720p)
-http://cdn1.live-tv.od.ua:8081/31chod/31chod-abr/31chod/31chod/playlist.m3u8
-
 #EXTINF:-1 tvg-id="Ternopil1.ua" tvg-logo="https://i.imgur.com/f5EtIzV.png" group-title="乌克兰",Тернопіль 1
 https://ott.columbus.te.ua/ternopil1/index.m3u8
-
-#EXTINF:-1 tvg-id="ChPinfo.ua@SD" tvg-logo="https://i.imgur.com/2cYzroj.png" group-title="乌克兰",ЧП Инфо (576p)
-http://edge3.iptv.macc.com.ua/life/magnolia_3/index.m3u8
 

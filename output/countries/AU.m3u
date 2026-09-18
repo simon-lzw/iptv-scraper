@@ -1,7 +1,7 @@
 #EXTM3U
 #PLAYLIST: 澳大利亚 (AU) IPTV 直播源
-#生成时间: 2026-09-18 07:02:43
-#频道数: 43
+#生成时间: 2026-09-18 17:29:45
+#频道数: 47
 
 # ===== 澳大利亚 (AU) =====
 
@@ -74,13 +74,25 @@ https://d1k6kax80wecy5.cloudfront.net/RLnAKY/index.m3u8
 #EXTINF:-1 tvg-id="CTBPerth.au@SD" tvg-logo="https://i.imgur.com/VB8gtCy.jpeg" group-title="澳大利亚",CTB Perth (720p)
 https://live.ctbperth.net.au/hls/0/stream.m3u8
 
-#EXTINF:-1 tvg-id="CTBPerthMoviesChannel.au@SD" tvg-logo="https://i.imgur.com/VB8gtCy.jpeg" group-title="澳大利亚",CTB Perth Movies (720p)
+#EXTINF:-1 tvg-id="CTBPerthMoviesChannel.au@SD" tvg-logo="https://i.imgur.com/VB8gtCy.jpeg" group-title="澳大利亚",CTB Perth Movies Channel (720p)
 https://movies.ctbperth.net.au/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="Channel9.au@Sydney" tvg-logo="https://www.nineforbrands.com.au/wp-content/uploads/2025/06/9_BLUE.png" group-title="澳大利亚",Channel 9 (Australia) (720p) [Geo-blocked]
+https://9now-livestreams-fhd-t.akamaized.net/u/prod/simulcast/syd/ch9/hls/r1/index.m3u8
+
+#EXTINF:-1 tvg-id="Channel9.au@Adelaide" tvg-logo="https://www.nineforbrands.com.au/wp-content/uploads/2025/06/9_BLUE.png" group-title="澳大利亚",Channel 9 (Australia) Adelaide (720p) [Geo-blocked]
+https://9now-livestreams-fhd-t.akamaized.net/u/prod/simulcast/adl/ch9/hls/r1/index.m3u8
+
+#EXTINF:-1 tvg-id="Channel9.au@Brisbane" tvg-logo="https://www.nineforbrands.com.au/wp-content/uploads/2025/06/9_BLUE.png" group-title="澳大利亚",Channel 9 (Australia) Brisbane (720p) [Geo-blocked]
+https://9now-livestreams-fhd-t.akamaized.net/u/prod/simulcast/bne/ch9/hls/r1/index.m3u8
+
+#EXTINF:-1 tvg-id="Channel9.au@Perth" tvg-logo="https://www.nineforbrands.com.au/wp-content/uploads/2025/06/9_BLUE.png" group-title="澳大利亚",Channel 9 (Australia) Perth (720p) [Geo-blocked]
+https://9now-livestreams-fhd-t.akamaized.net/u/prod/simulcast/per/ch9/hls/r1/index.m3u8
 
 #EXTINF:-1 tvg-id="HopeChannelAustralia.au@SD" tvg-logo="https://i.imgur.com/8Zs7rDm.png" group-title="澳大利亚",Hope Channel Australia (1080p)
 https://videodelivery.net/9fb3596948ddf463fde0ec4b85625b24/manifest/video.m3u8
 
-#EXTINF:-1 tvg-id="JornadanasEstrelasDeepSpaceNine.us@BR" tvg-logo="https://images.pluto.tv/channels/69162af591700f4c4c135c95/colorLogoPNG_1766066526851.png" group-title="澳大利亚",Jornada nas Estrelas Deep Space Nine
+#EXTINF:-1 tvg-id="JornadanasEstrelasDeepSpaceNine.us@BR" tvg-logo="https://images.pluto.tv/channels/69162af591700f4c4c135c95/colorLogoPNG_1766066526851.png" group-title="澳大利亚",Jornada nas Estrelas: Deep Space Nine
 https://jmp2.uk/plu-69162af591700f4c4c135c95.m3u8
 
 #EXTINF:-1 tvg-id="M4TV.au" tvg-logo="https://i.imgur.com/HZohlNk.png" group-title="澳大利亚",M4TV
@@ -110,6 +122,9 @@ https://i.mjh.nz/.r/sbs-4syd.m3u8
 #EXTINF:-1 tvg-id="SevenNetwork.au" tvg-logo="https://i.imgur.com/6zwKJaa.png" group-title="澳大利亚",Seven
 https://i.mjh.nz/.r/seven-syd.m3u8
 
+#EXTINF:-1 tvg-id="Seven.ru@SD" tvg-logo="https://i.imgur.com/GpCwqUF.png" group-title="澳大利亚",Seven (576p)
+http://31.148.48.15/7TV/index.m3u8
+
 #EXTINF:-1 tvg-id="SevenChannel.mn@SD" tvg-logo="https://i.imgur.com/9Ld5ATz.png" group-title="澳大利亚",Seven Channel (720p) [Not 24/7]
 https://xykt-fix.github.io/liveh42-syhtv-mn/7Channel_HD/03.m3u8
 
@@ -125,12 +140,9 @@ https://raw.githubusercontent.com/BellezaEmporium/IPTV_Exception/master/channels
 #EXTINF:-1 tvg-id="TVSN.au" tvg-logo="https://i.imgur.com/p3QCBOo.png" group-title="澳大利亚",TVSN
 https://tvsnhlslivetest.akamaized.net/hls/live/2034711/EXPO-MSL4/master.m3u8
 
-#EXTINF:-1 tvg-id="TraceSportStars.fr@HD" tvg-logo="https://i.imgur.com/FabFP5A.png" group-title="澳大利亚",Trace Sport Stars (Australia) (1080p)
-https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="ThePetCollective.us@Australia" tvg-logo="https://i.imgur.com/yH7n2dF.png" group-title="澳大利亚",The Pet Collective Australia (720p)
+https://the-pet-collective-international-au.samsung.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TraceUrban.fr@SD" tvg-logo="https://i.imgur.com/DLIbUMx.png" group-title="澳大利亚",Trace Urban (Australia) (1080p)
-https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="ZooMoo.sg@SD" tvg-logo="https://i.imgur.com/ciTJrnl.png" group-title="澳大利亚",Zoo Moo (Australia) (1080p)
-https://zoomoo-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="WeatherSpy.au@SD" tvg-logo="https://i.imgur.com/GTxN2nH.png" group-title="澳大利亚",WeatherSpy (Australia) (720p)
+https://jukin-weatherspy-2-au.samsung.wurl.tv/playlist.m3u8
 

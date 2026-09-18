@@ -1,7 +1,7 @@
 #EXTM3U
 #PLAYLIST: 肯尼亚 (KE) IPTV 直播源
-#生成时间: 2026-09-18 07:02:43
-#频道数: 10
+#生成时间: 2026-09-18 17:29:45
+#频道数: 12
 
 # ===== 肯尼亚 (KE) =====
 
@@ -10,6 +10,9 @@ https://goliveafrica.media:9998/live/64ede813cfe1a/index.m3u8
 
 #EXTINF:-1 tvg-id="CitizenTV.ke" tvg-logo="https://i.imgur.com/DjDaD7h.png" group-title="肯尼亚",Citizen TV
 https://citizentv.co.ke/live
+
+#EXTINF:-1 tvg-id="ICTV.ke@SD" tvg-logo="https://i.imgur.com/0kMhqK3.png" group-title="肯尼亚",ICTV (Kenya) (480p) [Not 24/7]
+https://goliveafrica.media:9998/live/659a7f33bed3f/index.m3u8
 
 #EXTINF:-1 tvg-id="InooroTV.ke@SD" tvg-logo="https://i.imgur.com/5qFJtmo.png" group-title="肯尼亚",Inooro TV
 https://live-onesignal.royalmedia.co.ke/live/T-MxRsFebq6zx7k2QFMbLw.m3u8
@@ -34,4 +37,7 @@ https://www.youtube.com/c/NTVKenyaOnline/live
 
 #EXTINF:-1 tvg-id="NiceTVKenya.ke@SD" tvg-logo="https://i.imgur.com/UawxLTW.jpg" group-title="肯尼亚",Nice TV Kenya (720p) [Not 24/7]
 https://goliveafrica.media:9998/live/64ada04aa7678/index.m3u8
+
+#EXTINF:-1 tvg-id="UTV.ke@SD" tvg-logo="https://i.imgur.com/yN4e2up.png" group-title="肯尼亚",UTV (Kenya) (240p) [Not 24/7]
+https://goliveafrica.media:9998/live/62580d78ac508/index.m3u8
 

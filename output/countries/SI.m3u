@@ -1,23 +1,26 @@
 #EXTM3U
 #PLAYLIST: 斯洛文尼亚 (SI) IPTV 直播源
-#生成时间: 2026-09-18 07:02:43
-#频道数: 6
+#生成时间: 2026-09-18 17:29:45
+#频道数: 7
 
 # ===== 斯洛文尼亚 (SI) =====
 
 #EXTINF:-1 tvg-id="FolxSlovenija.si" tvg-logo="https://i.imgur.com/RK1IASU.png" group-title="斯洛文尼亚",Folx Slovenija
 https://folxsloapp.b-cdn.net/1080p/index.m3u8
 
+#EXTINF:-1 tvg-id="History.si@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/500px-History_%282021%29.svg.png" group-title="斯洛文尼亚",History (Slovenia) (1080p)
+https://streamer12.xploretv.si/__cl/cg:prod/__c/A1_SI_HISTORYHD_ott/__op/dash-default/__dci/__f/index.m3u8?admin=xploreTv_test_user&redirect=true
+
 #EXTINF:-1 tvg-id="KanalA.si@SD" tvg-logo="https://i.imgur.com/JHNpcqF.png" group-title="斯洛文尼亚",Kanal A
 https://streamer01.xploretv.si/__cl/cg:prod/__c/A1_SI_AKANALHD_ott/__op/dash-default/__dci/__f/index.m3u8?admin=xploreTv_test_user&redirect=true
 
-#EXTINF:-1 tvg-id="TVSLO1.si@SD" tvg-logo="https://i.imgur.com/E3YmlxF.png" group-title="斯洛文尼亚",SLO 1
+#EXTINF:-1 tvg-id="TVSLO1.si@SD" tvg-logo="https://i.imgur.com/E3YmlxF.png" group-title="斯洛文尼亚",TV SLO 1
 https://streamer03.xploretv.si/__cl/cg:prod/__c/A1_SI_SLO1HD_ott/__op/dash-default/__dci/__f/index.m3u8?admin=xploreTv_test_user&redirect=true
 
-#EXTINF:-1 tvg-id="TVSLO2.si@SD" tvg-logo="https://i.imgur.com/OPlzjjv.png" group-title="斯洛文尼亚",SLO 2
+#EXTINF:-1 tvg-id="TVSLO2.si@SD" tvg-logo="https://i.imgur.com/OPlzjjv.png" group-title="斯洛文尼亚",TV SLO 2
 https://streamer03.xploretv.si/__cl/cg:prod/__c/A1_SI_SLO2HD_ott/__op/dash-default/__dci/__f/index.m3u8?admin=xploreTv_test_user&redirect=true
 
-#EXTINF:-1 tvg-id="TVSLO3.si@SD" tvg-logo="https://i.imgur.com/yPb2FKg.png" group-title="斯洛文尼亚",SLO 3
+#EXTINF:-1 tvg-id="TVSLO3.si@SD" tvg-logo="https://i.imgur.com/yPb2FKg.png" group-title="斯洛文尼亚",TV SLO 3
 https://streamer03.xploretv.si/__cl/cg:prod/__c/A1_SI_SLO3HD_ott/__op/dash-default/__dci/__f/index.m3u8?admin=xploreTv_test_user&redirect=true
 
 #EXTINF:-1 tvg-id="TVVeseljakGolicaHD.si@SD" tvg-logo="https://i.imgur.com/49VrbSW.png" group-title="斯洛文尼亚",TV Veseljak Golica HD

@@ -1,6 +1,6 @@
 #EXTM3U
 #PLAYLIST: 斯洛伐克 (SK) IPTV 直播源
-#生成时间: 2026-09-18 07:02:43
+#生成时间: 2026-09-18 17:29:45
 #频道数: 71
 
 # ===== 斯洛伐克 (SK) =====
@@ -46,9 +46,6 @@ https://dash4.antik.sk/live/test_uatv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="FashionBox.nl@SD" tvg-logo="https://i.imgur.com/Taqj4yi.png" group-title="斯洛伐克",FashionBox
 https://dash2.antik.sk/live/test_fashionbox_medium_atk/playlist.m3u8
-
-#EXTINF:-1 tvg-id="FastFunBox.nl@SD" tvg-logo="https://i.imgur.com/a9ZtP17.png" group-title="斯洛伐克",Fast&FunBox
-https://dash3.antik.sk/live/test_fast_and_funbox_medium_atk/playlist.m3u8
 
 #EXTINF:-1 tvg-id="FilmUALive.ua@SD" tvg-logo="https://i.imgur.com/kizTBgS.png" group-title="斯洛伐克",FilmUA Live
 https://dash2.antik.sk/live/test_film_life_atktv/playlist.m3u8
@@ -122,14 +119,11 @@ https://dash4.antik.sk/live/test_ocko_star/playlist.m3u8
 #EXTINF:-1 tvg-id="RAZ3International.ua@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Raz_3_%282026%29.png" group-title="斯洛伐克",RAZ 3 International
 https://dash2.antik.sk/live/kvartal_tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TVRaj.sk@SD" tvg-logo="https://i.imgur.com/CGckMyx.png" group-title="斯洛伐克",Raj TV (720p) [Not 24/7]
-https://ottst05.flexitv.sk/2827-tv-pc.m3u8
+#EXTINF:-1 tvg-id="RegioTV.sk@SD" tvg-logo="https://i.imgur.com/WlF6tlZ.png" group-title="斯洛伐克",Regio TV (406p)
+http://tv.geniusnet.sk:8081/regiotv/pl.m3u8
 
 #EXTINF:-1 tvg-id="Rybalka.ua@SD" tvg-logo="https://i.imgur.com/NafW0xT.png" group-title="斯洛伐克",Rybalka (1080p)
 https://dash2.antik.sk/live/test_rybalka_tv_atktv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="RegioTV.sk@SD" tvg-logo="https://i.imgur.com/WlF6tlZ.png" group-title="斯洛伐克",Régió TV (406p)
-http://tv.geniusnet.sk:8081/regiotv/pl.m3u8
 
 #EXTINF:-1 tvg-id="RTVS24.sk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/slovakia/rtvs-24-sk.png" group-title="斯洛伐克",STVR :24
 https://sktv.mxnticek.eu/new/stream.php?ch=STVR%20%3A24
@@ -161,7 +155,7 @@ https://sktv.mxnticek.eu/new/stream.php?ch=TA3
 #EXTINF:-1 tvg-id="TVLocAll.sk@SD" tvg-logo="https://i.imgur.com/xN1CJol.png" group-title="斯洛伐克",TV LocAll (406p)
 http://tv.geniusnet.sk:8081/localltv/pl.m3u8
 
-#EXTINF:-1 tvg-id="TVLux.sk@SD" tvg-logo="https://i.imgur.com/mAMyTkq.png" group-title="斯洛伐克",TV Lux (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="TVLux.sk@SD" tvg-logo="https://i.imgur.com/mAMyTkq.png" group-title="斯洛伐克",TV Lux (Slovakia) (720p) [Not 24/7]
 https://stream.tvlux.sk/lux/ngrp:lux.stream_all/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TVMistral.sk@SD" tvg-logo="https://i.imgur.com/IOJ6rcb.jpeg" group-title="斯洛伐克",TV Mistral
@@ -173,7 +167,10 @@ https://dash4.antik.sk/live/test_nitricka/playlist.m3u8
 #EXTINF:-1 tvg-id="TVPovazie.sk@SD" tvg-logo="https://i.imgur.com/JRD9YIY.png" group-title="斯洛伐克",TV Povazie (1080p)
 https://dash3.antik.sk/live/test_povazie/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TVRuzinov.sk@SD" tvg-logo="https://i.imgur.com/bUGuntH.png" group-title="斯洛伐克",TV Ružinov (1080p) [Not 24/7]
+#EXTINF:-1 tvg-id="TVRaj.sk@SD" tvg-logo="https://i.imgur.com/CGckMyx.png" group-title="斯洛伐克",TV Raj (720p) [Not 24/7]
+https://ottst05.flexitv.sk/2827-tv-pc.m3u8
+
+#EXTINF:-1 tvg-id="TVRuzinov.sk@SD" tvg-logo="https://i.imgur.com/bUGuntH.png" group-title="斯洛伐克",TV Ruzinov (1080p) [Not 24/7]
 http://lb.streaming.sk/tvruzinov/stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TVSLO1.si@HD" tvg-logo="https://i.imgur.com/E3YmlxF.png" group-title="斯洛伐克",TV SLO 1 HD
@@ -184,6 +181,9 @@ https://dash2.antik.sk/live/test_slo2_tizen/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TVVita.sk@SD" tvg-logo="https://i.imgur.com/Cx1GLbo.png" group-title="斯洛伐克",TV Vita
 https://dash3.antik.sk/live/test_vita/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TV9.sk@SD" tvg-logo="https://i.imgur.com/Sco4x8t.png" group-title="斯洛伐克",TV9 (Slovakia)
+https://dash4.antik.sk/live/test_tv9/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TurboTV.sk@SD" tvg-logo="https://i.imgur.com/HI7bCHq.png" group-title="斯洛伐克",Turbo TV (1080p)
 https://dash3.antik.sk/live/turbo_tv_avc_25p/playlist.m3u8

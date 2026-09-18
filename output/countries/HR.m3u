@@ -1,7 +1,7 @@
 #EXTM3U
 #PLAYLIST: 克罗地亚 (HR) IPTV 直播源
-#生成时间: 2026-09-18 07:02:43
-#频道数: 39
+#生成时间: 2026-09-18 17:29:45
+#频道数: 40
 
 # ===== 克罗地亚 (HR) =====
 
@@ -58,6 +58,9 @@ https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(MTM)/index.m3u8
 
 #EXTINF:-1 tvg-id="N1Croatia.hr" tvg-logo="https://i.imgur.com/qcD1OOZ.png" group-title="克罗地亚",N1 Hrvatska
 https://www.youtube.com/@N1_Hrvatska/live
+
+#EXTINF:-1 tvg-id="NickJr.hr@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Nick_Jr._logo_2023_(outline).svg/960px-Nick_Jr._logo_2023_(outline).svg.png" group-title="克罗地亚",Nick Jr. (Croatia) (540p)
+http://176.61.157.250/NickJr/index.m3u8
 
 #EXTINF:-1 tvg-id="NovaTVBrasov.ro@SD" tvg-logo="https://i.imgur.com/33Vn0Ij.png" group-title="克罗地亚",Nova TV Brasov (576p) [Not 24/7]
 http://novapress.ro:2022/live/nova/playlist.m3u8

@@ -1,9 +1,15 @@
 #EXTM3U
 #PLAYLIST: 比利时 (BE) IPTV 直播源
-#生成时间: 2026-09-18 07:02:43
-#频道数: 20
+#生成时间: 2026-09-18 17:29:45
+#频道数: 22
 
 # ===== 比利时 (BE) =====
+
+#EXTINF:-1 tvg-id="ACTV.be@SD" tvg-logo="https://files.catbox.moe/8v2y8m.png" group-title="比利时",ACTV (Belgium) (504p)
+https://dlgt0tdl2hpq3.cloudfront.net/rtbf/clr-rtbf/4db788c7/index.m3u8
+
+#EXTINF:-1 tvg-id="ATV.be@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/ATV_Belgium_logo.svg/960px-ATV_Belgium_logo.svg.png" group-title="比利时",ATV (Belgium) (1080p)
+https://live.zendzend.com/mpegts/29375_107244/media_mpegts_0.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/w7HzPQh.png" group-title="比利时",Arte Belgique
 https://artesimulcast.akamaized.net/hls/live/2031003/artelive_fr/index.m3u8
@@ -17,7 +23,7 @@ https://hls-origin01-bruzz.cdn02.rambla.be/main/adliveorigin-bruzz/_definst_/V3n
 #EXTINF:-1 tvg-id="Een.be" tvg-logo="https://i.imgur.com/66GQlc7.png" group-title="比利时",EEN
 https://live-vrt.rabah.net/groupc/live/8edf3bdf-7db3-41c3-a318-72cb7f82de66/live_aes.isml/playlist.m3u8
 
-#EXTINF:-1 tvg-id="JapanimTV.be@SD" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/6b97e19f-4243-4d48-b794-ff8cf54d795f-profile_image-300x300.png" group-title="比利时",Japanim TV (1080p)
+#EXTINF:-1 tvg-id="JapanimTV.be@SD" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/6b97e19f-4243-4d48-b794-ff8cf54d795f-profile_image-300x300.png" group-title="比利时",JapanimTV (1080p)
 https://foxkidstv.be:3369/stream/play.m3u8
 
 #EXTINF:-1 tvg-id="JoeFM.be@SD" tvg-logo="https://i.ibb.co/k9KJWzN/320px-Joe-radio-logo-2016-svg.png" group-title="比利时",Joe FM (720p) [Not 24/7]
@@ -35,19 +41,16 @@ http://145.239.5.177/330/index.m3u8
 #EXTINF:-1 tvg-id="LaUne.be" tvg-logo="https://i.imgur.com/hJodwJt.png" group-title="比利时",La Une
 http://145.239.5.177/329/index.m3u8
 
-#EXTINF:-1 tvg-id="Matele.be@SD" tvg-logo="https://i.imgur.com/rw72POr.png" group-title="比利时",MaTele (1080p) [Not 24/7]
+#EXTINF:-1 tvg-id="Matele.be@SD" tvg-logo="https://i.imgur.com/rw72POr.png" group-title="比利时",Matele (1080p) [Not 24/7]
 https://live.matele.be/hls/live.m3u8
 
 #EXTINF:-1 tvg-id="Notele.be@SD" tvg-logo="https://i.imgur.com/fGS55nR.png" group-title="比利时",Notele (576p) [Not 24/7]
 https://streaming01.divercom.be/notele_live/direct.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="QMusic.be@SD" tvg-logo="https://i.imgur.com/VX5e9Xt.png" group-title="比利时",Q-Music (Belgium) (1080p)
-https://live-video.dpgmedia.net/e087512ad0c32643/out/v1/82d59bbe343b4d0896f829c59da82dc0/index.m3u8
-
 #EXTINF:-1 tvg-id="BelRTL.be" tvg-logo="https://i.imgur.com/xMhSvax.png" group-title="比利时",RTL-Be
 https://tvi-live-hls.akamaized.net/hls/live/2038650/TVI-Live-HLS/master.m3u8
 
-#EXTINF:-1 tvg-id="Radio1.be@SD" tvg-logo="https://i.ibb.co/pwCs0YY/512px-VRT-Radio-1-logo-svg.png" group-title="比利时",Radio 1 (720p)
+#EXTINF:-1 tvg-id="Radio1.be@SD" tvg-logo="https://i.ibb.co/pwCs0YY/512px-VRT-Radio-1-logo-svg.png" group-title="比利时",Radio 1 (Belgium) (720p)
 https://live.vrtcdn.be/groupa/live/3c3a12b5-093d-4a19-ae1f-3e775433286e/live.isml/.m3u8
 
 #EXTINF:-1 tvg-id="Radio2.be@SD" tvg-logo="https://i.ibb.co/47mc8nJ/VRT-Radio-2-2022-svg.png" group-title="比利时",Radio 2 (720p)
@@ -55,6 +58,9 @@ https://live.vrtcdn.be/groupa/live/66a9668e-b37b-4de2-878e-0218563b2dd2/live.ism
 
 #EXTINF:-1 tvg-id="StuBru.be@SD" tvg-logo="https://i.ibb.co/y0TcsXw/512px-VRT-Stu-Bru-logo-svg.png" group-title="比利时",StuBru (1080p)
 https://live.vrtcdn.be/groupb/live/450aa9d1-7173-47f3-aaaa-9701426f8ddd/live.isml/.m3u8
+
+#EXTINF:-1 tvg-id="TVLux.be@SD" tvg-logo="https://i.imgur.com/ljbdWkC.png" group-title="比利时",TV Lux (Belgium) (1080p)
+https://tvlocales-live.freecaster.com/tvlux/95d2f632-0780-4ac1-9895-9e50212dd3b6/95d2f632-0780-4ac1-9895-9e50212dd3b6.isml/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7WHwYK3.png" group-title="比利时",TV5 Monde
 https://ott.tv5monde.com/Content/HLS/Live/channel(fbs)/variant.m3u8

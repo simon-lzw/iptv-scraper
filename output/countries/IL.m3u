@@ -1,24 +1,30 @@
 #EXTM3U
 #PLAYLIST: 以色列 (IL) IPTV 直播源
-#生成时间: 2026-09-18 07:02:43
-#频道数: 12
+#生成时间: 2026-09-18 17:29:45
+#频道数: 14
 
 # ===== 以色列 (IL) =====
 
 #EXTINF:-1 tvg-id="Channel9.il" tvg-logo="https://i.imgur.com/pttM3KQ.png" group-title="以色列",9 канал
 https://www.youtube.com/@israel9tv/live
 
-#EXTINF:-1 tvg-id="Channel10.ru@SD" tvg-logo="https://i.imgur.com/k8JjFDw.png" group-title="以色列",Channel 10 (576i)
+#EXTINF:-1 tvg-id="Channel10.ru@SD" tvg-logo="https://i.imgur.com/k8JjFDw.png" group-title="以色列",Channel 10 (Russia) (576i)
 https://bl.rutube.ru/livestream/c9e26bf5c003fd8d477200065ca1a05f/index.m3u8?e=2072611029&s=eqlTXebDP9wSWTZgre6BwQ&scheme=https
 
-#EXTINF:-1 tvg-id="i24NEWSHebrew.il@SD" tvg-logo="https://www.i24news.tv/images/favicon.png" group-title="以色列",I24 News Hebrew (1080p)
-https://i24newshebrew-cdn.encoders.immergo.tv/master.m3u8
+#EXTINF:-1 tvg-id="Channel9.il@SD" tvg-logo="https://i.imgur.com/pttM3KQ.png" group-title="以色列",Channel 9 (Israel) (1080p)
+https://contact.gostreaming.tv/Con-11/index.m3u8
 
-#EXTINF:-1 tvg-id="KabbalahforthePeopleIsrael.il@SD" tvg-logo="https://i.imgur.com/VxAHOgr.png" group-title="以色列",Kabbalah for the People (Israel) (504p) [Not 24/7]
+#EXTINF:-1 tvg-id="KabbalahforthePeopleIsrael.il@SD" tvg-logo="https://i.imgur.com/VxAHOgr.png" group-title="以色列",Kabbalah for the People Israel (504p) [Not 24/7]
 https://edge3.uk.kab.tv/live/tv66-heb-high/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Knesset.il" tvg-logo="https://i.imgur.com/PEdXHSE.png" group-title="以色列",Knesset
 http://stream.mcquack.net/48/index.m3u8
+
+#EXTINF:-1 tvg-id="NickJr.il@SD" tvg-logo="https://i.imgur.com/KT4tdQs.png" group-title="以色列",Nick Jr. (Israel) (576p)
+http://str2.iptvhd.ru:8080/nickjr/index.m3u8
+
+#EXTINF:-1 tvg-id="TeenNick.il@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/TeenNick_2019_logo.svg/960px-TeenNick_2019_logo.svg.png" group-title="以色列",TeenNick (Israel) [Not 24/7]
+http://315e5a5d.ottrast.com/iptv/MM4E93NGF5LADZ/2334/index.m3u8
 
 #EXTINF:-1 tvg-id="TheShoppingChannel.il" tvg-logo="https://i.imgur.com/PEdXHSE.png" group-title="以色列",The Shopping Channel
 https://shoppingil-rewriter.vidnt.com/index.m3u8
