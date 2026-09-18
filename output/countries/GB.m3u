@@ -1,7 +1,7 @@
 #EXTM3U
 #PLAYLIST: 英国 (GB) IPTV 直播源
-#生成时间: 2026-09-17 17:56:05
-#频道数: 722
+#生成时间: 2026-09-18 07:02:43
+#频道数: 723
 
 # ===== 英国 (GB) =====
 
@@ -463,6 +463,9 @@ http://193.46.58.239:8080/Channel5/index.m3u8
 
 #EXTINF:-1 tvg-id="Channel5.th@SD" tvg-logo="https://i.imgur.com/wOIaqg7.png" group-title="英国",Channel 5 (1080p)
 https://639bc5877c5fe.streamlock.net/tv5hdlive/tv5hdlive/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Channel5.ru@SD" tvg-logo="https://i.imgur.com/KPXMa3U.png" group-title="英国",Channel 5 (576p)
+http://str2.iptvhd.ru:8080/5_kanal/index.m3u8
 
 #EXTINF:-1 tvg-id="Channel5International.ru@SD" tvg-logo="https://i.imgur.com/KPXMa3U.png" group-title="英国",Channel 5 International (576p)
 http://178.134.1.158:8081/5channel/index.m3u8
