@@ -9306,12 +9306,12 @@
     "is_active": true
   },
   {
-    "name": "Cartoon Classics (576p)",
-    "url": "http://5.188.159.128:8070/Cartoon_Network/index.m3u8",
+    "name": "Cartoon Classics",
+    "url": "https://daiconnect.com/live/hls/tvup/rk-cartoonclassics/578f4b7eb725168349ec0af81b21d388/index.m3u8",
     "group": "Animation;Kids",
     "country_code": "ZZ",
     "country_name_zh": "ZZ",
-    "ip_version": "ipv4",
+    "ip_version": "domain",
     "score": 0.0,
     "source": "iptv-org all streams",
     "is_active": true
@@ -35134,6 +35134,17 @@
     "is_active": true
   },
   {
+    "name": "Reality Channel",
+    "url": "https://d2dffl3588mvfk.cloudfront.net/out/v1/d8e15050ca4148aab0ee387a5e2eb46b/index_1.m3u8",
+    "group": "Entertainment",
+    "country_code": "ZZ",
+    "country_name_zh": "ZZ",
+    "ip_version": "domain",
+    "score": 0.0,
+    "source": "iptv-org all streams",
+    "is_active": true
+  },
+  {
     "name": "RecordTV Belem (720p) [Geo-blocked]",
     "url": "https://playpluspa-lh.akamaihd.net/i/pp_pa@377468/index_720_av-p.m3u8",
     "group": "General",
@@ -35604,17 +35615,6 @@
     "ip_version": "domain",
     "score": 0.0,
     "source": "Free-TV/IPTV (global)",
-    "is_active": true
-  },
-  {
-    "name": "Relevant TV (1080p)",
-    "url": "https://6180c994cb835402.mediapackage.eu-west-1.amazonaws.com/out/v1/f1339272dd24416ca60b00e69075d783/index.m3u8",
-    "group": "News",
-    "country_code": "ZZ",
-    "country_name_zh": "ZZ",
-    "ip_version": "domain",
-    "score": 0.0,
-    "source": "iptv-org all streams",
     "is_active": true
   },
   {
@@ -48048,6 +48048,17 @@
     "is_active": true
   },
   {
+    "name": "Vacation Channel",
+    "url": "https://d1yd8hohnldm33.cloudfront.net/out/v1/19dee23c2cc24f689bd4e1288661ee0c/index_2.m3u8",
+    "group": "Entertainment",
+    "country_code": "ZZ",
+    "country_name_zh": "ZZ",
+    "ip_version": "domain",
+    "score": 0.0,
+    "source": "iptv-org all streams",
+    "is_active": true
+  },
+  {
     "name": "Vallevision (720p) [Not 24/7]",
     "url": "https://streaming.telecablecentral.com.do/Vallevision/ValleHD/playlist.m3u8",
     "group": "General",
@@ -48851,6 +48862,17 @@
     "is_active": true
   },
   {
+    "name": "Viva Premium (1080p)",
+    "url": "http://stream.mcquack.net/43/index.m3u8",
+    "group": "General",
+    "country_code": "ZZ",
+    "country_name_zh": "ZZ",
+    "ip_version": "domain",
+    "score": 0.0,
+    "source": "iptv-org all streams",
+    "is_active": true
+  },
+  {
     "name": "Viva TV Yurimaguas (720p)",
     "url": "https://live.obslivestream.com/vivatv/index.m3u8",
     "group": "Undefined",
@@ -49083,7 +49105,7 @@
   },
   {
     "name": "W Polsce PL (720p)",
-    "url": "https://lowa8026-cmyk.github.io/WPolscePL.m3u8",
+    "url": "https://str.onnetwork.tv/hls/onnet-358726_hi/index.m3u8",
     "group": "Undefined",
     "country_code": "ZZ",
     "country_name_zh": "ZZ",
@@ -49924,6 +49946,17 @@
     "country_code": "ZZ",
     "country_name_zh": "ZZ",
     "ip_version": "domain",
+    "score": 0.0,
+    "source": "iptv-org all streams",
+    "is_active": true
+  },
+  {
+    "name": "Xinjiang TV 2",
+    "url": "http://110.153.180.106:55555/out_3/index.m3u8",
+    "group": "Undefined",
+    "country_code": "ZZ",
+    "country_name_zh": "ZZ",
+    "ip_version": "ipv4",
     "score": 0.0,
     "source": "iptv-org all streams",
     "is_active": true
@@ -58245,6 +58278,17 @@
     "is_active": true
   },
   {
+    "name": "Mango (576p)",
+    "url": "https://stmv6.voxtvhd.com.br/cinehindi/cinehindi/playlist.m3u8",
+    "group": "Entertainment",
+    "country_code": "BR",
+    "country_name_zh": "巴西",
+    "ip_version": "domain",
+    "score": 0.0,
+    "source": "iptv-org all streams",
+    "is_active": true
+  },
+  {
     "name": "Marsella TV",
     "url": "https://stmv2.voxtvhd.com.br/marsella/marsella/playlist.m3u8",
     "group": "General",
@@ -64868,8 +64912,8 @@
   },
   {
     "name": "南国都市",
-    "url": "http://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=140110ae3d6c936a77f94c4f4d85b0d3&txTime=18d57929bd4",
-    "group": "地方频道",
+    "url": "https://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=550af55c0ea34ce492748481415b6dfa&txTime=1903e7b17de",
+    "group": "数字频道",
     "country_code": "CN",
     "country_name_zh": "中国",
     "ip_version": "domain",
@@ -66942,7 +66986,7 @@
     "country_name_zh": "中国",
     "ip_version": "domain",
     "score": 0.0,
-    "source": "zhi35 aggregated",
+    "source": "vbskycn/iptv (ipv4)",
     "is_active": true
   },
   {
@@ -66953,7 +66997,7 @@
     "country_name_zh": "中国",
     "ip_version": "domain",
     "score": 0.0,
-    "source": "zhi35 aggregated",
+    "source": "vbskycn/iptv (ipv4)",
     "is_active": true
   },
   {
@@ -67372,17 +67416,6 @@
     "ip_version": "domain",
     "score": 0.0,
     "source": "fanmingming/live (ipv6)",
-    "is_active": true
-  },
-  {
-    "name": "浙江钱江频道",
-    "url": "http://ali-m-l.cztv.com/channels/lantian/channel02/1080p.m3u8",
-    "group": "地方频道",
-    "country_code": "CN",
-    "country_name_zh": "中国",
-    "ip_version": "domain",
-    "score": 0.0,
-    "source": "zhi35 aggregated",
     "is_active": true
   },
   {
@@ -89144,6 +89177,17 @@
     "is_active": true
   },
   {
+    "name": "Alankar TV (720p)",
+    "url": "https://livetv.tarangplus.in/alankar-origin/live/playlist.m3u8",
+    "group": "Movies",
+    "country_code": "IN",
+    "country_name_zh": "印度",
+    "ip_version": "domain",
+    "score": 0.0,
+    "source": "iptv-org all streams",
+    "is_active": true
+  },
+  {
     "name": "AmarUjala (1080p)",
     "url": "https://amarujala.ottlive.co.in/amarujala/index.m3u8",
     "group": "News",
@@ -90786,17 +90830,6 @@
     "name": "Malai Murasu TV (576p)",
     "url": "https://streams.tangotv.in/MALAIMURASUSEITHIGAL/ORIGIN/index.m3u8",
     "group": "News",
-    "country_code": "IN",
-    "country_name_zh": "印度",
-    "ip_version": "domain",
-    "score": 0.0,
-    "source": "iptv-org all streams",
-    "is_active": true
-  },
-  {
-    "name": "Mango (India) (576p)",
-    "url": "https://stmv6.voxtvhd.com.br/cinehindi/cinehindi/playlist.m3u8",
-    "group": "Entertainment",
     "country_code": "IN",
     "country_name_zh": "印度",
     "ip_version": "domain",
@@ -106700,17 +106733,6 @@
     "is_active": true
   },
   {
-    "name": "Fox (Poland) [Not 24/7]",
-    "url": "http://315e5a5d.ottrast.com/iptv/MM4E93NGF5LADZ/6108/index.m3u8",
-    "group": "Entertainment",
-    "country_code": "PL",
-    "country_name_zh": "波兰",
-    "ip_version": "domain",
-    "score": 0.0,
-    "source": "iptv-org all streams",
-    "is_active": true
-  },
-  {
     "name": "Glory Kickboxing Poland (720p)",
     "url": "https://6f972d29.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0dsb3J5S2lja2JveGluZ19ITFM/playlist.m3u8",
     "group": "Sports",
@@ -106744,28 +106766,6 @@
     "is_active": true
   },
   {
-    "name": "Mango (Poland) (1080p) [Geo-blocked]",
-    "url": "https://lb2.pluscdn.pl/ch/1580235/3496/hls/a149fc4b/masterlist.m3u8",
-    "group": "Shop",
-    "country_code": "PL",
-    "country_name_zh": "波兰",
-    "ip_version": "domain",
-    "score": 0.0,
-    "source": "iptv-org all streams",
-    "is_active": true
-  },
-  {
-    "name": "Nicktoons (Poland)",
-    "url": "http://193.24.244.60:1001/udp/239.254.5.227:6060",
-    "group": "Kids",
-    "country_code": "PL",
-    "country_name_zh": "波兰",
-    "ip_version": "ipv4",
-    "score": 0.0,
-    "source": "iptv-org all streams",
-    "is_active": true
-  },
-  {
     "name": "People Are Awesome Poland (720p)",
     "url": "https://3ab76e42.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X1Blb3BsZUFyZUF3ZXNvbWVfSExT/playlist.m3u8",
     "group": "Entertainment",
@@ -106788,89 +106788,12 @@
     "is_active": true
   },
   {
-    "name": "Polsat (1080p) [Geo-blocked]",
-    "url": "https://cdn-s-playnow-live.pluscdn.pl/ch/1502600/308/dash/20a18c30/live.mpd",
-    "group": "General",
-    "country_code": "PL",
-    "country_name_zh": "波兰",
-    "ip_version": "domain",
-    "score": 0.0,
-    "source": "iptv-org all streams",
-    "is_active": true
-  },
-  {
-    "name": "Polsat 1 (1080p) [Geo-blocked]",
-    "url": "https://cdn-s-lb2.pluscdn.pl/lv/1517829/348/hls/816eca15/masterlist.m3u8",
-    "group": "General",
-    "country_code": "PL",
-    "country_name_zh": "波兰",
-    "ip_version": "domain",
-    "score": 0.0,
-    "source": "iptv-org all streams",
-    "is_active": true
-  },
-  {
     "name": "Polsat JimJam (576p)",
     "url": "http://185.227.34.179:8080/jimjam/index.m3u8",
     "group": "Kids",
     "country_code": "PL",
     "country_name_zh": "波兰",
     "ip_version": "ipv4",
-    "score": 0.0,
-    "source": "iptv-org all streams",
-    "is_active": true
-  },
-  {
-    "name": "Polsat News (1080p) [Geo-blocked]",
-    "url": "https://cdn-s-lb2.pluscdn.pl/lv/1517830/349/hls/f03a76f3/masterlist.m3u8",
-    "group": "News",
-    "country_code": "PL",
-    "country_name_zh": "波兰",
-    "ip_version": "domain",
-    "score": 0.0,
-    "source": "iptv-org all streams",
-    "is_active": true
-  },
-  {
-    "name": "Polsat News 2 (1080p) [Geo-blocked]",
-    "url": "https://cdn-s-lb2.pluscdn.pl/lv/1533809/392/dash/3de17d4a/live.mpd",
-    "group": "News",
-    "country_code": "PL",
-    "country_name_zh": "波兰",
-    "ip_version": "domain",
-    "score": 0.0,
-    "source": "iptv-org all streams",
-    "is_active": true
-  },
-  {
-    "name": "Polsat News Polityka (1080p) [Geo-blocked]",
-    "url": "https://cdn-s-lb2.pluscdn.pl/lv/1511888/322/hls/bd3b0bfe/masterlist.m3u8",
-    "group": "News",
-    "country_code": "PL",
-    "country_name_zh": "波兰",
-    "ip_version": "domain",
-    "score": 0.0,
-    "source": "iptv-org all streams",
-    "is_active": true
-  },
-  {
-    "name": "Polsat Sport Premium 1",
-    "url": "https://test.946985.filegear-sg.me/proxy/2d01a86f2b919823",
-    "group": "Sports",
-    "country_code": "PL",
-    "country_name_zh": "波兰",
-    "ip_version": "domain",
-    "score": 0.0,
-    "source": "iptv-org all streams",
-    "is_active": true
-  },
-  {
-    "name": "Polsat Sport Premium 2",
-    "url": "https://test.946985.filegear-sg.me/proxy/0d12c4e1bf16ebac",
-    "group": "Sports",
-    "country_code": "PL",
-    "country_name_zh": "波兰",
-    "ip_version": "domain",
     "score": 0.0,
     "source": "iptv-org all streams",
     "is_active": true
@@ -107030,31 +106953,9 @@
     "is_active": true
   },
   {
-    "name": "TVP 3 Warszawa (1080p) [Not 24/7]",
-    "url": "http://88b9da48.kazmazpaz.ru/iptv/XVU58NBPX2LUMP/7284/index.m3u8",
-    "group": "Undefined",
-    "country_code": "PL",
-    "country_name_zh": "波兰",
-    "ip_version": "domain",
-    "score": 0.0,
-    "source": "iptv-org all streams",
-    "is_active": true
-  },
-  {
     "name": "TVP Culiacan (720p) [Not 24/7]",
     "url": "https://5ca3e84a76d30.streamlock.net/gpacifico1/smil:gpculiacan.smil/playlist.m3u8",
     "group": "General",
-    "country_code": "PL",
-    "country_name_zh": "波兰",
-    "ip_version": "domain",
-    "score": 0.0,
-    "source": "iptv-org all streams",
-    "is_active": true
-  },
-  {
-    "name": "TVP Historia",
-    "url": "https://tvp3.cache.orange.pl/tvp/live/JQmETX58eM7X32i5AVKZRQ/1783368986/video/live/live171/nginx/TKH/156/master.m3u8",
-    "group": "Undefined",
     "country_code": "PL",
     "country_name_zh": "波兰",
     "ip_version": "domain",
@@ -124861,17 +124762,6 @@
     "is_active": true
   },
   {
-    "name": "Fox Sports 2 (720p)",
-    "url": "https://tvsen7.aynascope.net/foxsports2/index.m3u8",
-    "group": "Sports",
-    "country_code": "US",
-    "country_name_zh": "美国",
-    "ip_version": "domain",
-    "score": 0.0,
-    "source": "iptv-org United States",
-    "is_active": true
-  },
-  {
     "name": "Fox Weather (720p)",
     "url": "https://247wlive.foxweather.com/stream/index.m3u8",
     "group": "Weather",
@@ -125048,23 +124938,23 @@
     "is_active": true
   },
   {
-    "name": "Galavision (720p)",
-    "url": "http://200.115.120.1:8000/play/ca128/index.m3u8",
+    "name": "Galavision (1080p) [Geo-blocked]",
+    "url": "https://streaming-live-fcdn.api.prd.univisionnow.com/galaeast/galaeast.isml/hls/galaeast.m3u8",
     "group": "General",
     "country_code": "US",
     "country_name_zh": "美国",
-    "ip_version": "ipv4",
+    "ip_version": "domain",
     "score": 0.0,
     "source": "iptv-org United States",
     "is_active": true
   },
   {
-    "name": "Galavision West (1080p) [Geo-blocked]",
-    "url": "https://streaming-live-fcdn.api.prd.univisionnow.com/galawest/galawest.isml/hls/galawest.m3u8",
+    "name": "Galavision West (720p)",
+    "url": "http://200.115.120.1:8000/play/ca128/index.m3u8",
     "group": "General",
     "country_code": "US",
     "country_name_zh": "美国",
-    "ip_version": "domain",
+    "ip_version": "ipv4",
     "score": 0.0,
     "source": "iptv-org United States",
     "is_active": true
