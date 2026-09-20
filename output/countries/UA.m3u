@@ -1,7 +1,7 @@
 #EXTM3U
 #PLAYLIST: 乌克兰 (UA) IPTV 直播源
-#生成时间: 2026-09-19 17:00:14
-#频道数: 82
+#生成时间: 2026-09-20 07:26:53
+#频道数: 83
 
 # ===== 乌克兰 (UA) =====
 
@@ -53,8 +53,8 @@ http://stream.mcquack.net/322/index.m3u8
 #EXTINF:-1 tvg-id="EspresoTV.ua@SD" tvg-logo="https://i.imgur.com/xNatV8K.png" group-title="乌克兰",Espreso TV (1080p)
 https://api-tv.ipnet.ua/api/v1/manifest/2118742594.m3u8
 
-#EXTINF:-1 tvg-id="FILMBOXPlusOne.pl@UkraineBaltics" tvg-logo="https://spiintl.com/data/files/kcfinderUploadDir/images/filmboxplus/filmbox%2Bone.png" group-title="乌克兰",FILMBOX+ One Ukraine & Baltics (576p) [Not 24/7]
-https://iptv.prosto.tv/ch064/index.m3u8
+#EXTINF:-1 tvg-id="FILMBOXPlusOne.pl@UkraineBaltics" tvg-logo="https://spiintl.com/data/files/kcfinderUploadDir/images/filmboxplus/filmbox%2Bone.png" group-title="乌克兰",FILMBOX+ One Ukraine & Baltics (450p) [Geo-blocked]
+https://s70378.cdn.ngenix.net/filmbox/index.m3u8
 
 #EXTINF:-1 tvg-id="FREEDOM.ua" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/FreeDOMUAlogo.svg/500px-FreeDOMUAlogo.svg.png" group-title="乌克兰",FREEДOM
 http://95.67.106.242/mobile-app/main/freedom/master.m3u8
@@ -136,6 +136,9 @@ http://cdn1.live-tv.od.ua:8081/31chod/31chod-abr/31chod/31chod/playlist.m3u8
 
 #EXTINF:-1 tvg-id="SK1.ua@SD" tvg-logo="https://i.imgur.com/XiXwr5h.png" group-title="乌克兰",SK 1 (720p)
 http://cdn10.live-tv.od.ua:8081/sk1zt/sk1zt720p/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SeaTV.lv@SD" tvg-logo="https://i.imgur.com/11dzVLi.png" group-title="乌克兰",Sea TV (360p)
+http://dtv.vol.net.ua/Sea_TV_HD/index.m3u8
 
 #EXTINF:-1 tvg-id="Simon.ua@SD" tvg-logo="https://i.imgur.com/FfYVCJC.png" group-title="乌克兰",Simon (720p) [Geo-blocked]
 https://hls.simon.ua/live-HD/live/playlist.m3u8

@@ -1,9 +1,12 @@
 #EXTM3U
 #PLAYLIST: 新西兰 (NZ) IPTV 直播源
-#生成时间: 2026-09-19 17:00:14
-#频道数: 12
+#生成时间: 2026-09-20 07:26:53
+#频道数: 13
 
 # ===== 新西兰 (NZ) =====
+
+#EXTINF:-1 tvg-id="AlkassThree.qa@SD" tvg-logo="https://i.imgur.com/d57BdFh.png" group-title="新西兰",Alkass Three (720p)
+https://streamer2.qna.org.qa/148161470_live/148161470_296.sdp/playlist.m3u8
 
 #EXTINF:-1 tvg-id="BBCThree.uk@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/BBC_Three_2022.svg/960px-BBC_Three_2022.svg.png" group-title="新西兰",BBC Three (720p) [Geo-blocked]
 https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_three_hd/iptv_hd_abr_v1.mpd

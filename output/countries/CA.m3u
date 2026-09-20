@@ -1,18 +1,12 @@
 #EXTM3U
 #PLAYLIST: 加拿大 (CA) IPTV 直播源
-#生成时间: 2026-09-19 17:00:14
-#频道数: 88
+#生成时间: 2026-09-20 07:26:53
+#频道数: 85
 
 # ===== 加拿大 (CA) =====
 
 #EXTINF:-1 tvg-id="3ABNCanada.ca@SD" tvg-logo="https://i.imgur.com/U99CsEc.png" group-title="加拿大",3ABN Canada (720p)
 https://3abn.bozztv.com/3abncanada/3ABN/master.m3u8
-
-#EXTINF:-1 tvg-id="CBC.eg@SD" tvg-logo="https://i.imgur.com/8apNaLP.png" group-title="加拿大",CBC (576p)
-https://flu.systemnet.tv/CBC/index.m3u8
-
-#EXTINF:-1 tvg-id="CBCDrama.eg@SD" tvg-logo="https://i.imgur.com/I8YdakH.png" group-title="加拿大",CBC Drama (576p)
-https://flu.systemnet.tv/CBCDrama/index.m3u8
 
 #EXTINF:-1 tvg-id="CBCNewsNetwork.ca" tvg-logo="https://i.imgur.com/1EqQGKS.png" group-title="加拿大",CBC News
 https://cbcnewshd-f.akamaihd.net/i/cbcnews_1@8981/index_2500_av-p.m3u8
@@ -22,9 +16,6 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxcbcnews/CDN/playlist.m3u8
 
 #EXTINF:-1 tvg-id="CBCNewsNetwork.ca@SD" tvg-logo="https://i.imgur.com/SjTdhvJ.png" group-title="加拿大",CBC News Network (1080p)
 https://d2ny9lo79ujali.cloudfront.net/CBC_News_International.m3u8
-
-#EXTINF:-1 tvg-id="CBCSofra.eg@SD" tvg-logo="https://i.imgur.com/YAdk2WR.png" group-title="加拿大",CBC Sofra (576p)
-https://flu.systemnet.tv/CBCSofra/index.m3u8
 
 #EXTINF:-1 tvg-id="CBCSport.az" tvg-logo="https://upload.wikimedia.org/wikipedia/az/0/04/CBC_Sport_TV_loqo.png" group-title="加拿大",CBC Sport
 https://mn-nl.mncdn.com/cbcsports_live/cbcsports/playlist.m3u8
