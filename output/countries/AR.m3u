@@ -1,7 +1,7 @@
 #EXTM3U
 #PLAYLIST: 阿根廷 (AR) IPTV 直播源
-#生成时间: 2026-09-20 17:17:52
-#频道数: 77
+#生成时间: 2026-09-21 07:37:21
+#频道数: 78
 
 # ===== 阿根廷 (AR) =====
 
@@ -145,6 +145,9 @@ https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
 
 #EXTINF:-1 tvg-id="NETTV.ar" tvg-logo="https://i.imgur.com/EWmshtx.png" group-title="阿根廷",Net TV
 https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="NorteTV.ar@SD" tvg-logo="https://i.imgur.com/jTX2vp0.png" group-title="阿根廷",Norte TV (720p) [Not 24/7]
+https://ntvcanal7.com.ar:81/dash/stream.mpd
 
 #EXTINF:-1 tvg-id="Pakapaka.ar" tvg-logo="https://i.imgur.com/Q4zaCuM.png" group-title="阿根廷",Pakapaka Ⓨ
 https://www.youtube.com/user/CanalPakapaka/live
