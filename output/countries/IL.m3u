@@ -1,7 +1,7 @@
 #EXTM3U
 #PLAYLIST: 以色列 (IL) IPTV 直播源
-#生成时间: 2026-09-23 18:15:45
-#频道数: 14
+#生成时间: 2026-09-24 07:11:06
+#频道数: 15
 
 # ===== 以色列 (IL) =====
 
@@ -23,8 +23,11 @@ http://stream.mcquack.net/48/index.m3u8
 #EXTINF:-1 tvg-id="NickJr.il@SD" tvg-logo="https://i.imgur.com/KT4tdQs.png" group-title="以色列",Nick Jr. (Israel) (576p)
 http://str2.iptvhd.ru:8080/nickjr/index.m3u8
 
-#EXTINF:-1 tvg-id="TeenNick.il@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/TeenNick_2019_logo.svg/960px-TeenNick_2019_logo.svg.png" group-title="以色列",TeenNick (Israel) [Not 24/7]
-http://315e5a5d.ottrast.com/iptv/MM4E93NGF5LADZ/2334/index.m3u8
+#EXTINF:-1 tvg-id="Sport2.il@SD" tvg-logo="https://i.imgur.com/Headxmx.png" group-title="以色列",Sport 2 (Israel) (1080p)
+http://str2.iptvhd.ru:8080/Sport_2/index.m3u8
+
+#EXTINF:-1 tvg-id="TeenNick.il@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/TeenNick_2019_logo.svg/960px-TeenNick_2019_logo.svg.png" group-title="以色列",TeenNick (Israel) (406p)
+http://89.33.29.115:8080/TeenNick/index.m3u8
 
 #EXTINF:-1 tvg-id="TheShoppingChannel.il" tvg-logo="https://i.imgur.com/PEdXHSE.png" group-title="以色列",The Shopping Channel
 https://shoppingil-rewriter.vidnt.com/index.m3u8

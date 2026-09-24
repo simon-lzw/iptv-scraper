@@ -1,7 +1,7 @@
 #EXTM3U
 #PLAYLIST: 哥伦比亚 (CO) IPTV 直播源
-#生成时间: 2026-09-23 18:15:45
-#频道数: 44
+#生成时间: 2026-09-24 07:11:06
+#频道数: 45
 
 # ===== 哥伦比亚 (CO) =====
 
@@ -52,6 +52,9 @@ https://live.amelbatv.co:81/womtvlive/index.m3u8
 
 #EXTINF:-1 tvg-id="CaracolHD2.co@SD" tvg-logo="https://i.imgur.com/Fww94l9.png" group-title="哥伦比亚",Caracol HD2 (1080p)
 http://181.78.14.26:4000/play/a00d/index.m3u8
+
+#EXTINF:-1 tvg-id="CaracolInternacional.co@SD" tvg-logo="https://i.imgur.com/h7LWbt5.png" group-title="哥伦比亚",Caracol Internacional (576p)
+http://138.59.177.78:9999/play/a0a8/index.m3u8
 
 #EXTINF:-1 tvg-id="CaracolTV.co@SD" tvg-logo="https://i.imgur.com/WbfdJbk.png" group-title="哥伦比亚",Caracol TV (1080p)
 http://45.171.108.253:8888/CARACOL/index.m3u8

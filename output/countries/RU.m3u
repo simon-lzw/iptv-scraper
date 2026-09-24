@@ -1,7 +1,7 @@
 #EXTM3U
 #PLAYLIST: 俄罗斯 (RU) IPTV 直播源
-#生成时间: 2026-09-23 18:15:45
-#频道数: 316
+#生成时间: 2026-09-24 07:11:06
+#频道数: 329
 
 # ===== 俄罗斯 (RU) =====
 
@@ -19,6 +19,18 @@ https://hls.tv.3angels.ru/stream.m3u8
 
 #EXTINF:-1 tvg-id="5minuttishiny.ru@SD" tvg-logo="https://cdn2-static.ntv.ru/home/promo/24740/5minut_live.jpg" group-title="俄罗斯",5 minut tishiny (1080p)
 https://cdn-dvr.ntv.ru/5_minut_tishiny/index.m3u8
+
+#EXTINF:-1 tvg-id="5Gold.il@SD" tvg-logo="https://i.imgur.com/zFLRfXh.png" group-title="俄罗斯",5Gold (1080p)
+http://str2.iptvhd.ru:8080/sport5gold/index.m3u8
+
+#EXTINF:-1 tvg-id="5Live.il@SD" tvg-logo="https://i.imgur.com/0yr3yvd.png" group-title="俄罗斯",5Live (1080p)
+http://str2.iptvhd.ru:8080/5live/index.m3u8
+
+#EXTINF:-1 tvg-id="5Sport.il@SD" tvg-logo="https://i.imgur.com/dRVsB89.png" group-title="俄罗斯",5Sport (1080p)
+http://str2.iptvhd.ru:8080/5sport/index.m3u8
+
+#EXTINF:-1 tvg-id="5Sport4K.il@SD" tvg-logo="https://i.imgur.com/Msfhpqd.png" group-title="俄罗斯",5Sport 4K (2160p)
+http://str2.iptvhd.ru:8080/5SPORT_4K/index.m3u8
 
 #EXTINF:-1 tvg-id="86.ru@SD" tvg-logo="https://i.imgur.com/0dRS4Cb.png" group-title="俄罗斯",86 (1080p) [Not 24/7]
 https://sitv.ru/hls/s86.m3u8
@@ -158,6 +170,9 @@ http://str2.iptvhd.ru:8080/FastFunBoxHD/index.m3u8
 #EXTINF:-1 tvg-id="FirstMusicChannelRussia.by@SD" tvg-logo="https://i.imgur.com/rEo7nR1.png" group-title="俄罗斯",First Music Channel Russia (1080p)
 http://hls127.freeott.top:8080/1muz_HD/video.m3u8
 
+#EXTINF:-1 tvg-id="FoodChannel.il@SD" tvg-logo="https://i.imgur.com/mpXPmfw.png" group-title="俄罗斯",Food Channel (1080p)
+http://str2.iptvhd.ru:8080/FoodChannel/index.m3u8
+
 #EXTINF:-1 tvg-id="FoodTime.ru@HD" tvg-logo="https://i.imgur.com/gxCYAwH.png" group-title="俄罗斯",FoodTime (1080p)
 http://str2.iptvhd.ru:8080/Eda/index.m3u8
 
@@ -185,11 +200,20 @@ http://str2.iptvhd.ru:8080/fun/index.m3u8
 #EXTINF:-1 tvg-id="HOTCinema4.il@SD" tvg-logo="https://antifriz.tv/storage/images/pack_logos/e055cf2620f58c60b1e65be4717d2c22.png" group-title="俄罗斯",HOT Cinema 4 (1080p)
 http://str2.iptvhd.ru:8080/drama/index.m3u8
 
+#EXTINF:-1 tvg-id="HOTComedy.il@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/he/thumb/0/08/HOTComedyCentral.svg/250px-HOTComedyCentral.svg.png" group-title="俄罗斯",HOT Comedy (1080p)
+http://str2.iptvhd.ru:8080/HOTComedy/index.m3u8
+
+#EXTINF:-1 tvg-id="HOTSenior.il@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/HotNewLogo.svg/250px-HotNewLogo.svg.png" group-title="俄罗斯",HOT Senior (1080p)
+http://str2.iptvhd.ru:8080/HOT_Senior/index.m3u8
+
 #EXTINF:-1 tvg-id="HOT8.il@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/he/thumb/a/a9/HOT8_2018_Logo.svg/250px-HOT8_2018_Logo.svg.png" group-title="俄罗斯",HOT8 (1080p)
 http://str2.iptvhd.ru:8080/channel8/index.m3u8
 
 #EXTINF:-1 tvg-id="History2.ru@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/History2_logo_%282022%29.svg/500px-History2_logo_%282022%29.svg.png" group-title="俄罗斯",History 2 (1080p)
 http://str2.iptvhd.ru:8080/H2_HD/index.m3u8
+
+#EXTINF:-1 tvg-id="HomePlus.il@SD" tvg-logo="https://i.imgur.com/HPsxqMx.png" group-title="俄罗斯",Home + (576p)
+http://str2.iptvhd.ru:8080/home_plus/index.m3u8
 
 #EXTINF:-1 tvg-id="HopeChannelRussia.ru@SD" tvg-logo="https://i.imgur.com/ah6VnFJ.png" group-title="俄罗斯",Hope Channel Russia (720p)
 https://live-tvhope.cdnvideo.ru/tvhope-pull/tvhope_1/playlist.m3u8
@@ -208,6 +232,9 @@ https://ingushetia.mediacdn.ru/cdn/ingushetia/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Izvestia.ru@SD" tvg-logo="https://i.imgur.com/r5HzA6J.png" group-title="俄罗斯",Izvestia (1080p)
 http://igi-hls.cdnvideo.ru/igi/igi_tcode/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Junior.il@SD" tvg-logo="https://i.imgur.com/w8fYTnw.png" group-title="俄罗斯",Junior (1080p)
+http://str2.iptvhd.ru:8080/junior/index.m3u8
 
 #EXTINF:-1 tvg-id="KHLPrime.ru@HD" tvg-logo="https://i.imgur.com/pwxT0ON.png" group-title="俄罗斯",KHL Prime (1080p)
 http://str2.iptvhd.ru:8080/KHL_TV_HD/index.m3u8
@@ -253,6 +280,9 @@ https://tvshops.bonus-tv.ru/cdn/shop24/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Lugansk24.ua@SD" tvg-logo="https://i.imgur.com/AihoVc0.png" group-title="俄罗斯",Lugansk 24
 https://streaming.televizor-24-tochka.ru/live/29.m3u8
+
+#EXTINF:-1 tvg-id="Luli.il@SD" tvg-logo="https://cdn.epg.one/img2/2695.png" group-title="俄罗斯",Luli (1080p)
+http://str2.iptvhd.ru:8080/HOT_Luli/index.m3u8
 
 #EXTINF:-1 tvg-id="Maestro.ge@SD" tvg-logo="https://i.imgur.com/nUz1VRv.png" group-title="俄罗斯",Maestro (576p)
 http://str2.iptvhd.ru:8080/maestro/index.m3u8
@@ -358,6 +388,9 @@ http://osnmedia.servicecdn.ru/streams/17603_88089/playlist.m3u8
 
 #EXTINF:-1 tvg-id="OTR.ru@SD" tvg-logo="https://i.imgur.com/VaWlnjZ.png" group-title="俄罗斯",OTR (576p)
 http://flussonic.linkintel.ru/otr/index.m3u8
+
+#EXTINF:-1 tvg-id="One2.il@SD" tvg-logo="https://i.imgur.com/JQLhYEs.png" group-title="俄罗斯",One 2 (1080p)
+http://str2.iptvhd.ru:8080/One/index.m3u8
 
 #EXTINF:-1 tvg-id="OsetiyaIryston.ru@SD" tvg-logo="https://i.imgur.com/N0Zn4zU.png" group-title="俄罗斯",Osetiya-Iryston (1080p)
 https://osir.mediacdn.ru/cdn/osetia/playlist.m3u8
@@ -754,6 +787,12 @@ https://stream.smotrim.ru/hls2/vesti_fm/playlist_4.m3u8
 
 #EXTINF:-1 tvg-id="VitrinaTV.ru@SD" tvg-logo="https://i.imgur.com/lzQsVfn.png" group-title="俄罗斯",Vitrina TV (720p)
 https://live-11cinema.cdnvideo.ru/11cinema/11cinema/playlist.m3u8
+
+#EXTINF:-1 tvg-id="VivaIstanbul.il@SD" tvg-logo="https://cdn.epg.one/img2/88006.png" group-title="俄罗斯",Viva Istanbul (1080p)
+http://str2.iptvhd.ru:8080/viva_plus/index.m3u8
+
+#EXTINF:-1 tvg-id="VivaTelenovelas.il@SD" tvg-logo="https://static.g-cdn.app/streams/viva-il.png" group-title="俄罗斯",Viva Telenovelas (1080p)
+http://str2.iptvhd.ru:8080/VIVA/index.m3u8
 
 #EXTINF:-1 tvg-id="Volga.ru@SD" tvg-logo="https://i.imgur.com/xHs1pr1.png" group-title="俄罗斯",Volga
 http://tele2dvrnat01-02.cdnvideo.ru/stream/NAT_Volga/hls/1920x1080@4504/playlist.m3u8
