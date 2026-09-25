@@ -1,7 +1,7 @@
 #EXTM3U
 #PLAYLIST: 德国 (DE) IPTV 直播源
-#生成时间: 2026-09-24 18:11:18
-#频道数: 197
+#生成时间: 2026-09-25 07:07:07
+#频道数: 199
 
 # ===== 德国 (DE) =====
 
@@ -70,6 +70,9 @@ https://daserste-live.ard-mcdn.de/daserste/live/hls/de/master.m3u8
 
 #EXTINF:-1 tvg-id="DasErste.de@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/ARD_Dachmarke_2014.svg/960px-ARD_Dachmarke_2014.svg.png" group-title="德国",Das Erste HD (1080p)
 https://daserste-live.ard-mcdn.de/daserste/live/hls/int/master.m3u8
+
+#EXTINF:-1 tvg-id="DisneyChannel.de@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/2022_Disney_Channel_logo.svg" group-title="德国",Disney Channel (Germany)
+http://178.27.12.3:9981/stream/channelid/269948147?profile=pass
 
 #EXTINF:-1 tvg-id="Dokusat.de@SD" tvg-logo="https://i.imgur.com/GadfTwF.png" group-title="德国",Dokusat (1080p)
 https://muc3.iptv-playoutcenter.de/dokusat/dokusat1/playlist.m3u8
@@ -337,6 +340,9 @@ https://jmp2.uk/plu-5d4bdb635ce813b38639e6a3.m3u8
 
 #EXTINF:-1 tvg-id="ProSieben.de@SD" tvg-logo="https://i.imgur.com/zZOk3nh.png" group-title="德国",ProSieben (1080p)
 https://dash4.antik.sk/live/test_pro_sieben_tizen/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ProSiebenMaxx.de@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/ProSieben_MAXX_Logo.svg/960px-ProSieben_MAXX_Logo.svg.png" group-title="德国",ProSieben Maxx
+http://178.27.12.3:9981/stream/channelid/1567530044?profile=pass
 
 #EXTINF:-1 tvg-id="QVC.de@SD" tvg-logo="https://i.imgur.com/EybRtsI.png" group-title="德国",QVC (Germany) (720p)
 https://qvcde-live.akamaized.net/hls/live/2097104/qvc/master.m3u8

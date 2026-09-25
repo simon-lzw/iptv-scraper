@@ -1,7 +1,7 @@
 #EXTM3U
 #PLAYLIST: 以色列 (IL) IPTV 直播源
-#生成时间: 2026-09-24 18:11:18
-#频道数: 15
+#生成时间: 2026-09-25 07:07:07
+#频道数: 17
 
 # ===== 以色列 (IL) =====
 
@@ -25,6 +25,12 @@ http://str2.iptvhd.ru:8080/nickjr/index.m3u8
 
 #EXTINF:-1 tvg-id="Sport2.il@SD" tvg-logo="https://i.imgur.com/Headxmx.png" group-title="以色列",Sport 2 (Israel) (1080p)
 http://str2.iptvhd.ru:8080/Sport_2/index.m3u8
+
+#EXTINF:-1 tvg-id="Sport3.il@SD" tvg-logo="https://i.imgur.com/stSrBBh.png" group-title="以色列",Sport 3 (Israel) (1080p)
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/BWGFFCU59AE6AEV3KF3FXTBA/12251/index.m3u8
+
+#EXTINF:-1 tvg-id="Sport4.il@SD" tvg-logo="https://i.imgur.com/wFXzzYs.png" group-title="以色列",Sport 4 (Israel) (1080p)
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/BWGFFCU59AE6AEV3KF3FXTBA/2389/index.m3u8
 
 #EXTINF:-1 tvg-id="TeenNick.il@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/TeenNick_2019_logo.svg/960px-TeenNick_2019_logo.svg.png" group-title="以色列",TeenNick (Israel) (406p)
 http://89.33.29.115:8080/TeenNick/index.m3u8

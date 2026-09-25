@@ -1,7 +1,7 @@
 #EXTM3U
 #PLAYLIST: 俄罗斯 (RU) IPTV 直播源
-#生成时间: 2026-09-24 18:11:18
-#频道数: 329
+#生成时间: 2026-09-25 07:07:07
+#频道数: 330
 
 # ===== 俄罗斯 (RU) =====
 
@@ -70,6 +70,9 @@ https://streaming.astrakhan.ru/astrakhanrulivehd/playlist.m3u8
 
 #EXTINF:-1 tvg-id="AutoPlus.ru@SD" tvg-logo="https://i.imgur.com/sVc8cFt.png" group-title="俄罗斯",Auto Plus (576p)
 http://str2.iptvhd.ru:8080/Avto_Plyus/index.m3u8
+
+#EXTINF:-1 tvg-id="Avto24.ru@SD" tvg-logo="https://i.imgur.com/GXSXmN2.png" group-title="俄罗斯",Avto24 (1080i)
+http://str2.iptvhd.ru:8080/Avto_24/index.m3u8
 
 #EXTINF:-1 tvg-id="BRIDGEFresh.ru@SD" tvg-logo="https://i.imgur.com/IkUhaiG.png" group-title="俄罗斯",BRIDGE Fresh (1080p)
 http://str2.iptvhd.ru:8080/Bridge_TV_HD/index.m3u8
