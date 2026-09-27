@@ -1,7 +1,7 @@
 #EXTM3U
 #PLAYLIST: 俄罗斯 (RU) IPTV 直播源
-#生成时间: 2026-09-26 17:36:47
-#频道数: 330
+#生成时间: 2026-09-27 07:35:25
+#频道数: 331
 
 # ===== 俄罗斯 (RU) =====
 
@@ -121,6 +121,9 @@ https://12channel.bonus-tv.ru/cdn/12channel/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ChannelOne.ru@SD" tvg-logo="https://i.imgur.com/RUSX0rX.png" group-title="俄罗斯",Channel One (Russia) (1080p)
 http://31.148.48.15/Pervii_kanal_HD/index.m3u8
+
+#EXTINF:-1 tvg-id="ChannelOne.ru@Europa" tvg-logo="https://i.imgur.com/RUSX0rX.png" group-title="俄罗斯",Channel One (Russia) Europa (480p)
+https://streaming.thestream.cyou/live/210-req_offset_28000000-req_window_0-1k_v5.m3u8
 
 #EXTINF:-1 tvg-id="Che.ru@SD" tvg-logo="https://i.imgur.com/ZOcDGpB.png" group-title="俄罗斯",Che! (576p)
 http://flussonic.linkintel.ru/che/index.m3u8

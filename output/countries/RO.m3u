@@ -1,7 +1,7 @@
 #EXTM3U
 #PLAYLIST: 罗马尼亚 (RO) IPTV 直播源
-#生成时间: 2026-09-26 17:36:47
-#频道数: 82
+#生成时间: 2026-09-27 07:35:25
+#频道数: 84
 
 # ===== 罗马尼亚 (RO) =====
 
@@ -65,6 +65,9 @@ http://hls127.freeott.top:8080/BG_The_World/video.m3u8
 #EXTINF:-1 tvg-id="BucovinaTV.ro@SD" tvg-logo="https://i.imgur.com/6klhXxp.png" group-title="罗马尼亚",Bucovina TV (576i)
 https://www.bucovinatv.ro/proxy/video/playlist.m3u8
 
+#EXTINF:-1 tvg-id="CinemaratonPlus.ro@HD" tvg-logo="https://assets.antenaplay.ro/2026/03/10/RMNdkVBCTNfsogsYqHaB.png" group-title="罗马尼亚",Cinemaraton Plus (1080i)
+https://hls02ns.antenaplay.ro/hls/cinemaraton-plus-hd/index.m3u8
+
 #EXTINF:-1 tvg-id="ComedyPlay.ro@SD" tvg-logo="https://i.imgur.com/6kAeVOk.png" group-title="罗马尼亚",Comedy Play (576i)
 https://stream1.antenaplay.ro/live/ComedyPlay/chunklist.m3u8
 
@@ -109,6 +112,9 @@ https://hls02ns.antenaplay.ro/hls/inedit-tv-hd/index.m3u8
 
 #EXTINF:-1 tvg-id="InformatiaTV.ro@SD" tvg-logo="https://i.imgur.com/P1ZbVRg.png" group-title="罗马尼亚",Informatia TV
 https://informatia.streamnet.ro/mobile_tv/informatiatv.m3u8
+
+#EXTINF:-1 tvg-id="Insulanonstop.ro@SD" tvg-logo="https://assets.antenaplay.ro/2026/08/20/DlZIyQ0kSAH3YYj30Ovi.png" group-title="罗马尼亚",Insula non stop (576i)
+https://live4dai.antenaplay.ro/live2_sdi05/live2_sdi05_600k.m3u8
 
 #EXTINF:-1 tvg-id="KanalD.ro@SD" tvg-logo="https://i.imgur.com/15ILp0P.png" group-title="罗马尼亚",Kanal D (Romania) (480p)
 https://stream1.kanald.ro/iphone/knd-live.m3u8

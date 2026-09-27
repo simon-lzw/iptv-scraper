@@ -1,7 +1,7 @@
 #EXTM3U
 #PLAYLIST: 墨西哥 (MX) IPTV 直播源
-#生成时间: 2026-09-26 17:36:47
-#频道数: 49
+#生成时间: 2026-09-27 07:35:25
+#频道数: 50
 
 # ===== 墨西哥 (MX) =====
 
@@ -16,6 +16,9 @@ https://5bf8041cb3fed.streamlock.net/AlcanceTV/AlcanceTV/playlist.m3u8
 
 #EXTINF:-1 tvg-id="AlcarriaTV.es" tvg-logo="https://i.imgur.com/zNSuxVZ.jpg" group-title="墨西哥",Alcarria TV
 http://cls.alcarria.tv/live/alcarriatv-livestream.m3u8
+
+#EXTINF:-1 tvg-id="Azteca7.mx@SD" tvg-logo="https://i.imgur.com/UtFXjIn.png" group-title="墨西哥",Azteca 7 (1080p)
+http://187.245.231.226:8000/play/a0uz/index.m3u8
 
 #EXTINF:-1 tvg-id="AztecaDeportesNetwork.mx@SD" tvg-logo="https://match-images.icdb.tv/5913207f2494844101287828e87625eb.jpg" group-title="墨西哥",Azteca Deportes Network (1080p)
 http://181.119.66.28:8081/AZTECA-DEPORTES-HD/index.m3u8
