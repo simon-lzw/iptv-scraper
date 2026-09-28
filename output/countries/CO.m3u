@@ -1,7 +1,7 @@
 #EXTM3U
 #PLAYLIST: 哥伦比亚 (CO) IPTV 直播源
-#生成时间: 2026-09-27 18:03:05
-#频道数: 45
+#生成时间: 2026-09-28 08:13:10
+#频道数: 44
 
 # ===== 哥伦比亚 (CO) =====
 
@@ -35,9 +35,6 @@ https://cdn-tiva-stream01-msolutionbrasil-com-br.smartbit.co/hls/canal25/live.m3
 #EXTINF:-1 tvg-id="CanalCineDios.co@SD" tvg-logo="https://i.imgur.com/S4xqZgV.png" group-title="哥伦比亚",Canal Cine Dios
 https://canal.mediaserver.com.co/live/cinedios.m3u8
 
-#EXTINF:-1 tvg-id="CanalInstitucional.co@SD" tvg-logo="https://i.imgur.com/hqfQVrU.png" group-title="哥伦比亚",Canal Institucional (720p)
-https://streaming.rtvc.gov.co/TV_CanalInstitucional_live/smil:live.smil/playlist.m3u8
-
 #EXTINF:-1 tvg-id="CanalOracionConSon.co@SD" tvg-logo="https://i.imgur.com/rfnFqU3.png" group-title="哥伦比亚",Canal Oracion Con Son (1080p)
 https://canal.mediaserver.com.co/live/oracionconson.m3u8
 
@@ -53,8 +50,8 @@ https://live.amelbatv.co:81/womtvlive/index.m3u8
 #EXTINF:-1 tvg-id="CaracolHD2.co@SD" tvg-logo="https://i.imgur.com/Fww94l9.png" group-title="哥伦比亚",Caracol HD2 (1080p)
 http://181.78.14.26:4000/play/a00d/index.m3u8
 
-#EXTINF:-1 tvg-id="CaracolInternacional.co@SD" tvg-logo="https://i.imgur.com/h7LWbt5.png" group-title="哥伦比亚",Caracol Internacional (576p)
-http://138.59.177.78:9999/play/a0a8/index.m3u8
+#EXTINF:-1 tvg-id="CaracolInternacional.co@SD" tvg-logo="https://i.imgur.com/h7LWbt5.png" group-title="哥伦比亚",Caracol Internacional (1080p)
+http://167.249.23.102:8000/play/a0ax/index.m3u8
 
 #EXTINF:-1 tvg-id="CaracolTV.co@SD" tvg-logo="https://i.imgur.com/WbfdJbk.png" group-title="哥伦比亚",Caracol TV (1080p)
 http://45.171.108.253:8888/CARACOL/index.m3u8

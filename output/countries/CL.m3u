@@ -1,7 +1,7 @@
 #EXTM3U
 #PLAYLIST: 智利 (CL) IPTV 直播源
-#生成时间: 2026-09-27 18:03:05
-#频道数: 163
+#生成时间: 2026-09-28 08:13:10
+#频道数: 164
 
 # ===== 智利 (CL) =====
 
@@ -409,6 +409,9 @@ https://v2.tustreaming.cl/tnetv/index.m3u8
 
 #EXTINF:-1 tvg-id="TVChile.cl" tvg-logo="https://i.imgur.com/yCL888l.png" group-title="智利",TV Chile
 https://mdstrm.com/live-stream-playlist/533adcc949386ce765657d7c.m3u8
+
+#EXTINF:-1 tvg-id="TVChile.cl@SD" tvg-logo="https://i.imgur.com/oYFto0V.png" group-title="智利",TV Chile (720p)
+http://168.196.127.137:6001/play/a03n/index.m3u8
 
 #EXTINF:-1 tvg-id="TVSenado.cl@SD" tvg-logo="https://i.imgur.com/CNUZ6ig.png" group-title="智利",TV Senado (Chile) (720p)
 http://cdn1tlinkgo.tlink.cl/tvsenado/mono.m3u8

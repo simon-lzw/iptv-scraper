@@ -1,7 +1,7 @@
 #EXTM3U
 #PLAYLIST: 阿联酋 (AE) IPTV 直播源
-#生成时间: 2026-09-27 18:03:05
-#频道数: 43
+#生成时间: 2026-09-28 08:13:10
+#频道数: 44
 
 # ===== 阿联酋 (AE) =====
 
@@ -79,6 +79,9 @@ http://185.9.2.18/chid_139/index.m3u8
 
 #EXTINF:-1 tvg-id="DubaiZaman.ae" tvg-logo="https://www.lyngsat.com/logo/tv/dd/dubai-zaman-ae.png" group-title="阿联酋",Dubai Zaman
 https://dmiffthvll.cdn.mangomolo.com/dubaizaman/smil:dubaizaman.stream.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="FalakTV.pk@SD" tvg-logo="https://i.imgur.com/2TqlNsI.png" group-title="阿联酋",Falak TV
+https://falak.rst.ae/index.m3u8
 
 #EXTINF:-1 tvg-id="MBC1.ae" tvg-logo="https://i.imgur.com/CiA3plN.png" group-title="阿联酋",MBC 1
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-1/15cf99af5de54063fdabfefe66adc075/index.m3u8

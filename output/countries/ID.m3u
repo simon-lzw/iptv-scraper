@@ -1,9 +1,12 @@
 #EXTM3U
 #PLAYLIST: 印度尼西亚 (ID) IPTV 直播源
-#生成时间: 2026-09-27 18:03:05
-#频道数: 51
+#生成时间: 2026-09-28 08:13:10
+#频道数: 52
 
 # ===== 印度尼西亚 (ID) =====
+
+#EXTINF:-1 tvg-id="ANTV.ve@SD" tvg-logo="https://i.imgur.com/Qm88HT0.png" group-title="印度尼西亚",ANTV (Venezuela) (720p)
+http://181.78.8.199:8000/play/a0fo/index.m3u8
 
 #EXTINF:-1 tvg-id="AlImanTV.id@SD" tvg-logo="https://i.imgur.com/Qj1EFf1.png" group-title="印度尼西亚",Al-Iman TV (Indonesia) (720p)
 https://tv.aliman.id/aliman/live.m3u8
