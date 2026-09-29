@@ -1,7 +1,7 @@
 #EXTM3U
 #PLAYLIST: 墨西哥 (MX) IPTV 直播源
-#生成时间: 2026-09-28 20:22:54
-#频道数: 50
+#生成时间: 2026-09-29 07:52:52
+#频道数: 51
 
 # ===== 墨西哥 (MX) =====
 
@@ -34,6 +34,9 @@ https://60417ddeaf0d9.streamlock.net/telemetrika3/smil:telemetrika3.smil/playlis
 
 #EXTINF:-1 tvg-id="Canal5.mx@SD" tvg-logo="https://i.imgur.com/uZdVSoW.png" group-title="墨西哥",Canal 5 (Mexico) (1080p)
 http://45.181.87.106/CANAL5HD/index.m3u8
+
+#EXTINF:-1 tvg-id="Canal5.mx@XETTDT" tvg-logo="https://i.imgur.com/cBC2Jre.png" group-title="墨西哥",Canal 5 (Mexico) XET-TDT (1080p)
+http://45.5.118.152:8000/play/a03i/index.m3u8
 
 #EXTINF:-1 tvg-id="Canal5.uy@SD" tvg-logo="https://i.imgur.com/IpYxSr1.png" group-title="墨西哥",Canal 5 (Uruguay) (720p)
 https://tinyurl.com/canal5uy

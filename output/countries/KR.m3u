@@ -1,7 +1,7 @@
 #EXTM3U
 #PLAYLIST: 韩国 (KR) IPTV 直播源
-#生成时间: 2026-09-28 20:22:54
-#频道数: 100
+#生成时间: 2026-09-29 07:52:52
+#频道数: 102
 
 # ===== 韩国 (KR) =====
 
@@ -31,6 +31,12 @@ http://bbstv.clouducs.com:1935/bbstv-live/livestream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="BTNTV.kr@SD" tvg-logo="https://i.imgur.com/sOoS7RQ.png" group-title="韩国",BTN TV (South Korea) (1080p)
 https://btn.nowcdn.co.kr/btn/btnlive2m/playlist.m3u8
+
+#EXTINF:-1 tvg-id="BilliardsTV.kr@SD" tvg-logo="https://i.imgur.com/fo1k0Oj.png" group-title="韩国",Billiards TV [Geo-blocked]
+https://xyktmobile00.s.gy/PPV942_BILLIARD
+
+#EXTINF:-1 tvg-id="BrainTV.kr@SD" tvg-logo="https://i.imgur.com/uF5jZbl.png" group-title="韩国",Brain TV
+https://xyktmobile00.s.gy/PPV941_BRAIN
 
 #EXTINF:-1 tvg-id="CJOnStyle.kr@SD" tvg-logo="https://i.imgur.com/JiSfEBv.png" group-title="韩国",CJ OnStyle (540p)
 https://live-ch1.cjonstyle.net/cjmalllive/stream2/playlist.m3u8

@@ -1,9 +1,12 @@
 #EXTM3U
 #PLAYLIST: 俄罗斯 (RU) IPTV 直播源
-#生成时间: 2026-09-28 20:22:54
-#频道数: 329
+#生成时间: 2026-09-29 07:52:52
+#频道数: 331
 
 # ===== 俄罗斯 (RU) =====
+
+#EXTINF:-1 tvg-id="black.ru@SD" tvg-logo="https://i.imgur.com/Q4A6ci4.png" group-title="俄罗斯",.black (576p)
+http://str2.iptvhd.ru:8080/Sony_Turbo/index.m3u8
 
 #EXTINF:-1 tvg-id="15PlusMusic.ru@HD" tvg-logo="https://i.imgur.com/kj21hwd.png" group-title="俄罗斯",15+ Music (1080p)
 https://live.15plusmg.ru/memfs/ce3366b1-bf25-4e24-96bb-1adf0d44bd3d.m3u8
@@ -397,6 +400,9 @@ http://flussonic.linkintel.ru/otr/index.m3u8
 
 #EXTINF:-1 tvg-id="One2.il@SD" tvg-logo="https://i.imgur.com/JQLhYEs.png" group-title="俄罗斯",One 2 (1080p)
 http://str2.iptvhd.ru:8080/One/index.m3u8
+
+#EXTINF:-1 tvg-id="Oplot2.ru@SD" tvg-logo="https://nettv.live/uploads/allimg/21/1-210123195A80-L.jpg" group-title="俄罗斯",Oplot 2 (720p) [Geo-blocked]
+http://iptv.mega.net.ru:8888/Oplot_2/index.m3u8
 
 #EXTINF:-1 tvg-id="OsetiyaIryston.ru@SD" tvg-logo="https://i.imgur.com/N0Zn4zU.png" group-title="俄罗斯",Osetiya-Iryston (1080p)
 https://osir.mediacdn.ru/cdn/osetia/playlist.m3u8
