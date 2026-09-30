@@ -1,7 +1,7 @@
 #EXTM3U
 #PLAYLIST: 墨西哥 (MX) IPTV 直播源
-#生成时间: 2026-09-29 19:06:35
-#频道数: 51
+#生成时间: 2026-09-30 07:58:08
+#频道数: 52
 
 # ===== 墨西哥 (MX) =====
 
@@ -151,6 +151,9 @@ https://player.tvstream.mx/livestream/teleplay/livehd/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ThePetCollective.us@Mexico" tvg-logo="https://i.imgur.com/yH7n2dF.png" group-title="墨西哥",The Pet Collective Mexico (720p)
 https://the-pet-collective-international-mx.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TlnovelasMexico.mx@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Tlnovelas_logo_2021.png" group-title="墨西哥",Tlnovelas Mexico (1080p)
+http://167.249.23.102:8000/play/a0g8/index.m3u8
 
 #EXTINF:-1 tvg-id="UnisonTV.mx@SD" tvg-logo="https://i.imgur.com/7ixWRId.png" group-title="墨西哥",Unison TV (1080p) [Not 24/7]
 https://stream.unison.mx/hls/unisontvatem.m3u8
