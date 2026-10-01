@@ -1,7 +1,7 @@
 #EXTM3U
 #PLAYLIST: 波兰 (PL) IPTV 直播源
-#生成时间: 2026-09-30 18:49:47
-#频道数: 75
+#生成时间: 2026-10-01 08:18:44
+#频道数: 77
 
 # ===== 波兰 (PL) =====
 
@@ -38,8 +38,14 @@ https://lon1-y7p7cyzc7vdh.lolokoko.tv/f_cbeebies.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="CNC3.tt" tvg-logo="https://i.imgur.com/1E73l2j.png" group-title="波兰",CNC3
 https://sktv-forwarders.7m.pl/get.php?x=CNC3
 
+#EXTINF:-1 tvg-id="ComedyCentral.pl@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/960px-Comedy_Central_2018.svg.png" group-title="波兰",Comedy Central (Poland) (1080p)
+http://57.128.231.171:8080/286/index.m3u8
+
 #EXTINF:-1 tvg-id="CrimePlusInvestigationPolsat.pl@SD" tvg-logo="https://i.imgur.com/kSZCvah.png" group-title="波兰",Crime + Investigation Polsat (1080p)
 http://57.128.231.171:8080/285/index.m3u8
+
+#EXTINF:-1 tvg-id="DaVinci.pl@SD" tvg-logo="https://i.imgur.com/V8AUJP6.png" group-title="波兰",Da Vinci (Poland) (1080p)
+http://57.128.231.171:8080/284/index.m3u8
 
 #EXTINF:-1 tvg-id="E.pl@SD" tvg-logo="https://i.imgur.com/TWFDkap.png" group-title="波兰",E! (Poland) (1080p)
 http://57.128.231.171:8080/273/index.m3u8

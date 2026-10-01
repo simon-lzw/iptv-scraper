@@ -1,7 +1,7 @@
 #EXTM3U
 #PLAYLIST: 英国 (GB) IPTV 直播源
-#生成时间: 2026-09-30 18:49:47
-#频道数: 796
+#生成时间: 2026-10-01 08:18:44
+#频道数: 798
 
 # ===== 英国 (GB) =====
 
@@ -124,6 +124,9 @@ https://thinkkast.dpdns.org/thinkkast/bbcworld_news_sd/versiglia/index.m3u8
 
 #EXTINF:-1 tvg-id="BBCNews.uk@Europe" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_BBC_NEWS/images/LOGO_HD/image.png" group-title="英国",BBC News Europe (576p)
 http://46.32.176.50/bbcworld/index.m3u8
+
+#EXTINF:-1 tvg-id="BBCNewsHindi.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/BBC_Hindi.png" group-title="英国",BBC News Hindi (1080p)
+http://51.75.127.199:3141/bbcnewshindi/index.m3u8
 
 #EXTINF:-1 tvg-id="BBCNews.uk@LatinAmerica" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_BBC_NEWS/images/LOGO_HD/image.png" group-title="英国",BBC News Latin America (720p)
 http://138.121.15.230:9002/BBC-NEWS/index.m3u8
@@ -343,6 +346,15 @@ http://45.14.84.37/bbc4/index.m3u8
 
 #EXTINF:-1 tvg-id="BBCRadioWorldService.uk" tvg-logo="https://experiencersinternational.github.io/tvsetup/tvg-ico/bbcws-epg.png" group-title="英国",BBC World Service
 http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_low/ak/bbc_world_service.m3u8
+
+#EXTINF:-1 tvg-id="BET.se@SE" tvg-logo="https://images.pluto.tv/channels/61c1939b8929e40007ff6382/colorLogoPNG.png" group-title="英国",BET
+https://jmp2.uk/plu-61c187ef1efe1b0007571711.m3u8
+
+#EXTINF:-1 tvg-id="BET.se@DK" tvg-logo="https://images.pluto.tv/channels/61c1939b8929e40007ff6382/colorLogoPNG.png" group-title="英国",BET DK
+https://jmp2.uk/plu-61c1939b8929e40007ff6382.m3u8
+
+#EXTINF:-1 tvg-id="BET.se@NO" tvg-logo="https://images.pluto.tv/channels/61c1939b8929e40007ff6382/colorLogoPNG.png" group-title="英国",BET NO
+https://jmp2.uk/plu-61dd5bf8db0b8e00080804ff.m3u8
 
 #EXTINF:-1 tvg-id="BETPlutoTV.us@BR" tvg-logo="https://images.pluto.tv/channels/5ff768b6a4c8b80008498610/colorLogoPNG_1756804608228.png" group-title="英国",BET Pluto TV BR
 https://jmp2.uk/plu-5ff768b6a4c8b80008498610.m3u8
@@ -2066,15 +2078,6 @@ https://636ffd31f0e12.streamlock.net/RacingStream1/RacingStream1/playlist.m3u8
 #EXTINF:-1 tvg-id="SkyRacing2.au@SD" tvg-logo="https://i.imgur.com/TxQvFnQ.png" group-title="英国",Sky Racing 2 (720p)
 https://636ffd31f0e12.streamlock.net/RacingStream2/RacingStream2/playlist.m3u8
 
-#EXTINF:-1 tvg-id="SkySportsF1.ie@SD" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1306.png" group-title="英国",Sky Sports F1 (1080p)
-https://xemzi.short.gy/2000005
-
-#EXTINF:-1 tvg-id="SkySportsFootball.ie@SD" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb3838.png" group-title="英国",Sky Sports Football (720p)
-http://188.138.29.131/skyfootball/index.m3u8
-
-#EXTINF:-1 tvg-id="SkySportsGolf.ie@HD" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1322.png" group-title="英国",Sky Sports Golf HD (1080p)
-https://leaf.highfly.dev/m3u/now-sky-sports-golf/live.m3u8
-
 #EXTINF:-1 tvg-id="SkyThoroughbredCentral.au@SD" tvg-logo="https://i.imgur.com/1SxIsnw.png" group-title="英国",Sky Thoroughbred Central (720p) [Geo-blocked]
 https://skylivetab-new.akamaized.net/hls/live/2038782/stcsd/index.m3u8
 
@@ -2167,6 +2170,9 @@ https://jmp2.uk/plu-6400c281dff38e00083f59da.m3u8
 
 #EXTINF:-1 tvg-id="StarTrekMovies.se@NO" tvg-logo="https://images.pluto.tv/channels/6400c281dff38e00083f59da/colorLogoPNG.png" group-title="英国",Star Trek Movies NO
 https://jmp2.uk/plu-6400c228498393000878a9b7.m3u8
+
+#EXTINF:-1 tvg-id="StarPlus.uk@SD" tvg-logo="https://i.imgur.com/xWxNy3L.png" group-title="英国",StarPlus (United Kingdom) (576p)
+https://d1rc86nwwc9fag.cloudfront.net/260723/starplusuk_2500/chunks.m3u8
 
 #EXTINF:-1 tvg-id="StorieCriminali.es@IT" tvg-logo="https://images.pluto.tv/channels/66177d18c8311c0008d077d0/colorLogoPNG.png" group-title="英国",Storie Criminali
 https://jmp2.uk/plu-66177d18c8311c0008d077d0.m3u8

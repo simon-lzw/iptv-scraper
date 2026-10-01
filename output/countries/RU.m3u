@@ -1,7 +1,7 @@
 #EXTM3U
 #PLAYLIST: 俄罗斯 (RU) IPTV 直播源
-#生成时间: 2026-09-30 18:49:47
-#频道数: 330
+#生成时间: 2026-10-01 08:18:44
+#频道数: 332
 
 # ===== 俄罗斯 (RU) =====
 
@@ -134,6 +134,9 @@ http://flussonic.linkintel.ru/cinema/index.m3u8
 #EXTINF:-1 tvg-id="DW.de@Russian" tvg-logo="https://i.imgur.com/8MRNFb9.png" group-title="俄罗斯",DW Russian (1080p)
 https://dwamdstream110.akamaized.net/hls/live/2017971/dwstream110/master.m3u8
 
+#EXTINF:-1 tvg-id="DaVinci.ru@SD" tvg-logo="https://i.imgur.com/V8AUJP6.png" group-title="俄罗斯",Da Vinci (Russia) (576p)
+http://hls127.freeott.top:8080/Da_Vinci_Learning/video.m3u8
+
 #EXTINF:-1 tvg-id="Dagestan.ru@SD" tvg-logo="https://i.imgur.com/jumkRvc.png" group-title="俄罗斯",Dagestan (1080p)
 https://dagestan.mediacdn.ru/cdn/dagestan/playlist.m3u8
 
@@ -169,6 +172,9 @@ http://str2.iptvhd.ru:8080/FOX_HD/index.m3u8
 
 #EXTINF:-1 tvg-id="FXLife.ru@SD" tvg-logo="https://i.imgur.com/VLv4r50.png" group-title="俄罗斯",FX Life (576p)
 http://str2.iptvhd.ru:8080/Fox_Life_HD/index.m3u8
+
+#EXTINF:-1 tvg-id="FashionTV.ru@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fashion_TV_logo.svg/960px-Fashion_TV_logo.svg.png" group-title="俄罗斯",FashionTV (Russia) (1080p)
+http://fashionlive.mediacdn.ru/cdn/fashiontv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="FastFunBox.ru@HD" tvg-logo="https://spiintl.com/data/files/kcfinderUploadDir/images/logo/fastandfunbox-logo.png" group-title="俄罗斯",Fast&FunBox (Russia) HD (1080p)
 http://str2.iptvhd.ru:8080/FastFunBoxHD/index.m3u8

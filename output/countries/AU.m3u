@@ -1,7 +1,7 @@
 #EXTM3U
 #PLAYLIST: 澳大利亚 (AU) IPTV 直播源
-#生成时间: 2026-09-30 18:49:47
-#频道数: 47
+#生成时间: 2026-10-01 08:18:44
+#频道数: 48
 
 # ===== 澳大利亚 (AU) =====
 
@@ -50,11 +50,14 @@ https://c.mjh.nz/abc-me.m3u8
 #EXTINF:-1 tvg-id="ABCNews.au" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/df/ABC_News_Channel.svg/500px-ABC_News_Channel.svg.png" group-title="澳大利亚",ABC News
 https://c.mjh.nz/abc-news.m3u8
 
-#EXTINF:-1 tvg-id="ABCNews.au@Sydney" tvg-logo="https://i.imgur.com/BrW7gk8.png" group-title="澳大利亚",ABC News (720p)
-https://abc-news-dmd-streams-1.akamaized.net/out/v1/701126012d044971b3fa89406a440133/index.m3u8
-
 #EXTINF:-1 tvg-id="ABCNews.au" tvg-logo="https://i.imgur.com/BrW7gk8.png" group-title="澳大利亚",ABC News (AU)
 https://www.youtube.com/@abcnewsaustralia/live
+
+#EXTINF:-1 tvg-id="ABCNews.au@Sydney" tvg-logo="https://i.imgur.com/BrW7gk8.png" group-title="澳大利亚",ABC News (Australia) (720p)
+https://abc-news-dmd-streams-1.akamaized.net/out/v1/701126012d044971b3fa89406a440133/index.m3u8
+
+#EXTINF:-1 tvg-id="ABCNews.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ABC_News.png" group-title="澳大利亚",ABC News (India) (576p)
+http://51.75.127.199:3141/abcnews/index.m3u8
 
 #EXTINF:-1 tvg-id="ABCNewsAlbania.al" tvg-logo="https://i.imgur.com/aObcudw.png" group-title="澳大利亚",ABC News Albania
 https://www.twitch.tv/abcnewsal

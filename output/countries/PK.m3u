@@ -1,7 +1,7 @@
 #EXTM3U
 #PLAYLIST: 巴基斯坦 (PK) IPTV 直播源
-#生成时间: 2026-09-30 18:49:47
-#频道数: 16
+#生成时间: 2026-10-01 08:18:44
+#频道数: 17
 
 # ===== 巴基斯坦 (PK) =====
 
@@ -34,6 +34,9 @@ https://ukintl.dunyanews.tv/liveuk/ngrp:dunyalive_all/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ExpressEntertainment.pk@SD" tvg-logo="https://i.imgur.com/rgHbb8W.png" group-title="巴基斯坦",Express Entertainment (1080p)
 https://ml-pull-dvc-myco.io:2096/EXPRESS_ENTERTAINMENT/index.m3u8
+
+#EXTINF:-1 tvg-id="ExpressNews.in@SD" tvg-logo="https://i.imgur.com/5ggKrf1.png" group-title="巴基斯坦",Express News (576p)
+http://51.75.127.199:3141/expressnews/index.m3u8
 
 #EXTINF:-1 tvg-id="HumTV.pk@HD" tvg-logo="https://i.ibb.co/Tx4GfKT5/Hum-TV-HD.png" group-title="巴基斯坦",Hum TV (720p)
 https://g4wlkwx8l23a-hls-live.5centscdn.com/HUM/271ddf829afeece44d8732757fba1a66.sdp/playlist_dvr.m3u8
