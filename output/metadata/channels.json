@@ -1562,6 +1562,17 @@
     "is_active": true
   },
   {
+    "name": "ARTV (720p) [Not 24/7]",
+    "url": "https://playout172.livextend.cloud/liveiframe/_definst_/liveartvabr/playlist.m3u8",
+    "group": "Legislative",
+    "country_code": "ZZ",
+    "country_name_zh": "ZZ",
+    "ip_version": "domain",
+    "score": 0.0,
+    "source": "iptv-org all streams",
+    "is_active": true
+  },
+  {
     "name": "AS TV (900p)",
     "url": "https://live.artidijitalmedya.com/artidijital_astv/astv/playlist.m3u8",
     "group": "News",
@@ -3328,17 +3339,6 @@
     "country_code": "ZZ",
     "country_name_zh": "ZZ",
     "ip_version": "domain",
-    "score": 0.0,
-    "source": "iptv-org all streams",
-    "is_active": true
-  },
-  {
-    "name": "Alsat (576p)",
-    "url": "http://5.254.89.106/8713/index.m3u8",
-    "group": "General",
-    "country_code": "ZZ",
-    "country_name_zh": "ZZ",
-    "ip_version": "ipv4",
     "score": 0.0,
     "source": "iptv-org all streams",
     "is_active": true
@@ -10264,7 +10264,7 @@
   },
   {
     "name": "CineLatino (720p)",
-    "url": "http://45.162.193.35/CINELATINO_HD/index.m3u8",
+    "url": "http://206.135.11.174:8010/play/a0lq/index.m3u8",
     "group": "Movies",
     "country_code": "ZZ",
     "country_name_zh": "ZZ",
@@ -12958,17 +12958,6 @@
     "is_active": true
   },
   {
-    "name": "Docu. (1080p)",
-    "url": "http://45.162.193.35/DOCU/index.m3u8",
-    "group": "Documentary",
-    "country_code": "ZZ",
-    "country_name_zh": "ZZ",
-    "ip_version": "ipv4",
-    "score": 0.0,
-    "source": "iptv-org all streams",
-    "is_active": true
-  },
-  {
     "name": "DocuBay TV (1080p)",
     "url": "https://cc-mgr91yrk4pehy.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-mgr91yrk4pehy/playlist.m3u8",
     "group": "Documentary",
@@ -14471,17 +14460,6 @@
     "country_code": "ZZ",
     "country_name_zh": "ZZ",
     "ip_version": "domain",
-    "score": 0.0,
-    "source": "iptv-org all streams",
-    "is_active": true
-  },
-  {
-    "name": "Elrodi TV (576p)",
-    "url": "http://5.254.89.106/8718/index.m3u8",
-    "group": "Music",
-    "country_code": "ZZ",
-    "country_name_zh": "ZZ",
-    "ip_version": "ipv4",
     "score": 0.0,
     "source": "iptv-org all streams",
     "is_active": true
@@ -16110,17 +16088,6 @@
     "country_code": "ZZ",
     "country_name_zh": "ZZ",
     "ip_version": "domain",
-    "score": 0.0,
-    "source": "iptv-org all streams",
-    "is_active": true
-  },
-  {
-    "name": "First Channel (1080p)",
-    "url": "http://5.254.89.106/8717/index.m3u8",
-    "group": "Entertainment",
-    "country_code": "ZZ",
-    "country_name_zh": "ZZ",
-    "ip_version": "ipv4",
     "score": 0.0,
     "source": "iptv-org all streams",
     "is_active": true
@@ -22506,17 +22473,6 @@
     "is_active": true
   },
   {
-    "name": "Klan Kosova (720p)",
-    "url": "http://5.254.89.106/8706/index.m3u8",
-    "group": "General",
-    "country_code": "ZZ",
-    "country_name_zh": "ZZ",
-    "ip_version": "ipv4",
-    "score": 0.0,
-    "source": "iptv-org all streams",
-    "is_active": true
-  },
-  {
     "name": "Klasik (576p) [Not 24/7]",
     "url": "https://178.253.194.105/klasiktv/playlist.m3u8",
     "group": "Movies",
@@ -22583,12 +22539,12 @@
     "is_active": true
   },
   {
-    "name": "Kohavision (720p)",
-    "url": "http://5.254.89.106/8705/index.m3u8",
+    "name": "Kohavision",
+    "url": "https://gjirafa-video-live.gjirafa.net/gjvideo-livestream/lj9-pxm-o53-rp0/tracks-v4a1/mono.m3u8",
     "group": "News",
     "country_code": "ZZ",
     "country_name_zh": "ZZ",
-    "ip_version": "ipv4",
+    "ip_version": "domain",
     "score": 0.0,
     "source": "iptv-org all streams",
     "is_active": true
@@ -24332,8 +24288,8 @@
     "is_active": true
   },
   {
-    "name": "MCM Pop (576p)",
-    "url": "http://193.254.245.162/MCM/index.m3u8",
+    "name": "MCM Pop (580p)",
+    "url": "http://188.115.15.121:8000/play/a014",
     "group": "Music",
     "country_code": "ZZ",
     "country_name_zh": "ZZ",
@@ -24547,17 +24503,6 @@
     "country_code": "ZZ",
     "country_name_zh": "ZZ",
     "ip_version": "domain",
-    "score": 0.0,
-    "source": "iptv-org all streams",
-    "is_active": true
-  },
-  {
-    "name": "MNX (576p)",
-    "url": "http://59.103.38.46:8000/play/a052/index.m3u8",
-    "group": "Movies",
-    "country_code": "ZZ",
-    "country_name_zh": "ZZ",
-    "ip_version": "ipv4",
     "score": 0.0,
     "source": "iptv-org all streams",
     "is_active": true
@@ -25834,17 +25779,6 @@
     "country_code": "ZZ",
     "country_name_zh": "ZZ",
     "ip_version": "domain",
-    "score": 0.0,
-    "source": "iptv-org all streams",
-    "is_active": true
-  },
-  {
-    "name": "Max (576p)",
-    "url": "http://5.254.89.106:80/8882/index.m3u8",
-    "group": "Movies",
-    "country_code": "ZZ",
-    "country_name_zh": "ZZ",
-    "ip_version": "ipv4",
     "score": 0.0,
     "source": "iptv-org all streams",
     "is_active": true
@@ -27665,17 +27599,6 @@
     "is_active": true
   },
   {
-    "name": "My Music (576p)",
-    "url": "http://5.254.89.106:80/8821/index.m3u8",
-    "group": "Music",
-    "country_code": "ZZ",
-    "country_name_zh": "ZZ",
-    "ip_version": "ipv4",
-    "score": 0.0,
-    "source": "iptv-org all streams",
-    "is_active": true
-  },
-  {
     "name": "My Righteous TV",
     "url": "https://live20.bozztv.com/ssh101/ssh101/myrighteous/playlist.m3u8",
     "group": "Religious",
@@ -28111,17 +28034,6 @@
     "country_code": "ZZ",
     "country_name_zh": "ZZ",
     "ip_version": "domain",
-    "score": 0.0,
-    "source": "iptv-org all streams",
-    "is_active": true
-  },
-  {
-    "name": "NTN24 (720p)",
-    "url": "http://181.78.12.119:16123/play/ch80/index.m3u8",
-    "group": "News",
-    "country_code": "ZZ",
-    "country_name_zh": "ZZ",
-    "ip_version": "ipv4",
     "score": 0.0,
     "source": "iptv-org all streams",
     "is_active": true
@@ -34067,17 +33979,6 @@
     "is_active": true
   },
   {
-    "name": "RTK 1 (1080p)",
-    "url": "http://5.254.89.106/8702/index.m3u8",
-    "group": "Undefined",
-    "country_code": "ZZ",
-    "country_name_zh": "ZZ",
-    "ip_version": "ipv4",
-    "score": 0.0,
-    "source": "iptv-org all streams",
-    "is_active": true
-  },
-  {
     "name": "RTK 3",
     "url": "https://gjirafa-video-live.gjirafa.net/gjvideo-livestream/rtk3/index.m3u8",
     "group": "Kosovo",
@@ -34317,17 +34218,6 @@
     "ip_version": "domain",
     "score": 0.0,
     "source": "Free-TV/IPTV (global)",
-    "is_active": true
-  },
-  {
-    "name": "RTV Islam (720p)",
-    "url": "http://5.254.89.106/8714/index.m3u8",
-    "group": "Religious",
-    "country_code": "ZZ",
-    "country_name_zh": "ZZ",
-    "ip_version": "ipv4",
-    "score": 0.0,
-    "source": "iptv-org all streams",
     "is_active": true
   },
   {
@@ -34606,6 +34496,17 @@
     "is_active": true
   },
   {
+    "name": "Rada TV (720p)",
+    "url": "https://cdn15.live-tv.cloud/ua_infinitas_tv/rada-abr/playlist.m3u8",
+    "group": "Legislative",
+    "country_code": "ZZ",
+    "country_name_zh": "ZZ",
+    "ip_version": "domain",
+    "score": 0.0,
+    "source": "iptv-org all streams",
+    "is_active": true
+  },
+  {
     "name": "Radio 21 TV (720p)",
     "url": "https://live.creacast.com/radio21/smil:radio21.smil/playlist.m3u8",
     "group": "Music",
@@ -34674,6 +34575,17 @@
   {
     "name": "Radio Bonita 106.7 (720p)",
     "url": "https://cloudvideo.servers10.com:8081/8154/index.m3u8",
+    "group": "Music",
+    "country_code": "ZZ",
+    "country_name_zh": "ZZ",
+    "ip_version": "domain",
+    "score": 0.0,
+    "source": "iptv-org all streams",
+    "is_active": true
+  },
+  {
+    "name": "Radio Bruno TV (720p)",
+    "url": "http://stream7.xdevel.com/video0s975758-1051/stream/playlist.m3u8",
     "group": "Music",
     "country_code": "ZZ",
     "country_name_zh": "ZZ",
@@ -36960,8 +36872,8 @@
     "is_active": true
   },
   {
-    "name": "Rumba TV (1080p)",
-    "url": "http://45.162.193.35/RUMBATV/index.m3u8",
+    "name": "Rumba TV",
+    "url": "http://186.148.196.100:8000/play/a02h",
     "group": "Music",
     "country_code": "ZZ",
     "country_name_zh": "ZZ",
@@ -38176,17 +38088,6 @@
     "country_code": "ZZ",
     "country_name_zh": "ZZ",
     "ip_version": "ipv4",
-    "score": 0.0,
-    "source": "iptv-org all streams",
-    "is_active": true
-  },
-  {
-    "name": "Sarv Dharam Sangam (720p)",
-    "url": "https://live.castmaxcloud.com/live/sdsangam2.m3u8",
-    "group": "Undefined",
-    "country_code": "ZZ",
-    "country_name_zh": "ZZ",
-    "ip_version": "domain",
     "score": 0.0,
     "source": "iptv-org all streams",
     "is_active": true
@@ -40436,6 +40337,17 @@
     "is_active": true
   },
   {
+    "name": "Stopklatka TV",
+    "url": "http://92.114.85.87:8018/play/a004/index.m3u8",
+    "group": "Undefined",
+    "country_code": "ZZ",
+    "country_name_zh": "ZZ",
+    "ip_version": "ipv4",
+    "score": 0.0,
+    "source": "iptv-org all streams",
+    "is_active": true
+  },
+  {
     "name": "StoryChannel TV (720p)",
     "url": "https://136044159.r.cdnsun.net/storychannel.m3u8",
     "group": "Culture",
@@ -41014,6 +40926,17 @@
     "country_code": "ZZ",
     "country_name_zh": "ZZ",
     "ip_version": "domain",
+    "score": 0.0,
+    "source": "iptv-org all streams",
+    "is_active": true
+  },
+  {
+    "name": "Szlagier TV",
+    "url": "http://92.114.85.87:8010/play/a00l/index.m3u8",
+    "group": "General",
+    "country_code": "ZZ",
+    "country_name_zh": "ZZ",
+    "ip_version": "ipv4",
     "score": 0.0,
     "source": "iptv-org all streams",
     "is_active": true
@@ -42576,17 +42499,6 @@
     "country_code": "ZZ",
     "country_name_zh": "ZZ",
     "ip_version": "domain",
-    "score": 0.0,
-    "source": "iptv-org all streams",
-    "is_active": true
-  },
-  {
-    "name": "TV Klan (720p)",
-    "url": "http://5.254.89.106/8704/index.m3u8",
-    "group": "General",
-    "country_code": "ZZ",
-    "country_name_zh": "ZZ",
-    "ip_version": "ipv4",
     "score": 0.0,
     "source": "iptv-org all streams",
     "is_active": true
@@ -45309,8 +45221,8 @@
     "is_active": true
   },
   {
-    "name": "TeleHit (576p)",
-    "url": "http://200.115.120.1:8000/play/ca048/index.m3u8",
+    "name": "TeleHit (1080p)",
+    "url": "http://190.61.47.54:8000/play/a029/index.m3u8",
     "group": "Music",
     "country_code": "ZZ",
     "country_name_zh": "ZZ",
@@ -47102,12 +47014,12 @@
     "is_active": true
   },
   {
-    "name": "Top Channel (Albania) (1080p)",
-    "url": "http://5.254.89.106/8708/index.m3u8",
+    "name": "Top Channel (720p)",
+    "url": "https://fr.crystalweb.net:1936/topchannel/topchannel/playlist.m3u8",
     "group": "General",
     "country_code": "ZZ",
     "country_name_zh": "ZZ",
-    "ip_version": "ipv4",
+    "ip_version": "domain",
     "score": 0.0,
     "source": "iptv-org all streams",
     "is_active": true
@@ -47721,28 +47633,6 @@
     "name": "Trece (Paraguay)",
     "url": "http://45.170.130.224:8000/play/a050/index.m3u8?hls",
     "group": "General",
-    "country_code": "ZZ",
-    "country_name_zh": "ZZ",
-    "ip_version": "ipv4",
-    "score": 0.0,
-    "source": "iptv-org all streams",
-    "is_active": true
-  },
-  {
-    "name": "Tring History (720p)",
-    "url": "http://5.254.89.106/8765/index.m3u8",
-    "group": "Documentary",
-    "country_code": "ZZ",
-    "country_name_zh": "ZZ",
-    "ip_version": "ipv4",
-    "score": 0.0,
-    "source": "iptv-org all streams",
-    "is_active": true
-  },
-  {
-    "name": "Tring Kids (576p)",
-    "url": "http://5.254.89.106/8777/index.m3u8",
-    "group": "Kids",
     "country_code": "ZZ",
     "country_name_zh": "ZZ",
     "ip_version": "ipv4",
@@ -50182,17 +50072,6 @@
     "is_active": true
   },
   {
-    "name": "WDWL 58.1 (720p) [Not 24/7]",
-    "url": "https://67acccf130420.streamlock.net/enlacepr1/enlacepr1/playlist.m3u8",
-    "group": "Religious",
-    "country_code": "ZZ",
-    "country_name_zh": "ZZ",
-    "ip_version": "domain",
-    "score": 0.0,
-    "source": "iptv-org all streams",
-    "is_active": true
-  },
-  {
     "name": "WECN (720p)",
     "url": "https://59825a54e4454.streamlock.net:8443/pastorairisn394/pastorairisn394/chunklist_w239411719.m3u8",
     "group": "Religious",
@@ -51838,17 +51717,6 @@
     "country_code": "ZZ",
     "country_name_zh": "ZZ",
     "ip_version": "domain",
-    "score": 0.0,
-    "source": "iptv-org all streams",
-    "is_active": true
-  },
-  {
-    "name": "Zee Zest HD (1080p)",
-    "url": "http://103.72.101.252:8080/live/2757.m3u8",
-    "group": "Lifestyle",
-    "country_code": "ZZ",
-    "country_name_zh": "ZZ",
-    "ip_version": "ipv4",
     "score": 0.0,
     "source": "iptv-org all streams",
     "is_active": true
@@ -57288,17 +57156,6 @@
     "is_active": true
   },
   {
-    "name": "ATV (Kosovo) (1080p)",
-    "url": "http://5.254.89.106/8709/index.m3u8",
-    "group": "News",
-    "country_code": "AT",
-    "country_name_zh": "奥地利",
-    "ip_version": "ipv4",
-    "score": 0.0,
-    "source": "iptv-org all streams",
-    "is_active": true
-  },
-  {
     "name": "ATV (Turkiye) (1080p)",
     "url": "https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_1080p.m3u8",
     "group": "General",
@@ -61589,17 +61446,6 @@
     "is_active": true
   },
   {
-    "name": "ARTV (Chile) (720p)",
-    "url": "http://45.162.193.35/ARTV/index.m3u8",
-    "group": "Culture",
-    "country_code": "CL",
-    "country_name_zh": "智利",
-    "ip_version": "ipv4",
-    "score": 0.0,
-    "source": "iptv-org all streams",
-    "is_active": true
-  },
-  {
     "name": "AXN Latin America Chile (1080p)",
     "url": "https://cdn1tlinkgo.tlink.cl/axnhd/index.m3u8",
     "group": "Movies",
@@ -62505,6 +62351,17 @@
     "name": "Mundos Lacustres TV (720p)",
     "url": "https://video.ipstream.cl:3710/hybrid/play.m3u8",
     "group": "General",
+    "country_code": "CL",
+    "country_name_zh": "智利",
+    "ip_version": "domain",
+    "score": 0.0,
+    "source": "iptv-org all streams",
+    "is_active": true
+  },
+  {
+    "name": "NTN24 (1080p)",
+    "url": "https://stream1.bitred.cl/ntn24/index.m3u8",
+    "group": "News",
     "country_code": "CL",
     "country_name_zh": "智利",
     "ip_version": "domain",
@@ -71060,8 +70917,8 @@
     "is_active": true
   },
   {
-    "name": "Canal 1 (Colombia) (720p)",
-    "url": "http://38.134.250.110:8000/play/a014/index.m3u8",
+    "name": "Canal 1 (Colombia) (1080p)",
+    "url": "http://190.109.2.92:8000/play/a010/index.m3u8",
     "group": "General",
     "country_code": "CO",
     "country_name_zh": "哥伦比亚",
@@ -71489,6 +71346,28 @@
     "is_active": true
   },
   {
+    "name": "Acasa (1080p)",
+    "url": "http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-pro2/live_fullhd?offsetSeconds=0",
+    "group": "Entertainment",
+    "country_code": "CZ",
+    "country_name_zh": "捷克",
+    "ip_version": "domain",
+    "score": 0.0,
+    "source": "iptv-org all streams",
+    "is_active": true
+  },
+  {
+    "name": "Acasa Gold (1080p)",
+    "url": "http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-progold/live_fullhd?offsetSeconds=0",
+    "group": "Entertainment",
+    "country_code": "CZ",
+    "country_name_zh": "捷克",
+    "ip_version": "domain",
+    "score": 0.0,
+    "source": "iptv-org all streams",
+    "is_active": true
+  },
+  {
     "name": "BBC Earth Czechia",
     "url": "http://88.212.15.29/live/test_bbc_eartch_hevc/playlist.m3u8",
     "group": "Documentary",
@@ -71860,6 +71739,39 @@
     "ip_version": "ipv4",
     "score": 0.0,
     "source": "Free-TV/IPTV (global)",
+    "is_active": true
+  },
+  {
+    "name": "Pro Arena (1080p)",
+    "url": "http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-prox/live_fullhd?offsetSeconds=0",
+    "group": "Undefined",
+    "country_code": "CZ",
+    "country_name_zh": "捷克",
+    "ip_version": "domain",
+    "score": 0.0,
+    "source": "iptv-org all streams",
+    "is_active": true
+  },
+  {
+    "name": "Pro Cinema (1080p)",
+    "url": "http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-procinema/live_fullhd?offsetSeconds=0",
+    "group": "Movies",
+    "country_code": "CZ",
+    "country_name_zh": "捷克",
+    "ip_version": "domain",
+    "score": 0.0,
+    "source": "iptv-org all streams",
+    "is_active": true
+  },
+  {
+    "name": "Rapsodia TV",
+    "url": "http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-rapsodia-tv/live_hq?offsetSeconds=0",
+    "group": "Undefined",
+    "country_code": "CZ",
+    "country_name_zh": "捷克",
+    "ip_version": "domain",
+    "score": 0.0,
+    "source": "iptv-org all streams",
     "is_active": true
   },
   {
@@ -77561,12 +77473,12 @@
     "is_active": true
   },
   {
-    "name": "Alb UK TV (1080p)",
-    "url": "http://5.254.89.106/8794/index.m3u8",
+    "name": "Alb UK TV (1080p) [Not 24/7]",
+    "url": "http://albuk.dyndns.tv:1935/albuk/albuk.stream/playlist.m3u8",
     "group": "General",
     "country_code": "GB",
     "country_name_zh": "英国",
-    "ip_version": "ipv4",
+    "ip_version": "domain",
     "score": 0.0,
     "source": "iptv-org all streams",
     "is_active": true
@@ -87186,17 +87098,6 @@
     "is_active": true
   },
   {
-    "name": "Top Channel (Greece) (720p)",
-    "url": "https://fr.crystalweb.net:1936/topchannel/topchannel/playlist.m3u8",
-    "group": "General",
-    "country_code": "GR",
-    "country_name_zh": "希腊",
-    "ip_version": "domain",
-    "score": 0.0,
-    "source": "iptv-org all streams",
-    "is_active": true
-  },
-  {
     "name": "Vergina",
     "url": "https://verginanews.gr:8443/hls_live/stream1.m3u8",
     "group": "Greece",
@@ -88374,7 +88275,7 @@
     "is_active": true
   },
   {
-    "name": "H!t Music Channel (480p)",
+    "name": "H!t Music Channel (Hungary) (480p)",
     "url": "http://hitmusic.hu/hitmusic.m3u8",
     "group": "Music",
     "country_code": "HU",
@@ -93139,7 +93040,7 @@
   {
     "name": "Sarv Dharm Sangam (576p)",
     "url": "https://mumt01.tangotv.in/O5aw8Zn3SARAVDHARAMSANGAM/index.m3u8",
-    "group": "Religious",
+    "group": "Undefined",
     "country_code": "IN",
     "country_name_zh": "印度",
     "ip_version": "domain",
@@ -93302,17 +93203,6 @@
     "is_active": true
   },
   {
-    "name": "Sony BBC Earth HD (1080p)",
-    "url": "https://cloudplay-sonyliv.pages.dev/bbcearthhd.m3u8",
-    "group": "Documentary",
-    "country_code": "IN",
-    "country_name_zh": "印度",
-    "ip_version": "domain",
-    "score": 0.0,
-    "source": "iptv-org all streams",
-    "is_active": true
-  },
-  {
     "name": "Sony Channel Andes (1080p)",
     "url": "http://15.204.246.24:8080/SonyHD/index.m3u8",
     "group": "Undefined",
@@ -93358,7 +93248,7 @@
   },
   {
     "name": "Sony Max 2 (576p)",
-    "url": "http://149.71.34.166:8000/play/a00z/index.m3u8",
+    "url": "http://107.167.16.138/sonymax2/index.m3u8?token=test",
     "group": "Movies",
     "country_code": "IN",
     "country_name_zh": "印度",
@@ -93448,17 +93338,6 @@
     "name": "Sony Pix HD (1080p)",
     "url": "https://cloudplay-sonyliv.pages.dev/pixhd.m3u8",
     "group": "Movies",
-    "country_code": "IN",
-    "country_name_zh": "印度",
-    "ip_version": "domain",
-    "score": 0.0,
-    "source": "iptv-org all streams",
-    "is_active": true
-  },
-  {
-    "name": "Sony SAB HD (1080p)",
-    "url": "https://cloudplay-sonyliv.pages.dev/sabhd.m3u8",
-    "group": "Entertainment",
     "country_code": "IN",
     "country_name_zh": "印度",
     "ip_version": "domain",
@@ -107668,8 +107547,8 @@
     "is_active": true
   },
   {
-    "name": "Zona Latina (720p)",
-    "url": "http://45.162.193.35/ZONALATINA/index.m3u8",
+    "name": "Zona Latina (576p)",
+    "url": "http://45.170.130.224:8000/play/a00x/index.m3u8",
     "group": "Undefined",
     "country_code": "PE",
     "country_name_zh": "秘鲁",
@@ -108856,12 +108735,23 @@
     "is_active": true
   },
   {
-    "name": "ARTV (Portugal) (720p) [Not 24/7]",
-    "url": "https://playout172.livextend.cloud/liveiframe/_definst_/liveartvabr/playlist.m3u8",
-    "group": "Legislative",
+    "name": "AXN (Portugal) (1080p)",
+    "url": "http://188.115.15.121:8000/play/a02z",
+    "group": "Movies",
     "country_code": "PT",
     "country_name_zh": "葡萄牙",
-    "ip_version": "domain",
+    "ip_version": "ipv4",
+    "score": 0.0,
+    "source": "iptv-org all streams",
+    "is_active": true
+  },
+  {
+    "name": "AXN White Portugal (576p)",
+    "url": "http://188.115.15.121:8000/play/a01u",
+    "group": "Entertainment",
+    "country_code": "PT",
+    "country_name_zh": "葡萄牙",
+    "ip_version": "ipv4",
     "score": 0.0,
     "source": "iptv-org all streams",
     "is_active": true
@@ -109714,6 +109604,17 @@
     "is_active": true
   },
   {
+    "name": "H!t Music Channel (Romania)",
+    "url": "http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-mooz-dance/live_hq?offsetSeconds=0",
+    "group": "Music",
+    "country_code": "RO",
+    "country_name_zh": "罗马尼亚",
+    "ip_version": "domain",
+    "score": 0.0,
+    "source": "iptv-org all streams",
+    "is_active": true
+  },
+  {
     "name": "Happy Channel",
     "url": "https://live4dai.antenaplay.ro/live2_aws4_sdi12/live2_aws4_sdi12_600k.m3u8",
     "group": "Entertainment",
@@ -109912,12 +109813,12 @@
     "is_active": true
   },
   {
-    "name": "PRO TV Chisinau (480p)",
-    "url": "https://stream.protv.md/live/sursa-1/index.m3u8",
+    "name": "PRO TV Chisinau (576p)",
+    "url": "http://178.76.68.60:7441/15/mpegts",
     "group": "General;News",
     "country_code": "RO",
     "country_name_zh": "罗马尼亚",
-    "ip_version": "domain",
+    "ip_version": "ipv4",
     "score": 0.0,
     "source": "iptv-org all streams",
     "is_active": true
@@ -110644,17 +110545,6 @@
     "country_code": "RU",
     "country_name_zh": "俄罗斯",
     "ip_version": "ipv4",
-    "score": 0.0,
-    "source": "iptv-org all streams",
-    "is_active": true
-  },
-  {
-    "name": "Acasa Gold",
-    "url": "http://eb4b8dcf.kablakaka.ru/iptv/AE8BY6FHF5ZGAG/6945/index.m3u8",
-    "group": "Entertainment",
-    "country_code": "RU",
-    "country_name_zh": "俄罗斯",
-    "ip_version": "domain",
     "score": 0.0,
     "source": "iptv-org all streams",
     "is_active": true
@@ -121297,17 +121187,6 @@
     "is_active": true
   },
   {
-    "name": "Albanian TV America (1080p)",
-    "url": "http://5.254.89.106/8711/index.m3u8",
-    "group": "General",
-    "country_code": "US",
-    "country_name_zh": "美国",
-    "ip_version": "ipv4",
-    "score": 0.0,
-    "source": "iptv-org United States",
-    "is_active": true
-  },
-  {
     "name": "Alhurra Iraq (720p)",
     "url": "https://mbn-ingest-worldsafe.akamaized.net/hls/live/2038899/MBN_Iraq_Worldsafe_HLS/master.m3u8",
     "group": "News",
@@ -123398,8 +123277,8 @@
     "is_active": true
   },
   {
-    "name": "CNBC (720p)",
-    "url": "http://4.30.180.36:8420/cnbc/index.m3u8?token=test",
+    "name": "CNBC (720p) [Geo-blocked]",
+    "url": "http://41.205.93.154/CNBC/index.m3u8",
     "group": "Business",
     "country_code": "US",
     "country_name_zh": "美国",
@@ -125158,17 +125037,6 @@
     "is_active": true
   },
   {
-    "name": "Disney International HD (1080p)",
-    "url": "http://202.70.146.135:8000/play/a04p/index.m3u8",
-    "group": "Kids",
-    "country_code": "US",
-    "country_name_zh": "美国",
-    "ip_version": "ipv4",
-    "score": 0.0,
-    "source": "iptv-org all streams",
-    "is_active": true
-  },
-  {
     "name": "Disney Jr. (France) (1080p)",
     "url": "http://151.80.18.177:86/Disney_Junior_HD/index.m3u8",
     "group": "Kids",
@@ -126390,12 +126258,12 @@
     "is_active": true
   },
   {
-    "name": "Fox Business Network (720p)",
-    "url": "http://5.254.89.106/6187/index.m3u8",
+    "name": "Fox Business Network (576p)",
+    "url": "https://tvsen6.aynaott.com/foxbusiness/index.m3u8",
     "group": "Business",
     "country_code": "US",
     "country_name_zh": "美国",
-    "ip_version": "ipv4",
+    "ip_version": "domain",
     "score": 0.0,
     "source": "iptv-org United States",
     "is_active": true
@@ -128486,17 +128354,6 @@
     "country_code": "US",
     "country_name_zh": "美国",
     "ip_version": "domain",
-    "score": 0.0,
-    "source": "iptv-org United States",
-    "is_active": true
-  },
-  {
-    "name": "Laff WJLP (576p)",
-    "url": "http://4.30.180.36:8420/laff/index.m3u8?token=test",
-    "group": "Comedy",
-    "country_code": "US",
-    "country_name_zh": "美国",
-    "ip_version": "ipv4",
     "score": 0.0,
     "source": "iptv-org United States",
     "is_active": true
@@ -132325,17 +132182,6 @@
     "country_code": "US",
     "country_name_zh": "美国",
     "ip_version": "domain",
-    "score": 0.0,
-    "source": "iptv-org United States",
-    "is_active": true
-  },
-  {
-    "name": "PBS WNET (720p)",
-    "url": "http://4.30.180.36:8420/wnethd/index.m3u8?token=test",
-    "group": "Education",
-    "country_code": "US",
-    "country_name_zh": "美国",
-    "ip_version": "ipv4",
     "score": 0.0,
     "source": "iptv-org United States",
     "is_active": true
@@ -136939,6 +136785,17 @@
     "is_active": true
   },
   {
+    "name": "USA Network (720p)",
+    "url": "http://190.197.41.183/USA_NETWORK/index.m3u8",
+    "group": "Comedy;Movies;Series;Sports",
+    "country_code": "US",
+    "country_name_zh": "美国",
+    "ip_version": "ipv4",
+    "score": 0.0,
+    "source": "iptv-org United States",
+    "is_active": true
+  },
+  {
     "name": "USA Network Latin America (1080p)",
     "url": "http://138.121.15.230:9002/USA/index.m3u8",
     "group": "Undefined",
@@ -137027,12 +136884,12 @@
     "is_active": true
   },
   {
-    "name": "UniMas WFUT-DT (1080p)",
-    "url": "http://4.30.180.36:8420/wfutdt/mono.m3u8?token=test",
+    "name": "UniMas WFUT-DT (720p) [Geo-blocked]",
+    "url": "https://streaming-live-fcdn.api.prd.univisionnow.com/wfut/wfut.isml/hls/wfut.m3u8",
     "group": "Undefined",
     "country_code": "US",
     "country_name_zh": "美国",
-    "ip_version": "ipv4",
+    "ip_version": "domain",
     "score": 0.0,
     "source": "iptv-org United States",
     "is_active": true
@@ -138336,8 +138193,8 @@
     "is_active": true
   },
   {
-    "name": "UCL (720p)",
-    "url": "https://livedelta.cdn.antel.net.uy/out/u/url_canalu.m3u8",
+    "name": "UCL (1080p)",
+    "url": "https://livedelta.cdn.antel.net.uy/out/u/url_canalu_2.m3u8?m=1670250741",
     "group": "Culture",
     "country_code": "UY",
     "country_name_zh": "乌拉圭",

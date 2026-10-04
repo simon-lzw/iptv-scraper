@@ -1,7 +1,7 @@
 #EXTM3U
 #PLAYLIST: 葡萄牙 (PT) IPTV 直播源
-#生成时间: 2026-10-03 17:45:34
-#频道数: 31
+#生成时间: 2026-10-04 07:45:48
+#频道数: 32
 
 # ===== 葡萄牙 (PT) =====
 
@@ -14,8 +14,11 @@ https://live-tv.waytv.pt/adbtv/adbtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FvlcU3z.png" group-title="葡萄牙",ADtv
 https://playout172.livextend.cloud/liveiframe/_definst_/ngrp:liveartvabr_abr/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ARTV.pt@SD" tvg-logo="https://i.imgur.com/y00t9hr.png" group-title="葡萄牙",ARTV (Portugal) (720p) [Not 24/7]
-https://playout172.livextend.cloud/liveiframe/_definst_/liveartvabr/playlist.m3u8
+#EXTINF:-1 tvg-id="AXN.pt@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png" group-title="葡萄牙",AXN (Portugal) (1080p)
+http://188.115.15.121:8000/play/a02z
+
+#EXTINF:-1 tvg-id="AXNWhite.us@Portugal" tvg-logo="https://i.imgur.com/47IKxmt.png" group-title="葡萄牙",AXN White Portugal (576p)
+http://188.115.15.121:8000/play/a01u
 
 #EXTINF:-1 tvg-id="AngelTV.in@Portuguese" tvg-logo="https://i.imgur.com/qKLEGU7.png" group-title="葡萄牙",Angel TV Portuguese (720p)
 https://janya-digimix.akamaized.net/vglive-sk-382409/portuese/ngrp:angelportuguese_all/playlist.m3u8
