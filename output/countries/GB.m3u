@@ -1,7 +1,7 @@
 #EXTM3U
 #PLAYLIST: 英国 (GB) IPTV 直播源
-#生成时间: 2026-10-05 21:22:03
-#频道数: 799
+#生成时间: 2026-10-06 08:34:37
+#频道数: 793
 
 # ===== 英国 (GB) =====
 
@@ -2021,12 +2021,6 @@ https://skyfolk.mk/live.m3u8
 #EXTINF:-1 tvg-id="SkyFolkTV.mk@SD" tvg-logo="https://i.imgur.com/ya5xpUL.png" group-title="英国",Sky Folk TV (720p) [Not 24/7]
 https://eu.live.skyfolk.mk/live.m3u8
 
-#EXTINF:-1 tvg-id="SkyMix.uk@HD" tvg-logo="https://i.imgur.com/hHEz5rq.png" group-title="英国",Sky Mix HD (720p)
-http://188.138.29.131/skymix/index.m3u8
-
-#EXTINF:-1 tvg-id="SkyNature.uk@SD" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1194.png" group-title="英国",Sky Nature (576p)
-https://tvsen6.aynaott.com/skynature/index.m3u8
-
 #EXTINF:-1 tvg-id="SkyNews.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/57/Sky_News_logo.svg/960px-Sky_News_logo.svg.png" group-title="英国",Sky News
 https://linear021-gb-hls1-prd-ak.cdn.skycdp.com/Content/HLS_001_hd/Live/channel(skynews)/index_mob.m3u8
 
@@ -2054,9 +2048,6 @@ https://skynewsau-live.akamaized.net/hls/live/2002690/skynewsau-extra2/master.m3
 #EXTINF:-1 tvg-id="SkyNewsExtra3.au@SD" tvg-logo="https://i.imgur.com/ZsPb8nL.png" group-title="英国",Sky News Extra 3 (1080p)
 https://skynewsau-live.akamaized.net/hls/live/2002691/skynewsau-extra3/master.m3u8
 
-#EXTINF:-1 tvg-id="SkyNews.ie@HD" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1404.png" group-title="英国",Sky News HD (1080p)
-https://xemzi.short.gy/1000018
-
 #EXTINF:-1 tvg-id="SkyNewsAustralia.au" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d0/Sky_News_Australia_logo_%282018%29.svg/500px-Sky_News_Australia_logo_%282018%29.svg.png" group-title="英国",Sky News Now (AU)
 https://i.mjh.nz/sky-news-now.m3u8
 
@@ -2066,20 +2057,11 @@ https://lbgo.bozztv.com/ssh101/ssh101/skynews/playlist.m3u8
 #EXTINF:-1 tvg-id="SkyNewsWeather.uk" tvg-logo="https://pbs.twimg.com/profile_images/1604994875459518464/lGt2wEqM_400x400.jpg" group-title="英国",Sky News Weather
 https://distro001-gb-hls1-prd.delivery.skycdp.com/easel_cdn/ngrp:weather_loop.stream_all/playlist.m3u8
 
-#EXTINF:-1 tvg-id="SkyOpen.nz@SD" tvg-logo="https://i.imgur.com/eYyYojh.png" group-title="英国",Sky Open (1080p) [Geo-blocked]
-https://primetv-prod.akamaized.net/v1/prime-freeview-aes128.m3u8
-
-#EXTINF:-1 tvg-id="SkyOpen.nz@Plus1" tvg-logo="https://i.imgur.com/eYyYojh.png" group-title="英国",Sky Open +1 (576p) [Geo-blocked]
-https://linear-p.media.skyone.co.nz/primeplus1.clear.m3u8
-
 #EXTINF:-1 tvg-id="SkyRacing1.au@SD" tvg-logo="https://i.imgur.com/Hf0EiaW.png" group-title="英国",Sky Racing 1 (720p)
 https://636ffd31f0e12.streamlock.net/RacingStream1/RacingStream1/playlist.m3u8
 
-#EXTINF:-1 tvg-id="SkyRacing2.au@SD" tvg-logo="https://i.imgur.com/TxQvFnQ.png" group-title="英国",Sky Racing 2 (720p)
-https://636ffd31f0e12.streamlock.net/RacingStream2/RacingStream2/playlist.m3u8
-
-#EXTINF:-1 tvg-id="SkyThoroughbredCentral.au@SD" tvg-logo="https://i.imgur.com/1SxIsnw.png" group-title="英国",Sky Thoroughbred Central (720p) [Geo-blocked]
-https://skylivetab-new.akamaized.net/hls/live/2038782/stcsd/index.m3u8
+#EXTINF:-1 tvg-id="SkyRacing2.au@SD" tvg-logo="https://i.imgur.com/TxQvFnQ.png" group-title="英国",Sky Racing 2 (720p) [Geo-blocked]
+https://skylivetab-new.akamaized.net/hls/live/2038781/sky2/index.m3u8
 
 #EXTINF:-1 tvg-id="SmithsonianChannelPlutoTV.us@BR" tvg-logo="https://images.pluto.tv/channels/6298bd10d88ef000073f16b7/colorLogoPNG.png" group-title="英国",Smithsonian Channel Pluto TV
 https://jmp2.uk/plu-6298bd10d88ef000073f16b7.m3u8

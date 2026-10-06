@@ -1,7 +1,7 @@
 #EXTM3U
 #PLAYLIST: 匈牙利 (HU) IPTV 直播源
-#生成时间: 2026-10-05 21:22:03
-#频道数: 77
+#生成时间: 2026-10-06 08:34:37
+#频道数: 78
 
 # ===== 匈牙利 (HU) =====
 
@@ -13,6 +13,9 @@ http://88.212.15.19/live/test_atv_hungary_1200_atk/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ATV.hu@SD" tvg-logo="https://i.imgur.com/85sIvrX.png" group-title="匈牙利",ATV (Hungary) (160p)
 https://streamservers.atv.hu/atvlive/atvstream_1_aac/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AXNBlack.us@Hungary" tvg-logo="https://i.imgur.com/Peo1QiZ.png" group-title="匈牙利",AXN Black Hungary (576p)
+http://141.94.193.53:80/axn_black/index.m3u8
 
 #EXTINF:-1 tvg-id="ApostolTV.hu" tvg-logo="https://www.apostoltv.hu/images/header-logo.png" group-title="匈牙利",Apostol TV
 https://live.apostoltv.hu/live/playlist.m3u8

@@ -1,7 +1,7 @@
 #EXTM3U
 #PLAYLIST: 俄罗斯 (RU) IPTV 直播源
-#生成时间: 2026-10-05 21:22:03
-#频道数: 331
+#生成时间: 2026-10-06 08:34:37
+#频道数: 332
 
 # ===== 俄罗斯 (RU) =====
 
@@ -574,6 +574,9 @@ https://stream.smotrim.ru/hls2/russia_k/playlist_5.m3u8
 
 #EXTINF:-1 tvg-id="RussianExtreme.ru@SD" tvg-logo="https://i.imgur.com/hJK7mOW.png" group-title="俄罗斯",Russian Extreme (576p)
 http://str2.iptvhd.ru:8080/Russkiy_ekstrim/index.m3u8
+
+#EXTINF:-1 tvg-id="RussianExtremeUltra.ru@SD" tvg-logo="https://i.imgur.com/Dk8VbAc.png" group-title="俄罗斯",Russian Extreme Ultra (1440p)
+http://46.53.200.153:7777/play/test_krask1/index.m3u8
 
 #EXTINF:-1 tvg-id="RussianMusicBox.ru@SD" tvg-logo="https://i.imgur.com/ZkJ3Rh9.png" group-title="俄罗斯",Russian MusicBox (576p)
 http://stream.mcquack.net/319/index.m3u8

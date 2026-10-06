@@ -1,7 +1,7 @@
 #EXTM3U
 #PLAYLIST: 德国 (DE) IPTV 直播源
-#生成时间: 2026-10-05 21:22:03
-#频道数: 199
+#生成时间: 2026-10-06 08:34:37
+#频道数: 200
 
 # ===== 德国 (DE) =====
 
@@ -553,6 +553,9 @@ https://jmp2.uk/plu-656ef4af4261ca00083c8f37.m3u8
 
 #EXTINF:-1 tvg-id="VOX.de@SD" tvg-logo="https://i.imgur.com/QPcmfZb.png" group-title="德国",VOX
 https://dash4.antik.sk/live/test_vox_tizen/playlist.m3u8
+
+#EXTINF:-1 tvg-id="VOXMusicTV.pl@SD" tvg-logo="https://i.imgur.com/N993msF.png" group-title="德国",VOX Music TV (1080p)
+http://92.114.85.87:8016/play/a00a/index.m3u8
 
 #EXTINF:-1 tvg-id="VolksmusikTV.de@SD" tvg-logo="https://i.imgur.com/EsWuCJ3.png" group-title="德国",Volksmusik TV (1080p)
 https://vmtv.iptv-playoutcenter.de/vmtv/vmtv1/playlist.m3u8

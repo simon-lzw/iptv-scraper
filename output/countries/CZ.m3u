@@ -1,7 +1,7 @@
 #EXTM3U
 #PLAYLIST: 捷克 (CZ) IPTV 直播源
-#生成时间: 2026-10-05 21:22:03
-#频道数: 62
+#生成时间: 2026-10-06 08:34:37
+#频道数: 64
 
 # ===== 捷克 (CZ) =====
 
@@ -148,6 +148,12 @@ http://45.162.64.114/CANCAO_NOVA/index.m3u8
 
 #EXTINF:-1 tvg-id="utv.cz" tvg-logo="https://imgur.com/ulfeIwM.png" group-title="捷克",UTV
 https://vysilani.zaktv.cz/broadcast/hls/utv/index.m3u8
+
+#EXTINF:-1 tvg-id="VPTV.ro@SD" group-title="捷克",VP TV
+http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-vp-tv/live_lq?offsetSeconds=0
+
+#EXTINF:-1 tvg-id="VoyoSport1.ro@HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a3/VoyoSport1.svg" group-title="捷克",Voyo Sport 1 (1080p)
+http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-protv-plus16/live_fullhd?offsetSeconds=0
 
 #EXTINF:-1 tvg-id="V1.cz" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/tv-v1-cz.png" group-title="捷克",Východoceská TV
 https://stream.polar.cz/vctv/vctvlive-1/playlist.m3u8

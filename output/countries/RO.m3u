@@ -1,7 +1,7 @@
 #EXTM3U
 #PLAYLIST: 罗马尼亚 (RO) IPTV 直播源
-#生成时间: 2026-10-05 21:22:03
-#频道数: 93
+#生成时间: 2026-10-06 08:34:37
+#频道数: 94
 
 # ===== 罗马尼亚 (RO) =====
 
@@ -163,6 +163,9 @@ https://hls01ns.antenaplay.ro/hls/n24-plus-sd/index.m3u8
 
 #EXTINF:-1 tvg-id="NationalTV.ro@SD" tvg-logo="https://i.imgur.com/KHzUIwG.png" group-title="罗马尼亚",National TV
 https://hls01ns.antenaplay.ro/hls/national-tv-sd/index.m3u8
+
+#EXTINF:-1 tvg-id="NostalgiaTV.ro@HD" tvg-logo="https://assets.antenaplay.ro/2026/03/10/fX5tvuPLymvvR8lQmwO7.png" group-title="罗马尼亚",Nostalgia TV (1080p)
+https://hls02ns.antenaplay.ro/hls/nostalgia-hd/index.m3u8
 
 #EXTINF:-1 tvg-id="ObservatorNews.ro@SD" tvg-logo="https://i.imgur.com/f6xEIAr.png" group-title="罗马尼亚",Observator News (360p)
 https://live77cdn2.antenaplay.ro/live_ObservatorNews/live_ObservatorNews.m3u8

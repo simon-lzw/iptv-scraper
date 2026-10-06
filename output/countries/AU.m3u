@@ -1,7 +1,7 @@
 #EXTM3U
 #PLAYLIST: 澳大利亚 (AU) IPTV 直播源
-#生成时间: 2026-10-05 21:22:03
-#频道数: 48
+#生成时间: 2026-10-06 08:34:37
+#频道数: 49
 
 # ===== 澳大利亚 (AU) =====
 
@@ -142,6 +142,9 @@ https://raw.githubusercontent.com/BellezaEmporium/IPTV_Exception/master/channels
 
 #EXTINF:-1 tvg-id="TVSN.au" tvg-logo="https://i.imgur.com/p3QCBOo.png" group-title="澳大利亚",TVSN
 https://tvsnhlslivetest.akamaized.net/hls/live/2034711/EXPO-MSL4/master.m3u8
+
+#EXTINF:-1 tvg-id="TenCricket.in@SD" tvg-logo="https://i.imgur.com/K5XIFuW.png" group-title="澳大利亚",Ten Cricket (576p)
+http://103.151.60.162:2122/play/a0fj/index.m3u8?hls
 
 #EXTINF:-1 tvg-id="ThePetCollective.us@Australia" tvg-logo="https://i.imgur.com/yH7n2dF.png" group-title="澳大利亚",The Pet Collective Australia (720p)
 https://the-pet-collective-international-au.samsung.wurl.tv/playlist.m3u8
