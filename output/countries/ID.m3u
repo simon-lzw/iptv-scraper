@@ -1,7 +1,7 @@
 #EXTM3U
 #PLAYLIST: 印度尼西亚 (ID) IPTV 直播源
-#生成时间: 2026-10-06 19:18:40
-#频道数: 52
+#生成时间: 2026-10-07 08:09:15
+#频道数: 54
 
 # ===== 印度尼西亚 (ID) =====
 
@@ -29,8 +29,11 @@ http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="DhammaTV.id@SD" tvg-logo="https://dhammaweb.tv/wp-content/uploads/2018/08/cropped-dhammatv-3.png" group-title="印度尼西亚",Dhamma TV (720p) [Not 24/7]
 https://b.webcache.maxindo.net.id/dhamma/dhamma.m3u8
 
-#EXTINF:-1 tvg-id="GTV.id@HD" tvg-logo="https://i.imgur.com/jjuKnYs.png" group-title="印度尼西亚",GTV (Indonesia) HD
-https://mncmedia.malingtv.workers.dev/gtv.m3u8
+#EXTINF:-1 tvg-id="GTV.id@HD" tvg-logo="https://i.imgur.com/jjuKnYs.png" group-title="印度尼西亚",GTV (Indonesia) HD (1080p)
+http://202.150.172.59/GTVHD/index.m3u8
+
+#EXTINF:-1 tvg-id="Indosiar.id@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/960px-Indosiar_2015.svg.png" group-title="印度尼西亚",Indosiar HD (1080p)
+http://202.150.172.59/Indosiar/index.m3u8
 
 #EXTINF:-1 tvg-id="JogjaTV.id@SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/40/Jogjatvnew.png" group-title="印度尼西亚",Jogja TV (720p) [Not 24/7]
 https://stream.jogjatv.co.id/jtvlive/stream/index.m3u8
@@ -41,9 +44,6 @@ https://lingkartv.my.id/hls/lingkartv.m3u8
 #EXTINF:-1 tvg-id="MNCTV.id@HD" tvg-logo="https://i.imgur.com/SK8pjQy.png" group-title="印度尼西亚",MNCTV HD (720p)
 https://mncmedia.malingtv.workers.dev/mnctv.m3u8
 
-#EXTINF:-1 tvg-id="MagnaChannel.id@SD" tvg-logo="https://i.imgur.com/tfJo0SO.png" group-title="印度尼西亚",Magna Channel (1080p) [Not 24/7]
-https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
-
 #EXTINF:-1 tvg-id="MetroGlobeNetwork.id" tvg-logo="https://i.imgur.com/aiiinzg.png" group-title="印度尼西亚",Metro Globe Network
 https://edge.medcom.id/live-edge/smil:mgnch.smil/playlist.m3u8
 
@@ -52,6 +52,9 @@ https://edge.medcom.id/live-edge/smil:metro.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="RRINet.id@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/RRI_NET_2023.svg/960px-RRI_NET_2023.svg.png" group-title="印度尼西亚",RRI Net (1080p)
 https://private-streaming.rri.go.id/memfs/6f77c7b5-feb2-4935-9f89-e7e9fca0a54a_output_0.m3u8
+
+#EXTINF:-1 tvg-id="SCTV.id@SD" tvg-logo="https://i.imgur.com/EMmOvnQ.png" group-title="印度尼西亚",SCTV
+http://202.150.172.59/SCTV/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="STV.id@SD" tvg-logo="https://i.imgur.com/EIrXgT8.png" group-title="印度尼西亚",STV (Indonesia) (720p) [Not 24/7]
 http://122.248.43.242:1935/SAMARINDATV/_definst_/myStream/playlist.m3u8
@@ -127,6 +130,9 @@ https://ott-balancer.tvri.go.id/live/eds/Sumsel/hls/Sumsel.m3u8
 
 #EXTINF:-1 tvg-id="TVRI.id@SoutheastSulawesi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/960px-TVRILogo2019.svg.png" group-title="印度尼西亚",TVRI Southeast Sulawesi (480p)
 https://ott-balancer.tvri.go.id/live/eds/Sultra/hls/Sultra.m3u8
+
+#EXTINF:-1 tvg-id="TVRISport.id@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/TVRI_Sport_2022.svg/960px-TVRI_Sport_2022.svg.png" group-title="印度尼西亚",TVRI Sport (1080p)
+http://202.150.172.59/TVRISport/index.m3u8
 
 #EXTINF:-1 tvg-id="TVRI.id@WestJava" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/960px-TVRILogo2019.svg.png" group-title="印度尼西亚",TVRI West Java (480p)
 https://ott-balancer.tvri.go.id/live/eds/Jabar/hls/Jabar.m3u8

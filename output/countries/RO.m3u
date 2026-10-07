@@ -1,7 +1,7 @@
 #EXTM3U
 #PLAYLIST: 罗马尼亚 (RO) IPTV 直播源
-#生成时间: 2026-10-06 19:18:40
-#频道数: 94
+#生成时间: 2026-10-07 08:09:16
+#频道数: 96
 
 # ===== 罗马尼亚 (RO) =====
 
@@ -73,6 +73,9 @@ https://hls02ns.antenaplay.ro/hls/cinemaraton-plus-hd/index.m3u8
 
 #EXTINF:-1 tvg-id="ComedyPlay.ro@SD" tvg-logo="https://i.imgur.com/6kAeVOk.png" group-title="罗马尼亚",Comedy Play (576i)
 https://stream1.antenaplay.ro/live/ComedyPlay/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="DeParintiro.ro@SD" tvg-logo="https://assets.antenaplay.ro/2023/11/21/EO57SfnF8caVPEaQFs4Z.png" group-title="罗马尼亚",DeParinti.ro (576p)
+https://live77cdn2.antenaplay.ro/live2_fast/ch4/stream.m3u8
 
 #EXTINF:-1 tvg-id="Digi24.ro@SD" tvg-logo="https://i.imgur.com/qmRnD0M.png" group-title="罗马尼亚",Digi 24 (720p)
 https://edge-ar.rcs-rds.ro/digi24ar/index.m3u8
@@ -205,6 +208,9 @@ https://stream3.srr.ro/live/AntenaSatelor/playlist.m3u8
 
 #EXTINF:-1 tvg-id="RadioRomaniaOlteniaCraiova.ro@SD" tvg-logo="https://www.rador.ro/wp-content/uploads/2017/06/logo-radio-oltenia-craiova.png" group-title="罗马尼亚",Radio Romania Oltenia-Craiova (576p) [Not 24/7]
 https://stream3.srr.ro/live/Radio-Oltenia/chunklist_w1200239883.m3u8
+
+#EXTINF:-1 tvg-id="RadioRomaniaResita.ro@SD" tvg-logo="https://www.radioresita.ro/wp-content/themes/radioresita/images/custom/logo-main.svg" group-title="罗马尼亚",Radio Romania Resita (576p) [Not 24/7]
+https://stream3.srr.ro/RadioResita/live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="RadioRomaniaTarguMures.ro@SD" tvg-logo="https://myradioonline.ro/public/uploads/radio_img/radio-romania-targu-mures/fb_cover.jpg" group-title="罗马尼亚",Radio Romania Targu Mures (576p)
 https://stream3.srr.ro/live/radio-muresr/chunklist_w1731505049.m3u8
