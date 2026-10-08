@@ -1,7 +1,7 @@
 #EXTM3U
 #PLAYLIST: 俄罗斯 (RU) IPTV 直播源
-#生成时间: 2026-10-07 19:44:10
-#频道数: 332
+#生成时间: 2026-10-08 08:24:52
+#频道数: 334
 
 # ===== 俄罗斯 (RU) =====
 
@@ -703,6 +703,12 @@ http://str2.iptvhd.ru:8080/TERRA_HD/index.m3u8
 
 #EXTINF:-1 tvg-id="TKR.ru@SD" tvg-logo="https://i.imgur.com/VqtPB7L.png" group-title="俄罗斯",TKR (1080p) [Not 24/7]
 http://live.tkr.cdnvideo.ru/tkr/tkr.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TNT.ru@SD" tvg-logo="https://i.imgur.com/T4A6rEI.png" group-title="俄罗斯",TNT (Russia) (576p)
+http://stream.mcquack.net/135/index.m3u8
+
+#EXTINF:-1 tvg-id="TNT.ru@HD" tvg-logo="https://i.imgur.com/T4A6rEI.png" group-title="俄罗斯",TNT (Russia) HD (1080p)
+http://45.153.24.78/TNT/index.m3u8
 
 #EXTINF:-1 tvg-id="TNT4.ru@SD" tvg-logo="https://i.imgur.com/gBokU5i.png" group-title="俄罗斯",TNT4 (576p)
 http://flussonic.linkintel.ru/tnt4/index.m3u8
