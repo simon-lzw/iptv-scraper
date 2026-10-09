@@ -1,7 +1,7 @@
 #EXTM3U
 #PLAYLIST: 新加坡 (SG) IPTV 直播源
-#生成时间: 2026-10-08 19:39:53
-#频道数: 17
+#生成时间: 2026-10-09 08:29:15
+#频道数: 18
 
 # ===== 新加坡 (SG) =====
 
@@ -19,6 +19,9 @@ https://mumt05.tangotv.in/87NeALx2CNA/index.m3u8
 
 #EXTINF:-1 tvg-id="CNAOriginals.sg@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/CNA_new_logo.svg/500px-CNA_new_logo.svg.png" group-title="新加坡",CNA Originals (1080p)
 https://amg01082-cna-amg01082c1-rlaxx-us-11304.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Channel5.sg@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Mediacorp_Channel_5_2023.svg/960px-Mediacorp_Channel_5_2023.svg.png" group-title="新加坡",Channel 5 (Singapore) (720p)
+https://cdn.qd.je/163189/ch5
 
 #EXTINF:-1 tvg-id="Channel8.gr@HD" tvg-logo="https://www.channel8.gr/img/channel8.png" group-title="新加坡",Channel 8 (Greece) (1080p)
 https://gra1.crystalweb.net:1936/channel8/channel8/playlist.m3u8

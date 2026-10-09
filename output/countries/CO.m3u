@@ -1,7 +1,7 @@
 #EXTM3U
 #PLAYLIST: 哥伦比亚 (CO) IPTV 直播源
-#生成时间: 2026-10-08 19:39:53
-#频道数: 46
+#生成时间: 2026-10-09 08:29:15
+#频道数: 49
 
 # ===== 哥伦比亚 (CO) =====
 
@@ -119,6 +119,9 @@ http://190.61.47.54:8000/play/a035/index.m3u8
 #EXTINF:-1 tvg-id="TBC1.tz@SD" tvg-logo="https://i.imgur.com/OmiVZ1u.png" group-title="哥伦比亚",TBC1
 https://tbc.maintek.co/LiveApp/streams/YF43nTzH0duMyUA2130641323343587.m3u8
 
+#EXTINF:-1 tvg-id="TNTLatinAmerica.us@Colombia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/960px-TNT_Logo_2016.svg.png" group-title="哥伦比亚",TNT Latin America Colombia (1080p)
+http://181.78.211.244:8005/play/a09g/index.m3u8
+
 #EXTINF:-1 tvg-id="TVAdorar.br@SD" tvg-logo="https://storage.googleapis.com/soultv-prod-media/media/brand/Logo_Adorar_100x100_s5tW1gW.png" group-title="哥伦比亚",TV Adorar (720p)
 https://cdn-tiva-isaocorp-cloudecast-com.smartbit.co/tvadorar/index.m3u8
 
@@ -139,6 +142,12 @@ https://live.amelbatv.co:81/telemocoalive/index.m3u8
 
 #EXTINF:-1 tvg-id="Trece.co@SD" tvg-logo="https://i.imgur.com/jsuXXIg.png" group-title="哥伦比亚",Trece (Colombia) (1080p)
 http://190.60.46.228:8888/play/a030/index.m3u8
+
+#EXTINF:-1 tvg-id="UniversalTVLatinAmerica.us@Colombia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/960px-Universal_TV_logo.svg.png" group-title="哥伦比亚",Universal TV Latin America Colombia (1080p)
+http://38.134.250.110:8000/play/a006/index.m3u8
+
+#EXTINF:-1 tvg-id="WarnerChannel.us@Colombia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Warner_TV_logo.svg/960px-Warner_TV_logo.svg.png" group-title="哥伦比亚",Warner Channel Colombia (1080p)
+http://38.134.250.110:8000/play/a029/index.m3u8
 
 #EXTINF:-1 tvg-id="Zoom.co@SD" tvg-logo="https://i.imgur.com/euy5zp6.png" group-title="哥伦比亚",Zoom (Colombia) (1080p)
 http://138.121.15.230:9002/ZOOM/index.m3u8
