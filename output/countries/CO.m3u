@@ -1,7 +1,7 @@
 #EXTM3U
 #PLAYLIST: 哥伦比亚 (CO) IPTV 直播源
-#生成时间: 2026-10-09 19:15:24
-#频道数: 49
+#生成时间: 2026-10-10 08:06:27
+#频道数: 50
 
 # ===== 哥伦比亚 (CO) =====
 
@@ -145,6 +145,9 @@ http://190.60.46.228:8888/play/a030/index.m3u8
 
 #EXTINF:-1 tvg-id="UniversalTVLatinAmerica.us@Colombia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/960px-Universal_TV_logo.svg.png" group-title="哥伦比亚",Universal TV Latin America Colombia (1080p)
 http://38.134.250.110:8000/play/a006/index.m3u8
+
+#EXTINF:-1 tvg-id="VerbumTV.lk@SD" tvg-logo="https://i.imgur.com/YEKEaB4.png" group-title="哥伦比亚",Verbum TV (1080p)
+https://video-eu1.streamerr.co/hls/scb80244b91/live.m3u8
 
 #EXTINF:-1 tvg-id="WarnerChannel.us@Colombia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Warner_TV_logo.svg/960px-Warner_TV_logo.svg.png" group-title="哥伦比亚",Warner Channel Colombia (1080p)
 http://38.134.250.110:8000/play/a029/index.m3u8

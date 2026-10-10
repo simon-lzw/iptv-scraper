@@ -1,7 +1,7 @@
 #EXTM3U
 #PLAYLIST: 意大利 (IT) IPTV 直播源
-#生成时间: 2026-10-09 19:15:24
-#频道数: 623
+#生成时间: 2026-10-10 08:06:27
+#频道数: 625
 
 # ===== 意大利 (IT) =====
 
@@ -578,6 +578,9 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/62444e195
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dgj79J3.png" group-title="意大利",L'Altro Corriere Tv
 https://stream.cp.ets-sistemi.it:1936/laltrocorriere-tv/laltrocorriere-tv/playlist.m3u8
 
+#EXTINF:-1 tvg-id="LA7.it@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/LA7_-_Logo_2011.svg/960px-LA7_-_Logo_2011.svg.png" group-title="意大利",LA7 HD (1080p)
+https://d3k8wzt41aflvx.cloudfront.net/LA7HD/Live.m3u8
+
 #EXTINF:-1 tvg-id="La5.it" tvg-logo="https://i.imgur.com/UNyJaho.png" group-title="意大利",La 5
 https://live02-seg.msf.cdn.mediaset.net/live/ch-ka/ka-clr.isml/index.m3u8
 
@@ -595,6 +598,9 @@ https://d1chghleocc9sm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 
 #EXTINF:-1 tvg-id="LA7.Cinema.it" tvg-logo="https://i.imgur.com/khPweok.png" group-title="意大利",La7 Cinema
 https://viamotionhsi.netplus.ch/live/eds/la7d/browser-HLS8/la7d.m3u8
+
+#EXTINF:-1 tvg-id="La7Cinema.it@HD" tvg-logo="https://i.imgur.com/khPweok.png" group-title="意大利",La7 Cinema (720p)
+http://102.129.186.182:81/la7d/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/02vCECa.png" group-title="意大利",LaC News 24
 https://f5842579ff984c1c98d63b8d789673eb.msvdn.net/live/S27391994/HVvPMzy/playlist.m3u8

@@ -1,7 +1,7 @@
 #EXTM3U
 #PLAYLIST: 荷兰 (NL) IPTV 直播源
-#生成时间: 2026-10-09 19:15:24
-#频道数: 62
+#生成时间: 2026-10-10 08:06:27
+#频道数: 63
 
 # ===== 荷兰 (NL) =====
 
@@ -34,6 +34,9 @@ https://server-23.stream-server.nl:1936/Magic-PowerRadio/Magic-PowerRadio/playli
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SQPVOwn.png" group-title="荷兰",NH Nieuws
 https://rrr.sz.xlcdn.com/?account=nhnieuws&file=live&type=live&service=wowza&protocol=https&output=playlist.m3u8
+
+#EXTINF:-1 tvg-id="NPO1.nl@SD" tvg-logo="https://i.imgur.com/HEtJEBa.png" group-title="荷兰",NPO 1 (360p)
+https://lb.iptvnetwork.net/ls28/10001/playlist.m3u8
 
 #EXTINF:-1 tvg-id="NPO1.nl@HD" tvg-logo="https://i.imgur.com/HEtJEBa.png" group-title="荷兰",NPO 1 HD (720p) [Geo-blocked]
 https://bpm.tv.delta.nl/hls/combined/1/mobile.m3u8

@@ -1,7 +1,7 @@
 #EXTM3U
 #PLAYLIST: 西班牙 (ES) IPTV 直播源
-#生成时间: 2026-10-09 19:15:24
-#频道数: 133
+#生成时间: 2026-10-10 08:06:27
+#频道数: 134
 
 # ===== 西班牙 (ES) =====
 
@@ -31,6 +31,9 @@ https://janya-digimix.akamaized.net/vglive-sk-351398/spanish/ngrp:angelspanish_a
 
 #EXTINF:-1 tvg-id="Antena3.es" tvg-logo="https://i.imgur.com/j3SP4BS.png" group-title="西班牙",Antena 3
 http://177.10.184.193:8000/play/a06a/index.m3u8
+
+#EXTINF:-1 tvg-id="Antena3CNN.ro@SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/82/Antena_3_CNN_2022_v1.png/revision/latest/scale-to-width-down/512" group-title="西班牙",Antena 3 CNN (576p)
+https://live4dai.antenaplay.ro/live2_aws4_sdi11/live2_aws4_sdi11_600k.m3u8
 
 #EXTINF:-1 tvg-id="Antena3Internacional.es@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/Antena3Internacional2025.png" group-title="西班牙",Antena 3 Internacional (1080p)
 http://38.252.238.18:8000/play/a04a/index.m3u8
