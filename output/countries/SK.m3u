@@ -1,7 +1,7 @@
 #EXTM3U
 #PLAYLIST: 斯洛伐克 (SK) IPTV 直播源
-#生成时间: 2026-10-10 18:13:31
-#频道数: 71
+#生成时间: 2026-10-11 08:17:31
+#频道数: 72
 
 # ===== 斯洛伐克 (SK) =====
 
@@ -46,6 +46,9 @@ https://dash4.antik.sk/live/test_uatv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="FashionBox.nl@SD" tvg-logo="https://i.imgur.com/Taqj4yi.png" group-title="斯洛伐克",FashionBox
 https://dash2.antik.sk/live/test_fashionbox_medium_atk/playlist.m3u8
+
+#EXTINF:-1 tvg-id="FastFunBox.nl@SD" tvg-logo="https://i.imgur.com/a9ZtP17.png" group-title="斯洛伐克",Fast&FunBox
+https://dash3.antik.sk/live/test_fast_and_funbox_medium_atk/playlist.m3u8
 
 #EXTINF:-1 tvg-id="FilmUALive.ua@SD" tvg-logo="https://i.imgur.com/kizTBgS.png" group-title="斯洛伐克",FilmUA Live
 https://dash2.antik.sk/live/test_film_life_atktv/playlist.m3u8
