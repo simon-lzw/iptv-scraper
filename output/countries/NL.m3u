@@ -1,7 +1,7 @@
 #EXTM3U
 #PLAYLIST: 荷兰 (NL) IPTV 直播源
-#生成时间: 2026-10-11 18:36:53
-#频道数: 62
+#生成时间: 2026-10-12 08:36:14
+#频道数: 63
 
 # ===== 荷兰 (NL) =====
 
@@ -16,6 +16,9 @@ https://bnr-cache-cdp.triple-it.nl/studio/index.m3u8
 
 #EXTINF:-1 tvg-id="DenHaagTV.nl@SD" tvg-logo="https://i.imgur.com/gkzlRED.jpg" group-title="荷兰",Den Haag TV (1080p) [Not 24/7]
 http://wowza5.video-streams.nl:1935/denhaag/denhaag/playlist.m3u8
+
+#EXTINF:-1 tvg-id="History.nl@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/500px-History_%282021%29.svg.png" group-title="荷兰",History (Netherlands) (360p)
+https://lb.iptvnetwork.net/ls28/10022/playlist.m3u8
 
 #EXTINF:-1 tvg-id="L1TV.nl" tvg-logo="https://i.imgur.com/Jyhn1iP.png" group-title="荷兰",L1
 http://d34pj260kw1xmk.cloudfront.net/live/l1/tv/index.m3u8

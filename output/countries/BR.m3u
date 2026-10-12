@@ -1,6 +1,6 @@
 #EXTM3U
 #PLAYLIST: 巴西 (BR) IPTV 直播源
-#生成时间: 2026-10-11 18:36:53
+#生成时间: 2026-10-12 08:36:14
 #频道数: 136
 
 # ===== 巴西 (BR) =====
@@ -224,11 +224,11 @@ http://tv02.logicahost.com.br:1935/rederc/rederc/live.m3u8
 #EXTINF:-1 tvg-id="RedeSPTV.br@SD" tvg-logo="https://i.imgur.com/kh3LGAP.png" group-title="巴西",Rede SPTV (360p)
 https://video01.logicahost.com.br/websptv/websptv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="RedeTV.br@SD" tvg-logo="https://i.imgur.com/ZJgD38F.png" group-title="巴西",Rede TV! (720p)
-http://45.162.64.114/REDE_TV/index.m3u8
-
 #EXTINF:-1 tvg-id="RedeTVMais.br@SD" tvg-logo="https://i.ibb.co/F0Tm2WP/2103f4c07b851d64b4c96955765a9a95.png" group-title="巴西",Rede TV! Mais
 https://cdn.live.br1.jmvstream.com/webtv/AVJ-15235/playlist/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RedeTV.br@SD" tvg-logo="https://i.imgur.com/ZJgD38F.png" group-title="巴西",Rede TV! SD (720p)
+http://45.162.64.114/REDE_TV/index.m3u8
 
 #EXTINF:-1 tvg-id="SBTNacional.br" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo.png" group-title="巴西",SBT
 https://www.youtube.com/watch?v=ABVQXgr2LW4
