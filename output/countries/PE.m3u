@@ -1,7 +1,7 @@
 #EXTM3U
 #PLAYLIST: 秘鲁 (PE) IPTV 直播源
-#生成时间: 2026-10-12 21:58:36
-#频道数: 101
+#生成时间: 2026-10-13 08:56:20
+#频道数: 102
 
 # ===== 秘鲁 (PE) =====
 
@@ -268,6 +268,9 @@ https://live-evg11.tv360.bitel.com.pe/bitel/ucayalitvSRT/playlist.m3u8
 
 #EXTINF:-1 tvg-id="UnicentroTV.pe@SD" tvg-logo="https://i.imgur.com/lhewC3K.png" group-title="秘鲁",Unicentro TV (720p)
 https://live-evg11.tv360.bitel.com.pe/bitel/unicentroSRT/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Unitel.pe@SD" tvg-logo="https://i.imgur.com/F0PWpyc.png" group-title="秘鲁",Unitel (Peru) (1080p)
+https://play.agenciastreaming.com:8081/uniteltv/index.m3u8
 
 #EXTINF:-1 tvg-id="UniversitariaTV.pe@SD" tvg-logo="https://i.imgur.com/OcDimHX.png" group-title="秘鲁",Universitaria TV (720p)
 https://live-evg11.tv360.bitel.com.pe/bitel/uraniotv/playlist.m3u8

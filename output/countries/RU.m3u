@@ -1,7 +1,7 @@
 #EXTM3U
 #PLAYLIST: 俄罗斯 (RU) IPTV 直播源
-#生成时间: 2026-10-12 21:58:36
-#频道数: 277
+#生成时间: 2026-10-13 08:56:20
+#频道数: 279
 
 # ===== 俄罗斯 (RU) =====
 
@@ -560,6 +560,9 @@ https://live-tdk42kz.cdnvideo.ru/tdk42kz/tdk42kz_720.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="TKR.ru@SD" tvg-logo="https://i.imgur.com/VqtPB7L.png" group-title="俄罗斯",TKR (1080p) [Not 24/7]
 http://live.tkr.cdnvideo.ru/tkr/tkr.sdp/playlist.m3u8
 
+#EXTINF:-1 tvg-id="TLC.ru@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/960px-TLC_Logo.svg.png" group-title="俄罗斯",TLC (Russia) (1080p)
+http://stream.mcquack.net/168/index.m3u8
+
 #EXTINF:-1 tvg-id="TNT.ru@SD" tvg-logo="https://i.imgur.com/T4A6rEI.png" group-title="俄罗斯",TNT (Russia) (576p)
 http://stream.mcquack.net/135/index.m3u8
 
@@ -616,6 +619,9 @@ http://live-saha.cdnvideo.ru/saha/tooky/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TraceSportStars.fr@Russia" tvg-logo="https://i.imgur.com/FabFP5A.png" group-title="俄罗斯",Trace Sport Stars Russia (720p)
 https://stream8.cinerama.uz/1274/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="TravelChannel.ru@SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/82/Travel_Channel_International.svg/revision/latest?cb=20191226223708" group-title="俄罗斯",Travel Channel (Russia) (1080p)
+http://stream.mcquack.net/231/index.m3u8
 
 #EXTINF:-1 tvg-id="Travelxp.in@Russia" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_TRAVELXP/images/LOGO_HD/image.png" group-title="俄罗斯",Travelxp Russia (1080p)
 http://stream.mcquack.net/451/index.m3u8

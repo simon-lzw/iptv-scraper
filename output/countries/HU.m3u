@@ -1,7 +1,7 @@
 #EXTM3U
 #PLAYLIST: 匈牙利 (HU) IPTV 直播源
-#生成时间: 2026-10-12 21:58:36
-#频道数: 80
+#生成时间: 2026-10-13 08:56:20
+#频道数: 84
 
 # ===== 匈牙利 (HU) =====
 
@@ -17,8 +17,14 @@ https://streamservers.atv.hu/atvlive/atvstream_1_aac/playlist.m3u8
 #EXTINF:-1 tvg-id="AXNBlack.us@Hungary" tvg-logo="https://i.imgur.com/Peo1QiZ.png" group-title="匈牙利",AXN Black Hungary (576p)
 http://141.94.193.53:80/axn_black/index.m3u8
 
+#EXTINF:-1 tvg-id="AnimalPlanet.hu@SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/30/Animal_Planet_2018_II.svg/revision/latest?cb=20191206182106" group-title="匈牙利",Animal Planet (Hungary)
+http://88.212.15.17/live/animal_hun/index.m3u8
+
 #EXTINF:-1 tvg-id="ApostolTV.hu" tvg-logo="https://www.apostoltv.hu/images/header-logo.png" group-title="匈牙利",Apostol TV
 https://live.apostoltv.hu/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ArenaSportPremiumM1.mk@SD" tvg-logo="https://tvarenasport.mk/wp-content/themes/tvarenasport-mk/assets/channels/arena-m1.png" group-title="匈牙利",Arena Sport Premium M1
+http://telekomsrbije.com:2095/play/lhpjmkfVyhON1JAiZCx7vgvje3t-Jiqa5d94ZBmKAqQgIFxl-Ch6B37eGpkVDb28
 
 #EXTINF:-1 tvg-id="BTV.hu@SD" tvg-logo="https://i.imgur.com/0PKqn3V.png" group-title="匈牙利",BTV (Hungary) (360p)
 https://cloudfront44.lexanetwork.com:1344/freerelay/babolnatv.sdp/playlist.m3u8
@@ -100,6 +106,9 @@ https://cloudfront44.lexanetwork.com:1344/relay44_1/HDE043.sdp/playlist.m3u8
 
 #EXTINF:-1 tvg-id="HtMusicChannel.hu@SD" tvg-logo="https://i.imgur.com/sqC2hqV.png" group-title="匈牙利",H!t Music Channel (Hungary) (480p)
 http://hitmusic.hu/hitmusic.m3u8
+
+#EXTINF:-1 tvg-id="HGTV.hu@SD" tvg-logo="https://i.imgur.com/KMcR9z9.png" group-title="匈牙利",HGTV (Hungary)
+http://88.212.15.17/live/hgtv_hun/index.m3u8
 
 #EXTINF:-1 tvg-id="HangulatTV.hu@SD" tvg-logo="https://play-lh.googleusercontent.com/uBasB1USS1zI0tdHUbhUg356TwmworMA5P_7UGnhvg3z6LXX6n1bEk7Qj3cE3-yuToA" group-title="匈牙利",Hangulat TV (720p)
 https://iptv01.eurocable.co.hu/EC-HANGULATTV/index.m3u8
@@ -229,6 +238,9 @@ https://cdnapisec.kaltura.com/p/1719221/sp/171922100/playManifest/entryId/1_ljzy
 
 #EXTINF:-1 tvg-id="TiszaTV.hu@SD" tvg-logo="https://i.imgur.com/Q2bShnh.png" group-title="匈牙利",Tisza TV (576p) [Not 24/7]
 https://www.tiszatv.hu/onlinetv/tiszatv_1.m3u8
+
+#EXTINF:-1 tvg-id="TravelChannel.hu@SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a3/Travel_Channel_2D_2014.svg/revision/latest?cb=20180112215118" group-title="匈牙利",Travel Channel (Hungary)
+http://88.212.15.17/live/travel_hun/index.m3u8
 
 #EXTINF:-1 tvg-id="TrimedioTV.hu@SD" tvg-logo="https://i.imgur.com/P4hxWVZ.png" group-title="匈牙利",Trimedio TV (1080p) [Geo-blocked]
 https://stream.streaming4u.hu/TriMedioTV/index.m3u8

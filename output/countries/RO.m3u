@@ -1,7 +1,7 @@
 #EXTM3U
 #PLAYLIST: 罗马尼亚 (RO) IPTV 直播源
-#生成时间: 2026-10-12 21:58:36
-#频道数: 106
+#生成时间: 2026-10-13 08:56:20
+#频道数: 108
 
 # ===== 罗马尼亚 (RO) =====
 
@@ -70,6 +70,9 @@ https://hls02ns.antenaplay.ro/hls/b1-tv-hd/index.m3u8
 
 #EXTINF:-1 tvg-id="BBCEarth.uk@RomaniaHD" tvg-logo="https://i.imgur.com/nGSsUd4.png" group-title="罗马尼亚",BBC Earth Romania HD (576p)
 http://hls127.freeott.top:8080/BG_The_World/video.m3u8
+
+#EXTINF:-1 tvg-id="BollywoodClassic.ro@Romania" tvg-logo="https://i.imgur.com/ugPo6ca.png" group-title="罗马尼亚",Bollywood Classic Romania (576p)
+http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-bollywood-classic/live_hq?offsetSeconds=0
 
 #EXTINF:-1 tvg-id="BucovinaTV.ro@SD" tvg-logo="https://i.imgur.com/6klhXxp.png" group-title="罗马尼亚",Bucovina TV (576i)
 https://www.bucovinatv.ro/proxy/video/playlist.m3u8
@@ -316,6 +319,9 @@ https://dvb.tennet.ro/mobile_tv/telestar.m3u8
 
 #EXTINF:-1 tvg-id="TraLaLaTV.ro@SD" tvg-logo="https://i.imgur.com/xJBMnjy.png" group-title="罗马尼亚",TraLaLa TV
 https://hls01ns.antenaplay.ro/hls/tralala-hd/index.m3u8
+
+#EXTINF:-1 tvg-id="UTV.ro@SD" tvg-logo="https://i.imgur.com/aBdz9IT.png" group-title="罗马尼亚",UTV (Romania) (576p)
+http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-kapital/live_hq?offsetSeconds=0
 
 #EXTINF:-1 tvg-id="iRoast.ro@SD" tvg-logo="https://assets.antenaplay.ro/2026/05/07/1CKR5EoJo1qeSZCe9lkT.png" group-title="罗马尼亚",iRoast (576p)
 https://live77cdn2.antenaplay.ro/live2_fast/ch3/stream.m3u8

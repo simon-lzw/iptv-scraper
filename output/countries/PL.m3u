@@ -1,7 +1,7 @@
 #EXTM3U
 #PLAYLIST: 波兰 (PL) IPTV 直播源
-#生成时间: 2026-10-12 21:58:36
-#频道数: 87
+#生成时间: 2026-10-13 08:56:20
+#频道数: 89
 
 # ===== 波兰 (PL) =====
 
@@ -62,11 +62,17 @@ http://92.114.85.87:8018/play/a009/index.m3u8
 #EXTINF:-1 tvg-id="FailArmy.us@Poland" tvg-logo="https://i.imgur.com/VIpQJxL.png" group-title="波兰",FailArmy Poland (720p)
 https://bd93cfed.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZhaWxBcm15X0hMUw/playlist.m3u8
 
+#EXTINF:-1 tvg-id="FoodNetwork.pl@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Food_Network_New_Logo.png/960px-Food_Network_New_Logo.png" group-title="波兰",Food Network (Poland) (1080p)
+http://57.128.231.171:8080/253/index.m3u8
+
 #EXTINF:-1 tvg-id="Fox.pl@SD" tvg-logo="https://i.imgur.com/hSDN9YQ.png" group-title="波兰",Fox (Poland) (1080p)
 http://57.128.231.171:8080/249/index.m3u8
 
 #EXTINF:-1 tvg-id="GloryKickboxing.us@Poland" tvg-logo="https://i.imgur.com/tS7Ub7i.png" group-title="波兰",Glory Kickboxing Poland (720p)
 https://6f972d29.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0dsb3J5S2lja2JveGluZ19ITFM/playlist.m3u8
+
+#EXTINF:-1 tvg-id="HGTV.pl@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/HGTV_US_Logo_2015.svg/960px-HGTV_US_Logo_2015.svg.png" group-title="波兰",HGTV (Poland) (1080p)
+http://57.128.231.171:8080/241/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hSJGncF.jpg" group-title="波兰",IBN
 https://sktv-forwarders.7m.pl/get.php?x=IBN

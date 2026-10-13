@@ -1,7 +1,7 @@
 #EXTM3U
 #PLAYLIST: 越南 (VN) IPTV 直播源
-#生成时间: 2026-10-12 21:58:36
-#频道数: 48
+#生成时间: 2026-10-13 08:56:20
+#频道数: 49
 
 # ===== 越南 (VN) =====
 
@@ -37,6 +37,9 @@ https://stream.thingnet.vn/live/smil:CRTV.smil/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="DaNangTV1.vn@SD" tvg-logo="https://i.imgur.com/EOMuO1z.png" group-title="越南",Da Nang TV 1 (1080p) [Not 24/7]
 https://live.mediatech.vn/live/285b59a111d76974225a8e3004bfc31a509/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="DaVinciAsia.de@Vietnam" tvg-logo="https://i.imgur.com/iBx7K1M.png" group-title="越南",Da Vinci Asia Vietnam (1080p)
+https://freem3u.xyz/api/live/play.m3u8?vid=214
 
 #EXTINF:-1 tvg-id="DienBienTV.vn@SD" tvg-logo="https://i.imgur.com/u308o8q.png" group-title="越南",Dien Bien TV (1080p)
 https://stream.langsontv.vn/live/2855dfeccb7f49a41a2b0441b3bfeda413c/playlist.m3u8
