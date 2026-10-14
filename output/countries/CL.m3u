@@ -1,7 +1,7 @@
 #EXTM3U
 #PLAYLIST: 智利 (CL) IPTV 直播源
-#生成时间: 2026-10-14 07:06:14
-#频道数: 148
+#生成时间: 2026-10-14 18:18:12
+#频道数: 149
 
 # ===== 智利 (CL) =====
 
@@ -185,11 +185,14 @@ https://v1.tustreaming.cl/emociontv/index.m3u8
 #EXTINF:-1 tvg-id="EnLineaMaule.cl@SD" tvg-logo="https://enlineamaule.cl/wp-content/uploads/2025/08/En-linea-Maule841351465.png" group-title="智利",En Linea Maule (720p)
 https://v2.tustreaming.cl/enlineamauletv/index.m3u8
 
-#EXTINF:-1 tvg-id="EnerGeekFAN.cl@SD" tvg-logo="https://cdn.energeek.cl/logos/EG-Fan-2025_pfp.png" group-title="智利",EnerGeek FAN (1080p)
-https://backend.energeek.cl/webtv/egfanweb/index.m3u8?token=ZZDemoIPTVGH
+#EXTINF:-1 tvg-id="EnerGeek.cl@HD" tvg-logo="https://cdn.energeek.cl/logos/EG-Retro-2025_pfp.png" group-title="智利",EnerGeek (1080p) [Geo-blocked]
+https://cl-2.backend.energeek.cl/bkp/egretroweb/index.m3u8?token=IPTVgh26
 
-#EXTINF:-1 tvg-id="EnerGeekRadio.cl@SD" tvg-logo="https://cdn.energeek.cl/logos/EG-Radio-2025_pfp.png" group-title="智利",EnerGeek Radio (1080p)
-https://backend.energeek.cl/webtv/egradioweb/index.m3u8?token=ZZDemoIPTVGH
+#EXTINF:-1 tvg-id="EnerGeekFAN.cl@SD" tvg-logo="https://cdn.energeek.cl/logos/EG-Fan-2025_pfp.png" group-title="智利",EnerGeek FAN (720p) [Geo-blocked]
+https://cl-2.backend.energeek.cl/bkp/egfan/mobile/index.m3u8?token=IPTVgh26
+
+#EXTINF:-1 tvg-id="EnerGeekRadio.cl@SD" tvg-logo="https://cdn.energeek.cl/logos/EG-Radio-2025_pfp.png" group-title="智利",EnerGeek Radio (720p) [Geo-blocked]
+https://cl-2.backend.energeek.cl/bkp/egradio/mobile/index.m3u8?token=IPTVgh26
 
 #EXTINF:-1 tvg-id="EstacionLimacheTV.cl@SD" tvg-logo="https://i.imgur.com/YAADx7P.png" group-title="智利",Estacion Limache TV (720p)
 https://v4.tustreaming.cl/limachemovil/index.m3u8
@@ -278,9 +281,6 @@ https://v4.tustreaming.cl/retroplaytv/index.m3u8
 #EXTINF:-1 tvg-id="OrbitaChileTV.cl@HD" tvg-logo="https://i.imgur.com/gbNh79Z.png" group-title="智利",Orbita Chile TV (1080p)
 https://orbitachiletv.org/hls/0/stream.m3u8
 
-#EXTINF:-1 tvg-id="PRIDEtvLATAM.cl@HD" group-title="智利",PRIDEtv LATAM (1080p)
-https://backend.energeek.cl/webtv/pridetvweb/index.m3u8?token=ZZDemoIPTVGH
-
 #EXTINF:-1 tvg-id="PolarTV.cl@SD" tvg-logo="https://i.imgur.com/4exfvPt.png" group-title="智利",Polar TV (Chile)
 https://polartv.webredirect.org/memfs/319ac83c-e602-4e91-8104-2b5501380b5e.m3u8
 
@@ -364,6 +364,9 @@ http://138.121.15.230:9002/STAR-CHANNEL/index.m3u8
 
 #EXTINF:-1 tvg-id="SuramTV.co@SD" tvg-logo="https://i.imgur.com/2N9LCES.png" group-title="智利",Suram TV (720p)
 https://us.streaminghd.cl/suramtv/index.m3u8
+
+#EXTINF:-1 tvg-id="SuyaiTV.cl@HD" tvg-logo="https://suyaitv.cl/wp-content/uploads/2024/10/ico_Suyai_TV_512.png" group-title="智利",Suyai TV (1080p)
+https://trun.suyaitv.cl/memfs/1255a743-cd41-40a8-86c4-d264ee16ebf3.m3u8
 
 #EXTINF:-1 tvg-id="T13.cl" tvg-logo="https://i.imgur.com/3CEijac.png" group-title="智利",T13 en vivo
 https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/t13/t13.smil/playlist.m3u8

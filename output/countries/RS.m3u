@@ -1,9 +1,12 @@
 #EXTM3U
 #PLAYLIST: 塞尔维亚 (RS) IPTV 直播源
-#生成时间: 2026-10-14 07:06:14
-#频道数: 15
+#生成时间: 2026-10-14 18:18:12
+#频道数: 16
 
 # ===== 塞尔维亚 (RS) =====
+
+#EXTINF:-1 tvg-id="ArenaSport1Premium.rs@SD" tvg-logo="https://i.imgur.com/csv6YsL.png" group-title="塞尔维亚",Arena Sport 1 Premium (Serbia) (360p)
+http://telekomsrbije.com:2095/play/lhpjmkfVyhON1JAiZCx7vmRdlEHaaMaQAQw3LRAakpnghBMtR57sXXgLEXZF8gVD
 
 #EXTINF:-1 tvg-id="InformerTV.rs" tvg-logo="https://i.imgur.com/9wdEHRf.png" group-title="塞尔维亚",Informer TV
 https://edge-rs-03.maksnet.tv/informertv-secure/web/playlist.m3u8

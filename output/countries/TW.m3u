@@ -1,7 +1,7 @@
 #EXTM3U
 #PLAYLIST: 台湾 (TW) IPTV 直播源
-#生成时间: 2026-10-14 07:06:14
-#频道数: 57
+#生成时间: 2026-10-14 18:18:12
+#频道数: 58
 
 # ===== 台湾 (TW) =====
 
@@ -64,6 +64,9 @@ https://live.streamingfast.net/osmflivech2.m3u8
 
 #EXTINF:-1 tvg-id="GoodTV.tw@SD" tvg-logo="https://i.imgur.com/k28Kc3o.png" group-title="台湾",Good TV (Taiwan) (720p) [Not 24/7]
 https://live.streamingfast.net/osmflivech1.m3u8
+
+#EXTINF:-1 tvg-id="HBOAsia.sg@Taiwan" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/HBO_Asia.png/960px-HBO_Asia.png" group-title="台湾",HBO Asia Taiwan (1080p)
+http://125.227.210.55:1003/VideoInput/play.ts
 
 #EXTINF:-1 tvg-id="HakkaTV.tw@SD" tvg-logo="https://i.imgur.com/1CdGSbU.png" group-title="台湾",Hakka TV
 https://h5cul1yar48um3t.wcetv.com/hls/hakkatv.m3u8

@@ -1,7 +1,7 @@
 #EXTM3U
 #PLAYLIST: 匈牙利 (HU) IPTV 直播源
-#生成时间: 2026-10-14 07:06:14
-#频道数: 84
+#生成时间: 2026-10-14 18:18:12
+#频道数: 86
 
 # ===== 匈牙利 (HU) =====
 
@@ -91,6 +91,9 @@ http://88.212.15.19/live/test_fem3_atktv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.fehervartv.hu/css/img/icon-1-2.png" group-title="匈牙利",FehérvárTV
 https://cloudfront44.lexanetwork.com:1344/relay44_1/HDE046.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="FoodNetwork.hu@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Food_Network_New_Logo.png/960px-Food_Network_New_Logo.png" group-title="匈牙利",Food Network (Hungary)
+http://88.212.15.17/live/fn_hungary/index.m3u8
 
 #EXTINF:-1 tvg-id="GloboTV.hu@SD" tvg-logo="https://i.imgur.com/PJ4c4jq.png" group-title="匈牙利",Globo TV (Hungary) (720p) [Geo-blocked]
 https://stream.streaming4u.hu/GloboTV/index.m3u8
@@ -217,6 +220,9 @@ http://88.212.15.19/live/spektrum_home_hun/index.m3u8
 
 #EXTINF:-1 tvg-id="SzecsenyTV.hu@SD" tvg-logo="https://i.imgur.com/ilRmZtF.png" group-title="匈牙利",Szecseny TV (720p)
 http://iptv.eurocable.co.hu/EC-SZECSENYTVHD/index.m3u8
+
+#EXTINF:-1 tvg-id="TLC.hu@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/960px-TLC_Logo.svg.png" group-title="匈牙利",TLC (Hungary)
+http://88.212.15.17/live/tlc_hungary/index.m3u8
 
 #EXTINF:-1 tvg-id="TVBudakalasz.hu@SD" tvg-logo="https://i.imgur.com/97xpqt0.png" group-title="匈牙利",TV Budakalasz (1080p) [Not 24/7]
 https://stream.streaming4u.hu/TVBudakalasz/tracks-v1a1/mono.m3u8

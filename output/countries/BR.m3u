@@ -1,7 +1,7 @@
 #EXTM3U
 #PLAYLIST: 巴西 (BR) IPTV 直播源
-#生成时间: 2026-10-14 07:06:14
-#频道数: 136
+#生成时间: 2026-10-14 18:18:12
+#频道数: 137
 
 # ===== 巴西 (BR) =====
 
@@ -229,6 +229,9 @@ https://cdn.live.br1.jmvstream.com/webtv/AVJ-15235/playlist/playlist.m3u8
 
 #EXTINF:-1 tvg-id="RedeTV.br@SD" tvg-logo="https://i.imgur.com/ZJgD38F.png" group-title="巴西",Rede TV! SD (720p)
 http://45.162.64.114/REDE_TV/index.m3u8
+
+#EXTINF:-1 tvg-id="RetroCartoon.br@SD" tvg-logo="https://i.imgur.com/hIlEfhl.png" group-title="巴西",Retro Cartoon (720p)
+https://stmv1.video.brstream.com.br/retrotv/retrotv/chunklist_w1069200121.m3u8
 
 #EXTINF:-1 tvg-id="SBTNacional.br" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo.png" group-title="巴西",SBT
 https://www.youtube.com/watch?v=ABVQXgr2LW4
