@@ -1,7 +1,7 @@
 #EXTM3U
 #PLAYLIST: 捷克 (CZ) IPTV 直播源
-#生成时间: 2026-10-14 18:18:12
-#频道数: 77
+#生成时间: 2026-10-15 06:56:57
+#频道数: 73
 
 # ===== 捷克 (CZ) =====
 
@@ -31,6 +31,9 @@ https://sktv.mxnticek.eu/new/stream.php?ch=CS%20History
 
 #EXTINF:-1 tvg-id="CSMystery.cz" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/cs-mystery-cz.png" group-title="捷克",CS Mystery
 https://sktv.mxnticek.eu/new/stream.php?ch=CS%20Mystery
+
+#EXTINF:-1 tvg-id="CT1.cz@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/%C4%8CT1_logo_2012.svg/960px-%C4%8CT1_logo_2012.svg.png" group-title="捷克",CT1
+http://88.212.15.19/live/test_ct1_25p/playlist.m3u8
 
 #EXTINF:-1 tvg-id="CanalPlusActionEurope.nl@Czechia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Canal%2B_Action_2024.svg/1920px-Canal%2B_Action_2024.svg.png" group-title="捷克",Canal+ Action Europe Czechia
 http://46.149.191.219:9106/play/a01g
@@ -110,10 +113,10 @@ https://stream.polar.cz/polar/polarlive-1/playlist.m3u8
 #EXTINF:-1 tvg-id="PrahaTV.cz" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/praha-tv-cz.png" group-title="捷克",Praha TV
 https://1977134029.rsc.cdn77.org/1977134029/index.m3u8
 
-#EXTINF:-1 tvg-id="Prima.cz" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/prima-cz.png" group-title="捷克",Prima
+#EXTINF:-1 tvg-id="Prima.cz@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Prima_2013.png/960px-Prima_2013.png" group-title="捷克",Prima (Czech Republic) (1080p)
 http://88.212.15.19/live/prima_avc_25p/playlist.m3u8
 
-#EXTINF:-1 tvg-id="PrimaCool.cz" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/prima-cool-cz.png" group-title="捷克",Prima Cool
+#EXTINF:-1 tvg-id="PrimaCool.cz@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Prima_Cool_logo_zelen%C3%A9.png/960px-Prima_Cool_logo_zelen%C3%A9.png" group-title="捷克",Prima Cool
 http://88.212.15.19/live/prima_cool_cz_avc/index.m3u8
 
 #EXTINF:-1 tvg-id="PrimaCoolSK.sk@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/06/Prima_COOL_SK_logo.png" group-title="捷克",Prima Cool SK (1080p)
@@ -122,7 +125,7 @@ http://88.212.15.19/live/prima_cool_avc_25p/playlist.m3u8
 #EXTINF:-1 tvg-id="PrimaKrimi.cz" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/prima-krimi-cz.png" group-title="捷克",Prima Krimi
 https://sktv.mxnticek.eu/new/stream.php?ch=PrimaKrimi
 
-#EXTINF:-1 tvg-id="PrimaLove.cz" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/prima-love-cz.png" group-title="捷克",Prima Love
+#EXTINF:-1 tvg-id="PrimaLove.cz@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Prima_Love_logo_2018.png/960px-Prima_Love_logo_2018.png" group-title="捷克",Prima Love
 http://88.212.15.19/live/prima_love_cz_avc/index.m3u8
 
 #EXTINF:-1 tvg-id="PrimaMax.cz" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/prima-max-cz.png" group-title="捷克",Prima MAX
@@ -131,13 +134,13 @@ https://sktv.mxnticek.eu/new/stream.php?ch=PrimaMax
 #EXTINF:-1 tvg-id="PrimaNews.ro@SD" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/Prima_News_logo_2022.svg/1280px-Prima_News_logo_2022.svg.png" group-title="捷克",Prima News
 https://hls02ns.antenaplay.ro/hls/prima-news-hd/index.m3u8
 
-#EXTINF:-1 tvg-id="PrimaStar.cz" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/prima-star-cz.png" group-title="捷克",Prima STAR
-http://88.212.15.19/live/test_prima_star_hevc_25p/playlist.m3u8
-
-#EXTINF:-1 tvg-id="PrimaShow.cz" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/prima-show-cz.png" group-title="捷克",Prima Show
+#EXTINF:-1 tvg-id="PrimaShow.cz@SD" tvg-logo="https://i.imgur.com/XbwAwkp.png" group-title="捷克",Prima Show (1080p)
 http://88.212.15.19/live/test_prima_show_hevc_25p/playlist.m3u8
 
-#EXTINF:-1 tvg-id="PrimaZoom.cz" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/prima-zoom-cz.png" group-title="捷克",Prima Zoom
+#EXTINF:-1 tvg-id="PrimaStar.cz@SD" tvg-logo="https://i.imgur.com/ppqgNDA.png" group-title="捷克",Prima Star (1080p)
+http://88.212.15.19/live/test_prima_star_hevc_25p/playlist.m3u8
+
+#EXTINF:-1 tvg-id="PrimaZoom.cz@SD" tvg-logo="https://i.imgur.com/uNJqZ6p.png" group-title="捷克",Prima Zoom (1080p)
 http://88.212.15.19/live/prima_zoom_avc_25p/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ProArena.ro@SD" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/5/54/PRO_Arena_Logo_%282022-present%29.svg/960px-PRO_Arena_Logo_%282022-present%29.svg.png" group-title="捷克",Pro Arena (1080p)
@@ -209,23 +212,8 @@ https://ocko-live.ssl.cdn.cra.cz/channels/ocko_gold/playlist.m3u8
 #EXTINF:-1 tvg-id="CTDecko.cz" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/ct-d-cz.png" group-title="捷克",ČT :D
 https://sktv.mxnticek.eu/new/stream.php?ch=CT_D
 
-#EXTINF:-1 tvg-id="CTart.cz" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/ct-art-cz.png" group-title="捷克",ČT art
-http://88.212.15.19/live/ct_art_avc_25p/playlist.m3u8
-
-#EXTINF:-1 tvg-id="CTSport.cz" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/ct-sport-cz.png" group-title="捷克",ČT sport
-http://88.212.15.19/live/test_ctsport_25p/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/ct-sport-cz.png" group-title="捷克",ČT sport Plus
 https://sktv.mxnticek.eu/new/stream.php?ch=%C4%8CT%20sport%20Plus
-
-#EXTINF:-1 tvg-id="CT1.cz" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/ct1-cz.png" group-title="捷克",ČT1
-http://88.212.15.19/live/test_ct1_25p/playlist.m3u8
-
-#EXTINF:-1 tvg-id="CT2.cz" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/ct2-cz.png" group-title="捷克",ČT2
-http://88.212.15.19/live/test_ct2_25p/playlist.m3u8
-
-#EXTINF:-1 tvg-id="CT24.cz" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/ct24-cz.png" group-title="捷克",ČT24
-http://88.212.15.19/live/test_ct24_hevc/playlist.m3u8
 
 #EXTINF:-1 tvg-id="SlagrMuzika.cz" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/slagr-muzika-cz.png" group-title="捷克",Šlágr Muzika
 https://stream-23.mazana.tv/slagrmuzika.m3u8s

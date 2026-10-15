@@ -1,7 +1,7 @@
 #EXTM3U
 #PLAYLIST: 乌克兰 (UA) IPTV 直播源
-#生成时间: 2026-10-14 18:18:12
-#频道数: 83
+#生成时间: 2026-10-15 06:56:57
+#频道数: 84
 
 # ===== 乌克兰 (UA) =====
 
@@ -88,6 +88,9 @@ http://stream.mcquack.net/270/index.m3u8
 
 #EXTINF:-1 tvg-id="Kyiv.ua@SD" tvg-logo="https://i.imgur.com/TVuCY4N.png" group-title="乌克兰",Kyiv (1080p)
 https://api-tv.ipnet.ua/api/v1/manifest/1293296300.m3u8
+
+#EXTINF:-1 tvg-id="M1.ua" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/M1_%28Ukraine%29_%282001-2021%29.svg/960px-M1_%28Ukraine%29_%282001-2021%29.svg.png" group-title="乌克兰",M1
+http://stream.mcquack.net/218/index.m3u8
 
 #EXTINF:-1 tvg-id="M2.ua" tvg-logo="https://i.imgur.com/AfcBWCg.png" group-title="乌克兰",M2
 http://stream.mcquack.net/330/index.m3u8
