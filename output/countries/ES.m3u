@@ -1,7 +1,7 @@
 #EXTM3U
 #PLAYLIST: 西班牙 (ES) IPTV 直播源
-#生成时间: 2026-10-15 06:56:57
-#频道数: 132
+#生成时间: 2026-10-15 18:01:10
+#频道数: 133
 
 # ===== 西班牙 (ES) =====
 
@@ -289,6 +289,9 @@ https://canadaremar2.todostreaming.es/live/solidariatv-webhd.m3u8
 
 #EXTINF:-1 tvg-id="Squirrel.es" tvg-logo="https://i.imgur.com/urF0kYA.png" group-title="西班牙",Squirrel
 https://tsw.streamingwebtv24.it:1936/inteccdn1/inteccdn1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SundanceTV.es@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/SundanceTV_2014.svg/960px-SundanceTV_2014.svg.png" group-title="西班牙",Sundance TV (Spain)
+https://cdn.stmify.com/zapitv/stream/SUNDANCE_TV/sundance_hd.mpd
 
 #EXTINF:-1 tvg-id="TBNEspana.es@SD" tvg-logo="https://i.imgur.com/oGvsUH9.png" group-title="西班牙",TBN Espana (576p)
 https://edge.xn--tbnespaa-j3a.es/LiveApp/streams/tbnlive.m3u8

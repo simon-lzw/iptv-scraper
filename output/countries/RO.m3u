@@ -1,7 +1,7 @@
 #EXTM3U
 #PLAYLIST: 罗马尼亚 (RO) IPTV 直播源
-#生成时间: 2026-10-15 06:56:57
-#频道数: 108
+#生成时间: 2026-10-15 18:01:10
+#频道数: 109
 
 # ===== 罗马尼亚 (RO) =====
 
@@ -70,6 +70,9 @@ https://hls02ns.antenaplay.ro/hls/b1-tv-hd/index.m3u8
 
 #EXTINF:-1 tvg-id="BBCEarth.uk@RomaniaHD" tvg-logo="https://i.imgur.com/nGSsUd4.png" group-title="罗马尼亚",BBC Earth Romania HD (576p)
 http://hls127.freeott.top:8080/BG_The_World/video.m3u8
+
+#EXTINF:-1 tvg-id="BanatTV.ro@SD" tvg-logo="https://i.imgur.com/yVsocid.png" group-title="罗马尼亚",Banat TV
+https://www.btv.ro/hls/banat-tv.m3u8
 
 #EXTINF:-1 tvg-id="BollywoodClassic.ro@Romania" tvg-logo="https://i.imgur.com/ugPo6ca.png" group-title="罗马尼亚",Bollywood Classic Romania (576p)
 http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-bollywood-classic/live_hq?offsetSeconds=0

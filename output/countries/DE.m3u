@@ -1,7 +1,7 @@
 #EXTM3U
 #PLAYLIST: 德国 (DE) IPTV 直播源
-#生成时间: 2026-10-15 06:56:57
-#频道数: 201
+#生成时间: 2026-10-15 18:01:10
+#频道数: 202
 
 # ===== 德国 (DE) =====
 
@@ -517,6 +517,9 @@ https://jmp2.uk/plu-65cb73d33ba51e00084cabad.m3u8
 
 #EXTINF:-1 tvg-id="SteiermarkTV.at@SD" tvg-logo="https://i.imgur.com/AJrUPze.png" group-title="德国",Steiermark TV (1080p)
 https://h056.video-stream-hosting.de/easycast8-live/_definst_/mp4:livestreamhd4/playlist.m3u8?ref=
+
+#EXTINF:-1 tvg-id="TLC.de@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/960px-TLC_Logo.svg.png" group-title="德国",TLC (Germany) (576p)
+https://s6.hopslan.com/tlcX/index.m3u8
 
 #EXTINF:-1 tvg-id="TVMainfranken.de@SD" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/tvmainfranken.png" group-title="德国",TV Mainfranken (1080p) [Not 24/7]
 https://tvtouringw.iptv-playoutcenter.de/tvtouringw/tvtouringw.stream_1/playlist.m3u8

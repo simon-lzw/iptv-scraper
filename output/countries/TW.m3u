@@ -1,7 +1,7 @@
 #EXTM3U
 #PLAYLIST: 台湾 (TW) IPTV 直播源
-#生成时间: 2026-10-15 06:56:57
-#频道数: 58
+#生成时间: 2026-10-15 18:01:10
+#频道数: 59
 
 # ===== 台湾 (TW) =====
 
@@ -40,6 +40,9 @@ http://nmk.ioapk.com:5050/4gtv-live106/index.m3u8
 
 #EXTINF:-1 tvg-id="DaliTV.tw@SD" tvg-logo="https://i.imgur.com/pFIMLsA.png" group-title="台湾",Dali TV (720p)
 http://www.dalitv.com.tw:4568/live/dali/index.m3u8
+
+#EXTINF:-1 tvg-id="DiscoveryAsiaTaiwan.tw@SD" tvg-logo="https://i.imgur.com/foLICwL.png" group-title="台湾",Discovery Asia Taiwan (1080p)
+http://125.227.210.55:1004/VideoInput/play.ts
 
 #EXTINF:-1 tvg-id="EBCFinancialNews.tw@SD" tvg-logo="https://i.imgur.com/uFDkOhV.png" group-title="台湾",EBC Financial News (1080p) [Not 24/7]
 http://seb.sason.top/sc/dscjxw_fhd.m3u8
