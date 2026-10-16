@@ -1,7 +1,7 @@
 #EXTM3U
 #PLAYLIST: 全球 IPTV 直播源
-#生成时间: 2026-10-15 18:01:09
-#频道数: 7666
+#生成时间: 2026-10-16 06:44:53
+#频道数: 7669
 
 # ===== 阿联酋 (AE) =====
 
@@ -253,9 +253,6 @@ https://livetrx01.vodgc.net/eltrecetv/index.m3u8
 
 #EXTINF:-1 tvg-id="ElTrece.ar@SD" tvg-logo="https://i.imgur.com/TrgBAdA.png" group-title="阿根廷",El Trece (1080p)
 http://15.204.246.24:8080/eltreceHD/index.m3u8
-
-#EXTINF:-1 tvg-id="ElTreceInternacionalLatinAmerica.ar@SD" tvg-logo="https://i.imgur.com/Vo6prbh.png" group-title="阿根廷",El Trece Internacional Latin America (1080p)
-http://200.7.99.59:8000/play/a0gm/index.m3u8
 
 #EXTINF:-1 tvg-id="Encuentro.ar" tvg-logo="https://i.imgur.com/IyP2UIx.png" group-title="阿根廷",Encuentro Ⓨ
 https://www.youtube.com/user/encuentro/live
@@ -1324,6 +1321,9 @@ http://stream.cammonitorplus.net/1712/index.m3u8
 
 #EXTINF:-1 tvg-id="CanadaOne.ca@SD" group-title="加拿大",Canada One (720p) [Not 24/7]
 http://cdn8.live247stream.com/canadaone/tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="EnglishClubGlobal.uk@SD" tvg-logo="https://img.apk.watch/pics:bz1kZmQ3bjImbD0zZmkmaD1wbmcmZj1HbGk5MCZpPTU" group-title="加拿大",English Club Global
+https://raw.githubusercontent.com/racitonsen/RacIPTV/refs/heads/main/streams/english-club-global.m3u8
 
 #EXTINF:-1 tvg-id="GTNCanada.ca@SD" tvg-logo="https://i.imgur.com/7bQPJOd.png" group-title="加拿大",GTN Canada (1080i) [Geo-blocked]
 https://streamer12.vdn.dstreamone.net/carishowtime/showtime/chunks.m3u8
@@ -10331,6 +10331,9 @@ http://107.167.16.138/sonymarathi/index.m3u8?token=test
 #EXTINF:-1 tvg-id="SonyMax.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s157590_ld_h15_aa.png?lock=720x540" group-title="印度",Sony Max (576p) [Geo-blocked]
 http://dksmedia.tv/play/live.php?mac=00:1A:79:B6:60:3D&stream=156013&extension=ts&play_token=slNi06NyY0
 
+#EXTINF:-1 tvg-id="SonyMax1.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s179440_ld_h15_aa.png?lock=720x540" group-title="印度",Sony Max 1
+http://27.116.22.53:5001/live/3418.m3u8
+
 #EXTINF:-1 tvg-id="SonyMax2.in@SD" tvg-logo="https://i.imgur.com/gqUYk6C.png" group-title="印度",Sony Max 2 (576p)
 http://107.167.16.138/sonymax2/index.m3u8?token=test
 
@@ -18626,6 +18629,9 @@ http://41.205.93.154/CNBC/index.m3u8
 #EXTINF:-1 tvg-id="CNBCArabiya.ae@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/CNBC_Arabia_2025.svg/960px-CNBC_Arabia_2025.svg.png" group-title="美国",CNBC Arabiya (1080p)
 https://cnbc-live.akamaized.net/cnbc/master.m3u8
 
+#EXTINF:-1 tvg-id="CNBCAsia.sg@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/CNBC_2025.svg/960px-CNBC_2025.svg.png" group-title="美国",CNBC Asia HD (1080p)
+https://freem3u.xyz/api/live/play.m3u8?vid=9855
+
 #EXTINF:-1 tvg-id="CNBCAwaaz.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/CNBCAwaaz.png" group-title="美国",CNBC Awaaz (1080p)
 https://n18syndication.akamaized.net/bpk-tv/CNBC_Awaaz_NW18_MOB/output01/master.m3u8
 
@@ -19606,6 +19612,9 @@ http://138.59.227.20:8000/play/a085/index.m3u8
 
 #EXTINF:-1 tvg-id="FoxSports1.us@HD" tvg-logo="https://i.imgur.com/O9BapV9.png" group-title="美国",Fox Sports 1 (720p)
 http://85.237.89.160:9590/usa-s/FOX-SPORTS-1/index.m3u8
+
+#EXTINF:-1 tvg-id="FoxSportsNews.au@SD" tvg-logo="https://i.imgur.com/FhMQrJk.png" group-title="美国",Fox Sports News (1080p)
+https://skynewsau-live-premium.akamaized.net/hls/live/2105307/foxsportsnews/live_1080p.m3u8
 
 #EXTINF:-1 tvg-id="FoxWeather.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Fox_Weather_logo.svg/960px-Fox_Weather_logo.svg.png" group-title="美国",Fox Weather (720p)
 https://247wlive.foxweather.com/stream/index.m3u8

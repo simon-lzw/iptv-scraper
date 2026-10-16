@@ -41900,7 +41900,7 @@
   },
   {
     "name": "TMF (1080p)",
-    "url": "https://tmf-nl.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-yourchannels-10-restreaming/bitok/eyJzdGlkIjoiMGMzZGFhOGYtYjNhMC00Njk1LThkZTktZWNmNmVmNzRmMzY4IiwibWt0IjoibmwiLCJjaCI6IjEwIiwicHRmIjo1fQ%3D%3D/mpgmedia/TMF/TMF_NL/TMF_NL.m3u8",
+    "url": "https://raw.githubusercontent.com/racitonsen/RacIPTV/refs/heads/main/streams/TMF.m3u8",
     "group": "Classic;Music",
     "country_code": "ZZ",
     "country_name_zh": "ZZ",
@@ -46123,12 +46123,12 @@
     "is_active": true
   },
   {
-    "name": "Teleceiba (720p)",
-    "url": "https://teleceiba.com/stream/tlcb720.m3u8",
+    "name": "Teleceiba (1080p)",
+    "url": "http://45.238.141.222:8000/play/a0pf/index.m3u8",
     "group": "Undefined",
     "country_code": "ZZ",
     "country_name_zh": "ZZ",
-    "ip_version": "domain",
+    "ip_version": "ipv4",
     "score": 0.0,
     "source": "iptv-org all streams",
     "is_active": true
@@ -49407,17 +49407,6 @@
     "country_code": "ZZ",
     "country_name_zh": "ZZ",
     "ip_version": "domain",
-    "score": 0.0,
-    "source": "iptv-org all streams",
-    "is_active": true
-  },
-  {
-    "name": "V90 (1080p)",
-    "url": "http://57.128.231.171:8080/228/index.m3u8",
-    "group": "Music",
-    "country_code": "ZZ",
-    "country_name_zh": "ZZ",
-    "ip_version": "ipv4",
     "score": 0.0,
     "source": "iptv-org all streams",
     "is_active": true
@@ -57453,17 +57442,6 @@
     "is_active": true
   },
   {
-    "name": "El Trece Internacional Latin America (1080p)",
-    "url": "http://200.7.99.59:8000/play/a0gm/index.m3u8",
-    "group": "General",
-    "country_code": "AR",
-    "country_name_zh": "阿根廷",
-    "ip_version": "ipv4",
-    "score": 0.0,
-    "source": "iptv-org all streams",
-    "is_active": true
-  },
-  {
     "name": "Encuentro Ⓨ",
     "url": "https://www.youtube.com/user/encuentro/live",
     "group": "Argentina",
@@ -61284,6 +61262,17 @@
     "name": "Canada One (720p) [Not 24/7]",
     "url": "http://cdn8.live247stream.com/canadaone/tv/playlist.m3u8",
     "group": "Undefined",
+    "country_code": "CA",
+    "country_name_zh": "加拿大",
+    "ip_version": "domain",
+    "score": 0.0,
+    "source": "iptv-org all streams",
+    "is_active": true
+  },
+  {
+    "name": "English Club Global",
+    "url": "https://raw.githubusercontent.com/racitonsen/RacIPTV/refs/heads/main/streams/english-club-global.m3u8",
+    "group": "Education",
     "country_code": "CA",
     "country_name_zh": "加拿大",
     "ip_version": "domain",
@@ -68537,7 +68526,7 @@
     "country_name_zh": "中国",
     "ip_version": "domain",
     "score": 0.0,
-    "source": "zhi35 aggregated",
+    "source": "vbskycn/iptv (ipv4)",
     "is_active": true
   },
   {
@@ -68548,7 +68537,7 @@
     "country_name_zh": "中国",
     "ip_version": "domain",
     "score": 0.0,
-    "source": "zhi35 aggregated",
+    "source": "vbskycn/iptv (ipv4)",
     "is_active": true
   },
   {
@@ -94067,6 +94056,17 @@
     "country_code": "IN",
     "country_name_zh": "印度",
     "ip_version": "domain",
+    "score": 0.0,
+    "source": "iptv-org all streams",
+    "is_active": true
+  },
+  {
+    "name": "Sony Max 1",
+    "url": "http://27.116.22.53:5001/live/3418.m3u8",
+    "group": "Movies",
+    "country_code": "IN",
+    "country_name_zh": "印度",
+    "ip_version": "ipv4",
     "score": 0.0,
     "source": "iptv-org all streams",
     "is_active": true
@@ -124025,6 +124025,17 @@
     "is_active": true
   },
   {
+    "name": "CNBC Asia HD (1080p)",
+    "url": "https://freem3u.xyz/api/live/play.m3u8?vid=9855",
+    "group": "Business",
+    "country_code": "US",
+    "country_name_zh": "美国",
+    "ip_version": "domain",
+    "score": 0.0,
+    "source": "iptv-org all streams",
+    "is_active": true
+  },
+  {
     "name": "CNBC Awaaz (1080p)",
     "url": "https://n18syndication.akamaized.net/bpk-tv/CNBC_Awaaz_NW18_MOB/output01/master.m3u8",
     "group": "Business",
@@ -127619,6 +127630,17 @@
     "ip_version": "ipv4",
     "score": 0.0,
     "source": "iptv-org United States",
+    "is_active": true
+  },
+  {
+    "name": "Fox Sports News (1080p)",
+    "url": "https://skynewsau-live-premium.akamaized.net/hls/live/2105307/foxsportsnews/live_1080p.m3u8",
+    "group": "News;Sports",
+    "country_code": "US",
+    "country_name_zh": "美国",
+    "ip_version": "domain",
+    "score": 0.0,
+    "source": "iptv-org all streams",
     "is_active": true
   },
   {

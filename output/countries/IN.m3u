@@ -1,7 +1,7 @@
 #EXTM3U
 #PLAYLIST: 印度 (IN) IPTV 直播源
-#生成时间: 2026-10-15 18:01:10
-#频道数: 383
+#生成时间: 2026-10-16 06:44:53
+#频道数: 384
 
 # ===== 印度 (IN) =====
 
@@ -919,6 +919,9 @@ http://107.167.16.138/sonymarathi/index.m3u8?token=test
 
 #EXTINF:-1 tvg-id="SonyMax.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s157590_ld_h15_aa.png?lock=720x540" group-title="印度",Sony Max (576p) [Geo-blocked]
 http://dksmedia.tv/play/live.php?mac=00:1A:79:B6:60:3D&stream=156013&extension=ts&play_token=slNi06NyY0
+
+#EXTINF:-1 tvg-id="SonyMax1.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s179440_ld_h15_aa.png?lock=720x540" group-title="印度",Sony Max 1
+http://27.116.22.53:5001/live/3418.m3u8
 
 #EXTINF:-1 tvg-id="SonyMax2.in@SD" tvg-logo="https://i.imgur.com/gqUYk6C.png" group-title="印度",Sony Max 2 (576p)
 http://107.167.16.138/sonymax2/index.m3u8?token=test
