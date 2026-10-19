@@ -1,7 +1,7 @@
 #EXTM3U
 #PLAYLIST: 日本 (JP) IPTV 直播源
-#生成时间: 2026-10-19 07:18:41
-#频道数: 32
+#生成时间: 2026-10-19 19:39:03
+#频道数: 33
 
 # ===== 日本 (JP) =====
 
@@ -100,4 +100,7 @@ https://fujitv4.mov3.co/hls/fujitv.m3u8
 
 #EXTINF:-1 tvg-id="rch_47" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/104_ntvnews.png" group-title="日本",日テレNEWS
 https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-news1hlscmaf-rakutenjp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="JOAXDTV.jp" tvg-logo="https://i.imgur.com/ecbM7QS.png" group-title="日本",日本テレビ
+https://ntv5.mov3.co/hls/ntv.m3u8
 
