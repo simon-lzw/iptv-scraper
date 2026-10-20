@@ -1,7 +1,7 @@
 #EXTM3U
 #PLAYLIST: 罗马尼亚 (RO) IPTV 直播源
-#生成时间: 2026-10-19 19:39:03
-#频道数: 110
+#生成时间: 2026-10-20 07:09:49
+#频道数: 111
 
 # ===== 罗马尼亚 (RO) =====
 
@@ -253,6 +253,9 @@ https://livestream.romaniatv.net/clients/romaniatv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="SangeorzTV.ro@SD" tvg-logo="https://sangeorztv.ro/wp-content/uploads/2025/12/sangeorz-tv-3.png" group-title="罗马尼亚",Sangeorz TV (576p)
 https://live.sangeorztv.ro:8443/live/index.m3u8?cookieCheck=1
+
+#EXTINF:-1 tvg-id="SmartRadio.ro@SD" tvg-logo="https://www.smartradio.ro/wp-content/themes/smart-radio/img/Logo_SmartRadio.png" group-title="罗马尼亚",Smart Radio (576p)
+https://streamw.m.ro/Regie/radio.stream/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="SuperTV.ro@SD" tvg-logo="https://i.imgur.com/pzxUE0O.png" group-title="罗马尼亚",Super TV (Romania) (576p)
 http://iptv.supertv.ro:8000/play/a001/index.m3u8
