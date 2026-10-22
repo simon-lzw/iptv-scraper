@@ -1,6 +1,6 @@
 #EXTM3U
 #PLAYLIST: 印度 (IN) IPTV 直播源
-#生成时间: 2026-10-21 18:22:41
+#生成时间: 2026-10-22 07:05:19
 #频道数: 382
 
 # ===== 印度 (IN) =====
@@ -210,7 +210,7 @@ http://103.151.60.162:2122/play/a02s/index.m3u8?hls
 https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/YuppTV/ColorsGujarati.m3u8
 
 #EXTINF:-1 tvg-id="Colors.in@HD" tvg-logo="https://i.imgur.com/M8uCJ0D.png" group-title="印度",Colors HD (1080p)
-http://66.102.126.10:8000/play/a00a/index.m3u8
+http://103.151.60.162:2122/play/a02q/index.m3u8?hls
 
 #EXTINF:-1 tvg-id="ColorsInfinity.in@HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_COLORS_INFINITY/images/LOGO_HD/image.png" group-title="印度",Colors Infinity HD (1080p)
 http://103.151.60.162:2122/play/a02r/index.m3u8?hls
@@ -268,9 +268,6 @@ https://mumbai-edge.smartplaytv.in/DDNews/index.m3u8
 
 #EXTINF:-1 tvg-id="DDOdia.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DD_ORIYA/images/LOGO_HD/image.png" group-title="印度",DD Odia (576p)
 https://mumbai-edge.smartplaytv.in/ddodiya/index.m3u8
-
-#EXTINF:-1 tvg-id="DDSports.in@HD" tvg-logo="https://dtil.tmsimg.com/assets/s158255_ld_h15_aa.png?lock=720x540" group-title="印度",DD Sports HD (720p)
-https://mumbai-edge.smartplaytv.in/DDSportsHD/index.m3u8
 
 #EXTINF:-1 tvg-id="DDUrdu.in" tvg-logo="https://i.imgur.com/OiQPS34.png" group-title="印度",DD Urdu
 https://www.youtube.com/@DDUrdu/live
@@ -725,7 +722,7 @@ https://mumt03.tangotv.in/Dsly5z3HPRAMEYANEWS7/index.m3u8
 #EXTINF:-1 tvg-id="PrarthanaBhawanTV.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_PRARTHANA_BHAWAN/images/LOGO_HD/image.png" group-title="印度",Prarthana Bhawan TV (576p)
 https://mumt03.tangotv.in/Dsly5z3HPRATHANABHAWAN/index.m3u8
 
-#EXTINF:-1 tvg-id="PrarthanaTV.in@SD" tvg-logo="https://i.imgur.com/gj7dtNF.png" group-title="印度",Prarthana TV (720p)
+#EXTINF:-1 tvg-id="PrarthanaLife.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Prarthana_Life.png" group-title="印度",Prarthana Life (720p)
 https://livetv.tarangplus.in/prarthana-origin/live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="PrathamKhabar24x7.in@SD" tvg-logo="https://i.imgur.com/HNsg5Px.png" group-title="印度",Pratham Khabar 24x7 (576p)
@@ -1144,6 +1141,9 @@ https://www.youtube.com/@ZEENews/live
 
 #EXTINF:-1 tvg-id="ZainabiaChannel.in@SD" group-title="印度",Zainabia Channel
 https://zainabia.livebox.co.in/ZainabiaChannelhls/channel.m3u8
+
+#EXTINF:-1 tvg-id="Zingabad.in@SD" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yupptvnew/content/common/logos/channel/logos/zingabad.png" group-title="印度",Zingabad (1080p)
+https://stream.ottlive.co.in/zingabad/index.m3u8
 
 #EXTINF:-1 tvg-id="Zoom.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZOOM/images/LOGO_HD/image.png" group-title="印度",Zoom (India) (720p)
 https://dai.google.com/linear/hls/event/JCAm25qkRXiKcK1AJMlvKQ/master.m3u8
