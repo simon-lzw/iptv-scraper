@@ -1,7 +1,7 @@
 #EXTM3U
 #PLAYLIST: 哥伦比亚 (CO) IPTV 直播源
-#生成时间: 2026-10-22 18:16:52
-#频道数: 53
+#生成时间: 2026-10-23 06:57:28
+#频道数: 54
 
 # ===== 哥伦比亚 (CO) =====
 
@@ -79,6 +79,9 @@ https://panelvideo1.intermediahost.co:3286/live/ruzfpkqklive.m3u8
 
 #EXTINF:-1 tvg-id="MBGTV.id@FHD" tvg-logo="https://i.imgur.com/t7GsFJN.jpeg" group-title="哥伦比亚",MBG TV (1080p)
 https://stream.convergen.co/mbg_stream/smil:mbStream.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MilanTV.it@SD" tvg-logo="https://i.imgur.com/gAMQfUw.png" group-title="哥伦比亚",Milan TV (720p)
+http://team-tv.co:81/milan/index.m3u8
 
 #EXTINF:-1 tvg-id="NoticiasRCN.co@SD" tvg-logo="https://i.imgur.com/FMX4QCM.png" group-title="哥伦比亚",Noticias RCN (720p)
 https://jmp2.uk/plu-67d9b0ebc290c9499046e88f.m3u8

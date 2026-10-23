@@ -1,7 +1,7 @@
 #EXTM3U
 #PLAYLIST: 法国 (FR) IPTV 直播源
-#生成时间: 2026-10-22 18:16:52
-#频道数: 83
+#生成时间: 2026-10-23 06:57:28
+#频道数: 79
 
 # ===== 法国 (FR) =====
 
@@ -27,7 +27,7 @@ http://92.114.85.87:8019/play/a003/index.m3u8
 https://news.cgtn.com/resource/live/french/cgtn-f.m3u8
 
 #EXTINF:-1 tvg-id="CGTNFrench.cn@SD" tvg-logo="https://i.imgur.com/BwhledK.png" group-title="法国",CGTN French (1080p)
-http://145.239.5.177/214/index.m3u8
+https://amg01314-cgtn-amg01314c2-rakuten-us-1319.playouts.now.amagi.tv/cgtn-fr-rakuten/playlist.m3u8
 
 #EXTINF:-1 tvg-id="CNews.fr" tvg-logo="https://i.imgur.com/UMRGAHx.png" group-title="法国",CNews
 https://www.dailymotion.com/video/x3b68jn
@@ -44,23 +44,14 @@ http://151.80.18.177:86/Canal+_Family_HD/index.m3u8
 #EXTINF:-1 tvg-id="CanalPlusCinemas.fr@SD" tvg-logo="https://i.imgur.com/fvPoNEa.jpeg" group-title="法国",Canal+ Cinemas (720p)
 http://151.80.18.177:86/Canal+_cinema_HD/index.m3u8
 
-#EXTINF:-1 tvg-id="CanalPlusDokument.pl@SD" tvg-logo="https://i.imgur.com/La6WF7D.png" group-title="法国",Canal+ Dokument (576i)
-http://57.128.210.196:8080/301/index.m3u8
-
 #EXTINF:-1 tvg-id="CanalPlusDomo.pl@SD" tvg-logo="https://i.imgur.com/Iz2BxbR.png" group-title="法国",Canal+ Domo (576i)
 http://92.114.85.87:8019/play/a008/index.m3u8
-
-#EXTINF:-1 tvg-id="CanalPlusFilm.pl@SD" tvg-logo="https://i.imgur.com/2yMtcJw.png" group-title="法国",Canal+ Film (576i)
-http://57.128.210.196:8080/296/index.m3u8
 
 #EXTINF:-1 tvg-id="CanalPlusKuchnia.pl@SD" tvg-logo="https://i.imgur.com/d1JTJBl.png" group-title="法国",Canal+ Kuchnia (576i)
 http://92.114.85.87:8019/play/a009/index.m3u8
 
 #EXTINF:-1 tvg-id="CanalPlusNow.pl@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/C%2BNow.png/960px-C%2BNow.png" group-title="法国",Canal+ Now (576i)
 http://92.114.85.87:8006/play/a005/index.m3u8
-
-#EXTINF:-1 tvg-id="CanalPlusSeriale.pl@SD" tvg-logo="https://i.imgur.com/B55Rl3T.png" group-title="法国",Canal+ Seriale (576i)
-http://57.128.210.196:8080/294/index.m3u8
 
 #EXTINF:-1 tvg-id="CanalPlusSport.fr@SD" tvg-logo="https://i.imgur.com/EOXnU15.png" group-title="法国",Canal+ Sport (1080p) [Geo-blocked]
 http://tv.streambox.fr/live/testlivestream/testlivestream/31.m3u8
@@ -173,8 +164,8 @@ https://figarotv-live.freecaster.com/live/freecaster/figarotv.m3u8
 #EXTINF:-1 tvg-id="M6.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Logo_M6_%282020%2C_fond_clair%29.svg/40px-Logo_M6_%282020%2C_fond_clair%29.svg.png" group-title="法国",M6
 http://99.27.51.147:8080/M6/index.m3u8
 
-#EXTINF:-1 tvg-id="M6Music.fr@SD" group-title="法国",M6 Music (720p)
-http://145.239.5.177/320/index.m3u8
+#EXTINF:-1 tvg-id="M6Music.fr@SD" group-title="法国",M6 Music
+https://test.946985.filegear-sg.me/proxy/803c517b325bfafc
 
 #EXTINF:-1 tvg-id="MDL.fr@SD" tvg-logo="https://i.imgur.com/REN30bx.png" group-title="法国",MDL (720p)
 http://tv.mondeduloisir.fr:1935/tixtv/smil:web.smil/playlist.m3u8
@@ -241,9 +232,6 @@ http://145.239.5.177/331a/index.m3u8
 
 #EXTINF:-1 tvg-id="ZeeOne.uk@French" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/24/Zee_One_Logo_2025.png" group-title="法国",Zee One French (720p)
 https://7689426c.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1mcl9aZWVNYWdpY19ITFM/playlist.m3u8
-
-#EXTINF:-1 tvg-id="arte.fr@SD" tvg-logo="https://i.imgur.com/ecXMjNl.png" group-title="法国",arte (France) (720p)
-http://145.239.5.177/300/index.m3u8
 
 #EXTINF:-1 tvg-id="Franceinfo.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Franceinfo.svg/500px-Franceinfo.svg.png" group-title="法国",franceinfo:
 https://www.youtube.com/c/franceinfo/live

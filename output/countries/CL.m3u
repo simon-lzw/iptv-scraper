@@ -1,7 +1,7 @@
 #EXTM3U
 #PLAYLIST: 智利 (CL) IPTV 直播源
-#生成时间: 2026-10-22 18:16:52
-#频道数: 150
+#生成时间: 2026-10-23 06:57:28
+#频道数: 152
 
 # ===== 智利 (CL) =====
 
@@ -134,6 +134,9 @@ http://15.204.246.24:8080/CHVHD/index.m3u8
 #EXTINF:-1 tvg-id="ChileVision.cl" tvg-logo="https://i.imgur.com/2Pu8yXf.png" group-title="智利",Chilevisión
 https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/chv/chv.smil/playlist.m3u8
 
+#EXTINF:-1 tvg-id="ChileVision.cl" tvg-logo="https://i.imgur.com/eWCXl6a.jpeg" group-title="智利",Chilevisión Deportes
+https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/chvdeportes/chvdeportes.smil/playlist.m3u8
+
 #EXTINF:-1 tvg-id="CHVNoticias.cl" tvg-logo="https://i.imgur.com/Qh6d0A9.png" group-title="智利",Chilevisión Noticias
 https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/chvn/chvn.smil/playlist.m3u8
 
@@ -248,11 +251,17 @@ https://tv.arkeo.cl:1936/radiolila/radiolila/playlist.m3u8
 #EXTINF:-1 tvg-id="MargaMargaTV.cl@SD" tvg-logo="https://i.imgur.com/4cg51eE.png" group-title="智利",Marga Marga TV (720p)
 https://v1.tustreaming.cl/margamargatv/index.m3u8
 
-#EXTINF:-1 tvg-id="mega.cl" tvg-logo="https://i.imgur.com/CYdWSDb.png" group-title="智利",Mega
+#EXTINF:-1 tvg-id="Mega.cl" tvg-logo="https://i.imgur.com/CYdWSDb.png" group-title="智利",Mega
 https://unlimited2-cl-isp.dps.live/mega/mega.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Mega.cl@SD" tvg-logo="https://i.imgur.com/RlZfR84.png" group-title="智利",Mega (Chile) (1080p)
 http://tr.live.clarovtrcdn.vtrplay.com/megahdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+
+#EXTINF:-1 tvg-id="Mega2.cl" tvg-logo="https://i.imgur.com/c1ME00r.png" group-title="智利",Mega 2
+http://15.204.196.147:22880/MEGA2-MEGAMEDIA-EE.UU-PROVEEDOR/index.m3u8
+
+#EXTINF:-1 tvg-id="MeganoticiasAhora.cl" tvg-logo="https://i.imgur.com/JCVEqTc.png" group-title="智利",Meganoticias
+http://15.204.196.147:22880/MEGANOTICIA-MEGAMEDIA-EE.UU-PROVEEDOR/video.m3u8
 
 #EXTINF:-1 tvg-id="MiRadioTV.cl@SD" tvg-logo="https://i.imgur.com/XEpLWJw.png" group-title="智利",Mi Radio TV
 https://scl.edge.grupoz.cl/miradio2/live/playlist.m3u8
@@ -427,9 +436,6 @@ https://tvturf4.janus.cl/playlist/stream.m3u8?d=w&id=
 
 #EXTINF:-1 tvg-id="ULosLagosTV.cl@SD" tvg-logo="https://i.imgur.com/HxUZseV.png" group-title="智利",U Los Lagos TV (1080p) [Not 24/7]
 http://tv.ulagos.cl/web/live.m3u8
-
-#EXTINF:-1 tvg-id="UCL.uy" tvg-logo="https://i.imgur.com/JxqVHPX.png" group-title="智利",UCL
-https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/ucl/ucl.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="UCVTV.cl" tvg-logo="https://i.imgur.com/2VL4Pts.png" group-title="智利",UCV Televisión
 https://unlimited1-cl-isp.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8

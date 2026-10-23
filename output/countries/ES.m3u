@@ -1,7 +1,7 @@
 #EXTM3U
 #PLAYLIST: 西班牙 (ES) IPTV 直播源
-#生成时间: 2026-10-22 18:16:52
-#频道数: 133
+#生成时间: 2026-10-23 06:57:28
+#频道数: 134
 
 # ===== 西班牙 (ES) =====
 
@@ -49,6 +49,9 @@ https://cloud.fastchannel.es/manifiest/hls/prog9/btatv.m3u8
 
 #EXTINF:-1 tvg-id="BeMad.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Be_Mad_TV.svg/500px-Be_Mad_TV.svg.png" group-title="西班牙",Be Mad
 https://directos.bemad.es/orilinear02/live/linear02/main/main.isml/main-audio_spa=128000-video=1500000.m3u8
+
+#EXTINF:-1 tvg-id="Boing.es@SD" tvg-logo="https://i.imgur.com/nUYuCAP.png" group-title="西班牙",Boing (Spain)
+http://digisat.ddns.net:4022/udp/239.0.5.177:8208
 
 #EXTINF:-1 tvg-id="BonDiaTV.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Logo_Bon_Dia_TV.png" group-title="西班牙",Bon Dia
 https://directes-tv-int.3catdirectes.cat/live-content/bondia-hls/master.m3u8

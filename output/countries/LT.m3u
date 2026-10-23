@@ -1,9 +1,12 @@
 #EXTM3U
 #PLAYLIST: 立陶宛 (LT) IPTV 直播源
-#生成时间: 2026-10-22 18:16:52
-#频道数: 13
+#生成时间: 2026-10-23 06:57:28
+#频道数: 14
 
 # ===== 立陶宛 (LT) =====
+
+#EXTINF:-1 tvg-id="BTV.lt" tvg-logo="https://i.imgur.com/AeplGsP.png" group-title="立陶宛",BTV
+http://stream.mcquack.net/35/index.m3u8
 
 #EXTINF:-1 tvg-id="DelfiTV.lt" tvg-logo="https://i.imgur.com/IFoHP5M.png" group-title="立陶宛",Delfi TV
 https://s1.dcdn.lt/live/televizija/playlist.m3u8
