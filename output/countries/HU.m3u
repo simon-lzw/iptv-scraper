@@ -1,12 +1,21 @@
 #EXTM3U
 #PLAYLIST: 匈牙利 (HU) IPTV 直播源
-#生成时间: 2026-10-23 06:57:28
-#频道数: 74
+#生成时间: 2026-10-23 18:05:47
+#频道数: 108
 
 # ===== 匈牙利 (HU) =====
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7ZPYJJ0.jpg" group-title="匈牙利",16TV
 https://cloudfront44.lexanetwork.com:1344/freerelay/16tv.sdp/playlist.m3u8
+
+#EXTINF:-1 group-title="匈牙利",90.9 Jazzy FM
+https://budapest-cache-1.antik.sk/live/jazzy/index.m3u8
+
+#EXTINF:-1 tvg-id="AMC.hu" group-title="匈牙利",AMC
+http://141.94.193.53:80/AMC_HD/index.m3u8
+
+#EXTINF:-1 tvg-id="ATV.hu" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Atv_logo_2018.png/250px-Atv_logo_2018.png" group-title="匈牙利",ATV
+http://141.94.193.53:80/ATV_HD/index.m3u8
 
 #EXTINF:-1 tvg-id="ATV.hu@SD" tvg-logo="https://i.imgur.com/85sIvrX.png" group-title="匈牙利",ATV (Hungary) (160p)
 https://streamservers.atv.hu/atvlive/atvstream_1_aac/playlist.m3u8
@@ -26,6 +35,9 @@ https://cloudfront44.lexanetwork.com:1344/freerelay/babolnatv.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="BalatonTV.hu" tvg-logo="https://i.imgur.com/ip8L5Vt.jpg" group-title="匈牙利",Balaton TV
 https://stream.iptvservice.eu/hls/balatontv.m3u8
 
+#EXTINF:-1 tvg-id="BartokRadio.hu" group-title="匈牙利",Bartók Rádió
+https://budapest-cache-1.antik.sk/live/bartok_radio/index.m3u8
+
 #EXTINF:-1 group-title="匈牙利",Berente TV
 https://stream.streaming4u.hu/BerenteTV/index.m3u8
 
@@ -35,11 +47,17 @@ https://cloudfront44.lexanetwork.com:1344/freerelay/bpetv.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://citytv.hu/wp-content/uploads/2023/12/cropped-citytv.png" group-title="匈牙利",CityTV (Belváros Lipótváros)
 https://citytv.hu/playlist.m3u8
 
+#EXTINF:-1 tvg-id="Cool.hu" group-title="匈牙利",Cool
+http://141.94.193.53:80/Cool_HD/index.m3u8
+
 #EXTINF:-1 tvg-id="CsurgoTV.hu@SD" tvg-logo="https://i.imgur.com/vVOEYuj.png" group-title="匈牙利",Csurgo TV (720p)
 https://cstv.medialivecdn.hu/csurgotv/27725804dc13aa23b3970414524d2dbf.sdp/playlist.m3u8
 
 #EXTINF:-1 tvg-id="DSTV.hu@SD" tvg-logo="https://i.imgur.com/xKJoN8L.png" group-title="匈牙利",DSTV (Hungary) (720p)
 http://79.120.178.90:1935/dstv/dstvlive/playlist.m3u8
+
+#EXTINF:-1 tvg-id="DTV.hu" tvg-logo="https://i.imgur.com/YSpqmSO.png" group-title="匈牙利",DTV
+https://cloudfront44.lexanetwork.com:1344/relay44_1/livestream002.sdp/playlist.m3u8
 
 #EXTINF:-1 tvg-id="DTV.hu@SD" tvg-logo="https://i.imgur.com/YSpqmSO.png" group-title="匈牙利",DTV (Hungary) (720p) [Not 24/7]
 http://cloudfront44.lexanetwork.com:1732/hlsrelay003/hls/livestream.sdp.m3u8
@@ -47,8 +65,14 @@ http://cloudfront44.lexanetwork.com:1732/hlsrelay003/hls/livestream.sdp.m3u8
 #EXTINF:-1 group-title="匈牙利",Dance TV
 https://m1b2.worldcast.tv/dancetelevisionone/2/dancetelevisionone.m3u8
 
+#EXTINF:-1 tvg-id="DankoRadio.hu" group-title="匈牙利",Dankó Rádió
+https://icast.connectmedia.hu/4747/mr7.aac
+
 #EXTINF:-1 tvg-id="DikhTV.hu" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/34/Dikhtv.png" group-title="匈牙利",DikhTv
 https://www.youtube.com/c/DikhTvGipsyTv/live
+
+#EXTINF:-1 tvg-id="DunaTV.hu" tvg-logo="https://i.imgur.com/b4RXacY.png" group-title="匈牙利",Duna TV
+http://141.94.193.53:80/Duna_HD/index.m3u8
 
 #EXTINF:-1 tvg-id="EsztergomTV.hu" group-title="匈牙利",ES TV (Esztergom)
 https://cloudfront44.lexanetwork.com:1344/relay44_1/HDE040.sdp/playlist.m3u8
@@ -63,9 +87,6 @@ https://iptv01.eurocable.co.hu/EC-EGYKERTVHD/index.m3u8
 https://www.youtube.com/channel/UCS5t4xWMT6lIZ9tcPROUd5A/live
 
 #EXTINF:-1 tvg-id="EuronewsHungarian.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7e/Euronews._2016_logo.png" group-title="匈牙利",Euronews Hungarian
-https://www.youtube.com/channel/UC4Ct8gIf9f0n4mdyGsFiZRA/live
-
-#EXTINF:-1 tvg-id="EuronewsHungarian.fr@SD" tvg-logo="https://i.imgur.com/8t9mdg9.png" group-title="匈牙利",Euronews Hungarian (720p)
 https://cdn-euronews.akamaized.net/live/eds/euronews-hu/25075/index.m3u8
 
 #EXTINF:-1 tvg-id="Eurosport1.fr@Hungary" tvg-logo="https://i.imgur.com/olQJgm7.png" group-title="匈牙利",Eurosport 1 Hungary
@@ -74,11 +95,23 @@ http://88.212.15.17/live/esp1_hun/index.m3u8
 #EXTINF:-1 tvg-id="Eurosport2.fr@Hungary" tvg-logo="https://i.imgur.com/f56dHgR.png" group-title="匈牙利",Eurosport 2 Hungary
 http://88.212.15.17/live/esp2_hun/index.m3u8
 
+#EXTINF:-1 tvg-id="FEM3.hu" tvg-logo="https://i.imgur.com/AF4Sz8Z.png" group-title="匈牙利",FEM3 (TV2 Klub)
+http://88.212.15.17/live/test_fem3_atktv/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.fehervartv.hu/css/img/icon-1-2.png" group-title="匈牙利",FehérvárTV
 https://cloudfront44.lexanetwork.com:1344/relay44_1/HDE046.sdp/playlist.m3u8
 
+#EXTINF:-1 tvg-id="Film+.hu" group-title="匈牙利",Film+
+http://141.94.193.53:80/Film+_HD/index.m3u8
+
+#EXTINF:-1 tvg-id="Film4.hu" group-title="匈牙利",Film4
+http://141.94.193.53:80/Film4_HD/index.m3u8
+
 #EXTINF:-1 tvg-id="FoodNetwork.hu@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Food_Network_New_Logo.png/960px-Food_Network_New_Logo.png" group-title="匈牙利",Food Network (Hungary)
 http://88.212.15.17/live/fn_hungary/index.m3u8
+
+#EXTINF:-1 tvg-id="Galaxy4.hu" group-title="匈牙利",Galaxy4
+http://141.94.193.53:80/Galaxy4_HD/index.m3u8
 
 #EXTINF:-1 tvg-id="GloboTV.hu@SD" tvg-logo="https://i.imgur.com/PJ4c4jq.png" group-title="匈牙利",Globo TV (Hungary) (720p) [Geo-blocked]
 https://stream.streaming4u.hu/GloboTV/index.m3u8
@@ -110,6 +143,18 @@ http://budatv.streaming.aiproduction.hu/playlist.m3u
 #EXTINF:-1 group-title="匈牙利",Héviz TV
 https://cloudfront44.lexanetwork.com:1344/relay03/livestream003.sdp/playlist.m3u8
 
+#EXTINF:-1 group-title="匈牙利",Hír FM
+https://budapest-cache-1.antik.sk/live/hir_rm/index.m3u8
+
+#EXTINF:-1 tvg-id="HirTV.hu" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Hirtvujlogo05.jpg/250px-Hirtvujlogo05.jpg" group-title="匈牙利",Hír TV
+https://video11.videa.hu/static/live/8.3754346.2530409.1.0.1.1/index.m3u8
+
+#EXTINF:-1 tvg-id="IzauraTV.hu" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Izaura_TV_logo.svg/250px-Izaura_TV_logo.svg.png" group-title="匈牙利",Izaura TV
+http://141.94.193.53:80/Izaura_TV_HD/index.m3u8
+
+#EXTINF:-1 group-title="匈牙利",Juventus Rádió
+https://budapest-cache-1.antik.sk/live/juventus/index.m3u8
+
 #EXTINF:-1 group-title="匈牙利",Jászsági Térségi TV
 https://cloudfront44.lexanetwork.com:1344/relay01/broadcast007.sdp/playlist.m3u8
 
@@ -128,8 +173,14 @@ https://stream.streaming4u.hu/KomlosTV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="KomaromiTelevizio.hu" group-title="匈牙利",Komáromi Televízió
 https://cloudfront44.lexanetwork.com:1344/relay01/HDE017.sdp/playlist.m3u8
 
+#EXTINF:-1 tvg-id="KossuthRadio.hu" group-title="匈牙利",Kossuth Rádió
+https://budapest-cache-1.antik.sk/live/kossuth_radio/index.m3u8
+
 #EXTINF:-1 group-title="匈牙利",Líceum TV
 http://193.225.32.62:8890/live.m3u8
+
+#EXTINF:-1 tvg-id="M1.hu" tvg-logo="https://i.imgur.com/neddXUd.png" group-title="匈牙利",M1
+http://141.94.193.53:80/M1_HD/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/neddXUd.png" group-title="匈牙利",M1 Hiradó
 https://www.youtube.com/@M1-Hirado/live
@@ -137,11 +188,23 @@ https://www.youtube.com/@M1-Hirado/live
 #EXTINF:-1 tvg-id="M2.hu@SD" tvg-logo="https://i.imgur.com/B0nYT0l.png" group-title="匈牙利",M2 (Hungary) (1080p)
 http://88.212.15.17/live/m2_hun/index.m3u8
 
+#EXTINF:-1 tvg-id="M2.hu" tvg-logo="https://i.imgur.com/CzaDhmA.png" group-title="匈牙利",M2 / Petőfi TV
+http://141.94.193.53:80/M2_HD/index.m3u8
+
+#EXTINF:-1 tvg-id="M4Sport.hu" tvg-logo="https://nb1.hu/uploads/news/3/31023.jpg" group-title="匈牙利",M4 Sport
+http://141.94.193.53:80/M4_Sport_HD/index.m3u8
+
+#EXTINF:-1 tvg-id="M5.hu" tvg-logo="https://i.imgur.com/qLQz2V6.png" group-title="匈牙利",M5 Hungary
+http://141.94.193.53:80/M5_HD/index.m3u8
+
 #EXTINF:-1 tvg-id="MakoiVarosiTelevizio.hu@SD" tvg-logo="https://i.imgur.com/PF3BP4X.png" group-title="匈牙利",Makoi Varosi Televizio (576p)
 http://makomedia.mikrohalo.hu/hls/makotv.m3u8
 
 #EXTINF:-1 tvg-id="MoraNetTV.hu@SD" tvg-logo="https://i.imgur.com/yT0RmKi.png" group-title="匈牙利",Mora-Net TV (576p)
 https://stream.moranettv.hu/live/index.m3u8
+
+#EXTINF:-1 tvg-id="MoziPlus.hu" group-title="匈牙利",Mozi+
+http://141.94.193.53:80/Mozi+_HD/index.m3u8
 
 #EXTINF:-1 tvg-id="OroszlanyiVarosiTelevizio.hu" tvg-logo="https://i.imgur.com/P0fxUH5.png" group-title="匈牙利",Oroszlányi Városi Televízió
 https://cloudfront44.lexanetwork.com:1344/relay01/broadcast002.sdp/playlist.m3u8
@@ -167,6 +230,9 @@ https://tab.parlament.hu:446/edgelive/smil:mkogytab.smil/playlist.m3u8
 #EXTINF:-1 group-title="匈牙利",Parlamenti közvetítés
 https://plenaris.parlament.hu:446/edgelive/smil:mkogyplen.smil/playlist.m3u8
 
+#EXTINF:-1 tvg-id="PetofiRadio.hu" group-title="匈牙利",Petőfi Rádió
+https://budapest-cache-1.antik.sk/live/petofi_radio/index.m3u8
+
 #EXTINF:-1 tvg-id="PilisTV.hu@SD" tvg-logo="https://i.imgur.com/5L01wRi.png" group-title="匈牙利",PilisTV (1080p) [Geo-blocked]
 https://stream.streaming4u.hu/PilisTV/index.m3u8
 
@@ -176,8 +242,8 @@ http://91.147.248.75:5080/LiveApp/streams/nvUds5LHykQyOVXZ1706907141950.m3u8
 #EXTINF:-1 tvg-id="RTLGold.hu@SD" tvg-logo="https://i.imgur.com/PwbLDUQ.png" group-title="匈牙利",RTL Gold (Hungary)
 https://budapest-cache-1.antik.sk/live/test_film_plus_2_hungary_1200_atk/playlist.m3u8
 
-#EXTINF:-1 group-title="匈牙利",Radio 1
-https://www.youtube.com/@radio1hungary/live
+#EXTINF:-1 tvg-id="RTLKlub.hu" tvg-logo="https://i.imgur.com/ruRshE1.png" group-title="匈牙利",RTL Klub
+http://141.94.193.53:80/RTL_HD/index.m3u8
 
 #EXTINF:-1 tvg-id="RadioDuna.cl@SD" tvg-logo="https://cdn.m3u.cl/logo/427_Radio_Duna.png" group-title="匈牙利",Radio Duna (720p)
 https://mdstrm.com/live-stream-playlist/67ed8a8d6db4af9a0188555c.m3u8
@@ -187,6 +253,30 @@ http://rakosmentetv.hu:8080/hls/rmtv.m3u8
 
 #EXTINF:-1 tvg-id="RegioPluszTV.hu@SD" tvg-logo="https://i.imgur.com/VXPpukf.png" group-title="匈牙利",RegioPlusz TV (1080p) [Geo-blocked]
 https://stream.streaming4u.hu/RegioPluszTV/index.m3u8
+
+#EXTINF:-1 group-title="匈牙利",Retró Rádió
+https://budapest-cache-1.antik.sk/live/retro/index.m3u8
+
+#EXTINF:-1 group-title="匈牙利",Rádió1
+https://budapest-cache-1.antik.sk/live/radio_1/index.m3u8
+
+#EXTINF:-1 group-title="匈牙利",Sláger FM
+https://budapest-cache-1.antik.sk/live/slager/index.m3u8
+
+#EXTINF:-1 tvg-id="Spektrum.hu" group-title="匈牙利",Spektrum
+http://141.94.193.53:80/Spektrum_HD/index.m3u8
+
+#EXTINF:-1 tvg-id="SpektrumHome.hu" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2d/Spektrum-home.png" group-title="匈牙利",Spektrum Home
+http://141.94.193.53:80/Spektrum_Home_HD/index.m3u8
+
+#EXTINF:-1 group-title="匈牙利",Spirit FM
+https://budapest-cache-1.antik.sk/live/spirit_fm/index.m3u8
+
+#EXTINF:-1 tvg-id="Sport1.hu" group-title="匈牙利",Sport1
+http://141.94.193.53:80/Sport_1_HD/index.m3u8
+
+#EXTINF:-1 tvg-id="Sport2.hu" group-title="匈牙利",Sport2
+http://141.94.193.53:80/Sport_2_HD/index.m3u8
 
 #EXTINF:-1 tvg-id="SzecsenyTV.hu@SD" tvg-logo="https://i.imgur.com/ilRmZtF.png" group-title="匈牙利",Szecseny TV (720p)
 http://iptv.eurocable.co.hu/EC-SZECSENYTVHD/index.m3u8
@@ -200,8 +290,17 @@ https://stream.streaming4u.hu/TVBudakalasz/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="TVEger.hu" tvg-logo="https://i.imgur.com/GUVW073.png" group-title="匈牙利",TV Eger
 http://stream.tveger.hu:8010/live.m3u8
 
+#EXTINF:-1 tvg-id="TVPaprika.hu" group-title="匈牙利",TV Paprika
+http://141.94.193.53:80/TV_Paprika_HD/index.m3u8
+
 #EXTINF:-1 tvg-id="TVSzentendre.hu@SD" tvg-logo="https://i.imgur.com/kzzYLdj.png" group-title="匈牙利",TV Szentendre (1080p) [Geo-blocked]
 https://stream.streaming4u.hu/TVSzentendre/index.m3u8
+
+#EXTINF:-1 tvg-id="TV2.hu" tvg-logo="https://nlc.p3k.hu/uploads/2021/09/tv2-logo.jpg" group-title="匈牙利",TV2
+http://141.94.193.53:80/TV2_HD/index.m3u8
+
+#EXTINF:-1 tvg-id="TV4.hu" group-title="匈牙利",TV4
+http://141.94.193.53:80/TV4_HD/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/G9Ib5K3.png" group-title="匈牙利",TV7 Békéscsaba
 https://stream.y5.hu/stream/stream_bekescsaba/stream.m3u8
@@ -217,6 +316,9 @@ http://88.212.15.17/live/travel_hun/index.m3u8
 
 #EXTINF:-1 tvg-id="TrimedioTV.hu@SD" tvg-logo="https://i.imgur.com/P4hxWVZ.png" group-title="匈牙利",Trimedio TV (1080p) [Geo-blocked]
 https://stream.streaming4u.hu/TriMedioTV/index.m3u8
+
+#EXTINF:-1 tvg-id="Viasat6.hu" tvg-logo="https://i.imgur.com/kypSbFX.png" group-title="匈牙利",Viasat 6
+http://88.212.15.17/live/viasat6/index.m3u8
 
 #EXTINF:-1 tvg-id="VasarhelyiTelevizio.hu" tvg-logo="https://i.imgur.com/WOEqdmx.png" group-title="匈牙利",Vásárhelyi Televízió
 https://stream.vasarhelyitelevizio.hu/stream/stream.m3u8

@@ -1,7 +1,7 @@
 #EXTM3U
 #PLAYLIST: 朝鲜 (KP) IPTV 直播源
-#生成时间: 2026-10-23 06:57:28
-#频道数: 3
+#生成时间: 2026-10-23 18:05:47
+#频道数: 4
 
 # ===== 朝鲜 (KP) =====
 
@@ -13,4 +13,7 @@ https://live.koryocdn.org/kctv/index.m3u8
 
 #EXTINF:-1 tvg-id="RyongnamsanTV.kp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/RyongnamsanTV_DPRK.png/500px-RyongnamsanTV_DPRK.png" group-title="朝鲜",Ryongnamsan TV
 https://kctv.koryofront.org/stream/ryongnamsan/index.m3u8
+
+#EXTINF:-1 tvg-id="SportsTelevision.kp" tvg-logo="https://i.imgur.com/HvFpGeH.png" group-title="朝鲜",Sports Television (not 24/7, Sat/Sun 18:00-22:00 KST)
+https://live.koryocdn.org/sports/index.m3u8
 
