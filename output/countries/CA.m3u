@@ -1,7 +1,7 @@
 #EXTM3U
 #PLAYLIST: 加拿大 (CA) IPTV 直播源
-#生成时间: 2026-10-23 18:05:47
-#频道数: 84
+#生成时间: 2026-10-24 06:52:24
+#频道数: 85
 
 # ===== 加拿大 (CA) =====
 
@@ -103,6 +103,9 @@ http://cdn8.live247stream.com/canadaone/tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="GTNCanada.ca@SD" tvg-logo="https://i.imgur.com/7bQPJOd.png" group-title="加拿大",GTN Canada (1080i) [Geo-blocked]
 https://streamer12.vdn.dstreamone.net/carishowtime/showtime/chunks.m3u8
+
+#EXTINF:-1 tvg-id="GlobalIndia.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Global_India.png" group-title="加拿大",Global India (720p)
+https://server.livelegitpro.in/globalindiatv/globalindiatv/video.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IpfmG93.png" group-title="加拿大",Global News
 https://jmp2.uk/plu-62cbef9ebb857100072fc187.m3u8

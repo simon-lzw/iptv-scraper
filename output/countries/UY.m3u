@@ -1,9 +1,12 @@
 #EXTM3U
 #PLAYLIST: 乌拉圭 (UY) IPTV 直播源
-#生成时间: 2026-10-23 18:05:47
-#频道数: 1
+#生成时间: 2026-10-24 06:52:24
+#频道数: 2
 
 # ===== 乌拉圭 (UY) =====
+
+#EXTINF:-1 tvg-id="TVUniversalUruguay.uy@SD" tvg-logo="https://i.imgur.com/KD4aZ7W.jpeg" group-title="乌拉圭",TV Universal Uruguay
+https://stream.universal.org.uy/hls/0/stream.m3u8
 
 #EXTINF:-1 tvg-id="UCL.uy@SD" tvg-logo="https://i.imgur.com/BzQphbw.png" group-title="乌拉圭",UCL (1080p)
 https://livedelta.cdn.antel.net.uy/out/u/url_canalu_2.m3u8?m=1670250741
