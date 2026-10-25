@@ -1,7 +1,7 @@
 #EXTM3U
 #PLAYLIST: 墨西哥 (MX) IPTV 直播源
-#生成时间: 2026-10-24 17:12:01
-#频道数: 54
+#生成时间: 2026-10-25 07:16:28
+#频道数: 55
 
 # ===== 墨西哥 (MX) =====
 
@@ -79,6 +79,9 @@ https://video.cdmx.gob.mx/redes/stream.m3u8
 
 #EXTINF:-1 tvg-id="ELatinAmerica.us@Mexico" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/E%21_Logo_2012.svg/500px-E%21_Logo_2012.svg.png" group-title="墨西哥",E! Latin America Mexico (720p)
 http://72.1.184.5:8089/play/a05d/index.m3u8
+
+#EXTINF:-1 tvg-id="ESPNLatinAmerica.us@Mexico" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/960px-ESPN_wordmark.svg.png" group-title="墨西哥",ESPN Latin America Mexico (1080p)
+http://168.228.44.241:9997/play/a06p/index.m3u8
 
 #EXTINF:-1 tvg-id="EstrellaTV.mx" tvg-logo="https://graph.facebook.com/EstrellaTV/picture?width=200&height=200" group-title="墨西哥",Estrella TV
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00567-estrellamedia-estrellatv-estrellamedia/playlist.m3u8

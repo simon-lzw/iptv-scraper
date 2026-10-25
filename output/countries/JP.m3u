@@ -1,6 +1,6 @@
 #EXTM3U
 #PLAYLIST: 日本 (JP) IPTV 直播源
-#生成时间: 2026-10-24 17:12:01
+#生成时间: 2026-10-25 07:16:28
 #频道数: 33
 
 # ===== 日本 (JP) =====
@@ -20,9 +20,6 @@ https://japaneast.av.mk.io/mediakindcdn-mediakind/ca01a143-f823-4432-b670-c22ff9
 #EXTINF:-1 tvg-id="rch_115" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/106_mbs.png" group-title="日本",MBSニュース
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-news5-cmaf-rakutenjp/playlist.m3u8
 
-#EXTINF:-1 tvg-id="NHKGeneralTV.jp@SD" tvg-logo="https://i.imgur.com/fAZ2BEZ.png" group-title="日本",NHK General TV (720p)
-https://nhk4.mov3.co/hls/nhk.m3u8
-
 #EXTINF:-1 tvg-id="NHKWorldJapan.jp" tvg-logo="https://i.imgur.com/Mhw1Ihk.png" group-title="日本",NHK WORLD JAPAN
 https://media-osa.hls.nhkworld.jp/hls/w/live/master.m3u8
 
@@ -34,6 +31,9 @@ https://masterpl.hls.nhkworld.jp/hls/w/live/smarttv.m3u8
 
 #EXTINF:-1 tvg-id="NHKWorldJapan.jp@HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/NHK_World_Japan.png" group-title="日本",NHK World-Japan HD (1080p)
 https://freem3u.xyz/api/live/play.m3u8?vid=106
+
+#EXTINF:-1 tvg-id="JOAKDTV.jp" tvg-logo="https://i.imgur.com/fAZ2BEZ.png" group-title="日本",NHK総合 (東京)
+https://nhk4.mov3.co/hls/nhk.m3u8
 
 #EXTINF:-1 tvg-id="NTV.kh@SD" tvg-logo="https://i.imgur.com/SoBhuIb.png" group-title="日本",NTV (Cambodia)
 http://43.252.18.195:5080/LiveApp/streams/ntvhd.m3u8

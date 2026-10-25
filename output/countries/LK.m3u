@@ -1,9 +1,12 @@
 #EXTM3U
 #PLAYLIST: 斯里兰卡 (LK) IPTV 直播源
-#生成时间: 2026-10-24 17:12:01
-#频道数: 3
+#生成时间: 2026-10-25 07:16:28
+#频道数: 4
 
 # ===== 斯里兰卡 (LK) =====
+
+#EXTINF:-1 tvg-id="AhasaTV.lk@SD" tvg-logo="https://ahasatv.lk/_next/image?url=%2Flogo.png&w=256&q=75" group-title="斯里兰卡",Ahasa TV (1080p)
+https://ahasatv.lk/live-stream/rewind-3600.m3u8
 
 #EXTINF:-1 tvg-id="HiruTV.lk@SD" tvg-logo="https://i.imgur.com/M66UqPB.png" group-title="斯里兰卡",Hiru TV (360p) [Not 24/7]
 https://tv.hiruhost.com:1936/8012/8012/playlist.m3u8
