@@ -1,7 +1,7 @@
 #EXTM3U
 #PLAYLIST: 德国 (DE) IPTV 直播源
-#生成时间: 2026-10-25 17:24:31
-#频道数: 175
+#生成时间: 2026-10-26 07:24:46
+#频道数: 176
 
 # ===== 德国 (DE) =====
 
@@ -76,6 +76,9 @@ https://daserste-live.ard-mcdn.de/daserste/live/hls/int/master.m3u8
 
 #EXTINF:-1 tvg-id="DisneyChannel.de@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/2022_Disney_Channel_logo.svg" group-title="德国",Disney Channel (Germany) (576p)
 https://s6.hopslan.com/disneyX/index.m3u8
+
+#EXTINF:-1 tvg-id="DisneyChannel.de@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/2022_Disney_Channel_logo.svg" group-title="德国",Disney Channel (Germany) HD
+http://109.85.181.77:9981/stream/channelid/652495718?profile=pass
 
 #EXTINF:-1 tvg-id="Dokusat.de@SD" tvg-logo="https://i.imgur.com/GadfTwF.png" group-title="德国",Dokusat (1080p)
 https://muc3.iptv-playoutcenter.de/dokusat/dokusat1/playlist.m3u8

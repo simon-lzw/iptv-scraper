@@ -1,7 +1,7 @@
 #EXTM3U
 #PLAYLIST: 印度 (IN) IPTV 直播源
-#生成时间: 2026-10-25 17:24:31
-#频道数: 410
+#生成时间: 2026-10-26 07:24:46
+#频道数: 411
 
 # ===== 印度 (IN) =====
 
@@ -37,6 +37,9 @@ https://d2l4ar6y3mrs4k.cloudfront.net/live-streaming/abpnews-livetv/master.m3u8
 
 #EXTINF:-1 tvg-id="AKDCalcuttaNews.in@SD" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Calcutta%20News.png" group-title="印度",AKD Calcutta News (1080p)
 https://live.legitpro.co.in/cnnnews/index.m3u8
+
+#EXTINF:-1 tvg-id="AMNTV.in@SD" tvg-logo="https://amntv.in/wp-content/uploads/2025/04/amntv-logo.png" group-title="印度",AMN TV (576p)
+https://live.onecloudlive.in/amn/amntv/index.m3u8
 
 #EXTINF:-1 tvg-id="ANBNews.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ANB_NEWS/images/LOGO_HD/image.png" group-title="印度",ANB News (720p)
 https://server.livelegitpro.in:9899/anbnews/anbnews/index.m3u8

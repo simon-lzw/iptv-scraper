@@ -1,6 +1,6 @@
 #EXTM3U
 #PLAYLIST: 中国大陆/香港/澳门/台湾 IPTV 直播源
-#生成时间: 2026-10-25 17:24:31
+#生成时间: 2026-10-26 07:24:46
 #频道数: 795
 
 # ===== 中国 (CN) =====
@@ -732,7 +732,7 @@ http://nklive.nbs.cn/hls/e0981f3f-1a20-4a59-b8d1-17feb83a4610/index.m3u8
 https://gcalic.v.myalicdn.com/gc/xwh01_1/index.m3u8
 
 #EXTINF:-1 tvg-id="南国都市" tvg-logo="https://tb.zbds.top/logo/南国都市.png" group-title="中国",南国都市
-http://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=140110ae3d6c936a77f94c4f4d85b0d3&txTime=18d57929bd4
+https://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=550af55c0ea34ce492748481415b6dfa&txTime=1903e7b17de
 
 #EXTINF:-1 tvg-id="南宁影视娱乐" tvg-logo="https://www.xn--rgv465a.top/tvlogo/南宁影视娱乐.png" group-title="中国",南宁影视娱乐
 http://hls.nntv.cn/nnlive/YSYL_244.m3u8
@@ -1919,6 +1919,9 @@ rtp://239.3.1.58:8156
 #EXTINF:-1 tvg-id="鉴证实录" tvg-logo="https://tb.zbds.top/logo/鉴证实录.png" group-title="中国",鉴证实录
 https://live.metshop.top/huya/23903183
 
+#EXTINF:-1 tvg-id="铜梁综合" tvg-logo="https://tb.zbds.top/logo/铜梁综合.png" group-title="中国",铜梁综合
+http://183.64.174.171:40123/ch1.m3u8?zzhongqd
+
 #EXTINF:-1 tvg-id="镇江新闻综合" tvg-logo="https://www.xn--rgv465a.top/tvlogo/镇江新闻综合.png" group-title="中国",镇江新闻综合
 https://live.chinacert.cftest5.cn/cnmg/live/639731783
 
@@ -1984,12 +1987,6 @@ http://stream9.jlntv.cn:80/aac_jygb/playlist.m3u8
 
 #EXTINF:-1 tvg-id="韩国EBS少儿" tvg-logo="https://tb.zbds.top/logo/韩国EBS少儿.png" group-title="中国",韩国EBS少儿
 http://ebsonairios.ebs.co.kr/ebsutablet500k/tablet500k/playlist.m3u8
-
-#EXTINF:-1 tvg-id="韩国电影1" tvg-logo="https://tb.zbds.top/logo/韩国电影1.png" group-title="中国",韩国电影1
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=595
-
-#EXTINF:-1 tvg-id="韩国电影2" tvg-logo="https://tb.zbds.top/logo/韩国电影2.png" group-title="中国",韩国电影2
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=743
 
 #EXTINF:-1 tvg-id="音乐欣赏" tvg-logo="https://tb.zbds.top/logo/音乐欣赏.png" group-title="中国",音乐欣赏
 http://61.221.215.25:8800/hls/49/index.m3u8
@@ -2215,6 +2212,9 @@ https://iptv.hiper25.com/TDM/video.m3u8
 
 #EXTINF:-1 tvg-id="AXNAsia.sg@Taiwan" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png" group-title="台湾",AXN Asia Taiwan (1080p)
 http://125.227.210.55:4050/VideoInput/play.ts
+
+#EXTINF:-1 tvg-id="AnimaxAsia.sg@Taiwan" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Animax.png/960px-Animax.png" group-title="台湾",Animax Asia Taiwan
+http://125.227.210.55:3056/VideoInput/play.ts
 
 #EXTINF:-1 tvg-id="BeautifulLifeTV.tw@SD" tvg-logo="https://i.imgur.com/hkwcBM9.png" group-title="台湾",Beautiful Life TV
 https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/playlist.m3u8

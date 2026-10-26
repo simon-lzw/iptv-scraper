@@ -1,12 +1,15 @@
 #EXTM3U
 #PLAYLIST: 台湾 (TW) IPTV 直播源
-#生成时间: 2026-10-25 17:24:31
-#频道数: 62
+#生成时间: 2026-10-26 07:24:46
+#频道数: 63
 
 # ===== 台湾 (TW) =====
 
 #EXTINF:-1 tvg-id="AXNAsia.sg@Taiwan" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png" group-title="台湾",AXN Asia Taiwan (1080p)
 http://125.227.210.55:4050/VideoInput/play.ts
+
+#EXTINF:-1 tvg-id="AnimaxAsia.sg@Taiwan" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Animax.png/960px-Animax.png" group-title="台湾",Animax Asia Taiwan
+http://125.227.210.55:3056/VideoInput/play.ts
 
 #EXTINF:-1 tvg-id="BeautifulLifeTV.tw@SD" tvg-logo="https://i.imgur.com/hkwcBM9.png" group-title="台湾",Beautiful Life TV
 https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/playlist.m3u8
