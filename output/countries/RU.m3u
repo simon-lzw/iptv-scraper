@@ -1,7 +1,7 @@
 #EXTM3U
 #PLAYLIST: 俄罗斯 (RU) IPTV 直播源
-#生成时间: 2026-10-26 19:44:32
-#频道数: 272
+#生成时间: 2026-10-27 07:17:35
+#频道数: 273
 
 # ===== 俄罗斯 (RU) =====
 
@@ -82,6 +82,9 @@ https://news.cgtn.com/resource/live/russian/cgtn-r.m3u8
 
 #EXTINF:-1 tvg-id="CGTNRussian.cn@SD" tvg-logo="https://i.imgur.com/nDWkCmL.png" group-title="俄罗斯",CGTN Russian (1080p)
 https://russian-livews.cgtn.com/hls/LSvexABhNipibK5KRuUkvHZ7220802LSTeze9o8tdFXMHsb1VosgoT220802cd/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CartoonClassics.ru@SD" tvg-logo="https://sales.planbkino.tv//b/c/471.png" group-title="俄罗斯",Cartoon Classics (Russia)
+http://88.218.242.237:8001/Cartoon_Classics
 
 #EXTINF:-1 tvg-id="Channel12.ru@SD" tvg-logo="https://i.imgur.com/OA9hm6e.png" group-title="俄罗斯",Channel 12 (1080p)
 https://12channel.bonus-tv.ru/cdn/12channel/playlist.m3u8
