@@ -1,7 +1,7 @@
 #EXTM3U
 #PLAYLIST: 阿根廷 (AR) IPTV 直播源
-#生成时间: 2026-10-27 19:13:09
-#频道数: 77
+#生成时间: 2026-10-28 07:55:07
+#频道数: 80
 
 # ===== 阿根廷 (AR) =====
 
@@ -116,6 +116,9 @@ https://livetrx01.vodgc.net/eltrecetv/index.m3u8
 #EXTINF:-1 tvg-id="Encuentro.ar" tvg-logo="https://i.imgur.com/IyP2UIx.png" group-title="阿根廷",Encuentro Ⓨ
 https://www.youtube.com/user/encuentro/live
 
+#EXTINF:-1 tvg-id="HTV.us@Argentina" tvg-logo="https://i.imgur.com/NlKFNHS.png" group-title="阿根廷",HTV Argentina (720p)
+http://45.134.141.161:2200/ARG/HTV/index.m3u8
+
 #EXTINF:-1 tvg-id="ItelTVCanal2.ar@SD" tvg-logo="https://i.imgur.com/OxmpRDx.png" group-title="阿根廷",Itel TV Canal 2
 https://proxystream.iteltv.com.ar/output/iteltv/playlist.m3u8
 
@@ -185,6 +188,9 @@ https://vd01.streaminghd.net.ar:3113/hybrid/play.m3u8
 #EXTINF:-1 tvg-id="TodoNoticias.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/TN_todo_noticias_logo.svg/250px-TN_todo_noticias_logo.svg.png" group-title="阿根廷",TN Todo Noticias
 https://www.youtube.com/c/todonoticias/live
 
+#EXTINF:-1 tvg-id="TNTLatinAmerica.us@Argentina" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/960px-TNT_Logo_2016.svg.png" group-title="阿根廷",TNT Latin America Argentina (1080p)
+http://45.134.141.161:2200/ARG/TNT/index.m3u8
+
 #EXTINF:-1 tvg-id="TVManaArgentina.ar@SD" tvg-logo="https://i.imgur.com/jars0mP.png" group-title="阿根廷",TV Mana Argentina (576p) [Not 24/7]
 https://w2.manasat.com/tvmana-ar/smil:tvmana-ar.smil/playlist.m3u8
 
@@ -223,6 +229,9 @@ http://www.coninfo.net:1935/previsoratv/live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TVPublica.ar" tvg-logo="https://i.imgur.com/4hYYpiu.png" group-title="阿根廷",Televisión Pública
 https://www.youtube.com/user/TVPublicaArgentina/live
+
+#EXTINF:-1 tvg-id="Tooncast.us@Argentina" tvg-logo="https://i.imgur.com/3yXRbQy.png" group-title="阿根廷",Tooncast Argentina (720p)
+http://45.134.141.161:2200/ARG/Tooncast/index.m3u8
 
 #EXTINF:-1 tvg-id="UrbanaTeve.ar" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQLeFMWMeoumi-o24ohLPXSEdNL5-oJ9W5oP5KnnA=s900-c-k-c0x00ffffff-no-rj" group-title="阿根廷",Urbana Tevé
 https://www.youtube.com/channel/UCTnbbQUGmWEKeCq9wWoyN0g/live

@@ -1,7 +1,7 @@
 #EXTM3U
 #PLAYLIST: 日本 (JP) IPTV 直播源
-#生成时间: 2026-10-27 19:13:09
-#频道数: 33
+#生成时间: 2026-10-28 07:55:07
+#频道数: 35
 
 # ===== 日本 (JP) =====
 
@@ -19,6 +19,9 @@ https://japaneast.av.mk.io/mediakindcdn-mediakind/ca01a143-f823-4432-b670-c22ff9
 
 #EXTINF:-1 tvg-id="rch_115" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/106_mbs.png" group-title="日本",MBSニュース
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-news5-cmaf-rakutenjp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="NHKGeneralTV.jp@JOJGDTV" tvg-logo="https://i.imgur.com/fAZ2BEZ.png" group-title="日本",NHK General TV JOJG-DTV (1080i)
+https://tv-stream-test.daydreamer-json.cc/fe8bf835820fb530467f75a9cb761504/master.m3u8
 
 #EXTINF:-1 tvg-id="NHKWorldJapan.jp" tvg-logo="https://i.imgur.com/Mhw1Ihk.png" group-title="日本",NHK WORLD JAPAN
 https://media-osa.hls.nhkworld.jp/hls/w/live/master.m3u8
@@ -48,7 +51,7 @@ https://sunplay-cdn.bitratelabs.com/live/local-channel/ntv-e3d4300b49c8c901e9339
 https://dogus.daioncdn.net/ntv/ntv.m3u8?app=ntv_web
 
 #EXTINF:-1 tvg-id="NTVLaw.ru@SD" tvg-logo="https://i.imgur.com/3ChnWGg.png" group-title="日本",NTV Law (576p)
-http://hls127.freeott.top:8080/NTV_PRAVO_TV/video.m3u8
+https://cdn.ntv.ru/th_pravo/playlist.m3u8
 
 #EXTINF:-1 tvg-id="NTVMir.ru@SD" tvg-logo="https://i.imgur.com/pUcV46F.png" group-title="日本",NTV Mir (576p)
 http://5.188.159.128:8070/ntvmir_TV/index.m3u8
@@ -57,7 +60,10 @@ http://5.188.159.128:8070/ntvmir_TV/index.m3u8
 http://stream.mcquack.net/301/index.m3u8
 
 #EXTINF:-1 tvg-id="NTVStyle.ru@SD" tvg-logo="https://i.imgur.com/rX6K6qT.png" group-title="日本",NTV Style (576p)
-http://hls127.freeott.top:8080/NTV_STIL_TV/video.m3u8
+https://cdn.ntv.ru/th_style/playlist.m3u8
+
+#EXTINF:-1 tvg-id="NTVSvoyaigra.ru@SD" tvg-logo="https://dictant.rgo.ru/sites/default/files/styles/fullscreen/public/logo3.png" group-title="日本",NTV Svoya igra (1080p)
+https://cdn-dvr.ntv.ru/th_svoya_igra/index.m3u8
 
 #EXTINF:-1 tvg-id="NTVTelugu.in@SD" tvg-logo="https://i.imgur.com/WqTIoWS.png" group-title="日本",NTV Telugu (1080p)
 https://mumbai-edge.smartplaytv.in/NTVTelugu/index.m3u8

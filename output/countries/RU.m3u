@@ -1,7 +1,7 @@
 #EXTM3U
 #PLAYLIST: 俄罗斯 (RU) IPTV 直播源
-#生成时间: 2026-10-27 19:13:09
-#频道数: 273
+#生成时间: 2026-10-28 07:55:07
+#频道数: 272
 
 # ===== 俄罗斯 (RU) =====
 
@@ -74,9 +74,6 @@ http://gohoski.fvds.ru:3000/mediabay/611/index.m3u8
 #EXTINF:-1 tvg-id="BollywoodHD.ro@Russia" tvg-logo="https://i.imgur.com/scDKOLS.png" group-title="俄罗斯",Bollywood HD Russia (576p)
 https://xykt-fix.github.io/cinerama_edge01/hls/BOLLYWOOD_RU/Movie009.m3u8
 
-#EXTINF:-1 tvg-id="Bolt.ru@SD" tvg-logo="https://i.imgur.com/YdIHXOR.png" group-title="俄罗斯",Bolt (Russia) (576p)
-http://hls127.freeott.top:8080/Bolt/video.m3u8
-
 #EXTINF:-1 tvg-id="CGTNRussian.cn" tvg-logo="https://i.imgur.com/fMsJYzl.png" group-title="俄罗斯",CGTN Pусский
 https://news.cgtn.com/resource/live/russian/cgtn-r.m3u8
 
@@ -135,7 +132,7 @@ http://stream.mcquack.net/176/index.m3u8
 http://stream.mcquack.net/192/index.m3u8
 
 #EXTINF:-1 tvg-id="FirstMusicChannelRussia.by@SD" tvg-logo="https://i.imgur.com/rEo7nR1.png" group-title="俄罗斯",First Music Channel Russia (1080p)
-http://hls127.freeott.top:8080/1muz_HD/video.m3u8
+http://rtmp.one.by:2300
 
 #EXTINF:-1 tvg-id="FoodNetwork.ru@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Food_Network_New_Logo.png/960px-Food_Network_New_Logo.png" group-title="俄罗斯",Food Network (Russia) (1080p)
 http://stream.mcquack.net/298/index.m3u8
@@ -267,7 +264,7 @@ https://live-nikatv.cdnvideo.ru/nikatv/nikatv.sdp/playlist.m3u8
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/nigniynovgorod/nigniynovgorod24-hd/index.m3u8
 
 #EXTINF:-1 tvg-id="Nostalgia.ru@SD" tvg-logo="https://i.imgur.com/YBdBc0J.png" group-title="俄罗斯",Nostalgia (Russia) (576p)
-http://hls127.freeott.top:8080/Nostalgiya/video.m3u8
+http://176.118.197.101/Nostalgiya/index.m3u8
 
 #EXTINF:-1 tvg-id="OSN.ru@SD" tvg-logo="https://www.osnmedia.ru/wp-content/uploads/2024/11/osn-logo-header.png" group-title="俄罗斯",OSN
 http://osnmedia.servicecdn.ru/streams/17603_88089/playlist.m3u8

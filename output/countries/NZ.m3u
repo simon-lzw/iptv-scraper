@@ -1,7 +1,7 @@
 #EXTM3U
 #PLAYLIST: 新西兰 (NZ) IPTV 直播源
-#生成时间: 2026-10-27 19:13:09
-#频道数: 13
+#生成时间: 2026-10-28 07:55:07
+#频道数: 14
 
 # ===== 新西兰 (NZ) =====
 
@@ -13,6 +13,9 @@ https://cdn.stmify.com/bbc/stream/BBC_THREE/hevc_iptv_mse_v0.mpd
 
 #EXTINF:-1 tvg-id="BBCThreeCBBC.uk@HD" tvg-logo="https://i.imgur.com/CGXC5fp.png" group-title="新西兰",BBC Three/CBBC (720p)
 http://193.46.58.239:8080/CBBCHD/index.m3u8
+
+#EXTINF:-1 tvg-id="HGTV.nz@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/HGTV_US_Logo_2015.svg/960px-HGTV_US_Logo_2015.svg.png" group-title="新西兰",HGTV (New Zealand) (1080p)
+https://mediapackage-sky-hgtv-source.fullscreen.nz/index.m3u8
 
 #EXTINF:-1 tvg-id="JuiceTV.nz@SD" tvg-logo="https://i.imgur.com/WaaaW0w.png" group-title="新西兰",Juice TV (1080p) [Not 24/7]
 https://juicex.nz/hls/mystream.m3u8

@@ -1,7 +1,7 @@
 #EXTM3U
 #PLAYLIST: 英国 (GB) IPTV 直播源
-#生成时间: 2026-10-27 19:13:09
-#频道数: 791
+#生成时间: 2026-10-28 07:55:07
+#频道数: 792
 
 # ===== 英国 (GB) =====
 
@@ -2059,6 +2059,9 @@ https://636ffd31f0e12.streamlock.net/RacingStream1/RacingStream1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="SkyRacing2.au@SD" tvg-logo="https://i.imgur.com/TxQvFnQ.png" group-title="英国",Sky Racing 2 (720p) [Geo-blocked]
 https://skylivetab-new.akamaized.net/hls/live/2038781/sky2/index.m3u8
+
+#EXTINF:-1 tvg-id="SkySports1.mx@SD" tvg-logo="https://i.imgur.com/9onSfMi.png" group-title="英国",Sky Sports 1 (1080p)
+http://45.228.234.9:8000/play/a06b/index.m3u8
 
 #EXTINF:-1 tvg-id="SmithsonianChannelPlutoTV.us@BR" tvg-logo="https://images.pluto.tv/channels/6298bd10d88ef000073f16b7/colorLogoPNG.png" group-title="英国",Smithsonian Channel Pluto TV
 https://jmp2.uk/plu-6298bd10d88ef000073f16b7.m3u8

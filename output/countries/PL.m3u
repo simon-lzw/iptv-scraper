@@ -1,6 +1,6 @@
 #EXTM3U
 #PLAYLIST: 波兰 (PL) IPTV 直播源
-#生成时间: 2026-10-27 19:13:09
+#生成时间: 2026-10-28 07:55:07
 #频道数: 91
 
 # ===== 波兰 (PL) =====
@@ -131,8 +131,8 @@ http://57.128.210.196:8080/195/index.m3u8
 #EXTINF:-1 tvg-id="PolsatSport3.pl@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Polsat_Sport_3_2024.svg/500px-Polsat_Sport_3_2024.svg.png" group-title="波兰",Polsat Sport 3 (1080p)
 http://57.128.210.196:8080/192/index.m3u8
 
-#EXTINF:-1 tvg-id="PolsatSportFight.pl@SD" tvg-logo="https://i.imgur.com/8x1FV3o.png" group-title="波兰",Polsat Sport Fight (1080p)
-http://57.128.210.196:8080/194/index.m3u8
+#EXTINF:-1 tvg-id="PolsatSportFight.pl@SD" tvg-logo="https://i.imgur.com/8x1FV3o.png" group-title="波兰",Polsat Sport Fight
+http://92.114.85.87:8016/play/a00b/index.m3u8
 
 #EXTINF:-1 tvg-id="PolsatViasatExplore.pl@SD" tvg-logo="https://i.imgur.com/gDlqO9h.png" group-title="波兰",Polsat Viasat Explore
 http://92.114.85.87:8014/play/a00g/index.m3u8
