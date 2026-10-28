@@ -1,7 +1,7 @@
 #EXTM3U
 #PLAYLIST: 法国 (FR) IPTV 直播源
-#生成时间: 2026-10-28 07:55:07
-#频道数: 78
+#生成时间: 2026-10-28 19:19:46
+#频道数: 79
 
 # ===== 法国 (FR) =====
 
@@ -13,6 +13,9 @@ https://www.youtube.com/c/Africanewsfr/live
 
 #EXTINF:-1 tvg-id="AfricanewsFrench.fr@SD" tvg-logo="https://i.imgur.com/5UxU4zc.png" group-title="法国",Africanews French (720p)
 https://cdn-euronews.akamaized.net/live/eds/africanews-fr/25050/index.m3u8
+
+#EXTINF:-1 tvg-logo="onnectTV.f" group-title="法国",Air Connect TV
+https://tv.airconnectradio.com/live.m3u8
 
 #EXTINF:-1 tvg-id="Arte1.br@SD" tvg-logo="https://i.imgur.com/Ivnk7A6.png" group-title="法国",Arte 1 (720p)
 http://45.162.64.114/ARTE1/index.m3u8
