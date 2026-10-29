@@ -1,7 +1,7 @@
 #EXTM3U
 #PLAYLIST: 希腊 (GR) IPTV 直播源
-#生成时间: 2026-10-28 19:19:46
-#频道数: 86
+#生成时间: 2026-10-29 08:00:57
+#频道数: 87
 
 # ===== 希腊 (GR) =====
 
@@ -250,6 +250,9 @@ https://av.hellasnet.tv/rst/trt/main_stream.m3u8
 
 #EXTINF:-1 tvg-id="TV100.gr" tvg-logo="https://i.imgur.com/9rtf8OR.png" group-title="希腊",TV 100
 https://panel.gwebstream.eu:19360/tv100skg/tv100skg.m3u8
+
+#EXTINF:-1 tvg-id="TV100.gr@SD" tvg-logo="https://i.imgur.com/OBH2DfE.png" group-title="希腊",TV 100 (Greece) (720p)
+https://gwebstream.net/hls/master.m3u8
 
 #EXTINF:-1 tvg-id="Telekriti.gr@SD" tvg-logo="https://telekriti.com/wp-content/uploads/2023/08/NEW-LOGO-7c-300x50.png" group-title="希腊",Telekriti (720p) [Not 24/7]
 https://neon.streams.gr:8081/telekriti/index.m3u8

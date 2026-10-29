@@ -1,7 +1,7 @@
 #EXTM3U
 #PLAYLIST: 俄罗斯 (RU) IPTV 直播源
-#生成时间: 2026-10-28 19:19:46
-#频道数: 272
+#生成时间: 2026-10-29 08:00:57
+#频道数: 273
 
 # ===== 俄罗斯 (RU) =====
 
@@ -130,6 +130,9 @@ http://stream.mcquack.net/176/index.m3u8
 
 #EXTINF:-1 tvg-id="Eurosport2.fr@Russia" tvg-logo="https://i.imgur.com/f56dHgR.png" group-title="俄罗斯",Eurosport 2 Russia (1080p)
 http://stream.mcquack.net/192/index.m3u8
+
+#EXTINF:-1 tvg-id="FashionTV.ru@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fashion_TV_logo.svg/960px-Fashion_TV_logo.svg.png" group-title="俄罗斯",FashionTV (Russia) (1080p)
+http://fashionlive.mediacdn.ru/cdn/fashiontv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="FirstMusicChannelRussia.by@SD" tvg-logo="https://i.imgur.com/rEo7nR1.png" group-title="俄罗斯",First Music Channel Russia (1080p)
 http://rtmp.one.by:2300

@@ -1,7 +1,7 @@
 #EXTM3U
 #PLAYLIST: 比利时 (BE) IPTV 直播源
-#生成时间: 2026-10-28 19:19:46
-#频道数: 22
+#生成时间: 2026-10-29 08:00:57
+#频道数: 23
 
 # ===== 比利时 (BE) =====
 
@@ -40,6 +40,9 @@ http://145.239.5.177/330/index.m3u8
 
 #EXTINF:-1 tvg-id="LaUne.be" tvg-logo="https://i.imgur.com/hJodwJt.png" group-title="比利时",La Une
 http://145.239.5.177/329/index.m3u8
+
+#EXTINF:-1 tvg-id="LaUne.be@SD" tvg-logo="https://i.imgur.com/jMwZp7z.png" group-title="比利时",La Une (1080p)
+http://41.205.93.154/LA-UNE/index.m3u8
 
 #EXTINF:-1 tvg-id="Matele.be@SD" tvg-logo="https://i.imgur.com/rw72POr.png" group-title="比利时",Matele (1080p) [Not 24/7]
 https://live.matele.be/hls/live.m3u8
