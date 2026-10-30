@@ -1,9 +1,12 @@
 #EXTM3U
 #PLAYLIST: 肯尼亚 (KE) IPTV 直播源
-#生成时间: 2026-10-29 19:25:13
-#频道数: 12
+#生成时间: 2026-10-30 08:03:30
+#频道数: 13
 
 # ===== 肯尼亚 (KE) =====
+
+#EXTINF:-1 tvg-id="BTLTV.ke@SD" tvg-logo="https://i.imgur.com/4r09woD.jpg" group-title="肯尼亚",BTL TV (Kenya) (720p) [Not 24/7]
+https://goliveafrica.media:9998/live/638da5440743c/index.m3u8
 
 #EXTINF:-1 tvg-id="CMTvKenya.ke@SD" tvg-logo="https://i.imgur.com/ewHBokK.jpg" group-title="肯尼亚",CMTv Kenya (576p) [Not 24/7]
 https://goliveafrica.media:9998/live/64ede813cfe1a/index.m3u8

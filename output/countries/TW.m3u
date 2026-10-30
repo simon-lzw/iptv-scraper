@@ -1,7 +1,7 @@
 #EXTM3U
 #PLAYLIST: 台湾 (TW) IPTV 直播源
-#生成时间: 2026-10-29 19:25:13
-#频道数: 63
+#生成时间: 2026-10-30 08:03:30
+#频道数: 64
 
 # ===== 台湾 (TW) =====
 
@@ -112,6 +112,9 @@ http://162.19.247.76:22222/live/taishi/index.m3u8
 
 #EXTINF:-1 tvg-id="TTV.tw" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/4/43/TTV_Home_Channel_with_HD_2016.png" group-title="台湾",TTV Main Channel (臺灣電視台) Ⓨ
 https://www.youtube.com/watch?v=uDqQo8a7Xmk
+
+#EXTINF:-1 tvg-id="TTVNews.tw@SD" tvg-logo="https://i.imgur.com/AfkK0gv.png" group-title="台湾",TTV News
+https://live.wcetv.com/hls/master-ttvnews.m3u8
 
 #EXTINF:-1 tvg-id="TTVNews.tw" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/3/3f/TTV_News_Channel_with_HD_2016.png" group-title="台湾",TTV News (台視新聞台)
 https://www.youtube.com/@TTV_NEWS/live
