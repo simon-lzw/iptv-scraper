@@ -53119,6 +53119,17 @@
     "is_active": true
   },
   {
+    "name": "万荣综合",
+    "url": "http://60.222.246.220:19433/hls1.m3u8",
+    "group": "地方频道",
+    "country_code": "ZZ",
+    "country_name_zh": "ZZ",
+    "ip_version": "ipv4",
+    "score": 0.0,
+    "source": "zhi35 aggregated",
+    "is_active": true
+  },
+  {
     "name": "三国演义",
     "url": "https://live.iill.top/huya/11602081",
     "group": "🏛经典剧场",
@@ -64746,17 +64757,6 @@
     "is_active": true
   },
   {
-    "name": "万荣综合",
-    "url": "http://60.222.246.220:19433/hls1.m3u8",
-    "group": "地方频道",
-    "country_code": "CN",
-    "country_name_zh": "中国",
-    "ip_version": "ipv4",
-    "score": 0.0,
-    "source": "vbskycn/iptv (ipv4)",
-    "is_active": true
-  },
-  {
     "name": "上海外语",
     "url": "http://t.061899.xyz/tl/tl.php?id=shics",
     "group": "☘️上海频道",
@@ -64864,17 +64864,6 @@
     "ip_version": "ipv6",
     "score": 0.0,
     "source": "fanmingming/live (ipv6)",
-    "is_active": true
-  },
-  {
-    "name": "东方卫视4K",
-    "url": "https://bp-resource-dfl.bestv.cn/148/3/video.m3u8",
-    "group": "卫视频道",
-    "country_code": "CN",
-    "country_name_zh": "中国",
-    "ip_version": "domain",
-    "score": 0.0,
-    "source": "vbskycn/iptv (ipv4)",
     "is_active": true
   },
   {
@@ -69787,6 +69776,28 @@
     "name": "韩国EBS少儿",
     "url": "http://ebsonairios.ebs.co.kr/ebsutablet500k/tablet500k/playlist.m3u8",
     "group": "儿童频道",
+    "country_code": "CN",
+    "country_name_zh": "中国",
+    "ip_version": "domain",
+    "score": 0.0,
+    "source": "vbskycn/iptv (ipv4)",
+    "is_active": true
+  },
+  {
+    "name": "韩国电影1",
+    "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=595",
+    "group": "电影频道",
+    "country_code": "CN",
+    "country_name_zh": "中国",
+    "ip_version": "domain",
+    "score": 0.0,
+    "source": "vbskycn/iptv (ipv4)",
+    "is_active": true
+  },
+  {
+    "name": "韩国电影2",
+    "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=743",
+    "group": "电影频道",
     "country_code": "CN",
     "country_name_zh": "中国",
     "ip_version": "domain",
