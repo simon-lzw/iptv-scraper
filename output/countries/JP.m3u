@@ -1,7 +1,7 @@
 #EXTM3U
 #PLAYLIST: 日本 (JP) IPTV 直播源
-#生成时间: 2026-10-30 18:59:16
-#频道数: 35
+#生成时间: 2026-10-31 07:59:27
+#频道数: 36
 
 # ===== 日本 (JP) =====
 
@@ -58,6 +58,9 @@ http://5.188.159.128:8070/ntvmir_TV/index.m3u8
 
 #EXTINF:-1 tvg-id="NTVSeries.ru@SD" tvg-logo="https://i.imgur.com/QdVa8tl.png" group-title="日本",NTV Series (576p)
 http://stream.mcquack.net/301/index.m3u8
+
+#EXTINF:-1 tvg-id="NTVSledstviyeveli.ru@SD" tvg-logo="https://image.tmdb.org/t/p/original/qGCnptpQ9slUAoZ7e5y1Dk4TtjJ.png" group-title="日本",NTV Sledstviye veli (1080p) [Geo-blocked]
+https://mhd116.iptv2022.com/x/t4hRFz1R89Q6kjp3CL3WVQ,1792610109/streaming/sledstvie_veli_hd/324/1/index.m3u8
 
 #EXTINF:-1 tvg-id="NTVStyle.ru@SD" tvg-logo="https://i.imgur.com/rX6K6qT.png" group-title="日本",NTV Style (576p)
 https://cdn.ntv.ru/th_style/playlist.m3u8
