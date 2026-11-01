@@ -1,7 +1,7 @@
 #EXTM3U
 #PLAYLIST: 阿根廷 (AR) IPTV 直播源
-#生成时间: 2026-10-31 18:10:08
-#频道数: 79
+#生成时间: 2026-11-01 08:41:40
+#频道数: 82
 
 # ===== 阿根廷 (AR) =====
 
@@ -110,6 +110,9 @@ http://45.226.28.9:8085/Live/18e292ea93b66c65c76707f07c489d61/local-canal9.playl
 #EXTINF:-1 tvg-id="ElTrece.ar" tvg-logo="https://i.imgur.com/ZK7AQFg.png" group-title="阿根廷",El Trece
 https://livetrx01.vodgc.net/eltrecetv/index.m3u8
 
+#EXTINF:-1 tvg-id="ElTreceInternacionalLatinAmerica.ar@SD" tvg-logo="https://i.imgur.com/Vo6prbh.png" group-title="阿根廷",El Trece Internacional Latin America
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/23.m3u8
+
 #EXTINF:-1 tvg-id="Encuentro.ar" tvg-logo="https://i.imgur.com/IyP2UIx.png" group-title="阿根廷",Encuentro Ⓨ
 https://www.youtube.com/user/encuentro/live
 
@@ -187,6 +190,12 @@ https://www.youtube.com/c/todonoticias/live
 
 #EXTINF:-1 tvg-id="TNTLatinAmerica.us@Argentina" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/960px-TNT_Logo_2016.svg.png" group-title="阿根廷",TNT Latin America Argentina (1080p)
 http://45.134.141.161:2200/ARG/TNT/index.m3u8
+
+#EXTINF:-1 tvg-id="TNTSports.ar@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/960px-TNT_Sports_2021_logo.svg.png" group-title="阿根廷",TNT Sports (Argentina)
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/86.m3u8
+
+#EXTINF:-1 tvg-id="TNTSports.ar@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/960px-TNT_Sports_2021_logo.svg.png" group-title="阿根廷",TNT Sports (Argentina) SD (576p)
+http://181.78.79.131:8000/play/a0mo
 
 #EXTINF:-1 tvg-id="TVManaArgentina.ar@SD" tvg-logo="https://i.imgur.com/jars0mP.png" group-title="阿根廷",TV Mana Argentina (576p) [Not 24/7]
 https://w2.manasat.com/tvmana-ar/smil:tvmana-ar.smil/playlist.m3u8

@@ -1,7 +1,7 @@
 #EXTM3U
 #PLAYLIST: 智利 (CL) IPTV 直播源
-#生成时间: 2026-10-31 18:10:08
-#频道数: 135
+#生成时间: 2026-11-01 08:41:40
+#频道数: 136
 
 # ===== 智利 (CL) =====
 
@@ -343,6 +343,9 @@ https://streaming.onnethn.com/TCM_HD/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TNE.cl@SD" tvg-logo="https://i.imgur.com/8QbvXva.png" group-title="智利",TNE (720p) [Not 24/7]
 https://v2.tustreaming.cl/tnetv/index.m3u8
+
+#EXTINF:-1 tvg-id="TNTSports.cl@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/960px-TNT_Sports_2021_logo.svg.png" group-title="智利",TNT Sports (Chile) (480p)
+http://209.45.101.130:8040/play/a03s/index.m3u8
 
 #EXTINF:-1 tvg-id="TVChile.cl" tvg-logo="https://i.imgur.com/yCL888l.png" group-title="智利",TV Chile
 https://mdstrm.com/live-stream-playlist/533adcc949386ce765657d7c.m3u8
