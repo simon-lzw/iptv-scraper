@@ -1595,7 +1595,7 @@
     "is_active": true
   },
   {
-    "name": "AS TV (900p)",
+    "name": "AS TV (Turkiye) (900p)",
     "url": "https://live.artidijitalmedya.com/artidijital_astv/astv/playlist.m3u8",
     "group": "News",
     "country_code": "ZZ",
@@ -10539,7 +10539,7 @@
   },
   {
     "name": "Cinemax Asia HD (1080p)",
-    "url": "http://125.227.210.55:1001/VideoInput/play.ts",
+    "url": "http://202.150.165.66:8088/play/104-Cinemax/index.m3u8",
     "group": "Movies",
     "country_code": "ZZ",
     "country_name_zh": "ZZ",
@@ -11025,6 +11025,17 @@
     "name": "Claro Vision TV (720p)",
     "url": "https://streamunoapp.com:3057/live/clarovisiontvlive.m3u8",
     "group": "Entertainment",
+    "country_code": "ZZ",
+    "country_name_zh": "ZZ",
+    "ip_version": "domain",
+    "score": 0.0,
+    "source": "iptv-org all streams",
+    "is_active": true
+  },
+  {
+    "name": "Class TV Moda (1080p)",
+    "url": "https://www.dailymotion.com/cdn/live/video/x98rt88.m3u8?sec=3FZxZQeceI08NWbQwAxAKdpdnH8gYPtFSg2hr2m8v11-0gQsz2FldP--C6DTACA-",
+    "group": "Lifestyle",
     "country_code": "ZZ",
     "country_name_zh": "ZZ",
     "ip_version": "domain",
@@ -28644,17 +28655,6 @@
     "is_active": true
   },
   {
-    "name": "Nash Kinomir (576p)",
-    "url": "http://hls127.freeott.top:8080/Nash_kinomir/video.m3u8",
-    "group": "Movies",
-    "country_code": "ZZ",
-    "country_name_zh": "ZZ",
-    "ip_version": "domain",
-    "score": 0.0,
-    "source": "iptv-org all streams",
-    "is_active": true
-  },
-  {
     "name": "Nash Kinopokaz HD (576p)",
     "url": "http://46.53.200.153:7777/play/SRT_Nash_kinopokaz/index.m3u8",
     "group": "Movies",
@@ -30583,17 +30583,6 @@
     "name": "Occidental TV",
     "url": "https://video.wilohosting.com:19360/occidentaltv/occidentaltv.m3u8",
     "group": "General",
-    "country_code": "ZZ",
-    "country_name_zh": "ZZ",
-    "ip_version": "domain",
-    "score": 0.0,
-    "source": "iptv-org all streams",
-    "is_active": true
-  },
-  {
-    "name": "Ocean-TV (576p)",
-    "url": "http://hls127.freeott.top:8080/Ocean_TV/video.m3u8",
-    "group": "Undefined",
     "country_code": "ZZ",
     "country_name_zh": "ZZ",
     "ip_version": "domain",
@@ -33991,7 +33980,7 @@
   },
   {
     "name": "RBK-TV (576p)",
-    "url": "http://hls127.freeott.top:8080/RBK/video.m3u8",
+    "url": "https://uiptv.do.am/1ufc/701293058/playlist.m3u8",
     "group": "Business",
     "country_code": "ZZ",
     "country_name_zh": "ZZ",
@@ -39127,17 +39116,6 @@
     "is_active": true
   },
   {
-    "name": "Shot TV (576p)",
-    "url": "http://hls127.freeott.top:8080/SHOT_TV/video.m3u8",
-    "group": "Movies",
-    "country_code": "ZZ",
-    "country_name_zh": "ZZ",
-    "ip_version": "domain",
-    "score": 0.0,
-    "source": "iptv-org all streams",
-    "is_active": true
-  },
-  {
     "name": "Show Turk (1080p)",
     "url": "https://raw.githubusercontent.com/bnyusuf67-crypto/streams/refs/heads/main/streams/shturk.m3u8",
     "group": "Undefined",
@@ -39899,6 +39877,17 @@
   {
     "name": "Sport (Uzbekistan)",
     "url": "https://stream8.cinerama.uz/1004/tracks-v1a1/mono.m3u8",
+    "group": "Sports",
+    "country_code": "ZZ",
+    "country_name_zh": "ZZ",
+    "ip_version": "domain",
+    "score": 0.0,
+    "source": "iptv-org all streams",
+    "is_active": true
+  },
+  {
+    "name": "Sport Total FM (576i)",
+    "url": "https://livesptfm.com/SPTFM/Live/playlist.m3u8",
     "group": "Sports",
     "country_code": "ZZ",
     "country_name_zh": "ZZ",
@@ -42307,11 +42296,11 @@
   },
   {
     "name": "TV Centr (576p)",
-    "url": "http://hls127.freeott.top:8080/Tv_Center/video.m3u8",
+    "url": "http://185.71.81.6:8080/10/index.m3u8",
     "group": "Undefined",
     "country_code": "ZZ",
     "country_name_zh": "ZZ",
-    "ip_version": "domain",
+    "ip_version": "ipv4",
     "score": 0.0,
     "source": "iptv-org all streams",
     "is_active": true
@@ -45145,11 +45134,11 @@
   },
   {
     "name": "Teatr (576p)",
-    "url": "http://hls127.freeott.top:8080/Teatr/video.m3u8",
+    "url": "http://31.148.48.15/Sochi_HD/index.m3u8",
     "group": "Culture",
     "country_code": "ZZ",
     "country_name_zh": "ZZ",
-    "ip_version": "domain",
+    "ip_version": "ipv4",
     "score": 0.0,
     "source": "iptv-org all streams",
     "is_active": true
@@ -47157,17 +47146,6 @@
     "is_active": true
   },
   {
-    "name": "Tigo Sports (Paraguay)",
-    "url": "http://45.134.141.161:2200/ARG/Tigo_Sports/tracks-v1a1/mono.m3u8",
-    "group": "Sports",
-    "country_code": "ZZ",
-    "country_name_zh": "ZZ",
-    "ip_version": "ipv4",
-    "score": 0.0,
-    "source": "iptv-org all streams",
-    "is_active": true
-  },
-  {
     "name": "Tiguerito TV (720p) [Not 24/7]",
     "url": "https://ss2.tvrdomi.com:1936/tigueritostv/tigueritostv/playlist.m3u8",
     "group": "Animation;Kids",
@@ -47421,6 +47399,17 @@
     "is_active": true
   },
   {
+    "name": "Tooncast (1080p)",
+    "url": "http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/69.m3u8",
+    "group": "Animation;Kids",
+    "country_code": "ZZ",
+    "country_name_zh": "ZZ",
+    "ip_version": "ipv4",
+    "score": 0.0,
+    "source": "iptv-org all streams",
+    "is_active": true
+  },
+  {
     "name": "Tooncast SouthAmerica (480p)",
     "url": "http://190.61.42.218:9000/play/a06i/index.m3u8",
     "group": "Animation;Kids",
@@ -47484,17 +47473,6 @@
     "ip_version": "domain",
     "score": 0.0,
     "source": "Free-TV/IPTV (global)",
-    "is_active": true
-  },
-  {
-    "name": "Top Secret (576p)",
-    "url": "http://hls127.freeott.top:8080/Sovershenno_Sekretno/video.m3u8",
-    "group": "Documentary",
-    "country_code": "ZZ",
-    "country_name_zh": "ZZ",
-    "ip_version": "domain",
-    "score": 0.0,
-    "source": "iptv-org all streams",
     "is_active": true
   },
   {
@@ -51293,17 +51271,6 @@
     "is_active": true
   },
   {
-    "name": "Xizang TV Tibetan (720p) [Not 24/7]",
-    "url": "http://php.jdshipin.com:8880/xztv.php?id=zy",
-    "group": "Undefined",
-    "country_code": "ZZ",
-    "country_name_zh": "ZZ",
-    "ip_version": "domain",
-    "score": 0.0,
-    "source": "iptv-org all streams",
-    "is_active": true
-  },
-  {
     "name": "XperTV (1080p)",
     "url": "http://45.163.139.42:8000/play/a02x/index.m3u8",
     "group": "Entertainment",
@@ -54109,17 +54076,6 @@
     "is_active": true
   },
   {
-    "name": "平遥新闻综合",
-    "url": "https://tntgjhjb.live.sxmty.com/live/hls/3a4585ac11ec4e1bb07b419101b370c3/baf63e2b313440c2a25d7859f9b73b05-1.m3u8?zshanxd",
-    "group": "地方频道",
-    "country_code": "ZZ",
-    "country_name_zh": "ZZ",
-    "ip_version": "domain",
-    "score": 0.0,
-    "source": "zhi35 aggregated",
-    "is_active": true
-  },
-  {
     "name": "广元公共",
     "url": "https://m3u8.channel.dzsm.com/nmip-media/channellive/channel101257/playlist.m3u8",
     "group": "☘️四川频道",
@@ -54623,17 +54579,6 @@
     "ip_version": "domain",
     "score": 0.0,
     "source": "Guovin/iptv-api (combined)",
-    "is_active": true
-  },
-  {
-    "name": "武进新闻",
-    "url": "https://live.wjyanghu.com/live/CH1.m3u8",
-    "group": "地方频道",
-    "country_code": "ZZ",
-    "country_name_zh": "ZZ",
-    "ip_version": "domain",
-    "score": 0.0,
-    "source": "zhi35 aggregated",
     "is_active": true
   },
   {
@@ -55866,17 +55811,6 @@
     "ip_version": "ipv4",
     "score": 0.0,
     "source": "Guovin/iptv-api (combined)",
-    "is_active": true
-  },
-  {
-    "name": "金川乡村",
-    "url": "http://live.jinchuanrmt.com:90/live/jcxc.m3u8?zsicd",
-    "group": "地方频道",
-    "country_code": "ZZ",
-    "country_name_zh": "ZZ",
-    "ip_version": "domain",
-    "score": 0.0,
-    "source": "zhi35 aggregated",
     "is_active": true
   },
   {
@@ -58957,28 +58891,6 @@
     "ip_version": "domain",
     "score": 0.0,
     "source": "Free-TV/IPTV (global)",
-    "is_active": true
-  },
-  {
-    "name": "FILMBOX+ Love & Crime Bulgaria (720p)",
-    "url": "http://hls127.freeott.top:8080/BG_FilmBox_Stars_HD/video.m3u8",
-    "group": "Movies",
-    "country_code": "BG",
-    "country_name_zh": "保加利亚",
-    "ip_version": "domain",
-    "score": 0.0,
-    "source": "iptv-org all streams",
-    "is_active": true
-  },
-  {
-    "name": "FILMBOX+ One Bulgaria (576p)",
-    "url": "http://hls127.freeott.top:8080/BG_Filmbox/video.m3u8",
-    "group": "Movies",
-    "country_code": "BG",
-    "country_name_zh": "保加利亚",
-    "ip_version": "domain",
-    "score": 0.0,
-    "source": "iptv-org all streams",
     "is_active": true
   },
   {
@@ -64856,6 +64768,17 @@
     "is_active": true
   },
   {
+    "name": "Xizang TV Tibetan",
+    "url": "https://live.vtibet.cn/live/ZYWS20261016.stream.m3u8",
+    "group": "Undefined",
+    "country_code": "CN",
+    "country_name_zh": "中国",
+    "ip_version": "domain",
+    "score": 0.0,
+    "source": "iptv-org all streams",
+    "is_active": true
+  },
+  {
     "name": "七台河新闻综合",
     "url": "http://live.qthnews.org.cn:1935/live/live1/800k/tzwj_video.m3u8",
     "group": "☘️黑龙江频道",
@@ -64875,6 +64798,17 @@
     "ip_version": "domain",
     "score": 0.0,
     "source": "Guovin/iptv-api (combined)",
+    "is_active": true
+  },
+  {
+    "name": "万荣综合",
+    "url": "http://60.222.246.220:19433/hls1.m3u8",
+    "group": "地方频道",
+    "country_code": "CN",
+    "country_name_zh": "中国",
+    "ip_version": "ipv4",
+    "score": 0.0,
+    "source": "vbskycn/iptv (ipv4)",
     "is_active": true
   },
   {
@@ -66913,6 +66847,17 @@
     "is_active": true
   },
   {
+    "name": "平遥新闻综合",
+    "url": "https://tntgjhjb.live.sxmty.com/live/hls/3a4585ac11ec4e1bb07b419101b370c3/baf63e2b313440c2a25d7859f9b73b05-1.m3u8?zshanxd",
+    "group": "地方频道",
+    "country_code": "CN",
+    "country_name_zh": "中国",
+    "ip_version": "domain",
+    "score": 0.0,
+    "source": "vbskycn/iptv (ipv4)",
+    "is_active": true
+  },
+  {
     "name": "广东体育",
     "url": "http://38.75.136.137:98/gslb/dsdqpub/gdty.m3u8?auth=testpub",
     "group": "☘️广东频道",
@@ -67683,6 +67628,17 @@
     "is_active": true
   },
   {
+    "name": "武进新闻",
+    "url": "https://live.wjyanghu.com/live/CH1.m3u8",
+    "group": "地方频道",
+    "country_code": "CN",
+    "country_name_zh": "中国",
+    "ip_version": "domain",
+    "score": 0.0,
+    "source": "vbskycn/iptv (ipv4)",
+    "is_active": true
+  },
+  {
     "name": "永城综合",
     "url": "http://tvpull.dxhmt.cn:9081/tv/11481-1.m3u8",
     "group": "☘️河南频道",
@@ -68416,7 +68372,7 @@
     "country_name_zh": "中国",
     "ip_version": "domain",
     "score": 0.0,
-    "source": "zhi35 aggregated",
+    "source": "vbskycn/iptv (ipv4)",
     "is_active": true
   },
   {
@@ -69124,6 +69080,193 @@
     "is_active": true
   },
   {
+    "name": "电影丧尸片",
+    "url": "http://live.metshop.top/huya/21059578?cdn=alicdn",
+    "group": "电影频道",
+    "country_code": "CN",
+    "country_name_zh": "中国",
+    "ip_version": "domain",
+    "score": 0.0,
+    "source": "vbskycn/iptv (ipv4)",
+    "is_active": true
+  },
+  {
+    "name": "电影八点档",
+    "url": "http://live.metshop.top/huya/880261?cdn=alicdn",
+    "group": "电影频道",
+    "country_code": "CN",
+    "country_name_zh": "中国",
+    "ip_version": "domain",
+    "score": 0.0,
+    "source": "vbskycn/iptv (ipv4)",
+    "is_active": true
+  },
+  {
+    "name": "电影刘德华",
+    "url": "http://live.metshop.top/huya/11342424?cdn=alicdn",
+    "group": "电影频道",
+    "country_code": "CN",
+    "country_name_zh": "中国",
+    "ip_version": "domain",
+    "score": 0.0,
+    "source": "vbskycn/iptv (ipv4)",
+    "is_active": true
+  },
+  {
+    "name": "电影功夫片",
+    "url": "http://live.metshop.top/huya/11352941?cdn=alicdn",
+    "group": "电影频道",
+    "country_code": "CN",
+    "country_name_zh": "中国",
+    "ip_version": "domain",
+    "score": 0.0,
+    "source": "vbskycn/iptv (ipv4)",
+    "is_active": true
+  },
+  {
+    "name": "电影动作电影",
+    "url": "http://live.metshop.top/huya/11602077?cdn=alicdn",
+    "group": "电影频道",
+    "country_code": "CN",
+    "country_name_zh": "中国",
+    "ip_version": "domain",
+    "score": 0.0,
+    "source": "vbskycn/iptv (ipv4)",
+    "is_active": true
+  },
+  {
+    "name": "电影周星星",
+    "url": "http://live.metshop.top/huya/11336587?cdn=alicdn",
+    "group": "电影频道",
+    "country_code": "CN",
+    "country_name_zh": "中国",
+    "ip_version": "domain",
+    "score": 0.0,
+    "source": "vbskycn/iptv (ipv4)",
+    "is_active": true
+  },
+  {
+    "name": "电影喜剧专场",
+    "url": "http://live.metshop.top/huya/11602044?cdn=alicdn",
+    "group": "电影频道",
+    "country_code": "CN",
+    "country_name_zh": "中国",
+    "ip_version": "domain",
+    "score": 0.0,
+    "source": "vbskycn/iptv (ipv4)",
+    "is_active": true
+  },
+  {
+    "name": "电影嫣然影厅",
+    "url": "http://live.metshop.top/huya/11601977?cdn=alicdn",
+    "group": "电影频道",
+    "country_code": "CN",
+    "country_name_zh": "中国",
+    "ip_version": "domain",
+    "score": 0.0,
+    "source": "vbskycn/iptv (ipv4)",
+    "is_active": true
+  },
+  {
+    "name": "电影战争片",
+    "url": "http://live.metshop.top/huya/21059574?cdn=alicdn",
+    "group": "电影频道",
+    "country_code": "CN",
+    "country_name_zh": "中国",
+    "ip_version": "domain",
+    "score": 0.0,
+    "source": "vbskycn/iptv (ipv4)",
+    "is_active": true
+  },
+  {
+    "name": "电影搞笑喜剧",
+    "url": "http://live.metshop.top/huya/11342423?cdn=alicdn",
+    "group": "电影频道",
+    "country_code": "CN",
+    "country_name_zh": "中国",
+    "ip_version": "domain",
+    "score": 0.0,
+    "source": "vbskycn/iptv (ipv4)",
+    "is_active": true
+  },
+  {
+    "name": "电影梁家辉",
+    "url": "http://live.metshop.top/huya/11342429?cdn=alicdn",
+    "group": "电影频道",
+    "country_code": "CN",
+    "country_name_zh": "中国",
+    "ip_version": "domain",
+    "score": 0.0,
+    "source": "vbskycn/iptv (ipv4)",
+    "is_active": true
+  },
+  {
+    "name": "电影犯罪片",
+    "url": "http://live.metshop.top/huya/11352974?cdn=alicdn",
+    "group": "电影频道",
+    "country_code": "CN",
+    "country_name_zh": "中国",
+    "ip_version": "domain",
+    "score": 0.0,
+    "source": "vbskycn/iptv (ipv4)",
+    "is_active": true
+  },
+  {
+    "name": "电影蜘蛛侠",
+    "url": "http://live.metshop.top/huya/21059599?cdn=alicdn",
+    "group": "电影频道",
+    "country_code": "CN",
+    "country_name_zh": "中国",
+    "ip_version": "domain",
+    "score": 0.0,
+    "source": "vbskycn/iptv (ipv4)",
+    "is_active": true
+  },
+  {
+    "name": "电影谍战",
+    "url": "http://live.metshop.top/huya/21059585?cdn=alicdn",
+    "group": "电影频道",
+    "country_code": "CN",
+    "country_name_zh": "中国",
+    "ip_version": "domain",
+    "score": 0.0,
+    "source": "vbskycn/iptv (ipv4)",
+    "is_active": true
+  },
+  {
+    "name": "电影谍战片",
+    "url": "http://live.metshop.top/huya/21059587?cdn=alicdn",
+    "group": "电影频道",
+    "country_code": "CN",
+    "country_name_zh": "中国",
+    "ip_version": "domain",
+    "score": 0.0,
+    "source": "vbskycn/iptv (ipv4)",
+    "is_active": true
+  },
+  {
+    "name": "电影贺岁",
+    "url": "http://live.metshop.top/huya/11601971?cdn=alicdn",
+    "group": "电影频道",
+    "country_code": "CN",
+    "country_name_zh": "中国",
+    "ip_version": "domain",
+    "score": 0.0,
+    "source": "vbskycn/iptv (ipv4)",
+    "is_active": true
+  },
+  {
+    "name": "电影高分动作",
+    "url": "http://live.metshop.top/huya/11352884?cdn=alicdn",
+    "group": "电影频道",
+    "country_code": "CN",
+    "country_name_zh": "中国",
+    "ip_version": "domain",
+    "score": 0.0,
+    "source": "vbskycn/iptv (ipv4)",
+    "is_active": true
+  },
+  {
     "name": "番禺综合",
     "url": "http://video.epaper.pybtv.cn:8080/live/rtmp_live_demo.flv",
     "group": "地方频道",
@@ -69159,6 +69302,17 @@
   {
     "name": "直播中国",
     "url": "https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001",
+    "group": "直播中国",
+    "country_code": "CN",
+    "country_name_zh": "中国",
+    "ip_version": "domain",
+    "score": 0.0,
+    "source": "vbskycn/iptv (ipv4)",
+    "is_active": true
+  },
+  {
+    "name": "直播中国精编直播",
+    "url": "https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8",
     "group": "直播中国",
     "country_code": "CN",
     "country_name_zh": "中国",
@@ -69993,6 +70147,17 @@
     "is_active": true
   },
   {
+    "name": "金川乡村",
+    "url": "http://live.jinchuanrmt.com:90/live/jcxc.m3u8?zsicd",
+    "group": "地方频道",
+    "country_code": "CN",
+    "country_name_zh": "中国",
+    "ip_version": "domain",
+    "score": 0.0,
+    "source": "vbskycn/iptv (ipv4)",
+    "is_active": true
+  },
+  {
     "name": "金庸武侠",
     "url": "https://live.metshop.top/huya/11342435",
     "group": "电影频道",
@@ -70067,17 +70232,6 @@
     "ip_version": "domain",
     "score": 0.0,
     "source": "Guovin/iptv-api (combined)",
-    "is_active": true
-  },
-  {
-    "name": "长子综合",
-    "url": "https://www.wxhcgbds.com:8081/channelTv/WXTV_1.m3u8?zshanxd",
-    "group": "地方频道",
-    "country_code": "CN",
-    "country_name_zh": "中国",
-    "ip_version": "domain",
-    "score": 0.0,
-    "source": "vbskycn/iptv (ipv4)",
     "is_active": true
   },
   {
@@ -70293,6 +70447,17 @@
     "name": "韩国EBS少儿",
     "url": "http://ebsonairios.ebs.co.kr/ebsutablet500k/tablet500k/playlist.m3u8",
     "group": "儿童频道",
+    "country_code": "CN",
+    "country_name_zh": "中国",
+    "ip_version": "domain",
+    "score": 0.0,
+    "source": "vbskycn/iptv (ipv4)",
+    "is_active": true
+  },
+  {
+    "name": "韩国电影1",
+    "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=595",
+    "group": "电影频道",
     "country_code": "CN",
     "country_name_zh": "中国",
     "ip_version": "domain",
@@ -71368,6 +71533,28 @@
     "is_active": true
   },
   {
+    "name": "Eurosport 1 Czechia",
+    "url": "http://88.212.7.14/live/test_esp1_hevc_tizen/playlist.m3u8",
+    "group": "Sports",
+    "country_code": "CZ",
+    "country_name_zh": "捷克",
+    "ip_version": "ipv4",
+    "score": 0.0,
+    "source": "iptv-org all streams",
+    "is_active": true
+  },
+  {
+    "name": "Eurosport 2 Czechia",
+    "url": "http://88.212.7.14/live/test_esp2_hevc_tizen/playlist.m3u8",
+    "group": "Sports",
+    "country_code": "CZ",
+    "country_name_zh": "捷克",
+    "ip_version": "ipv4",
+    "score": 0.0,
+    "source": "iptv-org all streams",
+    "is_active": true
+  },
+  {
     "name": "Food Network (Czech Republic)",
     "url": "http://88.212.15.50/live/test_food_network_atk_tv/playlist.m3u8",
     "group": "Undefined",
@@ -71473,6 +71660,28 @@
     "country_code": "CZ",
     "country_name_zh": "捷克",
     "ip_version": "domain",
+    "score": 0.0,
+    "source": "iptv-org all streams",
+    "is_active": true
+  },
+  {
+    "name": "Love Nature 4K Czechia",
+    "url": "http://88.212.15.50/live/test_love_nature_uhd_atktv/playlist.m3u8",
+    "group": "Outdoor",
+    "country_code": "CZ",
+    "country_name_zh": "捷克",
+    "ip_version": "ipv4",
+    "score": 0.0,
+    "source": "iptv-org all streams",
+    "is_active": true
+  },
+  {
+    "name": "Love Nature Czechia",
+    "url": "http://88.212.15.50/live/test_lovenature/playlist.m3u8",
+    "group": "Outdoor",
+    "country_code": "CZ",
+    "country_name_zh": "捷克",
+    "ip_version": "ipv4",
     "score": 0.0,
     "source": "iptv-org all streams",
     "is_active": true
@@ -71844,6 +72053,17 @@
     "name": "Travel Channel (Czech Republic)",
     "url": "http://88.212.15.50/live/test_travel_channel_hd_hevc/playlist.m3u8",
     "group": "Undefined",
+    "country_code": "CZ",
+    "country_name_zh": "捷克",
+    "ip_version": "ipv4",
+    "score": 0.0,
+    "source": "iptv-org all streams",
+    "is_active": true
+  },
+  {
+    "name": "Travelxp Czechia",
+    "url": "http://88.212.7.14/live/travel_xp/index.m3u8",
+    "group": "Travel",
     "country_code": "CZ",
     "country_name_zh": "捷克",
     "ip_version": "ipv4",
@@ -86416,17 +86636,6 @@
     "is_active": true
   },
   {
-    "name": "ERT Sports 1 (1080p)",
-    "url": "http://hbbtvapp.ert.gr/stream.php/v/vid_ertsports_mpeg.2ts",
-    "group": "Sports",
-    "country_code": "GR",
-    "country_name_zh": "希腊",
-    "ip_version": "domain",
-    "score": 0.0,
-    "source": "iptv-org all streams",
-    "is_active": true
-  },
-  {
     "name": "ERT Sports 2",
     "url": "https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERTSports2/default/index.mpd",
     "group": "Greece",
@@ -86435,17 +86644,6 @@
     "ip_version": "domain",
     "score": 0.0,
     "source": "Free-TV/IPTV (global)",
-    "is_active": true
-  },
-  {
-    "name": "ERT Sports 2 (1080p)",
-    "url": "http://hbbtvapp.ert.gr/stream.php/v/vid_ertplay2_mpeg.2ts",
-    "group": "Sports",
-    "country_code": "GR",
-    "country_name_zh": "希腊",
-    "ip_version": "domain",
-    "score": 0.0,
-    "source": "iptv-org all streams",
     "is_active": true
   },
   {
@@ -87337,6 +87535,17 @@
     "ip_version": "domain",
     "score": 0.0,
     "source": "zhi35 aggregated",
+    "is_active": true
+  },
+  {
+    "name": "ViuTV (1080i)",
+    "url": "http://php.jdshipin.com/TVOD/iptv.php?id=viutv",
+    "group": "Undefined",
+    "country_code": "HK",
+    "country_name_zh": "香港",
+    "ip_version": "domain",
+    "score": 0.0,
+    "source": "iptv-org Hong Kong",
     "is_active": true
   },
   {
@@ -105501,6 +105710,17 @@
     "is_active": true
   },
   {
+    "name": "Azteca Uno +1 (720p)",
+    "url": "https://azt-oo.otteravision.com/out/v1/da53d7d388be437e92bf8f464018eb48/index.m3u8",
+    "group": "General",
+    "country_code": "MX",
+    "country_name_zh": "墨西哥",
+    "ip_version": "domain",
+    "score": 0.0,
+    "source": "iptv-org all streams",
+    "is_active": true
+  },
+  {
     "name": "Canal 26 (Mexico) (1080p)",
     "url": "https://60417ddeaf0d9.streamlock.net/telemetrika3/smil:telemetrika3.smil/playlist.m3u8",
     "group": "Undefined",
@@ -109780,17 +110000,6 @@
     "is_active": true
   },
   {
-    "name": "Timeless Dizi Channel (Poland) (1080p)",
-    "url": "http://hls127.freeott.top:8080/BG_Dizi_HD/video.m3u8",
-    "group": "Undefined",
-    "country_code": "PL",
-    "country_name_zh": "波兰",
-    "ip_version": "domain",
-    "score": 0.0,
-    "source": "iptv-org all streams",
-    "is_active": true
-  },
-  {
     "name": "Travel Channel (Poland) (576i)",
     "url": "http://92.114.85.87:8011/play/a00d/index.m3u8",
     "group": "Travel",
@@ -110349,6 +110558,17 @@
     "ip_version": "domain",
     "score": 0.0,
     "source": "Free-TV/IPTV (global)",
+    "is_active": true
+  },
+  {
+    "name": "AS TV (Romania) (576p)",
+    "url": "https://s2.netstreaming.eu/astv.m3u8",
+    "group": "General",
+    "country_code": "RO",
+    "country_name_zh": "罗马尼亚",
+    "ip_version": "domain",
+    "score": 0.0,
+    "source": "iptv-org all streams",
     "is_active": true
   },
   {
@@ -111364,6 +111584,17 @@
     "is_active": true
   },
   {
+    "name": "Sens TV (576i)",
+    "url": "https://live.senstv.ro/live/senstv_1080p/chunklist.m3u8",
+    "group": "General",
+    "country_code": "RO",
+    "country_name_zh": "罗马尼亚",
+    "ip_version": "domain",
+    "score": 0.0,
+    "source": "iptv-org all streams",
+    "is_active": true
+  },
+  {
     "name": "Smart Radio (576p)",
     "url": "https://streamw.m.ro/Regie/radio.stream/chunklist.m3u8",
     "group": "Music",
@@ -112333,7 +112564,7 @@
   },
   {
     "name": "Eurosport 1 Russia (1080p)",
-    "url": "http://stream.mcquack.net/176/index.m3u8",
+    "url": "https://s7.iptv-24.net/1439/playlist.m3u8",
     "group": "Sports",
     "country_code": "RU",
     "country_name_zh": "俄罗斯",
@@ -112344,7 +112575,7 @@
   },
   {
     "name": "Eurosport 2 Russia (1080p)",
-    "url": "http://stream.mcquack.net/192/index.m3u8",
+    "url": "https://s7.iptv-24.net/1452/playlist.m3u8",
     "group": "Sports",
     "country_code": "RU",
     "country_name_zh": "俄罗斯",
@@ -118858,6 +119089,17 @@
     "name": "CTi Variety (720p)",
     "url": "http://23.237.10.66:16372",
     "group": "General",
+    "country_code": "TW",
+    "country_name_zh": "台湾",
+    "ip_version": "ipv4",
+    "score": 0.0,
+    "source": "iptv-org Taiwan",
+    "is_active": true
+  },
+  {
+    "name": "Cinemax Asia Taiwan (1080p)",
+    "url": "http://125.227.210.55:1001/VideoInput/play.ts",
+    "group": "Movies",
     "country_code": "TW",
     "country_name_zh": "台湾",
     "ip_version": "ipv4",
@@ -126321,6 +126563,17 @@
     "ip_version": "ipv4",
     "score": 0.0,
     "source": "iptv-org all streams",
+    "is_active": true
+  },
+  {
+    "name": "Disney Channel (United States) (720p)",
+    "url": "http://4.30.180.36:8420/disneychannel/index.m3u8?token=test",
+    "group": "Kids",
+    "country_code": "US",
+    "country_name_zh": "美国",
+    "ip_version": "ipv4",
+    "score": 0.0,
+    "source": "iptv-org United States",
     "is_active": true
   },
   {
@@ -136884,6 +137137,17 @@
     "is_active": true
   },
   {
+    "name": "TNT Novelas ColombiaHD (1080p)",
+    "url": "http://181.78.79.131:8000/play/a0na",
+    "group": "Series",
+    "country_code": "US",
+    "country_name_zh": "美国",
+    "ip_version": "ipv4",
+    "score": 0.0,
+    "source": "iptv-org all streams",
+    "is_active": true
+  },
+  {
     "name": "TNT Series Latin America (1080p)",
     "url": "http://168.196.127.137:6001/play/a095/index.m3u8",
     "group": "Series",
@@ -138375,17 +138639,6 @@
     "country_code": "US",
     "country_name_zh": "美国",
     "ip_version": "domain",
-    "score": 0.0,
-    "source": "iptv-org United States",
-    "is_active": true
-  },
-  {
-    "name": "Tooncast (1080p)",
-    "url": "http://38.134.250.110:8000/play/a01t/index.m3u8",
-    "group": "Animation;Kids",
-    "country_code": "US",
-    "country_name_zh": "美国",
-    "ip_version": "ipv4",
     "score": 0.0,
     "source": "iptv-org United States",
     "is_active": true

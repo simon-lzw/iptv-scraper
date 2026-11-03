@@ -1,7 +1,7 @@
 #EXTM3U
 #PLAYLIST: 台湾 (TW) IPTV 直播源
-#生成时间: 2026-11-02 22:35:28
-#频道数: 64
+#生成时间: 2026-11-03 09:00:08
+#频道数: 65
 
 # ===== 台湾 (TW) =====
 
@@ -28,6 +28,9 @@ https://www.youtube.com/watch?v=TCnaIE_SAtM
 
 #EXTINF:-1 tvg-id="CTiVariety.tw@SD" tvg-logo="https://i.imgur.com/tqsKObw.png" group-title="台湾",CTi Variety (720p)
 http://23.237.10.66:16372
+
+#EXTINF:-1 tvg-id="CinemaxAsia.sg@Taiwan" tvg-logo="https://i.imgur.com/c8crJfA.png" group-title="台湾",Cinemax Asia Taiwan (1080p)
+http://125.227.210.55:1001/VideoInput/play.ts
 
 #EXTINF:-1 tvg-id="CongressChannel1.tw" tvg-logo="https://i.imgur.com/0dVlvsz.png" group-title="台湾",Congress Channel 1
 https://www.youtube.com/watch?v=x6XVbD7Ln78
