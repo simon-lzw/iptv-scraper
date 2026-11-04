@@ -24695,17 +24695,6 @@
     "is_active": true
   },
   {
-    "name": "MCM Top (576p)",
-    "url": "http://46.32.176.50/mcmtop/index.m3u8",
-    "group": "Music",
-    "country_code": "ZZ",
-    "country_name_zh": "ZZ",
-    "ip_version": "ipv4",
-    "score": 0.0,
-    "source": "iptv-org all streams",
-    "is_active": true
-  },
-  {
     "name": "MCN Television (720p)",
     "url": "https://eu1.servers10.com:8081/8338/index.m3u8",
     "group": "Religious",
@@ -28284,17 +28273,6 @@
     "name": "NH (1080p)",
     "url": "https://takeoff.jetstre.am/?account=nhnieuws&file=live&output=playlist.m3u8&protocol=https&service=wowza&type=live",
     "group": "General;News",
-    "country_code": "ZZ",
-    "country_name_zh": "ZZ",
-    "ip_version": "domain",
-    "score": 0.0,
-    "source": "iptv-org all streams",
-    "is_active": true
-  },
-  {
-    "name": "NH BollyGold (1080p)",
-    "url": "https://0dc330e6408b4c3b9ac31fd37b121368.mediatailor.ap-south-1.amazonaws.com/v1/master/d367f9b863a7a04827f71ecab4cbeeb11f78a827/nh-bollygold-airtel/playlist.m3u8",
-    "group": "Movies",
     "country_code": "ZZ",
     "country_name_zh": "ZZ",
     "ip_version": "domain",
@@ -44715,6 +44693,17 @@
     "is_active": true
   },
   {
+    "name": "TVP2 HD",
+    "url": "https://srv7.flussonic111.com/PL_TVP2_HD/tracks-v1a1/mono.m3u8",
+    "group": "Undefined",
+    "country_code": "ZZ",
+    "country_name_zh": "ZZ",
+    "ip_version": "domain",
+    "score": 0.0,
+    "source": "iptv-org all streams",
+    "is_active": true
+  },
+  {
     "name": "TVPlus Suceava (576p)",
     "url": "http://85.186.22.140/testing/pl5/playlist/ram/playlist.m3u8",
     "group": "Undefined",
@@ -46576,6 +46565,17 @@
   {
     "name": "Television Publica (1080p)",
     "url": "http://190.128.214.97:64333/play/a008/index.m3u8",
+    "group": "General",
+    "country_code": "ZZ",
+    "country_name_zh": "ZZ",
+    "ip_version": "ipv4",
+    "score": 0.0,
+    "source": "iptv-org all streams",
+    "is_active": true
+  },
+  {
+    "name": "Television Tarapoto (1080p)",
+    "url": "http://45.5.57.58:8000/play/a038/index.m3u8",
     "group": "General",
     "country_code": "ZZ",
     "country_name_zh": "ZZ",
@@ -49063,17 +49063,6 @@
     "name": "V mire zhivotnykh (1080p)",
     "url": "http://stream.mcquack.net/241/index.m3u8",
     "group": "Undefined",
-    "country_code": "ZZ",
-    "country_name_zh": "ZZ",
-    "ip_version": "domain",
-    "score": 0.0,
-    "source": "iptv-org all streams",
-    "is_active": true
-  },
-  {
-    "name": "V2BEAT TV (720p) [Not 24/7]",
-    "url": "https://abr.de1se01.v2beat.live/playlist.m3u8",
-    "group": "Music",
     "country_code": "ZZ",
     "country_name_zh": "ZZ",
     "ip_version": "domain",
@@ -59334,6 +59323,17 @@
     "is_active": true
   },
   {
+    "name": "CineStar Action Bulgaria",
+    "url": "http://213.91.179.28:8000/play/a06b",
+    "group": "Movies",
+    "country_code": "BG",
+    "country_name_zh": "保加利亚",
+    "ip_version": "ipv4",
+    "score": 0.0,
+    "source": "iptv-org all streams",
+    "is_active": true
+  },
+  {
     "name": "City TV",
     "url": "https://tv.city.bg/play/tshls/citytv/index.m3u8",
     "group": "Bulgaria",
@@ -59472,6 +59472,17 @@
     "country_code": "BG",
     "country_name_zh": "保加利亚",
     "ip_version": "domain",
+    "score": 0.0,
+    "source": "iptv-org all streams",
+    "is_active": true
+  },
+  {
+    "name": "bTV (576p)",
+    "url": "http://85.11.189.178:8080/bTV/index.m3u8",
+    "group": "General",
+    "country_code": "BG",
+    "country_name_zh": "保加利亚",
+    "ip_version": "ipv4",
     "score": 0.0,
     "source": "iptv-org all streams",
     "is_active": true
@@ -64655,17 +64666,6 @@
     "ip_version": "ipv4",
     "score": 0.0,
     "source": "iptv-org all streams",
-    "is_active": true
-  },
-  {
-    "name": "CCTV4K",
-    "url": "http://vip1.xinketongxun.fun:8082/tsfile/live/1026_1.m3u8",
-    "group": "央视频道",
-    "country_code": "CN",
-    "country_name_zh": "中国",
-    "ip_version": "domain",
-    "score": 0.0,
-    "source": "vbskycn/iptv (ipv4)",
     "is_active": true
   },
   {
@@ -71874,6 +71874,17 @@
     "is_active": true
   },
   {
+    "name": "Travelxp 4K Czechia",
+    "url": "http://88.212.7.14/live/travel_xp_4k/index.m3u8",
+    "group": "Travel",
+    "country_code": "CZ",
+    "country_name_zh": "捷克",
+    "ip_version": "ipv4",
+    "score": 0.0,
+    "source": "iptv-org all streams",
+    "is_active": true
+  },
+  {
     "name": "Travelxp Czechia",
     "url": "http://88.212.7.14/live/travel_xp/index.m3u8",
     "group": "Travel",
@@ -76995,6 +77006,17 @@
     "country_code": "FR",
     "country_name_zh": "法国",
     "ip_version": "domain",
+    "score": 0.0,
+    "source": "iptv-org all streams",
+    "is_active": true
+  },
+  {
+    "name": "MCM Top (France)",
+    "url": "http://185.228.163.146:8000/play/a00g/index.m3u8",
+    "group": "Music",
+    "country_code": "FR",
+    "country_name_zh": "法国",
+    "ip_version": "ipv4",
     "score": 0.0,
     "source": "iptv-org all streams",
     "is_active": true
@@ -94248,17 +94270,6 @@
     "is_active": true
   },
   {
-    "name": "Star Movies (India) HD (1080p)",
-    "url": "http://103.151.60.162:2122/play/a02k/index.m3u8?hls",
-    "group": "Movies",
-    "country_code": "IN",
-    "country_name_zh": "印度",
-    "ip_version": "ipv4",
-    "score": 0.0,
-    "source": "iptv-org all streams",
-    "is_active": true
-  },
-  {
     "name": "Star Plus Televizija (1080p) [Not 24/7]",
     "url": "https://live.muzickatv.mk/live/StarMusic2.m3u8",
     "group": "Music",
@@ -108240,17 +108251,6 @@
     "is_active": true
   },
   {
-    "name": "Television Tarapoto (720p)",
-    "url": "https://live-evg11.tv360.bitel.com.pe/bitel/tvtarapotoSRT/playlist.m3u8",
-    "group": "General",
-    "country_code": "PE",
-    "country_name_zh": "秘鲁",
-    "ip_version": "domain",
-    "score": 0.0,
-    "source": "iptv-org all streams",
-    "is_active": true
-  },
-  {
     "name": "Teve Empresa (720p)",
     "url": "https://live-evg8.tv360.bitel.com.pe/bitel/tvempresaSRT/playlist.m3u8",
     "group": "General",
@@ -108675,17 +108675,6 @@
     "country_code": "PK",
     "country_name_zh": "巴基斯坦",
     "ip_version": "ipv4",
-    "score": 0.0,
-    "source": "iptv-org all streams",
-    "is_active": true
-  },
-  {
-    "name": "Asia Express NonStop (576i)",
-    "url": "https://live4dai.antenaplay.ro/live2_sport05/live2_sport05_600k.m3u8",
-    "group": "Entertainment",
-    "country_code": "PK",
-    "country_name_zh": "巴基斯坦",
-    "ip_version": "domain",
     "score": 0.0,
     "source": "iptv-org all streams",
     "is_active": true
@@ -109164,8 +109153,8 @@
     "is_active": true
   },
   {
-    "name": "Polsat (1080p) [Geo-blocked]",
-    "url": "https://cdn-s-playnow-live.pluscdn.pl/ch/1502600/308/dash/20a18c30/live.mpd",
+    "name": "Polsat",
+    "url": "https://srv7.flussonic111.com/PL_POLSAT_HD/tracks-v1a1/mono.m3u8",
     "group": "General",
     "country_code": "PL",
     "country_name_zh": "波兰",
@@ -109731,6 +109720,17 @@
     "country_code": "PL",
     "country_name_zh": "波兰",
     "ip_version": "ipv4",
+    "score": 0.0,
+    "source": "iptv-org all streams",
+    "is_active": true
+  },
+  {
+    "name": "TVP1 HD",
+    "url": "https://srv7.flussonic111.com/PL_TVP1_HD/tracks-v1a1/mono.m3u8",
+    "group": "Undefined",
+    "country_code": "PL",
+    "country_name_zh": "波兰",
+    "ip_version": "domain",
     "score": 0.0,
     "source": "iptv-org all streams",
     "is_active": true
@@ -110583,17 +110583,6 @@
     "is_active": true
   },
   {
-    "name": "AntenaPlay Events (576p) [Not 24/7]",
-    "url": "https://live4dai.antenaplay.ro/live2_sdi09/live2_sdi09_600k.m3u8",
-    "group": "Sports",
-    "country_code": "RO",
-    "country_name_zh": "罗马尼亚",
-    "ip_version": "domain",
-    "score": 0.0,
-    "source": "iptv-org all streams",
-    "is_active": true
-  },
-  {
     "name": "AntenaSport",
     "url": "https://stream1.antenaplay.ro/as/AS.ro/chunklist.m3u8",
     "group": "Sports",
@@ -110869,17 +110858,6 @@
     "is_active": true
   },
   {
-    "name": "Halloween Non Stop (720p)",
-    "url": "https://live4dai.antenaplay.ro/live2_srt/live2_srt.m3u8",
-    "group": "Movies",
-    "country_code": "RO",
-    "country_name_zh": "罗马尼亚",
-    "ip_version": "domain",
-    "score": 0.0,
-    "source": "iptv-org all streams",
-    "is_active": true
-  },
-  {
     "name": "Happy Channel",
     "url": "https://live4dai.antenaplay.ro/live2_aws4_sdi12/live2_aws4_sdi12_600k.m3u8",
     "group": "Entertainment",
@@ -110927,17 +110905,6 @@
     "name": "Informatia TV",
     "url": "https://informatia.streamnet.ro/mobile_tv/informatiatv.m3u8",
     "group": "News",
-    "country_code": "RO",
-    "country_name_zh": "罗马尼亚",
-    "ip_version": "domain",
-    "score": 0.0,
-    "source": "iptv-org all streams",
-    "is_active": true
-  },
-  {
-    "name": "Insula non stop (576i)",
-    "url": "https://live4dai.antenaplay.ro/live2_sdi05/live2_sdi05_600k.m3u8",
-    "group": "Entertainment",
     "country_code": "RO",
     "country_name_zh": "罗马尼亚",
     "ip_version": "domain",
@@ -111089,17 +111056,6 @@
     "is_active": true
   },
   {
-    "name": "NHL AntenaPlay",
-    "url": "https://live4dai.antenaplay.ro/live2_sdi03/live2_sdi03_600k.m3u8",
-    "group": "Sports",
-    "country_code": "RO",
-    "country_name_zh": "罗马尼亚",
-    "ip_version": "domain",
-    "score": 0.0,
-    "source": "iptv-org all streams",
-    "is_active": true
-  },
-  {
     "name": "National 24 Plus",
     "url": "https://hls01ns.antenaplay.ro/hls/n24-plus-sd/index.m3u8",
     "group": "General",
@@ -111216,6 +111172,17 @@
     "country_code": "RO",
     "country_name_zh": "罗马尼亚",
     "ip_version": "domain",
+    "score": 0.0,
+    "source": "iptv-org all streams",
+    "is_active": true
+  },
+  {
+    "name": "Prima TV (Romania)",
+    "url": "http://89.44.231.73:7000/primatv",
+    "group": "General",
+    "country_code": "RO",
+    "country_name_zh": "罗马尼亚",
+    "ip_version": "ipv4",
     "score": 0.0,
     "source": "iptv-org all streams",
     "is_active": true
@@ -112635,6 +112602,17 @@
     "country_code": "RU",
     "country_name_zh": "俄罗斯",
     "ip_version": "domain",
+    "score": 0.0,
+    "source": "iptv-org all streams",
+    "is_active": true
+  },
+  {
+    "name": "MCM Top (Russia) (576p)",
+    "url": "http://46.32.176.50/mcmtop/index.m3u8",
+    "group": "Music",
+    "country_code": "RU",
+    "country_name_zh": "俄罗斯",
+    "ip_version": "ipv4",
     "score": 0.0,
     "source": "iptv-org all streams",
     "is_active": true
@@ -127831,7 +127809,7 @@
     "is_active": true
   },
   {
-    "name": "Fox Sports 2 (United States) (720p)",
+    "name": "Fox Sports 2 (720p)",
     "url": "https://tvsen7.aynascope.net/foxsports2/index.m3u8",
     "group": "Sports",
     "country_code": "US",
@@ -138031,17 +138009,6 @@
     "name": "The Doctors (720p) [Geo-blocked]",
     "url": "https://lukentvlive.vgcdn.net/v1/master/cef183924f24adfa3d5d7601c3a17769082c0c2b/Doctors/index.m3u8",
     "group": "Series",
-    "country_code": "US",
-    "country_name_zh": "美国",
-    "ip_version": "domain",
-    "score": 0.0,
-    "source": "iptv-org United States",
-    "is_active": true
-  },
-  {
-    "name": "The Film Detective (720p)",
-    "url": "https://cinedigm-entertainment-corp-thefilmdetective-1-us.ono.wurl.tv/playlist.m3u8",
-    "group": "Movies",
     "country_code": "US",
     "country_name_zh": "美国",
     "ip_version": "domain",
