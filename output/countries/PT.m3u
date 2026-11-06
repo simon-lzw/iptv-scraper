@@ -1,7 +1,7 @@
 #EXTM3U
 #PLAYLIST: 葡萄牙 (PT) IPTV 直播源
-#生成时间: 2026-11-05 20:56:17
-#频道数: 31
+#生成时间: 2026-11-06 08:55:57
+#频道数: 32
 
 # ===== 葡萄牙 (PT) =====
 
@@ -22,6 +22,9 @@ https://janya-digimix.akamaized.net/vglive-sk-382409/portuese/ngrp:angelportugue
 
 #EXTINF:-1 tvg-id="CNNPortugal.pt" tvg-logo="https://i.imgur.com/NYH39xs.png" group-title="葡萄牙",CNN Portugal
 https://github.com/LITUATUI/M3UPT/raw/main/M3U/CNN_Portugal.m3u8
+
+#EXTINF:-1 tvg-id="CNNPortugal.pt@SD" tvg-logo="https://i.imgur.com/bc6tYVZ.png" group-title="葡萄牙",CNN Portugal (720p)
+https://github.com/thomraider12/canaistvpt/raw/main/m3u8s/cnnpt.m3u8
 
 #EXTINF:-1 tvg-id="DAZN3.uk@Portugal" tvg-logo="https://i.imgur.com/2rXsq2m.png" group-title="葡萄牙",DAZN 3 Portugal (720p)
 http://23.237.104.106:8080/DAZN_3/index.m3u8
