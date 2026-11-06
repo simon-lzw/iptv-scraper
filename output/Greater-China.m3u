@@ -1,7 +1,7 @@
 #EXTM3U
 #PLAYLIST: 中国大陆/香港/澳门/台湾 IPTV 直播源
-#生成时间: 2026-11-06 08:55:57
-#频道数: 683
+#生成时间: 2026-11-06 20:14:32
+#频道数: 707
 
 # ===== 中国 (CN) =====
 
@@ -67,6 +67,9 @@ https://alimov2.a.kwimgs.com/upic/2023/01/06/16/BMjAyMzAxMDYxNjMxMTRfNDAzMDAxOTl
 
 #EXTINF:-1 tvg-id="2024年春晚" tvg-logo="https://tb.zbds.top/logo/2024年春晚.png" group-title="中国",2024年春晚
 https://p2.bdstatic.com/rtmp.liveshow.lss-user.baidubce.com/live/stream_bduid_6488563992_8982723413/merged_1707497046297_88536_25144_41936.m3u8
+
+#EXTINF:-1 tvg-id="2025年春晚" tvg-logo="https://tb.zbds.top/logo/2025年春晚.png" group-title="中国",2025年春晚
+https://svip.high24-playback.com/20250129/17159_7bca93c4/2000k/hls/mixed.m3u8
 
 #EXTINF:-1 tvg-id="40" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/QiTa/BJIPTV_4KChaoQing.png" group-title="中国",4K超清
 rtp://239.3.1.249:8001
@@ -470,9 +473,6 @@ rtp://239.3.1.156:8148
 #EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/东方卫视.png" group-title="中国",东方卫视
 http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226898/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7E0uh4lyjjBCCN7TCq21vSIQ%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 
-#EXTINF:-1 tvg-id="东方卫视4K" tvg-logo="https://tb.zbds.top/logo/东方卫视4K.png" group-title="中国",东方卫视4K
-https://bp-resource-dfl.bestv.cn/148/3/video.m3u8
-
 #EXTINF:-1 tvg-id="45" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/WeiShi/DongFang.png" group-title="中国",东方卫视高清
 rtp://239.3.1.119:3006
 
@@ -569,6 +569,9 @@ https://jwcdnqx.hebyun.com.cn/live/rqtv2/1500k/tzwj_video.m3u8
 #EXTINF:-1 tvg-id="任丘综合" tvg-logo="https://www.xn--rgv465a.top/tvlogo/任丘综合.png" group-title="中国",任丘综合
 https://jwcdnqx.hebyun.com.cn/live/rqtv1/1500k/tzwj_video.m3u8
 
+#EXTINF:-1 tvg-id="倚天屠龙记" tvg-logo="https://tb.zbds.top/logo/倚天屠龙记.png" group-title="中国",倚天屠龙记
+https://live.metshop.top/huya/23734246
+
 #EXTINF:-1 tvg-id="倩女幽魂人间道" tvg-logo="https://tb.zbds.top/logo/倩女幽魂人间道.png" group-title="中国",倩女幽魂人间道
 http://jsmov2.a.yximgs.com/bs3/video-hls/5250634317044855747_hlsb.m3u8
 
@@ -638,6 +641,18 @@ http://tvpull.dxhmt.cn:9081/tv/10527-1.m3u8?wsSecret=df15530a0abec41b14bca00fc96
 #EXTINF:-1 tvg-id="352" group-title="中国",军旅剧场
 rtp://239.3.1.68:4120
 
+#EXTINF:-1 tvg-id="刑事侦缉档案" tvg-logo="https://tb.zbds.top/logo/刑事侦缉档案.png" group-title="中国",刑事侦缉档案
+https://live.metshop.top/huya/29465856
+
+#EXTINF:-1 tvg-id="刘德华电影" tvg-logo="https://tb.zbds.top/logo/刘德华电影.png" group-title="中国",刘德华电影
+https://live.metshop.top/huya/11342424
+
+#EXTINF:-1 tvg-id="创世纪" tvg-logo="https://tb.zbds.top/logo/创世纪.png" group-title="中国",创世纪
+https://live.metshop.top/huya/29465852
+
+#EXTINF:-1 tvg-id="功夫电影" tvg-logo="https://tb.zbds.top/logo/功夫电影.png" group-title="中国",功夫电影
+https://live.metshop.top/huya/11352941
+
 #EXTINF:-1 tvg-id="376" group-title="中国",动作影院
 rtp://239.3.1.92:4120
 
@@ -677,6 +692,9 @@ http://live.qthnews.org.cn:1935/live/live2/800k/tzwj_video.m3u8
 #EXTINF:-1 tvg-id="古县综合" tvg-logo="https://tb.zbds.top/logo/古县综合.png" group-title="中国",古县综合
 https://l2fpdktp.live.sxmty.com/live/hls/e4c3b363cc4549788e2d983f403e07db/d99ce1eb686e41b9afc888110bd95aa7.m3u8?zshanxd
 
+#EXTINF:-1 tvg-id="古天乐电影" tvg-logo="https://tb.zbds.top/logo/古天乐电影.png" group-title="中国",古天乐电影
+https://live.metshop.top/huya/29982675
+
 #EXTINF:-1 tvg-id="353" group-title="中国",古装剧场
 rtp://239.3.1.69:4120
 
@@ -703,6 +721,9 @@ http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221
 
 #EXTINF:-1 tvg-id="78" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/WeiShi/JiLin.png" group-title="中国",吉林卫视高清
 rtp://239.3.1.240:8172
+
+#EXTINF:-1 tvg-id="周星驰电影" tvg-logo="https://tb.zbds.top/logo/周星驰电影.png" group-title="中国",周星驰电影
+https://live.metshop.top/huya/11342412
 
 #EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/呼和浩特新闻综合.png" group-title="中国",呼和浩特新闻综合
 https://livestream-bt.nmtv.cn/nmtv/2331general.m3u8?txSecret=4d7342ca5cd74480526ab6d292247aff&txTime=771E8800
@@ -758,8 +779,14 @@ http://tvpull.dxhmt.cn:9081/tv/11525-1.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1
 #EXTINF:-1 tvg-id="351" group-title="中国",城市剧场
 rtp://239.3.1.67:4120
 
+#EXTINF:-1 tvg-id="大唐双龙传" tvg-logo="https://tb.zbds.top/logo/大唐双龙传.png" group-title="中国",大唐双龙传
+https://live.metshop.top/huya/29465850
+
 #EXTINF:-1 tvg-id="大宁综合" tvg-logo="https://tb.zbds.top/logo/大宁综合.png" group-title="中国",大宁综合
 http://live.daningtv.com/aac_dngb/playlist.m3u8
+
+#EXTINF:-1 tvg-id="大时代" tvg-logo="https://tb.zbds.top/logo/大时代.png" group-title="中国",大时代
+https://live.metshop.top/huya/23865161
 
 #EXTINF:-1 tvg-id="天津体育" tvg-logo="https://www.xn--rgv465a.top/tvlogo/天津体育.png" group-title="中国",天津体育
 http://63.141.230.178:82/gslb/zbdq5.m3u8?id=tjtv5
@@ -779,6 +806,9 @@ http://tvfile.jjrm.org.cn/nmip-media/channellive/channel106282/playlist.m3u8?zsi
 #EXTINF:-1 tvg-id="奎屯哈萨克语" tvg-logo="https://tb.zbds.top/logo/奎屯哈萨克语.png" group-title="中国",奎屯哈萨克语
 http://218.84.12.186:8002/hls/main/playlist.m3u8?zxinjd
 
+#EXTINF:-1 tvg-id="妙手仁心" tvg-logo="https://tb.zbds.top/logo/妙手仁心.png" group-title="中国",妙手仁心
+https://live.metshop.top/huya/29465853
+
 #EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/宁夏卫视.png" group-title="中国",宁夏卫视
 http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227003/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7ESco1zinvdUYzleEkXYhIvA%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 
@@ -787,6 +817,9 @@ rtp://239.3.1.169:8212
 
 #EXTINF:-1 tvg-id="宁夏经济" tvg-logo="https://www.xn--rgv465a.top/tvlogo/宁夏经济.png" group-title="中国",宁夏经济
 https://ls.qingting.fm/live/1841/64k.m3u8
+
+#EXTINF:-1 tvg-id="宇宙科幻合集" tvg-logo="https://tb.zbds.top/logo/宇宙科幻合集.png" group-title="中国",宇宙科幻合集
+https://live.metshop.top/huya/11342428
 
 #EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/安徽卫视.png" group-title="中国",安徽卫视
 http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226943/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7E0QmKQ_slRCwvVVUUfxPVbw%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
@@ -832,6 +865,9 @@ rtp://239.3.1.93:4120
 
 #EXTINF:-1 tvg-id="寒战" tvg-logo="https://tb.zbds.top/logo/寒战.png" group-title="中国",寒战
 https://vip.ffzy-play6.com/20221019/157_bf0740ee/index.m3u8
+
+#EXTINF:-1 tvg-id="寻秦记" tvg-logo="https://tb.zbds.top/logo/寻秦记.png" group-title="中国",寻秦记
+https://live.metshop.top/huya/29465848
 
 #EXTINF:-1 tvg-id="207" group-title="中国",少儿动画
 rtp://239.3.1.199:9000
@@ -947,6 +983,9 @@ http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221
 #EXTINF:-1 tvg-id="开封文化旅游" tvg-logo="https://www.xn--rgv465a.top/tvlogo/开封文化旅游.png" group-title="中国",开封文化旅游
 http://tvpull.dxhmt.cn:9081/tv/10200-3.m3u8?zhend
 
+#EXTINF:-1 tvg-id="强森电影" tvg-logo="https://tb.zbds.top/logo/强森电影.png" group-title="中国",强森电影
+https://live.metshop.top/huya/21059581
+
 #EXTINF:-1 tvg-id="徐州新闻综合" tvg-logo="https://www.xn--rgv465a.top/tvlogo/徐州新聞綜合.png" group-title="中国",徐州新聞綜合
 https://live.chinacert.cftest5.cn/cnmg/live/639731747
 
@@ -956,8 +995,20 @@ http://stream11.jlntv.cn/dehuitv/sd/live.m3u8
 #EXTINF:-1 tvg-id="怀仁综合" tvg-logo="https://tb.zbds.top/logo/怀仁综合.png" group-title="中国",怀仁综合
 https://1yp7hc5p.live.sxmty.com/live/hls/bff8529922344209985b6e49baa9555a/efa2543628fc4a7ea93d3d6c975f77dc-1.m3u8
 
+#EXTINF:-1 tvg-id="怪兽电影" tvg-logo="https://tb.zbds.top/logo/怪兽电影.png" group-title="中国",怪兽电影
+https://live.metshop.top/huya/21059577
+
+#EXTINF:-1 tvg-id="成龙电影" tvg-logo="https://tb.zbds.top/logo/成龙电影.png" group-title="中国",成龙电影
+https://live.metshop.top/huya/11342386
+
 #EXTINF:-1 tvg-id="我不是药神" tvg-logo="https://tb.zbds.top/logo/我不是药神.png" group-title="中国",我不是药神
 https://vip.ffzy-play1.com/20221018/478_c3afed66/index.m3u8
+
+#EXTINF:-1 tvg-id="战争电影" tvg-logo="https://tb.zbds.top/logo/战争电影.png" group-title="中国",战争电影
+https://live.metshop.top/huya/21059574
+
+#EXTINF:-1 tvg-id="扫黄先锋" tvg-logo="https://tb.zbds.top/logo/扫黄先锋.png" group-title="中国",扫黄先锋
+https://live.metshop.top/huya/29465855
 
 #EXTINF:-1 tvg-id="扶沟综合" tvg-logo="https://www.xn--rgv465a.top/tvlogo/扶沟综合.png" group-title="中国",扶沟综合
 http://tvpull.dxhmt.cn:9081/tv/11621-1.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
@@ -1028,8 +1079,17 @@ http://stream.jinjiang.tv/1/sd/live.m3u8?zfud
 #EXTINF:-1 tvg-id="朝天综合" tvg-logo="https://tb.zbds.top/logo/朝天综合.png" group-title="中国",朝天综合
 https://m3u8.channel.dzsm.com/nmip-media/channellive/channel104601/playlist.m3u8
 
+#EXTINF:-1 tvg-id="李连杰电影" tvg-logo="https://tb.zbds.top/logo/李连杰电影.png" group-title="中国",李连杰电影
+https://live.metshop.top/huya/11342390
+
 #EXTINF:-1 tvg-id="来宾综合" tvg-logo="https://tb.zbds.top/logo/来宾综合.png" group-title="中国",来宾综合
 http://zb.gxlbamc.com:1935/live/lbzh.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="林正英电影" tvg-logo="https://tb.zbds.top/logo/林正英电影.png" group-title="中国",林正英电影
+https://live.metshop.top/huya/11342421
+
+#EXTINF:-1 tvg-id="枪战电影" tvg-logo="https://tb.zbds.top/logo/枪战电影.png" group-title="中国",枪战电影
+https://live.metshop.top/huya/21059579
 
 #EXTINF:-1 tvg-id="柳河综合" tvg-logo="https://tb.zbds.top/logo/柳河综合.png" group-title="中国",柳河综合
 http://stream3.jlntv.cn:80/aac_lhgb/sd/live.m3u8
@@ -1043,8 +1103,14 @@ http://stream9.jlntv.cn:80/aac_huadiangb/playlist.m3u8
 #EXTINF:-1 tvg-id="梅河口综合" tvg-logo="https://tb.zbds.top/logo/梅河口综合.png" group-title="中国",梅河口综合
 http://stream3.jlntv.cn:80/aac_mhkgb/playlist.m3u8
 
+#EXTINF:-1 tvg-id="楚汉骄雄" tvg-logo="https://tb.zbds.top/logo/楚汉骄雄.png" group-title="中国",楚汉骄雄
+https://live.metshop.top/huya/29465854
+
 #EXTINF:-1 tvg-id="374" group-title="中国",武侠剧场
 rtp://239.3.1.90:4120
+
+#EXTINF:-1 tvg-id="武侠电影" tvg-logo="https://tb.zbds.top/logo/武侠电影.png" group-title="中国",武侠电影
+https://live.metshop.top/huya/11342427
 
 #EXTINF:-1 tvg-id="武清综合" tvg-logo="https://www.xn--rgv465a.top/tvlogo/武清综合.png" group-title="中国",武清综合
 https://tvpull.smartwq.cn/wqlive/convergencemedia/playlist.m3u8?ztianjd
@@ -1130,11 +1196,20 @@ http://1.94.31.214/php/hntv.php?id=hnds
 #EXTINF:-1 tvg-id="泌阳新闻综合" tvg-logo="https://www.xn--rgv465a.top/tvlogo/泌阳新闻综合.png" group-title="中国",泌阳新闻综合
 http://tvpull.dxhmt.cn:9081/tv/11726-1.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
 
+#EXTINF:-1 tvg-id="法政先锋" tvg-logo="https://tb.zbds.top/logo/法政先锋.png" group-title="中国",法政先锋
+https://live.metshop.top/huya/23863804
+
 #EXTINF:-1 tvg-id="泸县新闻综合" tvg-logo="https://www.xn--rgv465a.top/tvlogo/泸县新闻综合.png" group-title="中国",泸县新闻综合
 http://lxfile.lxxcb.cn/nmip-media/channellive/channel103799/playlist.m3u8
 
+#EXTINF:-1 tvg-id="洗冤录" tvg-logo="https://tb.zbds.top/logo/洗冤录.png" group-title="中国",洗冤录
+https://live.metshop.top/huya/29465851
+
 #EXTINF:-1 tvg-id="津南一套" tvg-logo="https://tb.zbds.top/logo/津南一套.png" group-title="中国",津南一套
 http://play.jinnantv.top/live/JNTV1.m3u8?ztianjd
+
+#EXTINF:-1 tvg-id="活佛济公3" tvg-logo="https://tb.zbds.top/logo/活佛济公3.png" group-title="中国",活佛济公3
+https://live.metshop.top/huya/23903123
 
 #EXTINF:-1 tvg-id="济源电视一套" tvg-logo="https://www.xn--rgv465a.top/tvlogo/济源电视一套.png" group-title="中国",济源电视一套
 http://tvpull.dxhmt.cn:9081/tv/19001-1.m3u8
@@ -1346,6 +1421,15 @@ rtp://239.3.1.194:9020
 #EXTINF:-1 tvg-id="401" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/QiTa/AiShang4K.png" group-title="中国",爱上4K
 rtp://239.3.1.236:2000
 
+#EXTINF:-1 tvg-id="狄仁杰电影" tvg-logo="https://tb.zbds.top/logo/狄仁杰电影.png" group-title="中国",狄仁杰电影
+https://live.metshop.top/huya/30080229
+
+#EXTINF:-1 tvg-id="玄幻电影" tvg-logo="https://tb.zbds.top/logo/玄幻电影.png" group-title="中国",玄幻电影
+https://live.metshop.top/huya/11342414
+
+#EXTINF:-1 tvg-id="王晶电影" tvg-logo="https://tb.zbds.top/logo/王晶电影.png" group-title="中国",王晶电影
+https://live.metshop.top/huya/11602058
+
 #EXTINF:-1 tvg-id="玛纳斯综合" tvg-logo="https://tb.zbds.top/logo/玛纳斯综合.png" group-title="中国",玛纳斯综合
 http://218.84.127.245:1026/hls/main1/playlist.m3u8?zxinjd,
 
@@ -1354,6 +1438,9 @@ rtp://239.3.1.109:8001
 
 #EXTINF:-1 tvg-id="璧山综合" tvg-logo="https://tb.zbds.top/logo/璧山综合.png" group-title="中国",璧山综合
 http://222.179.42.129:8181/hls1.m3u8
+
+#EXTINF:-1 tvg-id="甄子丹电影" tvg-logo="https://tb.zbds.top/logo/甄子丹电影.png" group-title="中国",甄子丹电影
+https://live.metshop.top/huya/11352935
 
 #EXTINF:-1 tvg-id="甘南县综合" tvg-logo="https://tb.zbds.top/logo/甘南县综合.png" group-title="中国",甘南县综合
 https://stream.hrbtv.net/zxpd/sd/live.m3u8
@@ -1378,51 +1465,6 @@ https://satellitepull.cnr.cn/live/wxgshhzs/playlist.m3u8
 
 #EXTINF:-1 tvg-id="甘肃都市" tvg-logo="https://www.xn--rgv465a.top/tvlogo/甘肃都市.png" group-title="中国",甘肃都市
 https://satellitepull.cnr.cn/live/wxgsdstb/playlist.m3u8
-
-#EXTINF:-1 tvg-id="1" tvg-logo="https://tb.zbds.top/logo/电影八点档.png" group-title="中国",电影八点档
-http://live.metshop.top/huya/880261?cdn=alicdn
-
-#EXTINF:-1 tvg-id="1" tvg-logo="https://tb.zbds.top/logo/电影刘德华.png" group-title="中国",电影刘德华
-http://live.metshop.top/huya/11342424?cdn=alicdn
-
-#EXTINF:-1 tvg-id="1" tvg-logo="https://tb.zbds.top/logo/电影功夫片.png" group-title="中国",电影功夫片
-http://live.metshop.top/huya/11352941?cdn=alicdn
-
-#EXTINF:-1 tvg-id="1" tvg-logo="https://tb.zbds.top/logo/电影动作电影.png" group-title="中国",电影动作电影
-http://live.metshop.top/huya/11602077?cdn=alicdn
-
-#EXTINF:-1 tvg-id="1" tvg-logo="https://tb.zbds.top/logo/电影周星星.png" group-title="中国",电影周星星
-http://live.metshop.top/huya/11336587?cdn=alicdn
-
-#EXTINF:-1 tvg-id="1" tvg-logo="https://tb.zbds.top/logo/电影喜剧专场.png" group-title="中国",电影喜剧专场
-http://live.metshop.top/huya/11602044?cdn=alicdn
-
-#EXTINF:-1 tvg-id="1" tvg-logo="https://tb.zbds.top/logo/电影嫣然影厅.png" group-title="中国",电影嫣然影厅
-http://live.metshop.top/huya/11601977?cdn=alicdn
-
-#EXTINF:-1 tvg-id="1" tvg-logo="https://tb.zbds.top/logo/电影战争片.png" group-title="中国",电影战争片
-http://live.metshop.top/huya/21059574?cdn=alicdn
-
-#EXTINF:-1 tvg-id="1" tvg-logo="https://tb.zbds.top/logo/电影搞笑喜剧.png" group-title="中国",电影搞笑喜剧
-http://live.metshop.top/huya/11342423?cdn=alicdn
-
-#EXTINF:-1 tvg-id="1" tvg-logo="https://tb.zbds.top/logo/电影梁家辉.png" group-title="中国",电影梁家辉
-http://live.metshop.top/huya/11342429?cdn=alicdn
-
-#EXTINF:-1 tvg-id="1" tvg-logo="https://tb.zbds.top/logo/电影蜘蛛侠.png" group-title="中国",电影蜘蛛侠
-http://live.metshop.top/huya/21059599?cdn=alicdn
-
-#EXTINF:-1 tvg-id="1" tvg-logo="https://tb.zbds.top/logo/电影谍战.png" group-title="中国",电影谍战
-http://live.metshop.top/huya/21059585?cdn=alicdn
-
-#EXTINF:-1 tvg-id="1" tvg-logo="https://tb.zbds.top/logo/电影谍战片.png" group-title="中国",电影谍战片
-http://live.metshop.top/huya/21059587?cdn=alicdn
-
-#EXTINF:-1 tvg-id="1" tvg-logo="https://tb.zbds.top/logo/电影贺岁.png" group-title="中国",电影贺岁
-http://live.metshop.top/huya/11601971?cdn=alicdn
-
-#EXTINF:-1 tvg-id="1" tvg-logo="https://tb.zbds.top/logo/电影高分动作.png" group-title="中国",电影高分动作
-http://live.metshop.top/huya/11352884?cdn=alicdn
 
 #EXTINF:-1 tvg-id="番禺综合" tvg-logo="https://tb.zbds.top/logo/番禺综合.png" group-title="中国",番禺综合
 http://video.epaper.pybtv.cn:8080/live/rtmp_live_demo.flv
@@ -1484,6 +1526,9 @@ https://stream1.freetv.fun/fu-jian-zong-he-6.m3u8
 #EXTINF:-1 tvg-id="禹州综合" tvg-logo="https://www.xn--rgv465a.top/tvlogo/禹州综合.png" group-title="中国",禹州综合
 http://tvpull.dxhmt.cn:9081/tv/11081-1.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
 
+#EXTINF:-1 tvg-id="笑看风云" tvg-logo="https://tb.zbds.top/logo/笑看风云.png" group-title="中国",笑看风云
+https://live.metshop.top/huya/29465858
+
 #EXTINF:-1 tvg-id="第一财经" tvg-logo="https://www.xn--rgv465a.top/tvlogo/第一财经.png" group-title="中国",第一财经
 http://satellitepull.cnr.cn/live/wx32dycjgb/playlist.m3u8
 
@@ -1495,6 +1540,9 @@ http://live.shaoxing.com.cn/video/s10001-sxtv2/index.m3u8?%E5%85%B3%E6%B3%A8%E5%
 
 #EXTINF:-1 tvg-id="203" group-title="中国",经典电影
 rtp://239.3.1.195:9024
+
+#EXTINF:-1 tvg-id="罪犯电影" tvg-logo="https://tb.zbds.top/logo/罪犯电影.png" group-title="中国",罪犯电影
+https://live.metshop.top/huya/11352962
 
 #EXTINF:-1 tvg-id="舒兰新闻综合" tvg-logo="https://tb.zbds.top/logo/舒兰新闻综合.png" group-title="中国",舒兰新闻综合
 http://stream8.jlntv.cn/shulan/sd/live.m3u8?_upt=332db6421699196585
@@ -1514,6 +1562,9 @@ https://liveplay-srs.voc.com.cn/hls/tv/183_554704.m3u8
 #EXTINF:-1 tvg-id="西华综合" tvg-logo="https://www.xn--rgv465a.top/tvlogo/西华综合.png" group-title="中国",西华综合
 http://tvpull.dxhmt.cn:9081/tv/11622-1.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
 
+#EXTINF:-1 tvg-id="西游记2" tvg-logo="https://tb.zbds.top/logo/西游记2.png" group-title="中国",西游记2
+https://live.metshop.top/huya/29465859
+
 #EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/西藏卫视.png" group-title="中国",西藏卫视
 http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227033/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EdeTB7OZ9G_VNJk5C3t96fQ%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 
@@ -1526,6 +1577,9 @@ https://vip.ffzy-play7.com/20230116/11563_b9f44814/index.m3u8
 #EXTINF:-1 tvg-id="80" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/QiTa/GanSu_ZhengQuanFuWu.png" group-title="中国",证券服务
 rtp://239.3.1.24:8001
 
+#EXTINF:-1 tvg-id="谍战电影" tvg-logo="https://tb.zbds.top/logo/谍战电影.png" group-title="中国",谍战电影
+https://live.metshop.top/huya/21059585
+
 #EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/贵州卫视.png" group-title="中国",贵州卫视
 http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227012/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EnqBF03rFwPucF8ODtWxLQQ%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 
@@ -1534,6 +1588,9 @@ rtp://239.3.1.149:8076
 
 #EXTINF:-1 tvg-id="贵州省兴义市万峰林" group-title="中国",贵州省兴义市万峰林
 https://gcalic.v.myalicdn.com/gc/xywfl_1/index.m3u8
+
+#EXTINF:-1 tvg-id="贺岁电影" tvg-logo="https://tb.zbds.top/logo/贺岁电影.png" group-title="中国",贺岁电影
+https://live.metshop.top/huya/11601986
 
 #EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/赤峰新闻综合.png" group-title="中国",赤峰新闻综合
 https://livestream-bt.nmtv.cn/nmtv/2351general.m3u8?txSecret=8857087aeec2cec44d178a18550fdb8a&txTime=771E8800
@@ -1619,11 +1676,23 @@ http://38.75.136.137:98/gslb/dsdqpub/cqxw.m3u8?auth=testpub
 #EXTINF:-1 tvg-id="349" group-title="中国",重温经典
 rtp://239.3.1.25:8001
 
+#EXTINF:-1 tvg-id="金川乡村" tvg-logo="https://tb.zbds.top/logo/金川乡村.png" group-title="中国",金川乡村
+http://live.jinchuanrmt.com:90/live/jcxc.m3u8?zsicd
+
+#EXTINF:-1 tvg-id="金庸武侠" tvg-logo="https://tb.zbds.top/logo/金庸武侠.png" group-title="中国",金庸武侠
+https://live.metshop.top/huya/11342435
+
+#EXTINF:-1 tvg-id="金枝欲孽" tvg-logo="https://tb.zbds.top/logo/金枝欲孽.png" group-title="中国",金枝欲孽
+https://live.metshop.top/huya/29465847
+
 #EXTINF:-1 tvg-id="金鹰纪实" tvg-logo="https://www.xn--rgv465a.top/tvlogo/金鹰纪实.png" group-title="中国",金鹰纪实
 http://iptv.huuc.edu.cn/hls/gedocu.m3u8
 
 #EXTINF:-1 tvg-id="77" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/WeiShi/HuNan_JingYingJiShi.png" group-title="中国",金鹰纪实高清
 rtp://239.3.1.58:8156
+
+#EXTINF:-1 tvg-id="鉴证实录" tvg-logo="https://tb.zbds.top/logo/鉴证实录.png" group-title="中国",鉴证实录
+https://live.metshop.top/huya/23903183
 
 #EXTINF:-1 tvg-id="铜梁综合" tvg-logo="https://tb.zbds.top/logo/铜梁综合.png" group-title="中国",铜梁综合
 http://183.64.174.171:40123/ch1.m3u8?zzhongqd
@@ -1634,11 +1703,11 @@ https://live.chinacert.cftest5.cn/cnmg/live/639731783
 #EXTINF:-1 tvg-id="长子综合" tvg-logo="https://tb.zbds.top/logo/长子综合.png" group-title="中国",长子综合
 https://www.wxhcgbds.com:8081/channelTv/WXTV_1.m3u8?zshanxd
 
-#EXTINF:-1 tvg-id="长影频道" tvg-logo="https://tb.zbds.top/logo/长影频道.png" group-title="中国",长影频道
-http://tpc.x3322.net:9901/tsfile/live/1010_1.m3u8
-
 #EXTINF:-1 tvg-id="长白山电视台" tvg-logo="https://tb.zbds.top/logo/长白山电视台.png" group-title="中国",长白山电视台
 http://stream8.jlntv.cn/cbstv/sd/live.m3u8?zjild
+
+#EXTINF:-1 tvg-id="陀枪师姐" tvg-logo="https://tb.zbds.top/logo/陀枪师姐.png" group-title="中国",陀枪师姐
+https://live.metshop.top/huya/29465857
 
 #EXTINF:-1 tvg-id="陕西体育休闲" tvg-logo="https://www.xn--rgv465a.top/tvlogo/陕西体育休闲.png" group-title="中国",陕西体育休闲
 https://mgtv.ottiptv.cc/migu/956909356.m3u8?migutoken=2cd1b3120e6a6d3cec136ca61cb23c24512860d4956d391b8c7d8a1fce58c3fa549930217eede8887c05f73eb24ac9692be10bdd06557f58130ff6717e37e1b6ba38adfacf8e74298fe1d4f48c
@@ -1696,6 +1765,9 @@ rtp://239.3.1.196:9012
 
 #EXTINF:-1 tvg-id="鹿泉一套" tvg-logo="https://www.xn--rgv465a.top/tvlogo/鹿泉一套.png" group-title="中国",鹿泉一套
 https://jwcdnqx.hebyun.com.cn/live/luquanyi/1500k/tzwj_video.m3u8
+
+#EXTINF:-1 tvg-id="黄渤电影" tvg-logo="https://tb.zbds.top/logo/黄渤电影.png" group-title="中国",黄渤电影
+https://live.metshop.top/huya/11352876
 
 #EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/黑龙江卫视.png" group-title="中国",黑龙江卫视
 http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226965/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7E7UiKL56-L86ihmTWaZ6csw%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
