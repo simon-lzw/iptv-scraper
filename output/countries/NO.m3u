@@ -1,7 +1,7 @@
 #EXTM3U
 #PLAYLIST: 挪威 (NO) IPTV 直播源
-#生成时间: 2026-11-06 20:14:32
-#频道数: 13
+#生成时间: 2026-11-07 08:18:48
+#频道数: 14
 
 # ===== 挪威 (NO) =====
 
@@ -28,6 +28,9 @@ https://nrk-live-no.akamaized.net/nrk_tegnspraak/muxed.m3u8
 
 #EXTINF:-1 tvg-id="NRK1.no" tvg-logo="https://i.imgur.com/9tj8ds7.png" group-title="挪威",NRK1
 https://nrk-live-no.akamaized.net/nrk1/muxed.m3u8
+
+#EXTINF:-1 tvg-id="NRK1.no@SD" tvg-logo="https://i.imgur.com/9tj8ds7.png" group-title="挪威",NRK1 (720p)
+http://185.19.191.171:8090/NRK1/index.m3u8
 
 #EXTINF:-1 tvg-id="NRK2.no" tvg-logo="https://i.imgur.com/SiAdoK9.png" group-title="挪威",NRK2
 https://nrk-live-no.akamaized.net/nrk2/muxed.m3u8
