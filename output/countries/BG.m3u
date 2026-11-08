@@ -1,12 +1,15 @@
 #EXTM3U
 #PLAYLIST: 保加利亚 (BG) IPTV 直播源
-#生成时间: 2026-11-07 18:28:11
-#频道数: 24
+#生成时间: 2026-11-08 08:35:44
+#频道数: 27
 
 # ===== 保加利亚 (BG) =====
 
 #EXTINF:-1 tvg-id="AgroTV.bg@SD" tvg-logo="https://i.imgur.com/tPMNDtD.png" group-title="保加利亚",Agro TV (Bulgaria) (480p)
 https://restr2.bgtv.bg/agro/hls/agro.m3u8
+
+#EXTINF:-1 tvg-id="AnimalPlanet.bg@SD" tvg-logo="https://i.postimg.cc/pd0kmDgK/Animal-Planet-Logo-PNG12.png" group-title="保加利亚",Animal Planet (Bulgaria)
+http://213.91.179.28:8000/play/a05r
 
 #EXTINF:-1 tvg-id="BNT1.bg" tvg-logo="https://i.imgur.com/7JU9b5j.png" group-title="保加利亚",BNT1
 https://shift03.isp.bg/BNT1_HD/index.m3u8
@@ -55,6 +58,12 @@ https://live.ecomservice.bg/hls/stream.m3u8
 
 #EXTINF:-1 tvg-id="EuroNewsBulgaria.bg" tvg-logo="https://i.imgur.com/RrQVoOg.png" group-title="保加利亚",Euronews Bulgaria
 https://www.youtube.com/channel/UCU1i6qBMjY9El6q5L2OK8hA/live
+
+#EXTINF:-1 tvg-id="Eurosport1.fr@Bulgaria" tvg-logo="https://i.imgur.com/olQJgm7.png" group-title="保加利亚",Eurosport 1 Bulgaria
+http://213.91.179.28:8000/play/a05y
+
+#EXTINF:-1 tvg-id="Eurosport2.fr@Bulgaria" tvg-logo="https://i.imgur.com/f56dHgR.png" group-title="保加利亚",Eurosport 2 Bulgaria
+http://213.91.179.28:8000/play/a04b
 
 #EXTINF:-1 tvg-id="HopeChannelBulgaria.bg@SD" tvg-logo="https://i.imgur.com/bxzeEML.png" group-title="保加利亚",Hope Channel Bulgaria
 https://hc1.hopetv.bg/live/hopetv_all.smil/playlist.m3u8

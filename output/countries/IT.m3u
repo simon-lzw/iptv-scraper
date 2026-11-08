@@ -1,7 +1,7 @@
 #EXTM3U
 #PLAYLIST: 意大利 (IT) IPTV 直播源
-#生成时间: 2026-11-07 18:28:11
-#频道数: 640
+#生成时间: 2026-11-08 08:35:44
+#频道数: 641
 
 # ===== 意大利 (IT) =====
 
@@ -277,6 +277,9 @@ https://router.xdevel.com/video1s975363-1596/stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="DMAX.it" tvg-logo="https://i.imgur.com/dmEmRX7.png" group-title="意大利",DMAX
 https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/DMAX/CMAF/index.m3u8
+
+#EXTINF:-1 tvg-id="DMAX.it@HD" tvg-logo="https://i.imgur.com/uGd9fnn.png" group-title="意大利",DMAX (Italy) HD (720p)
+http://102.129.186.182:81/dmax/index.m3u8
 
 #EXTINF:-1 tvg-id="DeejayTV.it" tvg-logo="https://i.imgur.com/rlaKH6k.png" group-title="意大利",Deejay TV
 https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S85984808/sMO0tz9Sr2Rk/playlist.m3u8
