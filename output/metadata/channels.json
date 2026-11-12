@@ -1,22 +1,11 @@
 [
   {
     "name": "&TV International (1080p)",
-    "url": "https://3f56f997.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1nYl9BbmRUVl9ITFM/playlist.m3u8",
+    "url": "https://amg01117-amg01117c1-amgplt0029.playout.now3.amagi.tv/playlist/amg01117-amg01117c1-amgplt0029/playlist.m3u8",
     "group": "Movies",
     "country_code": "ZZ",
     "country_name_zh": "ZZ",
     "ip_version": "domain",
-    "score": 0.0,
-    "source": "iptv-org all streams",
-    "is_active": true
-  },
-  {
-    "name": "&pictures HD (1080p)",
-    "url": "http://103.135.253.32:8080/PICTURE-HD/index.m3u8",
-    "group": "Movies",
-    "country_code": "ZZ",
-    "country_name_zh": "ZZ",
-    "ip_version": "ipv4",
     "score": 0.0,
     "source": "iptv-org all streams",
     "is_active": true
@@ -935,6 +924,17 @@
     "is_active": true
   },
   {
+    "name": "7X Music (1080p)",
+    "url": "https://7xshreeshyam.akamaized.net/7XPunjabi/index.m3u8",
+    "group": "Music",
+    "country_code": "ZZ",
+    "country_name_zh": "ZZ",
+    "ip_version": "domain",
+    "score": 0.0,
+    "source": "iptv-org all streams",
+    "is_active": true
+  },
+  {
     "name": "8 Kanal Vitebsk",
     "url": "http://95.46.208.8:24433/art",
     "group": "Belarus",
@@ -1216,6 +1216,17 @@
     "country_code": "ZZ",
     "country_name_zh": "ZZ",
     "ip_version": "ipv4",
+    "score": 0.0,
+    "source": "iptv-org all streams",
+    "is_active": true
+  },
+  {
+    "name": "A24 Paraguay",
+    "url": "https://tv.mitvparaguay.com/hls?type=hls&id=a24",
+    "group": "News",
+    "country_code": "ZZ",
+    "country_name_zh": "ZZ",
+    "ip_version": "domain",
     "score": 0.0,
     "source": "iptv-org all streams",
     "is_active": true
@@ -1881,6 +1892,28 @@
     "is_active": true
   },
   {
+    "name": "Aastha Bhajan (720p)",
+    "url": "https://d2lk5u59tns74c.cloudfront.net/out/v1/218f9e64bdce42369500e93cff50572f/index.m3u8",
+    "group": "Religious",
+    "country_code": "ZZ",
+    "country_name_zh": "ZZ",
+    "ip_version": "domain",
+    "score": 0.0,
+    "source": "iptv-org all streams",
+    "is_active": true
+  },
+  {
+    "name": "Aastha Gujarati (720p)",
+    "url": "https://d2lk5u59tns74c.cloudfront.net/out/v1/f5846689505a485a8d4d4c424009c1b3/index.m3u8",
+    "group": "Religious",
+    "country_code": "ZZ",
+    "country_name_zh": "ZZ",
+    "ip_version": "domain",
+    "score": 0.0,
+    "source": "iptv-org all streams",
+    "is_active": true
+  },
+  {
     "name": "Aastha HD (720p)",
     "url": "https://aasthaott.akamaized.net/110923/smil:aasthatv.smil/index.m3u8",
     "group": "Religious",
@@ -1892,8 +1925,8 @@
     "is_active": true
   },
   {
-    "name": "Aastha Kannada (576p)",
-    "url": "https://cdn.pishow.tv/ott/live/234/master.m3u8",
+    "name": "Aastha Kannada (720p)",
+    "url": "https://d2lk5u59tns74c.cloudfront.net/out/v1/6938ef4f35324389bf08c16b7e8cd1f7/index.m3u8",
     "group": "Religious",
     "country_code": "ZZ",
     "country_name_zh": "ZZ",
@@ -1925,8 +1958,8 @@
     "is_active": true
   },
   {
-    "name": "Aastha Telugu (576p)",
-    "url": "https://cdn.pishow.tv/ott/live/262/master.m3u8",
+    "name": "Aastha Telugu (720p)",
+    "url": "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/a3e6a5fec4354ec4ae0ca5ed539ff641/index.m3u8",
     "group": "Religious",
     "country_code": "ZZ",
     "country_name_zh": "ZZ",
@@ -4631,6 +4664,17 @@
     "is_active": true
   },
   {
+    "name": "Asianet Suvarna News (720p)",
+    "url": "https://asianet-prasarbharati.vgcdn.net/out/v1/bd05c931d9d94d288bbe455cc0f7e229/playlist.m3u8",
+    "group": "News",
+    "country_code": "ZZ",
+    "country_name_zh": "ZZ",
+    "ip_version": "domain",
+    "score": 0.0,
+    "source": "iptv-org all streams",
+    "is_active": true
+  },
+  {
     "name": "Asil TV (576p)",
     "url": "https://live.asil.tv/asiltv/index.m3u8",
     "group": "Undefined",
@@ -5753,8 +5797,8 @@
     "is_active": true
   },
   {
-    "name": "Bansal News (720p)",
-    "url": "https://8yzmq2gbdvax-hls-live.wmncdn.net/bansalnewstv1/live1.stream/playlist.m3u8",
+    "name": "Bansal News (1080p)",
+    "url": "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/4f8d92312b9a4783bbd706cf7ed86085/index.m3u8",
     "group": "News",
     "country_code": "ZZ",
     "country_name_zh": "ZZ",
@@ -6237,17 +6281,6 @@
     "is_active": true
   },
   {
-    "name": "Bharat Update (576p)",
-    "url": "https://cdn.pishow.tv/ott/live/339/master.m3u8",
-    "group": "News",
-    "country_code": "ZZ",
-    "country_name_zh": "ZZ",
-    "ip_version": "domain",
-    "score": 0.0,
-    "source": "iptv-org all streams",
-    "is_active": true
-  },
-  {
     "name": "Bharat24 (1080p)",
     "url": "https://vglivessai.akamaized.net/ptnr-lg/title-Bharat24News_LGIndia/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/ebcf5152-686a-43ae-ad13-15bc198112b7/index.m3u8",
     "group": "News",
@@ -6416,6 +6449,17 @@
     "name": "Blaze (576p) [Geo-blocked]",
     "url": "https://live-blaze-ssai.simplestreamcdn.com/v1/master/774d979dd66704abea7c5b62cb34c6815fda0d35/blaze-live-broadcast-scte/index.m3u8",
     "group": "Entertainment",
+    "country_code": "ZZ",
+    "country_name_zh": "ZZ",
+    "ip_version": "domain",
+    "score": 0.0,
+    "source": "iptv-org all streams",
+    "is_active": true
+  },
+  {
+    "name": "Bless TV (1080p)",
+    "url": "https://932y483pdjv8-hls-live.5centscdn.com/blesstv/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8",
+    "group": "Religious",
     "country_code": "ZZ",
     "country_name_zh": "ZZ",
     "ip_version": "domain",
@@ -7855,7 +7899,7 @@
   },
   {
     "name": "Canal 100 Chinique (1080p)",
-    "url": "https://live20.bozztv.com/giatv/giatv-chinique100tvenvivo/chinique100tvenvivo/playlist.m3u8",
+    "url": "https://183.giatvcdn.com/giatv/giatv-chinique100tvenvivo/chinique100tvenvivo/playlist.m3u8",
     "group": "Undefined",
     "country_code": "ZZ",
     "country_name_zh": "ZZ",
@@ -12728,7 +12772,7 @@
   },
   {
     "name": "DellaTV (720p)",
-    "url": "https://live20.bozztv.com/giatvplayout7/giatv-211474/playlist.m3u8",
+    "url": "https://183.giatvcdn.com/giatvplayout7/giatv-211474/playlist.m3u8",
     "group": "General",
     "country_code": "ZZ",
     "country_name_zh": "ZZ",
@@ -12837,8 +12881,8 @@
     "is_active": true
   },
   {
-    "name": "Desi Channel (720p)",
-    "url": "https://livestream.unlimitedcdn.com/agm-dc/desi-channel/index.m3u8",
+    "name": "Desi Channel (1080p)",
+    "url": "https://desichannel.kableone.com/desichannel/master.m3u8",
     "group": "Entertainment",
     "country_code": "ZZ",
     "country_name_zh": "ZZ",
@@ -12884,6 +12928,17 @@
     "name": "Dhamaal (576p) [Geo-blocked]",
     "url": "https://tvsen6.aynaott.com/F4Z6es8E/index.m3u8",
     "group": "Music",
+    "country_code": "ZZ",
+    "country_name_zh": "ZZ",
+    "ip_version": "domain",
+    "score": 0.0,
+    "source": "iptv-org all streams",
+    "is_active": true
+  },
+  {
+    "name": "Dharm Sandesh (720p)",
+    "url": "https://d2lk5u59tns74c.cloudfront.net/out/v1/aed713462c734923aac946a547265288/index.m3u8",
+    "group": "Religious",
     "country_code": "ZZ",
     "country_name_zh": "ZZ",
     "ip_version": "domain",
@@ -16082,17 +16137,6 @@
     "is_active": true
   },
   {
-    "name": "Fateh TV (576p)",
-    "url": "https://cdn.pishow.tv/ott/live/349/master.m3u8",
-    "group": "Religious",
-    "country_code": "ZZ",
-    "country_name_zh": "ZZ",
-    "ip_version": "domain",
-    "score": 0.0,
-    "source": "iptv-org all streams",
-    "is_active": true
-  },
-  {
     "name": "Fazal TV (1080p)",
     "url": "http://cdn9.live247stream.com/punjabitvcanada/tv/playlist.m3u8",
     "group": "Religious",
@@ -16522,8 +16566,8 @@
     "is_active": true
   },
   {
-    "name": "Food Food (576p)",
-    "url": "https://cdn.pishow.tv/ott/live/267/master.m3u8",
+    "name": "Food Food (1080p)",
+    "url": "https://d2lk5u59tns74c.cloudfront.net/out/v1/ffc601b3dc8d41c5b09115702538d75a/index.m3u8",
     "group": "Cooking;Lifestyle",
     "country_code": "ZZ",
     "country_name_zh": "ZZ",
@@ -17523,6 +17567,17 @@
     "is_active": true
   },
   {
+    "name": "Gem TV (720p)",
+    "url": "https://gemtv.circle7stream.com/gem/fcce47a8559e30755582c396ce7fce9e.sdp/playlist.m3u8",
+    "group": "News",
+    "country_code": "ZZ",
+    "country_name_zh": "ZZ",
+    "ip_version": "domain",
+    "score": 0.0,
+    "source": "iptv-org all streams",
+    "is_active": true
+  },
+  {
     "name": "Generations TV (576p)",
     "url": "https://event.vedge.infomaniak.com/livecast/ik:generation-tv/manifest.m3u8",
     "group": "Undefined",
@@ -17985,8 +18040,8 @@
     "is_active": true
   },
   {
-    "name": "Good News Today (720p)",
-    "url": "https://aajtaklive.vgcdn.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/3196cced-ce29-4219-9809-f07ccdaa02b9/vglive-sk-848805/master.m3u8",
+    "name": "Good News Today (1080p)",
+    "url": "https://d2lk5u59tns74c.cloudfront.net/out/v1/75f3183e143240a29fbddd502a6a3f8d/index.m3u8",
     "group": "News",
     "country_code": "ZZ",
     "country_name_zh": "ZZ",
@@ -18260,8 +18315,19 @@
     "is_active": true
   },
   {
-    "name": "Gujarat First (576p)",
-    "url": "https://d2gvyg6lvauoko.cloudfront.net/230226/gujaratfirst/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
+    "name": "Gujarat First (1080p)",
+    "url": "https://vglivessai.akamaized.net/ptnr-lg/title-Gujarat_First_News/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/bdacf79b-158c-4ddf-ac17-6fabbb9249ae/index.m3u8",
+    "group": "News",
+    "country_code": "ZZ",
+    "country_name_zh": "ZZ",
+    "ip_version": "domain",
+    "score": 0.0,
+    "source": "iptv-org all streams",
+    "is_active": true
+  },
+  {
+    "name": "Gulistan News (1080p)",
+    "url": "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/030a117c40d84ca99ac8927d3e2a1eec/index.m3u8",
     "group": "News",
     "country_code": "ZZ",
     "country_name_zh": "ZZ",
@@ -19503,17 +19569,6 @@
     "is_active": true
   },
   {
-    "name": "Hungama TV (576p)",
-    "url": "http://103.135.253.32:8080/HUNGAMA/index.m3u8",
-    "group": "Kids",
-    "country_code": "ZZ",
-    "country_name_zh": "ZZ",
-    "ip_version": "ipv4",
-    "score": 0.0,
-    "source": "iptv-org all streams",
-    "is_active": true
-  },
-  {
     "name": "Hya TV (1080p)",
     "url": "https://freem3u.xyz/api/live/play.m3u8?vid=187",
     "group": "Entertainment",
@@ -20254,6 +20309,17 @@
     "name": "Infinita TV (1080p)",
     "url": "https://s2.tvdatta.com:3753/hybrid/play.m3u8",
     "group": "Music",
+    "country_code": "ZZ",
+    "country_name_zh": "ZZ",
+    "ip_version": "domain",
+    "score": 0.0,
+    "source": "iptv-org all streams",
+    "is_active": true
+  },
+  {
+    "name": "Info HD (576i)",
+    "url": "https://netstreaming.eu/InfoHd.m3u8",
+    "group": "General",
     "country_code": "ZZ",
     "country_name_zh": "ZZ",
     "ip_version": "domain",
@@ -22814,8 +22880,8 @@
     "is_active": true
   },
   {
-    "name": "Kinouzhas (576p)",
-    "url": "http://stream.mcquack.net/278/index.m3u8",
+    "name": "Kinouzhas (1080p)",
+    "url": "http://s1.merlive.am/Kinoujas/index.m3u8",
     "group": "Movies",
     "country_code": "ZZ",
     "country_name_zh": "ZZ",
@@ -24008,6 +24074,17 @@
     "country_code": "ZZ",
     "country_name_zh": "ZZ",
     "ip_version": "domain",
+    "score": 0.0,
+    "source": "iptv-org all streams",
+    "is_active": true
+  },
+  {
+    "name": "Laxmi TV Gujarati (576p)",
+    "url": "http://27.124.71.27/Sun_Bangla/index.m3u8",
+    "group": "Movies",
+    "country_code": "ZZ",
+    "country_name_zh": "ZZ",
+    "ip_version": "ipv4",
     "score": 0.0,
     "source": "iptv-org all streams",
     "is_active": true
@@ -26279,6 +26356,17 @@
     "is_active": true
   },
   {
+    "name": "Mathrubhumi News (720p)",
+    "url": "https://dn5yap910rvbg.cloudfront.net/live/mbnews/master.m3u8",
+    "group": "News",
+    "country_code": "ZZ",
+    "country_name_zh": "ZZ",
+    "ip_version": "domain",
+    "score": 0.0,
+    "source": "iptv-org all streams",
+    "is_active": true
+  },
+  {
     "name": "Matribhumi TV (720p)",
     "url": "http://live.playmax.live/matribhumi/index.m3u8",
     "group": "Undefined",
@@ -26468,6 +26556,17 @@
   {
     "name": "Media One (720p)",
     "url": "https://cdn.pishow.tv/ott/live/1481/master.m3u8",
+    "group": "News",
+    "country_code": "ZZ",
+    "country_name_zh": "ZZ",
+    "ip_version": "domain",
+    "score": 0.0,
+    "source": "iptv-org all streams",
+    "is_active": true
+  },
+  {
+    "name": "Media9 (1080p)",
+    "url": "https://media9news.akamaized.net/media9/hls/media9tv.m3u8",
     "group": "News",
     "country_code": "ZZ",
     "country_name_zh": "ZZ",
@@ -27577,19 +27676,8 @@
     "is_active": true
   },
   {
-    "name": "Movies Now + (1080p)",
-    "url": "http://103.135.253.32:8080/MN-PLUS/index.m3u8",
-    "group": "Movies",
-    "country_code": "ZZ",
-    "country_name_zh": "ZZ",
-    "ip_version": "ipv4",
-    "score": 0.0,
-    "source": "iptv-org all streams",
-    "is_active": true
-  },
-  {
-    "name": "Movies Now HD (1080p)",
-    "url": "http://103.135.253.32:8080/MOVIES-NOW/index.m3u8",
+    "name": "Movies Now HD (576p)",
+    "url": "http://27.124.71.27/Movies_Now/index.m3u8",
     "group": "Movies",
     "country_code": "ZZ",
     "country_name_zh": "ZZ",
@@ -28677,17 +28765,6 @@
     "is_active": true
   },
   {
-    "name": "Namdhari TV (404p) [Not 24/7]",
-    "url": "https://namdhari.tv/live/sbs1.m3u8",
-    "group": "Religious",
-    "country_code": "ZZ",
-    "country_name_zh": "ZZ",
-    "ip_version": "domain",
-    "score": 0.0,
-    "source": "iptv-org all streams",
-    "is_active": true
-  },
-  {
     "name": "Nande Portetepe TV",
     "url": "https://video.hostingcaaguazu.com:19360/nandeportetepe/nandeportetepe.m3u8",
     "group": "Music",
@@ -29262,6 +29339,17 @@
   {
     "name": "News Only (1080p)",
     "url": "https://newsonly.kableone.com/newsonly/master.m3u8",
+    "group": "News",
+    "country_code": "ZZ",
+    "country_name_zh": "ZZ",
+    "ip_version": "domain",
+    "score": 0.0,
+    "source": "iptv-org all streams",
+    "is_active": true
+  },
+  {
+    "name": "News State Maharashtra Goa (720p)",
+    "url": "https://prasarbharti-nn.vidgyor.com/nntv/nnbrjh/index.m3u8",
     "group": "News",
     "country_code": "ZZ",
     "country_name_zh": "ZZ",
@@ -30360,6 +30448,17 @@
     "is_active": true
   },
   {
+    "name": "ON Info TV (1080p)",
+    "url": "https://freem3u.xyz/api/live/play.m3u8?vid=189",
+    "group": "Business;Entertainment",
+    "country_code": "ZZ",
+    "country_name_zh": "ZZ",
+    "ip_version": "domain",
+    "score": 0.0,
+    "source": "iptv-org all streams",
+    "is_active": true
+  },
+  {
     "name": "ON Kids (720p)",
     "url": "https://freem3u.xyz/api/live/play.m3u8?vid=179",
     "group": "Kids",
@@ -30440,6 +30539,17 @@
     "name": "ON Style TV (1080p)",
     "url": "https://freem3u.xyz/api/live/play.m3u8?vid=184",
     "group": "Lifestyle",
+    "country_code": "ZZ",
+    "country_name_zh": "ZZ",
+    "ip_version": "domain",
+    "score": 0.0,
+    "source": "iptv-org all streams",
+    "is_active": true
+  },
+  {
+    "name": "ON Trending TV (1080p)",
+    "url": "https://freem3u.xyz/api/live/play.m3u8?vid=186",
+    "group": "Undefined",
     "country_code": "ZZ",
     "country_name_zh": "ZZ",
     "ip_version": "domain",
@@ -31647,8 +31757,8 @@
     "is_active": true
   },
   {
-    "name": "PTC Simran (576p)",
-    "url": "https://cdn.pishow.tv/ott/live/1503/master.m3u8",
+    "name": "PTC Simran (1080p)",
+    "url": "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/3bc92ffb55814535801f929a1ac96c57/index.m3u8",
     "group": "Religious",
     "country_code": "ZZ",
     "country_name_zh": "ZZ",
@@ -33465,6 +33575,17 @@
     "name": "Pulse95 Radio (1080p)",
     "url": "https://svs.itworkscdn.net/pulse95live/pulse96/playlist.m3u8",
     "group": "Undefined",
+    "country_code": "ZZ",
+    "country_name_zh": "ZZ",
+    "ip_version": "domain",
+    "score": 0.0,
+    "source": "iptv-org all streams",
+    "is_active": true
+  },
+  {
+    "name": "Punjab Plus (1080p)",
+    "url": "https://punjabplustv.akamaized.net/punjabplustv/master.m3u8",
+    "group": "Entertainment",
     "country_code": "ZZ",
     "country_name_zh": "ZZ",
     "ip_version": "domain",
@@ -38544,8 +38665,8 @@
     "is_active": true
   },
   {
-    "name": "Santvani Channel (576p)",
-    "url": "https://d1msejlow1t3l4.cloudfront.net/fta/santwani/playlist.m3u8",
+    "name": "Santvani Channel (720p)",
+    "url": "https://d1hyhsds9hb4o2.cloudfront.net/master.m3u8",
     "group": "Undefined",
     "country_code": "ZZ",
     "country_name_zh": "ZZ",
@@ -39328,6 +39449,17 @@
     "name": "Shraddha TV (480p)",
     "url": "https://edge3-moblive.yuppcdn.net/drm1/smil:shraddhatvdrm.smil/index.m3u8",
     "group": "Undefined",
+    "country_code": "ZZ",
+    "country_name_zh": "ZZ",
+    "ip_version": "domain",
+    "score": 0.0,
+    "source": "iptv-org all streams",
+    "is_active": true
+  },
+  {
+    "name": "Shri Shyam TV (1080p)",
+    "url": "https://7xshreeshyam.akamaized.net/shreeshyamtv/index.m3u8",
+    "group": "Religious",
     "country_code": "ZZ",
     "country_name_zh": "ZZ",
     "ip_version": "domain",
@@ -40216,12 +40348,12 @@
     "is_active": true
   },
   {
-    "name": "Star Gold HD (1080p)",
-    "url": "http://103.135.253.32:8080/STAR-GOLD-HD/index.m3u8",
+    "name": "Star Cinema (576p)",
+    "url": "http://s1.merlive.am/starsinema/index.m3u8",
     "group": "Movies",
     "country_code": "ZZ",
     "country_name_zh": "ZZ",
-    "ip_version": "ipv4",
+    "ip_version": "domain",
     "score": 0.0,
     "source": "iptv-org all streams",
     "is_active": true
@@ -41261,6 +41393,17 @@
     "is_active": true
   },
   {
+    "name": "Swastik Stories (1080p)",
+    "url": "https://amg14122-amg14122c1-amgplt0835.playout.now3.amagi.tv/playout/amg14122/amg14122c1/amgplt0835/amgplt0835.m3u8",
+    "group": "Entertainment",
+    "country_code": "ZZ",
+    "country_name_zh": "ZZ",
+    "ip_version": "domain",
+    "score": 0.0,
+    "source": "iptv-org all streams",
+    "is_active": true
+  },
+  {
     "name": "Synagogue TV (576p)",
     "url": "https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_038/Stream/playlist.m3u8",
     "group": "Undefined",
@@ -41646,12 +41789,12 @@
     "is_active": true
   },
   {
-    "name": "TERRA (720p)",
-    "url": "http://31.148.48.15/Terra_HD/index.m3u8",
+    "name": "TERRA (1080p)",
+    "url": "http://s1.merlive.am/TerraHD/index.m3u8",
     "group": "Documentary",
     "country_code": "ZZ",
     "country_name_zh": "ZZ",
-    "ip_version": "ipv4",
+    "ip_version": "domain",
     "score": 0.0,
     "source": "iptv-org all streams",
     "is_active": true
@@ -44308,8 +44451,8 @@
     "is_active": true
   },
   {
-    "name": "TV9 Bangla (720p)",
-    "url": "https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9banaen8yq/liveabr/playlist.m3u8",
+    "name": "TV9 Bangla (1080p)",
+    "url": "https://amg01106-amg01106c1-amgplt0747.playout.now3.amagi.tv/amg01106c1/hls.m3u8",
     "group": "News",
     "country_code": "ZZ",
     "country_name_zh": "ZZ",
@@ -44319,8 +44462,8 @@
     "is_active": true
   },
   {
-    "name": "TV9 Bharatvarsh (720p)",
-    "url": "https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9hinjzgtpe/liveabr/playlist.m3u8",
+    "name": "TV9 Bharatvarsh (1080p)",
+    "url": "https://amg01106-amg01106c2-amgplt0747.playout.now3.amagi.tv/amg01106c2/hls.m3u8",
     "group": "News",
     "country_code": "ZZ",
     "country_name_zh": "ZZ",
@@ -44330,8 +44473,41 @@
     "is_active": true
   },
   {
-    "name": "TV9 Gujarati (720p)",
-    "url": "https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9guj3ki8lu/liveabr/playlist.m3u8",
+    "name": "TV9 Gujarati (1080p)",
+    "url": "https://amg01106-amg01106c6-amgplt0747.playout.now3.amagi.tv/amg01106c6/hls.m3u8",
+    "group": "News",
+    "country_code": "ZZ",
+    "country_name_zh": "ZZ",
+    "ip_version": "domain",
+    "score": 0.0,
+    "source": "iptv-org all streams",
+    "is_active": true
+  },
+  {
+    "name": "TV9 Kannada (1080p)",
+    "url": "https://amg01106-amg01106c5-amgplt0747.playout.now3.amagi.tv/amg01106c5/hls.m3u8",
+    "group": "News",
+    "country_code": "ZZ",
+    "country_name_zh": "ZZ",
+    "ip_version": "domain",
+    "score": 0.0,
+    "source": "iptv-org all streams",
+    "is_active": true
+  },
+  {
+    "name": "TV9 Marathi (1080p)",
+    "url": "https://amg01106-amg01106c7-amgplt0747.playout.now3.amagi.tv/amg01106c7/hls.m3u8",
+    "group": "News",
+    "country_code": "ZZ",
+    "country_name_zh": "ZZ",
+    "ip_version": "domain",
+    "score": 0.0,
+    "source": "iptv-org all streams",
+    "is_active": true
+  },
+  {
+    "name": "TV9 Telugu (1080p)",
+    "url": "https://amg01106-amg01106c4-amgplt0747.playout.now3.amagi.tv/amg01106c4/hls.m3u8",
     "group": "News",
     "country_code": "ZZ",
     "country_name_zh": "ZZ",
@@ -46069,7 +46245,7 @@
   },
   {
     "name": "Telecyan (720p)",
-    "url": "https://live20.bozztv.com/giatvplayout7/giatv-211227/playlist.m3u8",
+    "url": "https://183.giatvcdn.com/giatvplayout7/giatv-211227/playlist.m3u8",
     "group": "Comedy;Series",
     "country_code": "ZZ",
     "country_name_zh": "ZZ",
@@ -46938,7 +47114,7 @@
   },
   {
     "name": "Thalaa TV (1080p)",
-    "url": "https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/2069c593-3c07-4d62-9d44-746be5c3a5d6/manifest.m3u8",
+    "url": "https://streams2.sofast.tv/ptnr-khabriya/title-THALAA-TV-TAM_Khabriya/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/c9d5c8a0-8c52-47bc-954d-e64a11314de2/manifest.m3u8",
     "group": "Movies",
     "country_code": "ZZ",
     "country_name_zh": "ZZ",
@@ -47510,7 +47686,7 @@
   },
   {
     "name": "Tolly TV (1080p)",
-    "url": "https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/13b5735d-52c3-4be0-853d-e0ec0127e708/manifest.m3u8",
+    "url": "https://streams2.sofast.tv/ptnr-khabriya/title-TOLLY-TV-TEL_Khabriya/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/9bb55dff-7a74-43aa-bcf7-ea537e8b9e92/manifest.m3u8",
     "group": "Movies",
     "country_code": "ZZ",
     "country_name_zh": "ZZ",
@@ -47677,6 +47853,17 @@
     "name": "Total Crime (1080p)",
     "url": "https://aegis-cloudfront-1.tubi.video/b062c287-a170-47df-99e4-f5dcd441ee59/playlist.m3u8",
     "group": "Documentary",
+    "country_code": "ZZ",
+    "country_name_zh": "ZZ",
+    "ip_version": "domain",
+    "score": 0.0,
+    "source": "iptv-org all streams",
+    "is_active": true
+  },
+  {
+    "name": "Total TV Haryana (1080p)",
+    "url": "https://d2lk5u59tns74c.cloudfront.net/out/v1/4836fb71b5764f70ab1f3815e0295dfd/index.m3u8",
+    "group": "Undefined",
     "country_code": "ZZ",
     "country_name_zh": "ZZ",
     "ip_version": "domain",
@@ -49401,8 +49588,8 @@
     "is_active": true
   },
   {
-    "name": "VTV10 (1080p)",
-    "url": "https://vips-livecdn.fptplay.net/live/media/vtv10/live247-hls-avc/index.m3u8",
+    "name": "VTV10 (720p)",
+    "url": "https://dethich.pw/vtv10/index.m3u8",
     "group": "Undefined",
     "country_code": "ZZ",
     "country_name_zh": "ZZ",
@@ -49423,8 +49610,8 @@
     "is_active": true
   },
   {
-    "name": "VTV4 HD (1080p)",
-    "url": "https://vips-livecdn.fptplay.net/live/media/vtv4/live247-hls-avc/index.m3u8",
+    "name": "VTV4 HD (720p)",
+    "url": "https://dethich.pw/vtv4/index.m3u8",
     "group": "Undefined",
     "country_code": "ZZ",
     "country_name_zh": "ZZ",
@@ -49434,8 +49621,8 @@
     "is_active": true
   },
   {
-    "name": "VTV5 HD (1080p)",
-    "url": "https://vips-livecdn.fptplay.net/live/media/vtv5/live247-hls-avc/index.m3u8",
+    "name": "VTV5 HD (720p)",
+    "url": "https://dethich.pw/vtv5/index.m3u8",
     "group": "Undefined",
     "country_code": "ZZ",
     "country_name_zh": "ZZ",
@@ -49467,8 +49654,8 @@
     "is_active": true
   },
   {
-    "name": "VTV6 (1080p)",
-    "url": "https://vips-livecdn.fptplay.net/live/media/vtv6/live247-hls-avc/index.m3u8",
+    "name": "VTV6 (720p)",
+    "url": "https://dethich.pw/vtv6/index.m3u8",
     "group": "Sports",
     "country_code": "ZZ",
     "country_name_zh": "ZZ",
@@ -49478,8 +49665,8 @@
     "is_active": true
   },
   {
-    "name": "VTV7 HD (1080p)",
-    "url": "https://vips-livecdn.fptplay.net/live/media/vtv7/live247-hls-avc/index.m3u8",
+    "name": "VTV7 HD (720p)",
+    "url": "https://dethich.pw/vtv7/index.m3u8",
     "group": "Undefined",
     "country_code": "ZZ",
     "country_name_zh": "ZZ",
@@ -49500,8 +49687,8 @@
     "is_active": true
   },
   {
-    "name": "VTV9 HD (1080p)",
-    "url": "https://vips-livecdn.fptplay.net/live/media/vtv9/live247-hls-avc/index.m3u8",
+    "name": "VTV9 HD (720p)",
+    "url": "https://dethich.pw/vtv9/index.m3u8",
     "group": "Undefined",
     "country_code": "ZZ",
     "country_name_zh": "ZZ",
@@ -49668,6 +49855,17 @@
     "name": "Vedia (1080p)",
     "url": "https://tvlocales-live.freecaster.com/vedia/95d2f480-b0b0-4027-9f4a-057183312305/95d2f480-b0b0-4027-9f4a-057183312305.isml/master.m3u8",
     "group": "Undefined",
+    "country_code": "ZZ",
+    "country_name_zh": "ZZ",
+    "ip_version": "domain",
+    "score": 0.0,
+    "source": "iptv-org all streams",
+    "is_active": true
+  },
+  {
+    "name": "Vedic (720p)",
+    "url": "https://d2lk5u59tns74c.cloudfront.net/out/v1/5812b1a12b62482f83c38f9c8d34cb5a/index.m3u8",
+    "group": "Religious",
     "country_code": "ZZ",
     "country_name_zh": "ZZ",
     "ip_version": "domain",
@@ -51118,7 +51316,7 @@
   },
   {
     "name": "World TV Guatemala (720p)",
-    "url": "https://183.bozztv.com/giatv/giatv-worldtvgt/worldtvgt/playlist.m3u8",
+    "url": "https://183.giatvcdn.com/giatv/giatv-worldtvgt/worldtvgt/playlist.m3u8",
     "group": "General",
     "country_code": "ZZ",
     "country_name_zh": "ZZ",
@@ -51948,17 +52146,6 @@
     "country_code": "ZZ",
     "country_name_zh": "ZZ",
     "ip_version": "domain",
-    "score": 0.0,
-    "source": "iptv-org all streams",
-    "is_active": true
-  },
-  {
-    "name": "Zee Cinema HD (1080p)",
-    "url": "http://103.135.253.32:8080/ZEE-CINEMA/index.m3u8",
-    "group": "Movies",
-    "country_code": "ZZ",
-    "country_name_zh": "ZZ",
-    "ip_version": "ipv4",
     "score": 0.0,
     "source": "iptv-org all streams",
     "is_active": true
@@ -61062,7 +61249,7 @@
   },
   {
     "name": "CBC News Network (1080p)",
-    "url": "https://d2ny9lo79ujali.cloudfront.net/CBC_News_International.m3u8",
+    "url": "https://aka-live1050.delivery.roku.com/0c24a9ef-e9c3-485c-bf68-3f1ae5ef3e85/t2-origin/out/v1/live.m3u8",
     "group": "News",
     "country_code": "CA",
     "country_name_zh": "加拿大",
@@ -61383,6 +61570,17 @@
     "name": "Canada One (720p) [Not 24/7]",
     "url": "http://cdn8.live247stream.com/canadaone/tv/playlist.m3u8",
     "group": "Undefined",
+    "country_code": "CA",
+    "country_name_zh": "加拿大",
+    "ip_version": "domain",
+    "score": 0.0,
+    "source": "iptv-org all streams",
+    "is_active": true
+  },
+  {
+    "name": "D5 Channel Punjabi (1080p)",
+    "url": "https://d5.tv360.ca:3453/live/cd5live.m3u8",
+    "group": "News",
     "country_code": "CA",
     "country_name_zh": "加拿大",
     "ip_version": "domain",
@@ -62975,8 +63173,8 @@
     "is_active": true
   },
   {
-    "name": "La Red (720p) [Not 24/7]",
-    "url": "https://alba-cl-lared-lared.stream.mediatiquestream.com/index.m3u8",
+    "name": "La Red (720p)",
+    "url": "https://ddycmnicl95kp.cloudfront.net/live/xmw27slnrnv8/master.m3u8",
     "group": "General",
     "country_code": "CL",
     "country_name_zh": "智利",
@@ -64413,6 +64611,17 @@
     "ip_version": "ipv6",
     "score": 0.0,
     "source": "fanmingming/live (ipv6)",
+    "is_active": true
+  },
+  {
+    "name": "CCTV-4 America",
+    "url": "https://h5cul1yar48um3t.wcetv.com/hls/cctv4.m3u8",
+    "group": "General",
+    "country_code": "CN",
+    "country_name_zh": "中国",
+    "ip_version": "domain",
+    "score": 0.0,
+    "source": "iptv-org all streams",
     "is_active": true
   },
   {
@@ -71844,6 +72053,17 @@
     "name": "Prima (Czech Republic) (1080p)",
     "url": "http://88.212.15.50/live/prima_avc_25p/playlist.m3u8",
     "group": "Undefined",
+    "country_code": "CZ",
+    "country_name_zh": "捷克",
+    "ip_version": "ipv4",
+    "score": 0.0,
+    "source": "iptv-org all streams",
+    "is_active": true
+  },
+  {
+    "name": "Prima 4K (2160p)",
+    "url": "http://92.180.26.103/stream/80/index.m3u8",
+    "group": "Sports",
     "country_code": "CZ",
     "country_name_zh": "捷克",
     "ip_version": "ipv4",
@@ -90574,17 +90794,6 @@
     "is_active": true
   },
   {
-    "name": "7X Music (360p)",
-    "url": "https://cdn2.in/7xPunjabihls/live.m3u8",
-    "group": "Music",
-    "country_code": "IN",
-    "country_name_zh": "印度",
-    "ip_version": "domain",
-    "score": 0.0,
-    "source": "iptv-org all streams",
-    "is_active": true
-  },
-  {
     "name": "9 Plus News (1080p)",
     "url": "https://stream.ottlive.co.in/9plusnews/index.m3u8",
     "group": "News",
@@ -90596,8 +90805,8 @@
     "is_active": true
   },
   {
-    "name": "ABN Andhra Jyoti (720p)",
-    "url": "https://mumbai-edge.smartplaytv.in/ABNAJ/index.m3u8",
+    "name": "ABN Andhra Jyoti (1080p)",
+    "url": "https://stream.ottlive.co.in/abnandhrajyothycdn/index.m3u8",
     "group": "News",
     "country_code": "IN",
     "country_name_zh": "印度",
@@ -91234,17 +91443,6 @@
     "is_active": true
   },
   {
-    "name": "Colors Cineplex HD (1080p)",
-    "url": "http://103.135.253.32:8080/COLOR-CINEPLEX/index.m3u8",
-    "group": "Movies",
-    "country_code": "IN",
-    "country_name_zh": "印度",
-    "ip_version": "ipv4",
-    "score": 0.0,
-    "source": "iptv-org all streams",
-    "is_active": true
-  },
-  {
     "name": "Colors Cineplex Superhits (576p)",
     "url": "http://163.61.226.31:9981/stream/channelid/2039746374?profile=pass",
     "group": "Movies",
@@ -91531,6 +91729,17 @@
     "is_active": true
   },
   {
+    "name": "Fateh TV (1080p)",
+    "url": "https://stream.ottlive.co.in/fatehtv/index.m3u8",
+    "group": "Religious",
+    "country_code": "IN",
+    "country_name_zh": "印度",
+    "ip_version": "domain",
+    "score": 0.0,
+    "source": "iptv-org all streams",
+    "is_active": true
+  },
+  {
     "name": "Friends TV (1080p)",
     "url": "https://server.playontv.in/friendstv/index.m3u8",
     "group": "Entertainment",
@@ -91718,6 +91927,17 @@
     "is_active": true
   },
   {
+    "name": "Har Khabar (576p)",
+    "url": "https://samitaorigin.tangotv.in/HARKHABAR/SAMITAORIGIN/index.m3u8",
+    "group": "News",
+    "country_code": "IN",
+    "country_name_zh": "印度",
+    "ip_version": "domain",
+    "score": 0.0,
+    "source": "iptv-org all streams",
+    "is_active": true
+  },
+  {
     "name": "Harvest TV (1080p)",
     "url": "https://mumbai-edge.smartplaytv.in/HarvestTV/index.m3u8",
     "group": "Religious",
@@ -91839,6 +92059,17 @@
     "is_active": true
   },
   {
+    "name": "India News Gujarati (576p)",
+    "url": "https://cdn.pishow.tv/ott/live/339/master.m3u8",
+    "group": "News",
+    "country_code": "IN",
+    "country_name_zh": "印度",
+    "ip_version": "domain",
+    "score": 0.0,
+    "source": "iptv-org all streams",
+    "is_active": true
+  },
+  {
     "name": "India TV",
     "url": "https://www.youtube.com/watch?v=e1FIApIafWE",
     "group": "India",
@@ -91850,8 +92081,8 @@
     "is_active": true
   },
   {
-    "name": "India TV (720p)",
-    "url": "https://pl-indiatvnews.akamaized.net/out/v1/db79179b608641ceaa5a4d0dd0dca8da/index.m3u8",
+    "name": "India TV (1080p)",
+    "url": "https://vg-indiatv-waves.vgcdn.net/vglive-sk-394591/playlist.m3u8",
     "group": "News",
     "country_code": "IN",
     "country_name_zh": "印度",
@@ -91894,8 +92125,8 @@
     "is_active": true
   },
   {
-    "name": "India Today (720p)",
-    "url": "https://d1rc86nwwc9fag.cloudfront.net/vglive-sk-293160/master.m3u8",
+    "name": "India Today (1080p)",
+    "url": "https://d2lk5u59tns74c.cloudfront.net/out/v1/d4435039c7d1433d9b9d0b6cdc9dd4ff/index.m3u8",
     "group": "News",
     "country_code": "IN",
     "country_name_zh": "印度",
@@ -91982,8 +92213,8 @@
     "is_active": true
   },
   {
-    "name": "KTV Bangla (720p)",
-    "url": "https://server.livelegitpro.in:9899/tribetv/tribetv/index.m3u8",
+    "name": "KTV Bangla (1080p)",
+    "url": "https://stream.ottlive.co.in/ktvbangla/index.m3u8",
     "group": "General",
     "country_code": "IN",
     "country_name_zh": "印度",
@@ -92246,17 +92477,6 @@
     "is_active": true
   },
   {
-    "name": "Mathrubhumi News (576p)",
-    "url": "https://streams.tangotv.in/MATHRUBHUMINEWS/ORIGIN/index.m3u8",
-    "group": "News",
-    "country_code": "IN",
-    "country_name_zh": "印度",
-    "ip_version": "domain",
-    "score": 0.0,
-    "source": "iptv-org all streams",
-    "is_active": true
-  },
-  {
     "name": "Mercy TV (India) (1080p)",
     "url": "https://5dd3981940faa.streamlock.net/mercytv/mercytv/playlist.m3u8",
     "group": "Religious",
@@ -92323,8 +92543,19 @@
     "is_active": true
   },
   {
-    "name": "NDTV (576p)",
-    "url": "https://cdn.pishow.tv/ott/live/315/master.m3u8",
+    "name": "Munsif TV (1080p)",
+    "url": "https://stream.ottlive.co.in/munsiftv/index.m3u8",
+    "group": "News",
+    "country_code": "IN",
+    "country_name_zh": "印度",
+    "ip_version": "domain",
+    "score": 0.0,
+    "source": "iptv-org all streams",
+    "is_active": true
+  },
+  {
+    "name": "NDTV (1080p)",
+    "url": "https://yupprestreamliveus.akamaized.net/v1/vglive-sk-401405/0194a671d8dd1ebd416a3e0a8a4524/0194a67abb941ebd47043cd206ba4f/main.m3u8",
     "group": "News",
     "country_code": "IN",
     "country_name_zh": "印度",
@@ -92378,8 +92609,8 @@
     "is_active": true
   },
   {
-    "name": "NDTV India (720p)",
-    "url": "https://mumbai-edge.smartplaytv.in/NDTVIndia/index.m3u8",
+    "name": "NDTV India (1080p)",
+    "url": "https://backupndtvindiaelemarchana.akamaized.net/hls/live/2004134/ndtvindia/master_1.m3u8",
     "group": "News",
     "country_code": "IN",
     "country_name_zh": "印度",
@@ -92469,6 +92700,17 @@
     "name": "Nagaland TV (576p)",
     "url": "https://mumt06.tangotv.in/qYyB8fXVNAGALANDTV/index.m3u8",
     "group": "News",
+    "country_code": "IN",
+    "country_name_zh": "印度",
+    "ip_version": "domain",
+    "score": 0.0,
+    "source": "iptv-org all streams",
+    "is_active": true
+  },
+  {
+    "name": "Namdhari TV (576p)",
+    "url": "https://samitaorigin.tangotv.in/NAMDHARICHANNEL/SAMITAORIGIN/index.m3u8",
+    "group": "Religious",
     "country_code": "IN",
     "country_name_zh": "印度",
     "ip_version": "domain",
@@ -92600,6 +92842,17 @@
   {
     "name": "News Marathi 24x7 (1080p)",
     "url": "https://stream.ottlive.co.in/newsmarathi/index.m3u8",
+    "group": "News",
+    "country_code": "IN",
+    "country_name_zh": "印度",
+    "ip_version": "domain",
+    "score": 0.0,
+    "source": "iptv-org all streams",
+    "is_active": true
+  },
+  {
+    "name": "News TV India (720p)",
+    "url": "https://streamlive.livebox.co.in/NewsTVIndiahls/live.m3u8",
     "group": "News",
     "country_code": "IN",
     "country_name_zh": "印度",
@@ -93060,6 +93313,17 @@
     "is_active": true
   },
   {
+    "name": "Raj Pariwar (576p)",
+    "url": "https://livestream.rajtvnet.in/hlslive/Admin/px08241089/live/Raj_Pariwar/master_1.m3u8",
+    "group": "News",
+    "country_code": "IN",
+    "country_name_zh": "印度",
+    "ip_version": "domain",
+    "score": 0.0,
+    "source": "iptv-org all streams",
+    "is_active": true
+  },
+  {
     "name": "Ramdhenu (576p)",
     "url": "https://mumt01.tangotv.in/O5aw8Zn3RAMDHENU/index.m3u8",
     "group": "Undefined",
@@ -93106,6 +93370,17 @@
   {
     "name": "Rozana Spokesman (1080p)",
     "url": "https://live1.ottlive.co.in/spokesman/spokesman/index.m3u8",
+    "group": "News",
+    "country_code": "IN",
+    "country_name_zh": "印度",
+    "ip_version": "domain",
+    "score": 0.0,
+    "source": "iptv-org all streams",
+    "is_active": true
+  },
+  {
+    "name": "SITI 24x7 (1080p)",
+    "url": "https://www.schannels.in/SITI24X7_1/index.m3u8",
     "group": "News",
     "country_code": "IN",
     "country_name_zh": "印度",
@@ -93214,8 +93489,8 @@
     "is_active": true
   },
   {
-    "name": "Sandesh News (576p)",
-    "url": "https://mumt01.tangotv.in/O5aw8Zn3SANDESHNEWS/index.m3u8",
+    "name": "Sandesh News (1080p)",
+    "url": "https://stream.ottlive.co.in/sandeshnews/index.m3u8",
     "group": "News",
     "country_code": "IN",
     "country_name_zh": "印度",
@@ -93434,8 +93709,8 @@
     "is_active": true
   },
   {
-    "name": "Sony Aath (576p)",
-    "url": "http://103.165.93.31:8095/sonyAath/index.m3u8",
+    "name": "Sony Aath (1080p)",
+    "url": "http://27.124.71.27/Sony_Aath/index.m3u8",
     "group": "Entertainment",
     "country_code": "IN",
     "country_name_zh": "印度",
@@ -93467,12 +93742,12 @@
     "is_active": true
   },
   {
-    "name": "Sony Max HD (1080p)",
-    "url": "http://103.135.253.32:8080/Sony-Max-HD/index.m3u8",
+    "name": "Sony Max 1 (720p)",
+    "url": "https://bdix.ottking.top:8082/Sony-Max-1/video.m3u8?token=Sami-TV",
     "group": "Movies",
     "country_code": "IN",
     "country_name_zh": "印度",
-    "ip_version": "ipv4",
+    "ip_version": "domain",
     "score": 0.0,
     "source": "iptv-org all streams",
     "is_active": true
@@ -93569,17 +93844,6 @@
     "name": "Star Bharat (India) HD (1080p)",
     "url": "http://103.135.253.32:8080/STAR-BHARAT/index.m3u8",
     "group": "News",
-    "country_code": "IN",
-    "country_name_zh": "印度",
-    "ip_version": "ipv4",
-    "score": 0.0,
-    "source": "iptv-org all streams",
-    "is_active": true
-  },
-  {
-    "name": "Star Movies (India) HD (1080p)",
-    "url": "http://103.135.253.32:8080/STAR-MOVIES/index.m3u8",
-    "group": "Movies",
     "country_code": "IN",
     "country_name_zh": "印度",
     "ip_version": "ipv4",
@@ -93808,17 +94072,6 @@
     "is_active": true
   },
   {
-    "name": "TV9 Kannada (576p)",
-    "url": "https://mumbai-edge.smartplaytv.in/tv9kannada/index.m3u8",
-    "group": "News",
-    "country_code": "IN",
-    "country_name_zh": "印度",
-    "ip_version": "domain",
-    "score": 0.0,
-    "source": "iptv-org all streams",
-    "is_active": true
-  },
-  {
     "name": "TV9 Marathi",
     "url": "https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9marlygv8h/liveabr/playlist.m3u8",
     "group": "India",
@@ -93940,6 +94193,17 @@
     "is_active": true
   },
   {
+    "name": "The Unmute (1080p)",
+    "url": "https://stream.ottlive.co.in/unmute/index.m3u8",
+    "group": "News",
+    "country_code": "IN",
+    "country_name_zh": "印度",
+    "ip_version": "domain",
+    "score": 0.0,
+    "source": "iptv-org all streams",
+    "is_active": true
+  },
+  {
     "name": "The Voice TV (1080p)",
     "url": "https://legitpro.co.in/thevoicetv/thevoicetv/index.m3u8",
     "group": "News",
@@ -93965,17 +94229,6 @@
     "name": "Top News Marathi (1080p)",
     "url": "https://live1.ottlive.co.in/topnewsmarathi/topnewsmarathi/index.m3u8",
     "group": "News",
-    "country_code": "IN",
-    "country_name_zh": "印度",
-    "ip_version": "domain",
-    "score": 0.0,
-    "source": "iptv-org all streams",
-    "is_active": true
-  },
-  {
-    "name": "Total TV Haryana (576p)",
-    "url": "https://mumt04.tangotv.in/m18aqlK4TOTALTV/index.m3u8",
-    "group": "Undefined",
     "country_code": "IN",
     "country_name_zh": "印度",
     "ip_version": "domain",
@@ -94195,17 +94448,6 @@
   {
     "name": "Zoom (India) (720p)",
     "url": "https://dai.google.com/linear/hls/event/JCAm25qkRXiKcK1AJMlvKQ/master.m3u8",
-    "group": "Music",
-    "country_code": "IN",
-    "country_name_zh": "印度",
-    "ip_version": "domain",
-    "score": 0.0,
-    "source": "iptv-org all streams",
-    "is_active": true
-  },
-  {
-    "name": "Zoom (India) Nepal (720p)",
-    "url": "https://pubads.g.doubleclick.net/ssai/event/JCAm25qkRXiKcK1AJMlvKQ/master.m3u8",
     "group": "Music",
     "country_code": "IN",
     "country_name_zh": "印度",
@@ -106722,6 +106964,17 @@
     "is_active": true
   },
   {
+    "name": "Bicolor+ Premium 2 (720p)",
+    "url": "https://live-evg10.tv360.bitel.com.pe/bitel/bicolorpremium2_abr/playlist.m3u8",
+    "group": "Sports",
+    "country_code": "PE",
+    "country_name_zh": "秘鲁",
+    "ip_version": "domain",
+    "score": 0.0,
+    "source": "iptv-org all streams",
+    "is_active": true
+  },
+  {
     "name": "Bicolor+ Premium [Geo-blocked]",
     "url": "https://live-evg10.tv360.bitel.com.pe/bitel/bicolorpremium_abr/bitel/bicolorpremium_720p/chunks.m3u8",
     "group": "Sports",
@@ -107899,8 +108152,8 @@
     "is_active": true
   },
   {
-    "name": "Bharat Express (576p)",
-    "url": "https://cdn.pishow.tv/ott/live/1139/master.m3u8",
+    "name": "Bharat Express (1080p)",
+    "url": "https://stream.ottlive.co.in/bharatexpress/index.m3u8",
     "group": "News",
     "country_code": "PK",
     "country_name_zh": "巴基斯坦",
@@ -111628,6 +111881,17 @@
     "is_active": true
   },
   {
+    "name": "TV1 (Romania) (576i)",
+    "url": "https://netstreaming.eu/tv1.m3u8",
+    "group": "General",
+    "country_code": "RO",
+    "country_name_zh": "罗马尼亚",
+    "ip_version": "domain",
+    "score": 0.0,
+    "source": "iptv-org all streams",
+    "is_active": true
+  },
+  {
     "name": "TVR 1",
     "url": "https://tvr-1.lg.mncdn.com/tvr1/smil:tvr1.smil/playlist.m3u8",
     "group": "Romania",
@@ -112532,6 +112796,17 @@
   {
     "name": "Eurosport 2 Russia (1080p)",
     "url": "https://s7.iptv-24.net/1452/playlist.m3u8",
+    "group": "Sports",
+    "country_code": "RU",
+    "country_name_zh": "俄罗斯",
+    "ip_version": "domain",
+    "score": 0.0,
+    "source": "iptv-org all streams",
+    "is_active": true
+  },
+  {
+    "name": "FON TV (1080p)",
+    "url": "https://fontvlive.mediacdn.ru/stream/fontv/playlist.m3u8",
     "group": "Sports",
     "country_code": "RU",
     "country_name_zh": "俄罗斯",
@@ -114161,6 +114436,17 @@
     "name": "TeleDom",
     "url": "https://iam-profi.ru/hls-live/livepkgr/_definst_/liveevent/td720.m3u8",
     "group": "Undefined",
+    "country_code": "RU",
+    "country_name_zh": "俄罗斯",
+    "ip_version": "domain",
+    "score": 0.0,
+    "source": "iptv-org all streams",
+    "is_active": true
+  },
+  {
+    "name": "Telecafe (Russia) (1080p)",
+    "url": "http://s1.merlive.am/telekafe/index.m3u8",
+    "group": "Cooking",
     "country_code": "RU",
     "country_name_zh": "俄罗斯",
     "ip_version": "domain",
@@ -117747,17 +118033,6 @@
     "name": "Sporty TV",
     "url": "https://dash2.antik.sk/live/sporty_tv/index.m3u8",
     "group": "Sports",
-    "country_code": "SK",
-    "country_name_zh": "斯洛伐克",
-    "ip_version": "domain",
-    "score": 0.0,
-    "source": "iptv-org all streams",
-    "is_active": true
-  },
-  {
-    "name": "Star Cinema",
-    "url": "https://dash2.antik.sk/live/test_star_cinema_atktv/playlist.m3u8",
-    "group": "Movies",
     "country_code": "SK",
     "country_name_zh": "斯洛伐克",
     "ip_version": "domain",
@@ -124762,12 +125037,23 @@
     "is_active": true
   },
   {
-    "name": "Cartoon Network (United States) (720p) [Geo-blocked]",
+    "name": "Cartoon Network (United States) West (1080p) [Geo-blocked]",
     "url": "http://212.5.144.156:8080/cartoon/index.m3u8",
     "group": "Animation;Kids",
     "country_code": "US",
     "country_name_zh": "美国",
     "ip_version": "ipv4",
+    "score": 0.0,
+    "source": "iptv-org United States",
+    "is_active": true
+  },
+  {
+    "name": "Cartoon Network (United States) [Not 24/7;Geo-blocked]",
+    "url": "https://turnerlive.warnermediacdn.com/hls/live/2023160/tooneast/noslate/VIDEO_3_1928000.m3u8",
+    "group": "Animation;Kids",
+    "country_code": "US",
+    "country_name_zh": "美国",
+    "ip_version": "domain",
     "score": 0.0,
     "source": "iptv-org United States",
     "is_active": true
@@ -126423,17 +126709,6 @@
     "is_active": true
   },
   {
-    "name": "Disney Channel (India) HD (1080p)",
-    "url": "http://66.102.126.10:8000/play/a013/index.m3u8",
-    "group": "Kids",
-    "country_code": "US",
-    "country_name_zh": "美国",
-    "ip_version": "ipv4",
-    "score": 0.0,
-    "source": "iptv-org all streams",
-    "is_active": true
-  },
-  {
     "name": "Disney Channel (United States) (720p)",
     "url": "http://4.30.180.36:8420/disneychannel/index.m3u8?token=test",
     "group": "Kids",
@@ -126561,6 +126836,17 @@
     "country_code": "US",
     "country_name_zh": "美国",
     "ip_version": "domain",
+    "score": 0.0,
+    "source": "iptv-org all streams",
+    "is_active": true
+  },
+  {
+    "name": "Disney Junior (Poland) (576p)",
+    "url": "http://111.88.7.92:8000/play/a00o/index.m3u8",
+    "group": "Kids",
+    "country_code": "US",
+    "country_name_zh": "美国",
+    "ip_version": "ipv4",
     "score": 0.0,
     "source": "iptv-org all streams",
     "is_active": true
@@ -126984,6 +127270,17 @@
     "is_active": true
   },
   {
+    "name": "ESPN Premium",
+    "url": "http://45.134.141.161:2200/ARG/ESPN_Premium_Argentina_HD/tracks-v1a1/mono.m3u8",
+    "group": "Sports",
+    "country_code": "US",
+    "country_name_zh": "美国",
+    "ip_version": "ipv4",
+    "score": 0.0,
+    "source": "iptv-org all streams",
+    "is_active": true
+  },
+  {
     "name": "ESPN Premium HD (1080p)",
     "url": "http://158.172.155.130:8000/play/a0ao/index.m3u8",
     "group": "Sports",
@@ -127311,6 +127608,17 @@
     "ip_version": "ipv4",
     "score": 0.0,
     "source": "iptv-org all streams",
+    "is_active": true
+  },
+  {
+    "name": "FOX Live Now",
+    "url": "https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8",
+    "group": "USA",
+    "country_code": "US",
+    "country_name_zh": "美国",
+    "ip_version": "domain",
+    "score": 0.0,
+    "source": "Free-TV/IPTV (global)",
     "is_active": true
   },
   {
@@ -127897,8 +128205,19 @@
     "is_active": true
   },
   {
-    "name": "Fox Weather (720p)",
+    "name": "Fox Weather",
     "url": "https://247wlive.foxweather.com/stream/index.m3u8",
+    "group": "Weather",
+    "country_code": "US",
+    "country_name_zh": "美国",
+    "ip_version": "domain",
+    "score": 0.0,
+    "source": "Free-TV/IPTV (global)",
+    "is_active": true
+  },
+  {
+    "name": "Fox Weather (1080p)",
+    "url": "https://aka-live1050.delivery.roku.com/2ff50939-341e-4fa8-becf-718769322f14/t2-origin/out/v1/live.m3u8",
     "group": "Weather",
     "country_code": "US",
     "country_name_zh": "美国",
@@ -130339,8 +130658,8 @@
     "is_active": true
   },
   {
-    "name": "LiveNOW from FOX (720p)",
-    "url": "https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8",
+    "name": "LiveNOW from FOX (1080p)",
+    "url": "https://aka-live1050.delivery.roku.com/eaf7d889-16e0-4c14-a299-a2932df9f467/t2-origin/out/v1/live.m3u8",
     "group": "News",
     "country_code": "US",
     "country_name_zh": "美国",
@@ -132798,17 +133117,6 @@
     "country_code": "US",
     "country_name_zh": "美国",
     "ip_version": "domain",
-    "score": 0.0,
-    "source": "iptv-org all streams",
-    "is_active": true
-  },
-  {
-    "name": "National Geographic (India) HD (1080p)",
-    "url": "http://103.135.253.32:8080/NATGEO-HD/index.m3u8",
-    "group": "Documentary",
-    "country_code": "US",
-    "country_name_zh": "美国",
-    "ip_version": "ipv4",
     "score": 0.0,
     "source": "iptv-org all streams",
     "is_active": true
@@ -135982,6 +136290,17 @@
     "is_active": true
   },
   {
+    "name": "Scares by Shudder (1080p)",
+    "url": "https://wurlrainbowmedia.global.transmit.live/hls/68c49e4709574e8405506cb3/v1/amc_scaresbyshudder_1/lg_us/latest/main/hls/playlist.m3u8",
+    "group": "Movies",
+    "country_code": "US",
+    "country_name_zh": "美国",
+    "ip_version": "domain",
+    "score": 0.0,
+    "source": "iptv-org United States",
+    "is_active": true
+  },
+  {
     "name": "Schwab Network (1080p)",
     "url": "https://content.uplynk.com/channel/f9aafa1f132e40af9b9e7238bc18d128.m3u8",
     "group": "Business",
@@ -136049,7 +136368,7 @@
   },
   {
     "name": "Scripps News (1080p)",
-    "url": "https://aegis-cloudfront-1.tubi.video/7e1c26b7-7975-4240-9a4f-480eaa8f3ea4/playlist.m3u8",
+    "url": "https://aka-live1050.delivery.roku.com/a48b72c9-5755-4ede-9dac-9e51e4ca5cc8/t2-origin/out/v1/live.m3u8",
     "group": "News",
     "country_code": "US",
     "country_name_zh": "美国",
@@ -137049,12 +137368,12 @@
     "is_active": true
   },
   {
-    "name": "TNT Sports Premium HD (1080p)",
-    "url": "http://205.235.6.29:8000/play/a104/index.m3u8",
+    "name": "TNT Sports Premium HD",
+    "url": "https://play-fulltv.com.ar/playtvpre/tntsportschile.m3u8",
     "group": "Sports",
     "country_code": "US",
     "country_name_zh": "美国",
-    "ip_version": "ipv4",
+    "ip_version": "domain",
     "score": 0.0,
     "source": "iptv-org all streams",
     "is_active": true
@@ -140602,8 +140921,8 @@
     "is_active": true
   },
   {
-    "name": "VTV News (576p)",
-    "url": "https://d1msejlow1t3l4.cloudfront.net/fta/vtvgujarati/playlist.m3u8",
+    "name": "VTV News (1080p)",
+    "url": "https://d2lk5u59tns74c.cloudfront.net/out/v1/bbbd0954bad143e783c4bd3ab6ed05bc/index.m3u8",
     "group": "News",
     "country_code": "VN",
     "country_name_zh": "越南",
@@ -140624,8 +140943,8 @@
     "is_active": true
   },
   {
-    "name": "VTV1 HD (1080p)",
-    "url": "https://vips-livecdn.fptplay.net/live/media/vtv1/live247-hls-avc/index.m3u8",
+    "name": "VTV1 HD (720p)",
+    "url": "https://dethich.pw/vtv1/index.m3u8",
     "group": "Undefined",
     "country_code": "VN",
     "country_name_zh": "越南",
@@ -140635,8 +140954,8 @@
     "is_active": true
   },
   {
-    "name": "VTV3 HD (1080p)",
-    "url": "https://vips-livecdn.fptplay.net/live/media/vtv3/live247-hls-avc/index.m3u8",
+    "name": "VTV3 HD (720p)",
+    "url": "https://dethich.pw/vtv3/index.m3u8",
     "group": "Undefined",
     "country_code": "VN",
     "country_name_zh": "越南",

@@ -1,7 +1,7 @@
 #EXTM3U
 #PLAYLIST: 中国 (CN) IPTV 直播源
-#生成时间: 2026-11-11 21:03:26
-#频道数: 644
+#生成时间: 2026-11-12 09:17:27
+#频道数: 645
 
 # ===== 中国 (CN) =====
 
@@ -205,6 +205,9 @@ rtp://239.3.1.172:8001
 
 #EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/CCTV4.png" group-title="中国",CCTV-4
 http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226335/1.m3u8?
+
+#EXTINF:-1 tvg-id="CCTV4America.cn@SD" tvg-logo="https://i.imgur.com/gBbLyqh.png" group-title="中国",CCTV-4 America
+https://h5cul1yar48um3t.wcetv.com/hls/cctv4.m3u8
 
 #EXTINF:-1 tvg-id="CCTV4Europe.cn" tvg-logo="https://i.imgur.com/kx8metk.png" group-title="中国",CCTV-4 中文国际（欧）
 https://dash2.antik.sk/live/test_cctv_tizen/playlist.m3u8
