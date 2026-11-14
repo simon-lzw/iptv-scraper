@@ -1,7 +1,7 @@
 #EXTM3U
 #PLAYLIST: 美国 (US) IPTV 直播源
-#生成时间: 2026-11-13 20:45:57
-#频道数: 1773
+#生成时间: 2026-11-14 08:36:07
+#频道数: 1774
 
 # ===== 美国 (US) =====
 
@@ -3460,6 +3460,9 @@ https://jmp2.uk/plu-5ca6748a37b88b269472dad9.m3u8
 
 #EXTINF:-1 tvg-id="Nickelodeon.bg@SD" tvg-logo="https://i.imgur.com/E84jnP8.png" group-title="美国",Nickelodeon (Bulgaria)
 http://87.120.179.187:8000/play/a00x
+
+#EXTINF:-1 tvg-id="Nickelodeon.hr@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Nickelodeon_2009_logo.svg/960px-Nickelodeon_2009_logo.svg.png" group-title="美国",Nickelodeon (Croatia) (720p)
+http://5.175.174.49:1234/stream/maxtvhr/nickelodeonhr/master.m3u8
 
 #EXTINF:-1 tvg-id="Nickelodeon.de@SD" tvg-logo="https://i.imgur.com/E84jnP8.png" group-title="美国",Nickelodeon (Germany)
 https://ma.anixa.tv/clips/stream/nickelodeon/playlist.php

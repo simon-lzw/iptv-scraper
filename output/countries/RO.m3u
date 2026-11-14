@@ -1,7 +1,7 @@
 #EXTM3U
 #PLAYLIST: 罗马尼亚 (RO) IPTV 直播源
-#生成时间: 2026-11-13 20:45:57
-#频道数: 141
+#生成时间: 2026-11-14 08:36:07
+#频道数: 142
 
 # ===== 罗马尼亚 (RO) =====
 
@@ -226,6 +226,9 @@ https://moldovatv.ro/live-tv/live.m3u8
 
 #EXTINF:-1 tvg-id="NCN.ro@SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c3/NCN.svg/revision/latest/scale-to-width-down/1000?cb=20191223182658" group-title="罗马尼亚",NCN (576p)
 https://hls01ns.antenaplay.ro/hls/ncn-sd/index.m3u8
+
+#EXTINF:-1 tvg-id="NHLAntenaPlay.ro@SD" tvg-logo="https://assets.antenaplay.ro/2024/10/25/SN0nevshXwKDcZ2Tw1jm.png" group-title="罗马尼亚",NHL AntenaPlay (576i) [Not 24/7]
+https://stream1.antenaplay.ro/promo/nhl-12-1411/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="National24Plus.ro@SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/26/National_24_Plus_TV.svg/revision/latest/scale-to-width-down/1000?cb=20250202201124" group-title="罗马尼亚",National 24 Plus
 https://hls01ns.antenaplay.ro/hls/n24-plus-sd/index.m3u8
