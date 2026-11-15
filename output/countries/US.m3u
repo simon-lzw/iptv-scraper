@@ -1,7 +1,7 @@
 #EXTM3U
 #PLAYLIST: 美国 (US) IPTV 直播源
-#生成时间: 2026-11-14 18:57:30
-#频道数: 1774
+#生成时间: 2026-11-15 08:49:36
+#频道数: 1782
 
 # ===== 美国 (US) =====
 
@@ -764,9 +764,6 @@ https://jmp2.uk/plu-686d61503484d6073283059d.m3u8
 #EXTINF:-1 tvg-id="BlackInkCrew.us@SD" tvg-logo="https://i.imgur.com/QnuIVB6.png" group-title="美国",Black Ink Crew
 https://jmp2.uk/plu-5d51e2bceca5b4b2c0e06c50.m3u8
 
-#EXTINF:-1 tvg-id="BlackNewsChannel.us@SD" tvg-logo="https://i.imgur.com/oX5oR4d.png" group-title="美国",Black News Channel (1080p)
-https://blacknewschannel-xumo-us.amagi.tv/playlist.m3u8
-
 #EXTINF:-1 tvg-id="BlazeLive.us@SD" tvg-logo="https://i.imgur.com/GwxneSQ.png" group-title="美国",Blaze Live (720p)
 https://jmp2.uk/plu-5e46fba0c43b0d00096e5ac1.m3u8
 
@@ -1145,11 +1142,11 @@ https://vodzong.mjunoon.tv:8087/streamtest/cartoon-network-87/live/87H/chunks.m3
 #EXTINF:-1 tvg-id="CartoonNetwork.tr@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/960px-Cartoon_Network_2010_logo.svg.png" group-title="美国",Cartoon Network (Turkiye)
 http://176.65.153.40:6002/play/a013/index.m3u8
 
+#EXTINF:-1 tvg-id="CartoonNetwork.us@East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/960px-Cartoon_Network_2010_logo.svg.png" group-title="美国",Cartoon Network (United States) (1080p)
+https://tvnow.hostless.app/cartoon-network.m3u8
+
 #EXTINF:-1 tvg-id="CartoonNetwork.us@West" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/960px-Cartoon_Network_2010_logo.svg.png" group-title="美国",Cartoon Network (United States) West (1080p) [Geo-blocked]
 http://212.5.144.156:8080/cartoon/index.m3u8
-
-#EXTINF:-1 tvg-id="CartoonNetwork.us@East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/960px-Cartoon_Network_2010_logo.svg.png" group-title="美国",Cartoon Network (United States) [Not 24/7;Geo-blocked]
-https://turnerlive.warnermediacdn.com/hls/live/2023160/tooneast/noslate/VIDEO_3_1928000.m3u8
 
 #EXTINF:-1 tvg-id="CartoonNetworkAsia.sg@Thailand" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/960px-Cartoon_Network_2010_logo.svg.png" group-title="美国",Cartoon Network Asia Thailand
 http://103.253.74.210:7070/stream/118/index.m3u8
@@ -1348,6 +1345,9 @@ https://aegis-cloudfront-1.tubi.video/1e764712-0649-4946-bd7e-f1bbba3be6fa/playl
 
 #EXTINF:-1 tvg-id="CollierTV.us@SD" tvg-logo="https://i.imgur.com/dkpTHI9.png" group-title="美国",Collier TV (720p)
 https://reflect-collier-countyboc.cablecast.tv/live-4/live/stream-1/live.m3u8
+
+#EXTINF:-1 tvg-id="ComedyCentral.us@East" tvg-logo="https://images.pluto.tv/channels/64f8a408bd341e000818fcda/colorLogoPNG.png" group-title="美国",Comedy Central (United States) (1080p)
+https://tvnow.hostless.app/comedy-central.m3u8
 
 #EXTINF:-1 tvg-id="ComedyCentral.us@CA" tvg-logo="https://images.pluto.tv/channels/64f8a408bd341e000818fcda/colorLogoPNG.png" group-title="美国",Comedy Central (United States) CA
 https://jmp2.uk/plu-64f8a408bd341e000818fcda.m3u8
@@ -1556,6 +1556,9 @@ http://45.171.64.30:6060/play/a032/index.m3u8
 #EXTINF:-1 tvg-id="DiscoveryChannelLatinAmerica.us@South" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/960px-2019_Discovery_logo.svg.png" group-title="美国",Discovery Channel Latin America South
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/20.m3u8
 
+#EXTINF:-1 tvg-id="DiscoveryChannelMiddleEastAfrica.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/960px-2019_Discovery_logo.svg.png" group-title="美国",Discovery Channel Middle East & Africa (720p)
+http://85.237.89.159:3342/ar-s/Discovery-HD/index.m3u8
+
 #EXTINF:-1 tvg-id="DiscoveryHistory.uk@SD" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb2407.png" group-title="美国",Discovery History
 http://37.49.224.5/stream/12/index.m3u8
 
@@ -1640,8 +1643,8 @@ http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/disney_jr.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="DisneyJunior.pl@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e3/2024_Disney_Jr._Logo.svg" group-title="美国",Disney Junior (Poland) (576p)
 http://111.88.7.92:8000/play/a00o/index.m3u8
 
-#EXTINF:-1 tvg-id="DisneyJunior.us@East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/2024_Disney_Jr._Logo.svg/960px-2024_Disney_Jr._Logo.svg.png" group-title="美国",Disney Junior (United States) (480p)
-http://tvsen5.aynascope.net/disney/index.m3u8
+#EXTINF:-1 tvg-id="DisneyJunior.us@East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/2024_Disney_Jr._Logo.svg/960px-2024_Disney_Jr._Logo.svg.png" group-title="美国",Disney Junior (United States) (720p)
+https://tvnow.hostless.app/disney-junior.m3u8
 
 #EXTINF:-1 tvg-id="DisneyXD.us@East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/2015_Disney_XD_logo.svg/960px-2015_Disney_XD_logo.svg.png" group-title="美国",Disney XD (United States) (720p)
 http://89.187.179.148:826/1368/gXwiagaXda/1672
@@ -1703,7 +1706,7 @@ https://dutatv.siar.us/dutatv/live/playlist.m3u8
 #EXTINF:-1 tvg-id="Dynasty.us@SD" tvg-logo="https://images.pluto.tv/channels/62e919ca865c590007ecd0bd/colorLogoPNG.png" group-title="美国",Dynasty
 https://jmp2.uk/plu-64d1606b4c5ed80008e3b8b9.m3u8
 
-#EXTINF:-1 tvg-id="E.us@East" tvg-logo="https://i.imgur.com/TWFDkap.png" group-title="美国",E! East (1080p)
+#EXTINF:-1 tvg-id="E.us@East" tvg-logo="https://i.imgur.com/TWFDkap.png" group-title="美国",E! (United States) East (1080p)
 http://23.237.104.106:8080/USA_E/index.m3u8
 
 #EXTINF:-1 tvg-id="EKeepingUp.us@SD" tvg-logo="https://i.imgur.com/9F7VYDM.png" group-title="美国",E! Keeping Up (1080p)
@@ -3018,19 +3021,19 @@ https://jmp2.uk/plu-63da365f60bc8f0008a50f44.m3u8
 https://maverick-maverick-black-cinema-3-us.roku.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Maxcine.us@HD" tvg-logo="https://gia.tv/streams/pptv/208138.png" group-title="美国",Maxcine (720p)
-https://live20.bozztv.com/giatvplayout7/giatv-208138/playlist.m3u8
+https://183.giatvcdn.com/giatvplayout7/giatv-208138/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Maxcine2.us@HD" tvg-logo="https://gia.tv/streams/pptv/209163.png" group-title="美国",Maxcine 2 (720p)
-https://live20.bozztv.com/giatvplayout7/giatv-209163/playlist.m3u8
+https://183.giatvcdn.com/giatvplayout7/giatv-209163/playlist.m3u8
 
 #EXTINF:-1 tvg-id="MaxcineComedy.us@HD" tvg-logo="https://gia.tv/streams/pptv/208730.png" group-title="美国",Maxcine Comedy (720p)
-https://live20.bozztv.com/giatvplayout7/giatv-208730/playlist.m3u8
+https://183.giatvcdn.com/giatvplayout7/giatv-208730/playlist.m3u8
 
 #EXTINF:-1 tvg-id="MaxcineFamily.us@HD" tvg-logo="https://gia.tv/streams/pptv/208817.png" group-title="美国",Maxcine Family (720p)
-https://live20.bozztv.com/giatvplayout7/giatv-208817/playlist.m3u8
+https://183.giatvcdn.com/giatvplayout7/giatv-208817/playlist.m3u8
 
 #EXTINF:-1 tvg-id="MaxcineKids.us@HD" tvg-logo="https://gia.tv/streams/pptv/209909.png" group-title="美国",Maxcine Kids (720p)
-https://live20.bozztv.com/giatvplayout7/giatv-209909/playlist.m3u8
+https://183.giatvcdn.com/giatvplayout7/giatv-209909/playlist.m3u8
 
 #EXTINF:-1 tvg-id="MeTVToons.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/MeTV_Toons.png/250px-MeTV_Toons.png" group-title="美国",MeTV Toons
 https://sr-live-weigel1.akamaized.net/out/v1/0d1dbf29e64e47bc991796cc24fbeb97/index_2.m3u8
@@ -3446,8 +3449,8 @@ https://nmx1ota.akamaized.net/hls/live/2107010/Live_1/index.m3u8
 #EXTINF:-1 tvg-id="Newsy.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Newsy_2021.svg/960px-Newsy_2021.svg.png" group-title="美国",Newsy (1080p)
 https://547f72e6652371c3.mediapackage.us-east-1.amazonaws.com/out/v1/e3e6e29095844c4ba7d887f01e44a5ef/index.m3u8
 
-#EXTINF:-1 tvg-id="NickJr.us@East" tvg-logo="https://i.imgur.com/KT4tdQs.png" group-title="美国",Nick Jr. (United States) (720p)
-http://212.5.144.156:8080/nickjr/index.m3u8
+#EXTINF:-1 tvg-id="NickJr.us@East" tvg-logo="https://i.imgur.com/KT4tdQs.png" group-title="美国",Nick Jr. (United States) (1080p)
+https://tvnow.hostless.app/nick-jr.m3u8
 
 #EXTINF:-1 tvg-id="NickJrClub.us@BR" tvg-logo="https://images.pluto.tv/channels/5f121460b73ac6000719fbaf/colorLogoPNG_1748348856602.png" group-title="美国",Nick Jr. Club (United States) BR (720p)
 https://jmp2.uk/plu-6824ce95f09106f4b18f4114.m3u8
@@ -3464,6 +3467,9 @@ http://87.120.179.187:8000/play/a00x
 #EXTINF:-1 tvg-id="Nickelodeon.hr@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Nickelodeon_2009_logo.svg/960px-Nickelodeon_2009_logo.svg.png" group-title="美国",Nickelodeon (Croatia) (720p)
 http://5.175.174.49:1234/stream/maxtvhr/nickelodeonhr/master.m3u8
 
+#EXTINF:-1 tvg-id="Nickelodeon.fr@SD" tvg-logo="https://i.imgur.com/E84jnP8.png" group-title="美国",Nickelodeon (France) (720p)
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/nickelodeon/live.livx/playlist.m3u8
+
 #EXTINF:-1 tvg-id="Nickelodeon.de@SD" tvg-logo="https://i.imgur.com/E84jnP8.png" group-title="美国",Nickelodeon (Germany)
 https://ma.anixa.tv/clips/stream/nickelodeon/playlist.php
 
@@ -3479,6 +3485,12 @@ http://178.76.68.60:7442/64/mpegts
 #EXTINF:-1 tvg-id="Nickelodeon.ru@SD" tvg-logo="https://i.imgur.com/w8iE8dV.png" group-title="美国",Nickelodeon (Russia) (576p)
 http://stream.mcquack.net/443/index.m3u8
 
+#EXTINF:-1 tvg-id="Nickelodeon.us@East" tvg-logo="https://i.imgur.com/E84jnP8.png" group-title="美国",Nickelodeon (United States) (1080p)
+https://tvnow.hostless.app/nickelodeon.m3u8
+
+#EXTINF:-1 tvg-id="NickelodeonArabia.ae@SD" tvg-logo="https://i.imgur.com/E84jnP8.png" group-title="美国",Nickelodeon Arabia (1080i)
+http://85.237.89.159:3342/ar-s/Nickelodeon/index.m3u8
+
 #EXTINF:-1 tvg-id="NickelodeonCIS.kz@SD" tvg-logo="https://i.imgur.com/E84jnP8.png" group-title="美国",Nickelodeon CIS (1080p)
 https://stream8.cinerama.uz/1500/playlist.m3u8
 
@@ -3490,6 +3502,9 @@ https://jmp2.uk/plu-6824ce10c5d53e1351ceb8d1.m3u8
 
 #EXTINF:-1 tvg-id="NickelodeonClassics.de@DACH" tvg-logo="https://images.pluto.tv/channels/67f3eb800a1beb98767ca748/colorLogoPNG_1749200817646.png" group-title="美国",Nickelodeon Classics (720p)
 https://jmp2.uk/plu-67f3eb800a1beb98767ca748.m3u8
+
+#EXTINF:-1 tvg-id="NickelodeonJunior.fr@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Nickelodeon_Junior.png/960px-Nickelodeon_Junior.png" group-title="美国",Nickelodeon Junior (720p)
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/nickelodeon_junior/live.livx/playlist.m3u8
 
 #EXTINF:-1 tvg-id="NickelodeonLatinAmerica.us@Panregional" tvg-logo="https://i.imgur.com/E84jnP8.png" group-title="美国",Nickelodeon Latin America (1080p)
 http://181.78.79.131:8000/play/a0qm
@@ -3512,8 +3527,8 @@ https://jmp2.uk/plu-645952687cb4b100084ed52e.m3u8
 #EXTINF:-1 tvg-id="Nickelodeonenespanol.us@SD" tvg-logo="https://images.pluto.tv/channels/5d8d08395f39465da6fb3ec4/colorLogoPNG.png" group-title="美国",Nickelodeon en espanol
 https://jmp2.uk/plu-5d8d08395f39465da6fb3ec4.m3u8
 
-#EXTINF:-1 tvg-id="Nicktoons.us@East" tvg-logo="https://images.pluto.tv/channels/654ca7f92c1d3300086b608c/colorLogoPNG_1751457678592.png" group-title="美国",Nicktoons (United States) (720p)
-http://41.205.93.154/NICKTOONS/index.m3u8
+#EXTINF:-1 tvg-id="Nicktoons.us@East" tvg-logo="https://images.pluto.tv/channels/654ca7f92c1d3300086b608c/colorLogoPNG_1751457678592.png" group-title="美国",Nicktoons (United States) (1080p)
+https://tvnow.hostless.app/nicktoons.m3u8
 
 #EXTINF:-1 tvg-id="Nicktoons.us@CA" tvg-logo="https://images.pluto.tv/channels/654ca7f92c1d3300086b608c/colorLogoPNG_1751457678592.png" group-title="美国",Nicktoons (United States) CA
 https://jmp2.uk/plu-654ca7f92c1d3300086b608c.m3u8
@@ -3710,7 +3725,10 @@ https://live.feed.thepalmbeaches.tv/index.m3u8
 #EXTINF:-1 tvg-id="ParamountMovieChannel.us@SD" tvg-logo="https://i.imgur.com/sj5h9bl.png" group-title="美国",Paramount Movie Channel
 https://jmp2.uk/plu-5cb0cae7a461406ffe3f5213.m3u8
 
-#EXTINF:-1 tvg-id="ParamountNetwork.us@East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/960px-Paramount_Network.svg.png" group-title="美国",Paramount Network (1080p)
+#EXTINF:-1 tvg-id="ParamountNetwork.pl@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/960px-Paramount_Network.svg.png" group-title="美国",Paramount Network (Poland)
+http://sultanios.alwaysdata.net/vavo.php?ID=3390498693
+
+#EXTINF:-1 tvg-id="ParamountNetwork.us@East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/960px-Paramount_Network.svg.png" group-title="美国",Paramount Network (United States) (1080p)
 http://23.237.104.106:8080/USA_PARAMOUNT_NETWORK/index.m3u8
 
 #EXTINF:-1 tvg-id="ParamountPlusPicks.us@SD" tvg-logo="https://images.pluto.tv/channels/5ff8c708653d080007361b14/featuredImage.jpg" group-title="美国",Paramount+ Picks
@@ -4337,6 +4355,9 @@ https://bcovlive-a.akamaihd.net/e64d564b9275484f85981d8c146fb915/us-east-1/59940
 #EXTINF:-1 tvg-id="Stadium.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/53/Stadium_%28sports_network%29_logo.svg/960px-Stadium_%28sports_network%29_logo.svg.png" group-title="美国",Stadium (720p)
 https://wurl120sports.global.transmit.live/hls/679a907dce42a042c23ace37/v1/stadium_gracenote/samsung_us/latest/main/hls/playlist.m3u8
 
+#EXTINF:-1 tvg-id="StarAction.us@SD" tvg-logo="https://i.imgur.com/XD1Tpet.png" group-title="美国",Star Action (720p)
+http://85.237.89.159:3342/ar-s/STAR-Action-HD/index.m3u8
+
 #EXTINF:-1 tvg-id="StarChannelInternational.gr@HD" tvg-logo="https://i.imgur.com/6NUpxhr.png" group-title="美国",Star Channel International (720p)
 https://livestar.siliconweb.com/starvod/star_int/star_int.m3u8
 
@@ -4861,6 +4882,9 @@ https://tyt-samsungus.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TheGrioTV.us@SD" tvg-logo="https://i.imgur.com/8nqbi9b.png" group-title="美国",TheGrio TV (720p)
 https://a-cdn.klowdtv.com/live2/thegrio_720p/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TheGrioTV.us@FAST" tvg-logo="https://i.imgur.com/8nqbi9b.png" group-title="美国",TheGrio TV FAST (1080p)
+https://blacknewschannel-xumo-us.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ThisOldHouse.us@SD" tvg-logo="https://i.imgur.com/nrVLyE6.png" group-title="美国",This Old House (1080p)
 https://thisoldhouse-2-us.roku.wurl.tv/playlist.m3u8

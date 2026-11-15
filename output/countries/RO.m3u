@@ -1,7 +1,7 @@
 #EXTM3U
 #PLAYLIST: 罗马尼亚 (RO) IPTV 直播源
-#生成时间: 2026-11-14 18:57:30
-#频道数: 142
+#生成时间: 2026-11-15 08:49:36
+#频道数: 143
 
 # ===== 罗马尼亚 (RO) =====
 
@@ -121,6 +121,9 @@ https://edge-ar.rcs-rds.ro/digi24ar/index.m3u8
 
 #EXTINF:-1 tvg-id="DottoTV.ro@SD" tvg-logo="https://i.imgur.com/pfs882Z.png" group-title="罗马尼亚",Dotto TV (1080p)
 https://live.dottotv.ro/index.m3u8
+
+#EXTINF:-1 tvg-id="E.ro@SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ef/E%21_2022_%28Scarlet%29.svg/revision/latest?cb=20260709150437" group-title="罗马尼亚",E! (Romania)
+http://sultanios.alwaysdata.net/vavo.php?ID=3166915380
 
 #EXTINF:-1 tvg-id="EMITV.ro@SD" tvg-logo="https://i.imgur.com/B5zssCz.png" group-title="罗马尼亚",EMI TV (576i)
 https://hls01ns.antenaplay.ro/hls/emi-tv-sd/index.m3u8

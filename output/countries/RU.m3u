@@ -1,6 +1,6 @@
 #EXTM3U
 #PLAYLIST: 俄罗斯 (RU) IPTV 直播源
-#生成时间: 2026-11-14 18:57:30
+#生成时间: 2026-11-15 08:49:36
 #频道数: 273
 
 # ===== 俄罗斯 (RU) =====
@@ -88,6 +88,9 @@ http://31.148.48.15/Pervii_kanal_HD/index.m3u8
 
 #EXTINF:-1 tvg-id="ChannelOne.ru@Europa" tvg-logo="https://i.imgur.com/RUSX0rX.png" group-title="俄罗斯",Channel One (Russia) Europa (480p)
 https://streaming.thestream.cyou/live/210-req_offset_28000000-req_window_0-1k_v5.m3u8
+
+#EXTINF:-1 tvg-id="Che.ru@SD" tvg-logo="https://i.imgur.com/ZOcDGpB.png" group-title="俄罗斯",Che! (576p)
+http://flussonic.linkintel.ru/che/index.m3u8
 
 #EXTINF:-1 tvg-id="Cinema.ru@SD" tvg-logo="https://i.imgur.com/b5e9qUA.png" group-title="俄罗斯",Cinema (Russia) (576p)
 http://flussonic.linkintel.ru/cinema/index.m3u8
@@ -451,9 +454,6 @@ http://31.148.5.241/kanal_13/index.m3u8
 
 #EXTINF:-1 tvg-id="STS.ru@HD" tvg-logo="https://i.imgur.com/ilUzAeb.png" group-title="俄罗斯",STS HD (1080p)
 http://stream.mcquack.net/138/index.m3u8
-
-#EXTINF:-1 tvg-id="STSInternational.ru@SD" tvg-logo="https://i.imgur.com/mwiC0RG.png" group-title="俄罗斯",STS International (576p)
-http://178.134.1.158:8081/CTC/index.m3u8
 
 #EXTINF:-1 tvg-id="STSkids.ru@SD" tvg-logo="https://i.imgur.com/o9kLpAL.png" group-title="俄罗斯",STS kids (1080p)
 http://31.148.48.15/STS_Kids_HD/index.m3u8
