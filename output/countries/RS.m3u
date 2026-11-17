@@ -1,7 +1,7 @@
 #EXTM3U
 #PLAYLIST: 塞尔维亚 (RS) IPTV 直播源
-#生成时间: 2026-11-16 23:11:51
-#频道数: 15
+#生成时间: 2026-11-17 10:10:56
+#频道数: 16
 
 # ===== 塞尔维亚 (RS) =====
 
@@ -25,6 +25,9 @@ https://edge8.pink.rs/pinktv/index.m3u8
 
 #EXTINF:-1 tvg-id="RTS1.rs" tvg-logo="https://i.imgur.com/S1pKHSR.png" group-title="塞尔维亚",RTS 1
 https://webtvstream.bhtelecom.ba/rts1.m3u8
+
+#EXTINF:-1 tvg-id="RTS1.rs@SD" tvg-logo="https://i.imgur.com/S1pKHSR.png" group-title="塞尔维亚",RTS 1 (Serbia)
+https://de1.dstv.cx/RTS1HD/index.m3u8
 
 #EXTINF:-1 tvg-id="RTS2.rs" tvg-logo="https://i.imgur.com/jltAf5h.png" group-title="塞尔维亚",RTS 2
 https://webtvstream.bhtelecom.ba/rts2.m3u8
