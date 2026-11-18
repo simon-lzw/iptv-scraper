@@ -1,7 +1,7 @@
 #EXTM3U
 #PLAYLIST: 美国 (US) IPTV 直播源
-#生成时间: 2026-11-17 22:01:03
-#频道数: 1782
+#生成时间: 2026-11-18 09:44:05
+#频道数: 1786
 
 # ===== 美国 (US) =====
 
@@ -1542,7 +1542,7 @@ http://103.135.253.32:8080/DISCOVERY/index.m3u8
 http://102.129.186.182:81/discovery/index.m3u8
 
 #EXTINF:-1 tvg-id="DiscoveryChannel.ro@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/960px-2019_Discovery_logo.svg.png" group-title="美国",Discovery Channel (Romania)
-http://92.180.26.103:80/stream/28/index.m3u8
+http://92.180.26.103/stream/28/index.m3u8
 
 #EXTINF:-1 tvg-id="DiscoveryChannel.ru@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/960px-2019_Discovery_logo.svg.png" group-title="美国",Discovery Channel (Russia) (1080p)
 http://stream.mcquack.net/177/index.m3u8
@@ -3474,7 +3474,7 @@ https://r.eu.cdn-redge.media/livehls/oeu/mt/live/nickelodeon/live.livx/playlist.
 https://ma.anixa.tv/clips/stream/nickelodeon/playlist.php
 
 #EXTINF:-1 tvg-id="Nickelodeon.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NICK/images/LOGO_HD/image.png" group-title="美国",Nickelodeon (India) (576p)
-http://103.185.24.134:3001/NICK/index.m3u8
+http://103.135.253.32:8080/NICK/index.m3u8
 
 #EXTINF:-1 tvg-id="Nickelodeon.nl@SD" tvg-logo="https://i.imgur.com/E84jnP8.png" group-title="美国",Nickelodeon (Netherlands)
 http://185.77.12.179:9981/stream/channelid/788918401?profile=pass
@@ -3485,7 +3485,7 @@ http://178.76.68.60:7442/64/mpegts
 #EXTINF:-1 tvg-id="Nickelodeon.ru@SD" tvg-logo="https://i.imgur.com/w8iE8dV.png" group-title="美国",Nickelodeon (Russia) (576p)
 http://stream.mcquack.net/443/index.m3u8
 
-#EXTINF:-1 tvg-id="Nickelodeon.es@HD" tvg-logo="https://i.imgur.com/E84jnP8.png" group-title="美国",Nickelodeon (Spain) HD
+#EXTINF:-1 tvg-id="Nickelodeon.es@HD" tvg-logo="https://i.imgur.com/E84jnP8.png" group-title="美国",Nickelodeon (Spain) HD (1080p)
 http://90.170.214.40:9700/stream/avatel/nickelodeonhd/master.m3u8
 
 #EXTINF:-1 tvg-id="NickelodeonArabia.ae@SD" tvg-logo="https://i.imgur.com/E84jnP8.png" group-title="美国",Nickelodeon Arabia (1080i)
@@ -3554,7 +3554,7 @@ https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8
 #EXTINF:-1 tvg-id="OANPlus.us@SD" tvg-logo="https://i.imgur.com/T9VhMAD.png" group-title="美国",OAN Plus (1080p)
 https://oan-plus-tcl.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="OANPlus.us@KPVMLD" tvg-logo="https://i.imgur.com/T9VhMAD.png" group-title="美国",OAN Plus KPVM-LD
+#EXTINF:-1 tvg-id="OANPlus.us@KPVMLD" tvg-logo="https://i.imgur.com/T9VhMAD.png" group-title="美国",OAN Plus KPVM-LD (1080p)
 https://2-fss-2.streamhoster.com/pl_118/206858-4404458-1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="OCNTV.us@SD" tvg-logo="https://i.imgur.com/iSB5Obl.png" group-title="美国",OCN TV
@@ -3577,6 +3577,9 @@ https://cdn3.wowza.com/5/V2Y2VmhqMEFDTUkx/olelo/G0125_013/playlist.m3u8
 
 #EXTINF:-1 tvg-id="OmideIranTV.us@SD" tvg-logo="https://i.imgur.com/CeMf68L.png" group-title="美国",Omid e Iran TV
 https://oitnhls.wns.live/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="OnPatrolLive.us@HD" tvg-logo="https://i.imgur.com/OAThfQx.png" group-title="美国",On Patrol: Live (720p)
+https://a-cdn.klowdtv.com/live3/onpatrol_720p/playlist.m3u8
 
 #EXTINF:-1 tvg-id="OnTV4U.us@SD" tvg-logo="https://i.imgur.com/yaCK1Mh.png" group-title="美国",OnTV4U (1080p)
 https://ontv4u-orka.b-cdn.net/ONTV4U-ORKA/index.m3u8
@@ -4091,6 +4094,9 @@ https://2-fss-2.streamhoster.com/pl_120/200226-1449024-1/playlist.m3u8
 #EXTINF:-1 tvg-id="Reelz.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Reelz.svg/960px-Reelz.svg.png" group-title="美国",Reelz (720p)
 http://23.237.104.106:8080/USA_REELZ/index.m3u8
 
+#EXTINF:-1 tvg-id="ReelzFamousInfamous.us@HD" tvg-logo="https://i.imgur.com/czrTtNK.png" group-title="美国",Reelz Famous & Infamous (1080p)
+https://aegis-cloudfront-1.tubi.video/dfd312a3-99b3-45fe-89b2-d20579fee2e9/playlist.m3u8
+
 #EXTINF:-1 tvg-id="RetroTVEast.us" tvg-logo="https://i.imgur.com/PNTYOgg.png" group-title="美国",Retro TV
 https://lukentvlive.vgcdn.net/v1/master/cef183924f24adfa3d5d7601c3a17769082c0c2b/retro/index.m3u8
 
@@ -4236,7 +4242,7 @@ https://pb-olm46bexcljjf.akamaized.net/Samsung_Wild_Life.m3u8
 https://d2netiedy8cz3x.cloudfront.net/out/v1/9bf6fa4ac8d6432cb98da13b121ba3c2/index.m3u8
 
 #EXTINF:-1 tvg-id="ScaresbyShudder.us@SD" tvg-logo="https://www.bgr.com/bgr/entertainment/freevee-added-5-spooky-new-live-channels-just-in-time-for-halloween/Scares-by-Shudder.jpg" group-title="美国",Scares by Shudder (1080p)
-https://wurlrainbowmedia.global.transmit.live/hls/68c49e4709574e8405506cb3/v1/amc_scaresbyshudder_1/lg_us/latest/main/hls/playlist.m3u8
+https://aka-live1050.delivery.roku.com/bf4fff9b-e81f-4dcb-baaf-71b75e091599/t2-origin/out/v1/live.m3u8
 
 #EXTINF:-1 tvg-id="SchwabNetwork.us@SD" tvg-logo="https://i.imgur.com/zmQnKV6.png" group-title="美国",Schwab Network (1080p)
 https://content.uplynk.com/channel/f9aafa1f132e40af9b9e7238bc18d128.m3u8
@@ -4445,7 +4451,7 @@ https://reflect-tampa-bay-community.cablecast.tv/live-16/live/live.m3u8
 #EXTINF:-1 tvg-id="TBN.us@East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/TBN_logo_2015.jpg/960px-TBN_logo_2015.jpg" group-title="美国",TBN (1080p)
 https://livecdn.use1-0004.jwplive.com/live/sites/Yal8cmyO/media/fCGf6ROk/live.isml/.m3u8
 
-#EXTINF:-1 tvg-id="TBNArmenia.us@SD" tvg-logo="https://i.imgur.com/U5XsT3j.png" group-title="美国",TBN Armenia
+#EXTINF:-1 tvg-id="TBNArmenia.us@SD" tvg-logo="https://i.imgur.com/U5XsT3j.png" group-title="美国",TBN Armenia (1080p)
 https://164475.gvideo.io/mpegts/164475_650646/master_mpegts.m3u8
 
 #EXTINF:-1 tvg-id="TBNInspire.us@SD" tvg-logo="https://i.imgur.com/GSM0Pkr.png" group-title="美国",TBN Inspire (1080p)
@@ -4907,6 +4913,9 @@ https://jmp2.uk/plu-6540ff4f7312a40008297b59.m3u8
 #EXTINF:-1 tvg-id="TomAndJerry.do@HD" tvg-logo="https://gia.tv/streams/pptv/208314.jpg?1750373428" group-title="美国",Tom And Jerry (720p) [Not 24/7]
 https://183.giatvcdn.com/giatvplayout7/giatv-208314/playlist.m3u8
 
+#EXTINF:-1 tvg-id="TomSingsTV.us@HD" tvg-logo="https://videocdn.bamboo-cloud.com/p/11389/sp/1138900/thumbnail/entry_id/0_osv1x0bp/version/100002/width/1920" group-title="美国",Tom Sings TV (576p)
+https://ia600505.us.archive.org/34/items/live_tstv/tomsingstv.m3u8
+
 #EXTINF:-1 tvg-id="ToonGoggles.us@SD" tvg-logo="https://i.imgur.com/JMnxswq.png" group-title="美国",ToonGoggles (720p)
 https://amg01329-otterainc-toongoggles-samsungau-ad-4c.amagi.tv/playlist/amg01329-otterainc-toongoggles-samsungau/playlist.m3u8
 
@@ -5174,8 +5183,11 @@ http://23.237.104.106:8080/USA_WE_TV/index.m3u8
 #EXTINF:-1 tvg-id="WeHoTV.us@SD" tvg-logo="https://i.imgur.com/p3L2vSL.png" group-title="美国",WeHoTV (360p)
 https://cdn3.wowza.com/5/M0lyamVmM2JWcjhQ/weho/G0161_004/playlist.m3u8
 
-#EXTINF:-1 tvg-id="WeatherNation.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/WeatherNation_Logo.svg/960px-WeatherNation_Logo.svg.png" group-title="美国",WeatherNation (1080p)
+#EXTINF:-1 tvg-id="WeatherNation.us" tvg-logo="https://graph.facebook.com/WeatherNation/picture?width=200&height=200" group-title="美国",WeatherNation
 https://d2ferbiwcx1539.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-8zd06wicndthf-ssai-prd/WNNationalSamsung/WNNationalSamsung.m3u8
+
+#EXTINF:-1 tvg-id="WeatherNation.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/WeatherNation_Logo.svg/960px-WeatherNation_Logo.svg.png" group-title="美国",WeatherNation (1080p)
+https://aka-live1050.delivery.roku.com/90ba101a-eef0-4c48-b464-b5ef935b5dcb/t2-origin/out/v1/live.m3u8
 
 #EXTINF:-1 tvg-id="WeatherSpy.us@SD" tvg-logo="https://i.imgur.com/yHUUIIz.png" group-title="美国",WeatherSpy (United States) (720p)
 https://d12gab6t5iutxf.cloudfront.net/playlist.m3u8
@@ -5217,7 +5229,7 @@ https://d36r8jifhgsk5j.cloudfront.net/Willow_TV.m3u8
 https://cdn.whiplash.cc/whiplash-windowtv/index.m3u8
 
 #EXTINF:-1 tvg-id="WineWatchesWhiskey.us@HD" tvg-logo="https://i.imgur.com/MN89dfS.png" group-title="美国",Wine Watches & Whiskey (1080p)
-https://www-on-freecast.b-cdn.net/WWW-on-Freecast/index.m3u8
+https://w3-orka.b-cdn.net/W3-ORKA/index.m3u8
 
 #EXTINF:-1 tvg-id="WipeoutXtra.us@SD" tvg-logo="https://i.imgur.com/UDeCRW1.png" group-title="美国",Wipeout Xtra (1080p)
 https://amg00627-banijaygroup-wipeoutxtraau-samsungau-ashbl.amagi.tv/playlist/amg00627-banijaygroup-wipeoutxtraau-samsungau/playlist.m3u8

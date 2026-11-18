@@ -1,7 +1,7 @@
 #EXTM3U
 #PLAYLIST: 意大利 (IT) IPTV 直播源
-#生成时间: 2026-11-17 22:01:03
-#频道数: 647
+#生成时间: 2026-11-18 09:44:05
+#频道数: 649
 
 # ===== 意大利 (IT) =====
 
@@ -1037,6 +1037,9 @@ http://team-tv.co:81/rai2/index.m3u8
 #EXTINF:-1 tvg-id="Rai3.it" tvg-logo="https://i.imgur.com/9kuQCIi.png" group-title="意大利",Rai 3
 https://d3k8wzt41aflvx.cloudfront.net/RAI3/Live.m3u8
 
+#EXTINF:-1 tvg-id="Rai3.it@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Rai_3_-_Logo_2016.svg/960px-Rai_3_-_Logo_2016.svg.png" group-title="意大利",Rai 3 (1080p)
+http://team-tv.co:81/rai3/index.m3u8
+
 #EXTINF:-1 tvg-id="Rai3.it@BISFJK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Rai_3_-_Logo_2016.svg/960px-Rai_3_-_Logo_2016.svg.png" group-title="意大利",Rai 3 BIS FJK (408p)
 https://tgrfriulibis-live.akamaized.net/hls/live/2025579/tgrfriulibis/tgrfriulibis/playlist.m3u8
 
@@ -1117,6 +1120,9 @@ https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=358025&output=7&forc
 
 #EXTINF:-1 tvg-id="RaiStoria.it" tvg-logo="https://i.imgur.com/K8y5q8x.png" group-title="意大利",Rai Storia
 https://d3k8wzt41aflvx.cloudfront.net/RAIStoria/Live.m3u8
+
+#EXTINF:-1 tvg-id="RaiStoria.it@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Rai_Storia_-_Logo_2017.svg/960px-Rai_Storia_-_Logo_2017.svg.png" group-title="意大利",Rai Storia (1080p)
+http://team-tv.co:81/raistoria/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/q1EHOhz.png" group-title="意大利",Rai World Premium
 https://d3k8wzt41aflvx.cloudfront.net/RAIP/Live.m3u8

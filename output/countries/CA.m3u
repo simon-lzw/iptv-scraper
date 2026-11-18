@@ -1,7 +1,7 @@
 #EXTM3U
 #PLAYLIST: 加拿大 (CA) IPTV 直播源
-#生成时间: 2026-11-17 22:01:03
-#频道数: 86
+#生成时间: 2026-11-18 09:44:05
+#频道数: 87
 
 # ===== 加拿大 (CA) =====
 
@@ -19,6 +19,9 @@ https://aka-live1050.delivery.roku.com/0c24a9ef-e9c3-485c-bf68-3f1ae5ef3e85/t2-o
 
 #EXTINF:-1 tvg-id="CBCSport.az" tvg-logo="https://upload.wikimedia.org/wikipedia/az/0/04/CBC_Sport_TV_loqo.png" group-title="加拿大",CBC Sport
 https://mn-nl.mncdn.com/cbcsports_live/cbcsports/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CBCSport.az@HD" tvg-logo="https://i.imgur.com/3mEdjuq.png" group-title="加拿大",CBC Sport [Geo-blocked]
+https://cbcsports-live.lg.mncdn.com/cbcsports_live/cbcsports/playlist.m3u8
 
 #EXTINF:-1 tvg-id="CBCTV8.bb@SD" tvg-logo="https://i.imgur.com/WsD83lq.png" group-title="加拿大",CBC TV8 (1080p) [Not 24/7]
 https://1740288887.rsc.cdn77.org/1740288887/index.m3u8

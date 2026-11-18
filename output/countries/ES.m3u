@@ -1,7 +1,7 @@
 #EXTM3U
 #PLAYLIST: 西班牙 (ES) IPTV 直播源
-#生成时间: 2026-11-17 22:01:03
-#频道数: 146
+#生成时间: 2026-11-18 09:44:05
+#频道数: 145
 
 # ===== 西班牙 (ES) =====
 
@@ -9,7 +9,7 @@
 https://streaming101tv.es:19360/cadiz/cadiz.m3u8
 
 #EXTINF:-1 tvg-id="24HorasCatalunya.es@SD" tvg-logo="https://i.ibb.co/21sXZ3GT/24h.png" group-title="西班牙",24 Horas Catalunya (720p)
-https://ztnr.rtve.es/ztnr/4952053.m3u8
+https://rtvelivestream.rtve.es/rtvesec/cat/24h_cat_main_dvr.m3u8
 
 #EXTINF:-1 tvg-id="24h.es" tvg-logo="https://i.imgur.com/ZKR2jKr.png" group-title="西班牙",24h
 https://rtvelivestream.rtve.es/rtvesec/24h/24h_main_dvr.m3u8
@@ -20,7 +20,7 @@ https://rtv-murcia-live.globalmest.com/principal/smil:principal.smil/playlist.m3
 #EXTINF:-1 tvg-id="AXN.es@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png" group-title="西班牙",AXN (Spain)
 http://sultanios.alwaysdata.net/vavo.php?ID=4238619703
 
-#EXTINF:-1 tvg-id="AXN.es@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png" group-title="西班牙",AXN (Spain) HD
+#EXTINF:-1 tvg-id="AXN.es@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png" group-title="西班牙",AXN (Spain) HD (1080p)
 http://90.170.214.40:9700/stream/avatel/axn/master.m3u8
 
 #EXTINF:-1 tvg-id="AXNMovies.es@SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d2/AXN_Movies_logo.svg/revision/latest/scale-to-width-down/512" group-title="西班牙",AXN Movies (Spain)
@@ -160,9 +160,6 @@ https://directes-tv-es.3catdirectes.cat/live-origin/esport3-hls/master.m3u8
 
 #EXTINF:-1 tvg-id="EsteCanalTV.es@SD" tvg-logo="https://i.imgur.com/jDT5XFs.jpg" group-title="西班牙",Este Canal TV (576p)
 http://synclosdragos1.syncsolutions.es:8008/live3/emision/index.m3u8
-
-#EXTINF:-1 tvg-id="EuronewsSpanish.fr@SD" tvg-logo="https://i.imgur.com/8t9mdg9.png" group-title="西班牙",Euronews Spanish (1080p)
-https://iptv.bitred.cl/euronews/index.m3u8
 
 #EXTINF:-1 tvg-id="Eurosport1.fr@Spain" tvg-logo="https://i.imgur.com/olQJgm7.png" group-title="西班牙",Eurosport 1 Spain (576p)
 http://45.134.141.161:2200/ARG/Eurosport_1_HD/index.m3u8

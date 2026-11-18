@@ -1,7 +1,7 @@
 #EXTM3U
 #PLAYLIST: 法国 (FR) IPTV 直播源
-#生成时间: 2026-11-17 22:01:03
-#频道数: 87
+#生成时间: 2026-11-18 09:44:05
+#频道数: 89
 
 # ===== 法国 (FR) =====
 
@@ -176,6 +176,9 @@ http://99.27.51.147:8080/M6/index.m3u8
 #EXTINF:-1 tvg-id="M6Music.fr@SD" group-title="法国",M6 Music (1080p)
 https://r.eu.cdn-redge.media/livehls/oeu/mt/live/m6_music_hits/live.livx/playlist.m3u8
 
+#EXTINF:-1 tvg-id="M6.fr@SD" tvg-logo="https://i.imgur.com/7GVp3fW.png" group-title="法国",M6 SD (1080p)
+https://n-5-2.eu.cdn-redge.media/livehls/oeu/mt/live/m6_fr/live.livx/playlist.m3u8
+
 #EXTINF:-1 tvg-id="MCMTop.fr@SD" tvg-logo="https://i.imgur.com/EVtWQLd.png" group-title="法国",MCM Top (France)
 http://185.228.163.146:8000/play/a00g/index.m3u8
 
@@ -211,6 +214,9 @@ https://rt-fra.rttv.com/dvr/rtfrance/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TF1.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Logo_TF1_2013.svg/500px-Logo_TF1_2013.svg.png" group-title="法国",TF1
 http://151.80.18.177:86/TF1_HD/index.m3u8
+
+#EXTINF:-1 tvg-id="TF1.fr@SD" tvg-logo="https://i.imgur.com/QxHt9NC.png" group-title="法国",TF1 (1080p)
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/tf1/live.livx/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TF1SeriesFilms.fr@SD" tvg-logo="https://i.imgur.com/4CJIDKQ.png" group-title="法国",TF1 Series Films (1080p)
 https://r.eu.cdn-redge.media/livehls/oeu/mt/live/tf1_series_films/live.livx/playlist.m3u8
