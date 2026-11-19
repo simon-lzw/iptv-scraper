@@ -1,7 +1,7 @@
 #EXTM3U
 #PLAYLIST: 德国 (DE) IPTV 直播源
-#生成时间: 2026-11-18 21:42:56
-#频道数: 181
+#生成时间: 2026-11-19 09:53:08
+#频道数: 182
 
 # ===== 德国 (DE) =====
 
@@ -331,6 +331,9 @@ https://dash4.antik.sk/live/test_rtl_zwei_tizen/playlist.m3u8
 
 #EXTINF:-1 tvg-id="RTLZwei.de@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/RTLZWEI_Logo_2019.svg/960px-RTLZWEI_Logo_2019.svg.png" group-title="德国",RTL Zwei HD (576p)
 https://s6.hopslan.com/rtl2q/index.m3u8
+
+#EXTINF:-1 tvg-id="RTLZwei.de@Schweiz" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/RTLZWEI_Logo_2019.svg/960px-RTLZWEI_Logo_2019.svg.png" group-title="德国",RTL Zwei Schweiz (540p)
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/rtlzwei_ch/live.livx/playlist.m3u8
 
 #EXTINF:-1 tvg-id="RadioBremenFernsehen.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Logo_Radio_Bremen.svg/500px-Logo_Radio_Bremen.svg.png" group-title="德国",Radio Bremen
 https://rbhlslive.akamaized.net/hls/live/2020435/rbfs/master.m3u8

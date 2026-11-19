@@ -1,7 +1,7 @@
 #EXTM3U
 #PLAYLIST: 秘鲁 (PE) IPTV 直播源
-#生成时间: 2026-11-18 21:42:56
-#频道数: 107
+#生成时间: 2026-11-19 09:53:08
+#频道数: 108
 
 # ===== 秘鲁 (PE) =====
 
@@ -109,6 +109,9 @@ http://187.102.210.46/KARIBENA/index.m3u8
 
 #EXTINF:-1 tvg-id="FolkloreTV.pe@SD" tvg-logo="https://i.imgur.com/QdOGJes.png" group-title="秘鲁",Folklore TV (720p)
 https://play.folkloretv.pe/StreamSD/index.m3u8
+
+#EXTINF:-1 tvg-id="Girovisual.cl@SD" tvg-logo="https://i.imgur.com/BYBMuhf.png" group-title="秘鲁",Girovisual (1080p)
+https://live-evg8.tv360.bitel.com.pe/bitel/girovisualSRT-TRA/playlist.m3u8
 
 #EXTINF:-1 tvg-id="HuachoPeruTV.pe@SD" tvg-logo="https://i.imgur.com/PevmfqK.png" group-title="秘鲁",Huacho Peru TV
 https://tv.huachotv.com/stream.m3u8

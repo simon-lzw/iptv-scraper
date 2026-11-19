@@ -1,7 +1,7 @@
 #EXTM3U
 #PLAYLIST: 捷克 (CZ) IPTV 直播源
-#生成时间: 2026-11-18 21:42:56
-#频道数: 84
+#生成时间: 2026-11-19 09:53:08
+#频道数: 86
 
 # ===== 捷克 (CZ) =====
 
@@ -166,6 +166,12 @@ http://sultanios.alwaysdata.net/vavo.php?ID=3194919143
 
 #EXTINF:-1 tvg-id="PrimaSportCzechia.cz@SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/69/Prima_Sport_%28Czech_Republic%29.svg/revision/latest?cb=20260728085614" group-title="捷克",Prima Sport Czechia
 http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/prima_sport/live_mq?offsetSeconds=0
+
+#EXTINF:-1 tvg-id="PrimaSportPPV1.ro@SD" tvg-logo="https://www.primaplay.ro/uploads/thumb/publisher/b05ce5d64523401d0fc3225c5b629019.png" group-title="捷克",Prima Sport PPV 1
+https://rundle.tv/proxy5.php?src=https%3A%2F%2Fpulse1.sanseny001.shop%2Fpuki1%2Fusergendx6kal0r2bsm-got.htm
+
+#EXTINF:-1 tvg-id="PrimaSportPPV2.ro@SD" tvg-logo="https://www.primaplay.ro/uploads/thumb/publisher/a8c4cd410038eab9d207fd2f15d4d1ce.png" group-title="捷克",Prima Sport PPV 2
+https://rundle.tv/proxy5.php?src=https%3A%2F%2Fpulse1.sanseny001.shop%2Fpuki2%2Fusergendxpk2s6utg0l-got.htm
 
 #EXTINF:-1 tvg-id="PrimaStar.cz@SD" tvg-logo="https://i.imgur.com/ppqgNDA.png" group-title="捷克",Prima Star (1080p)
 http://88.212.15.50/live/test_prima_star_hevc_25p/playlist.m3u8

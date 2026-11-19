@@ -1,7 +1,7 @@
 #EXTM3U
 #PLAYLIST: 希腊 (GR) IPTV 直播源
-#生成时间: 2026-11-18 21:42:56
-#频道数: 84
+#生成时间: 2026-11-19 09:53:08
+#频道数: 85
 
 # ===== 希腊 (GR) =====
 
@@ -214,6 +214,9 @@ https://www.youtube.com/@PontosTV/live
 
 #EXTINF:-1 tvg-id="RadioMegaTVAmazonia.bo@SD" tvg-logo="https://i.imgur.com/yzSNWZ3.png" group-title="希腊",Radio Mega TV Amazonia (720p)
 https://ares.disfrutaenlared.com:1936/megatv/megatv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RadioTVMega.bo@SD" tvg-logo="https://i.imgur.com/pwRhOHB.png" group-title="希腊",Radio TV Mega (720p)
+https://183.giatvcdn.com/ssh101/ssh101/radiotvmega26/playlist.m3u8
 
 #EXTINF:-1 tvg-id="CenterTV.gr" tvg-logo="https://i.imgur.com/aV5QoNG.png" group-title="希腊",Samiaki TV
 http://live.cast-control.eu:1935/samiaki/samiaki/playlist.m3u8
