@@ -1,7 +1,7 @@
 #EXTM3U
 #PLAYLIST: 印度 (IN) IPTV 直播源
-#生成时间: 2026-11-19 21:58:28
-#频道数: 332
+#生成时间: 2026-11-20 09:40:14
+#频道数: 335
 
 # ===== 印度 (IN) =====
 
@@ -13,9 +13,6 @@ https://thelegitpro.in/HDlive/22scope/index.fmp4.m3u8
 
 #EXTINF:-1 tvg-id="24News.in@SD" tvg-logo="https://sund-images.sunnxt.com/202222/300x300_24News_202222_d63feca0-79ae-47ea-b75a-66c17d456f4c.png" group-title="印度",24 News (576p)
 https://mumt07.tangotv.in/zHjX9OFlTWENTYFOURNEWS/index.m3u8
-
-#EXTINF:-1 tvg-id="4SiDESTV.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/4sites.png" group-title="印度",4 SiDES TV (1080p)
-https://stream.ottlive.co.in/4sidestv/index.m3u8
 
 #EXTINF:-1 tvg-id="6TVTelugu.in@SD" tvg-logo="https://i.imgur.com/l3EcRnZ.png" group-title="印度",6 TV Telugu (576p)
 https://mumbai-edge.smartplaytv.in/6TVTelugu/index.m3u8
@@ -264,7 +261,7 @@ https://live.we2live.in/dheerantv/dheerantv/playlist.m3u8
 https://samitaorigin.tangotv.in/DUKHNIWARAN/SAMITAORIGIN/index.m3u8
 
 #EXTINF:-1 tvg-id="Eurosport.in@HD" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG002E9LQS.png?lock=720x540" group-title="印度",Eurosport (India) HD (1080p)
-https://livetv.shamon-cable.net:8443/Eurosport-HD/index.m3u8
+http://116.90.120.149:8000/play/a118/index.m3u8
 
 #EXTINF:-1 tvg-id="FGNChannel.in@SD" tvg-logo="https://yt3.googleusercontent.com/rDtVRwirMau7LnqmpkNHMrsqCQ7TtWTIbXePXFcY_GWDMs4z64A-w2XBG92t-IV4-C8UoEI=s900-c-k-c0x00ffffff-no-rj" group-title="印度",FGN Channel (360p)
 https://samitaorigin.tangotv.in/FGNCHANNEL/SAMITAORIGIN/index.m3u8
@@ -436,6 +433,9 @@ https://mumbai-edge.smartplaytv.in/LoveNature/index.m3u8
 
 #EXTINF:-1 tvg-id="MKSix.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/MK_Six.png" group-title="印度",MK Six (576p)
 https://mumt06.tangotv.in/qYyB8fXVMKSIX/index.m3u8
+
+#EXTINF:-1 tvg-id="MTV.in@HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_MTV/images/LOGO_HD/image.png" group-title="印度",MTV (India) HD (1080p)
+http://116.90.120.149:8000/play/a136/index.m3u8
 
 #EXTINF:-1 tvg-id="MahaaBhakti.in@SD" tvg-logo="https://yt3.googleusercontent.com/OWECRvCVJh-dXU2MTRZhMRIDvFvcWan0YMoWWfXsM5_WEHobQy2QoHQbGr7AZUXzMOByTMAXbg=s900-c-k-c0x00ffffff-no-rj" group-title="印度",Mahaa Bhakti (1080p)
 https://mumbai-edge.smartplaytv.in/MahaBhakthi/index.m3u8
@@ -803,11 +803,20 @@ https://samitaorigin.tangotv.in/SONERICINEMA/SAMITAORIGIN/index.m3u8
 #EXTINF:-1 tvg-id="SonyAath.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_8/images/LOGO_HD/image.png" group-title="印度",Sony Aath (1080p)
 http://27.124.71.27/Sony_Aath/index.m3u8
 
+#EXTINF:-1 tvg-id="SonyBBCEarth.in@HD" tvg-logo="https://dtil.tmsimg.com/assets/s143800_ld_h15_aa.png?lock=720x540" group-title="印度",Sony BBC Earth HD (1080p)
+http://116.90.120.149:8000/play/a130/index.m3u8
+
 #EXTINF:-1 tvg-id="SonyChannelAndes.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Sony_Channel_Logo.png/960px-Sony_Channel_Logo.png" group-title="印度",Sony Channel Andes (1080p)
 http://15.204.246.24:8080/SonyHD/index.m3u8
 
 #EXTINF:-1 tvg-id="SonyEntertainmentTelevision.in@HD" tvg-logo="https://dtil.tmsimg.com/assets/s159096_ld_h15_aa.png?lock=720x540" group-title="印度",Sony Entertainment Television HD (1080p)
 http://38.96.178.205/SONYHD/index.m3u8
+
+#EXTINF:-1 tvg-id="SonyMax.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s157590_ld_h15_aa.png?lock=720x540" group-title="印度",Sony Max (720p)
+https://drk6xq0vhn.gpcdn.net/hls/set_max_m4fb8dz2wp6kr9s_720/index.m3u8
+
+#EXTINF:-1 tvg-id="SonyMax.in@HD" tvg-logo="https://dtil.tmsimg.com/assets/s157590_ld_h15_aa.png?lock=720x540" group-title="印度",Sony Max HD (1080p)
+http://116.90.120.149:8000/play/a123/index.m3u8
 
 #EXTINF:-1 tvg-id="SonyMoviesLatinAmerica.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Sony_Movies_Logo.svg/500px-Sony_Movies_Logo.svg.png" group-title="印度",Sony Movies Latin America (720p)
 http://15.204.246.24:8080/SonyMoviesHD/index.m3u8
@@ -826,6 +835,9 @@ https://7aa9671895264ec9a384dfed1b992171.mediatailor.us-west-2.amazonaws.com/v1/
 
 #EXTINF:-1 tvg-id="SonyPal.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s157973_ld_h15_aa.png?lock=720x540" group-title="印度",Sony Pal (576p)
 http://59.103.38.46:8000/play/a0ac/index.m3u8
+
+#EXTINF:-1 tvg-id="SonyPix.in@HD" tvg-logo="https://i.postimg.cc/Z5G8j67L/PIX-HD-WHITE.png" group-title="印度",Sony Pix HD (1080p)
+http://116.90.120.149:8000/play/a138/index.m3u8
 
 #EXTINF:-1 tvg-id="SonySportsTen3Hindi.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0025TCMR.png?lock=720x540" group-title="印度",Sony Sports Ten 3 Hindi (1080p)
 https://r2.amml.in/sony-ten-3-hd/live.m3u8
@@ -940,9 +952,6 @@ https://hls.thendraltv.in/thendraltv_1210b43d/index.m3u8
 
 #EXTINF:-1 tvg-id="TopNewsMarathi.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/topnewsmarathi.png" group-title="印度",Top News Marathi (1080p)
 https://live1.ottlive.co.in/topnewsmarathi/topnewsmarathi/index.m3u8
-
-#EXTINF:-1 tvg-id="TraceUrban.fr@CaribbeanAndIndianOcean" tvg-logo="https://i.imgur.com/DLIbUMx.png" group-title="印度",Trace Urban Caribbean And Indian Ocean (1080p)
-https://channels.trace.plus/Traceprod/URBAN_DOM_hd/index.m3u8
 
 #EXTINF:-1 tvg-id="UBangla.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/U_Bangla.png" group-title="印度",U Bangla (1080p)
 https://stream.ottlive.co.in/ubangla/index.m3u8

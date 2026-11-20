@@ -1,7 +1,7 @@
 #EXTM3U
 #PLAYLIST: 波兰 (PL) IPTV 直播源
-#生成时间: 2026-11-19 21:58:28
-#频道数: 172
+#生成时间: 2026-11-20 09:40:14
+#频道数: 174
 
 # ===== 波兰 (PL) =====
 
@@ -83,6 +83,9 @@ http://92.114.85.87:8007/play/a008
 #EXTINF:-1 tvg-id="CrimePlusInvestigationPolsat.pl" tvg-logo="https://i.imgur.com/kSZCvah.png" group-title="波兰",Crime + Investigation Polsat (576i)
 http://92.114.85.87:8015/play/a00d/index.m3u8
 
+#EXTINF:-1 tvg-id="DaVinci.pl@SD" tvg-logo="https://i.imgur.com/V8AUJP6.png" group-title="波兰",Da Vinci (Poland) (576p)
+http://116.90.120.149:8000/play/a0ad/index.m3u8
+
 #EXTINF:-1 tvg-id="DiscoPoloMusic.pl" tvg-logo="https://i.imgur.com/ZZbuTv7.png" group-title="波兰",Disco Polo Music (1080p)
 http://185.227.34.179:8080/disco-polo-music/index.m3u8
 
@@ -94,6 +97,9 @@ http://185.227.34.179:8080/disney-xd/index.m3u8
 
 #EXTINF:-1 tvg-id="DrGMedicalExaminer.pl" group-title="波兰",Dr G Medical Examiner
 https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883008
+
+#EXTINF:-1 tvg-id="E.pl@SD" tvg-logo="https://i.imgur.com/TWFDkap.png" group-title="波兰",E! (Poland) (576p)
+http://116.90.120.149:8000/play/a0kz/index.m3u8
 
 #EXTINF:-1 tvg-id="EWTNPoland.pl" tvg-logo="https://i.imgur.com/VtKYELf.png" group-title="波兰",EWTN Poland (1080p)
 https://cdn3.wowza.com/1/ZHdrMWt1NjlDSzFu/bzdDVG10/hls/live/playlist.m3u8
@@ -449,7 +455,7 @@ https://live.streamtvt.pl/LiveAppStreamTVT/streams/853271271313930867905724.m3u8
 #EXTINF:-1 tvg-id="TVTZgorzelec.pl@SD" tvg-logo="https://i.imgur.com/zhzVpgf.jpg" group-title="波兰",TVT Zgorzelec (576p) [Not 24/7]
 http://gargoyle.tomkow.pl/hls/tvt.m3u8
 
-#EXTINF:-1 tvg-id="TeenNick.pl@SD" tvg-logo="https://i.imgur.com/KZq73CE.png" group-title="波兰",TeenNick (Poland) (576i)
+#EXTINF:-1 tvg-id="TeenNick.pl@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/TeenNick_logo_2023_%28outline%29.svg/1280px-TeenNick_logo_2023_%28outline%29.svg.png" group-title="波兰",TeenNick (Poland) (576i)
 http://92.114.85.87:8010/play/a009/index.m3u8
 
 #EXTINF:-1 tvg-id="Tele5.pl" tvg-logo="https://i.imgur.com/36ZNsIL.png" group-title="波兰",Tele5 (576i)
