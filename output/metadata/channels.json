@@ -1683,8 +1683,8 @@
     "is_active": true
   },
   {
-    "name": "APA Tv",
-    "url": "http://stream.apa.tv/apastream/index.m3u8",
+    "name": "APN (576p)",
+    "url": "https://d1msejlow1t3l4.cloudfront.net/fta/apnnews/playlist.m3u8",
     "group": "News",
     "country_code": "ZZ",
     "country_name_zh": "ZZ",
@@ -1694,8 +1694,8 @@
     "is_active": true
   },
   {
-    "name": "APN (576p)",
-    "url": "https://d1msejlow1t3l4.cloudfront.net/fta/apnnews/playlist.m3u8",
+    "name": "ARB 24",
+    "url": "https://operativmm.az/tvs/arb24/stream/index.m3u8",
     "group": "News",
     "country_code": "ZZ",
     "country_name_zh": "ZZ",
@@ -1752,6 +1752,17 @@
     "name": "AT5",
     "url": "https://takeoff.jetstre.am/?account=atvijf&file=live&output=playlist.m3u8&protocol=https&service=wowza&type=live",
     "group": "General",
+    "country_code": "ZZ",
+    "country_name_zh": "ZZ",
+    "ip_version": "domain",
+    "score": 0.0,
+    "source": "iptv-org all streams",
+    "is_active": true
+  },
+  {
+    "name": "ATM Rozrywka REWORK (1080p)",
+    "url": "https://183.giatvcdn.com/giatvplayout7/giatv-211353/playlist.m3u8",
+    "group": "Entertainment",
     "country_code": "ZZ",
     "country_name_zh": "ZZ",
     "ip_version": "domain",
@@ -2313,39 +2324,6 @@
     "name": "Adria Music Television",
     "url": "https://adriaapp.b-cdn.net/1080p/index.m3u8",
     "group": "Music",
-    "country_code": "ZZ",
-    "country_name_zh": "ZZ",
-    "ip_version": "domain",
-    "score": 0.0,
-    "source": "iptv-org all streams",
-    "is_active": true
-  },
-  {
-    "name": "Adriatic Sport 1",
-    "url": "http://sultanios.alwaysdata.net/vavo.php?ID=3645291205",
-    "group": "Sports",
-    "country_code": "ZZ",
-    "country_name_zh": "ZZ",
-    "ip_version": "domain",
-    "score": 0.0,
-    "source": "iptv-org all streams",
-    "is_active": true
-  },
-  {
-    "name": "Adriatic Sport 2",
-    "url": "http://sultanios.alwaysdata.net/vavo.php?ID=2665922581",
-    "group": "Sports",
-    "country_code": "ZZ",
-    "country_name_zh": "ZZ",
-    "ip_version": "domain",
-    "score": 0.0,
-    "source": "iptv-org all streams",
-    "is_active": true
-  },
-  {
-    "name": "Adriatic Sport 3",
-    "url": "http://sultanios.alwaysdata.net/vavo.php?ID=2743527845",
-    "group": "Sports",
     "country_code": "ZZ",
     "country_name_zh": "ZZ",
     "ip_version": "domain",
@@ -4340,17 +4318,6 @@
     "country_code": "ZZ",
     "country_name_zh": "ZZ",
     "ip_version": "ipv4",
-    "score": 0.0,
-    "source": "iptv-org all streams",
-    "is_active": true
-  },
-  {
-    "name": "Apna Punjab TV (720p)",
-    "url": "https://plus.gigabitcdn.net/live-stream/apna-punjab-H3sE/playlist.m3u8",
-    "group": "Entertainment",
-    "country_code": "ZZ",
-    "country_name_zh": "ZZ",
-    "ip_version": "domain",
     "score": 0.0,
     "source": "iptv-org all streams",
     "is_active": true
@@ -9449,6 +9416,17 @@
     "is_active": true
   },
   {
+    "name": "Canal J (1080p)",
+    "url": "https://vuvuu-geil-m3u8.yaskar661.workers.dev/?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F3860888136d301b247640b",
+    "group": "Kids",
+    "country_code": "ZZ",
+    "country_name_zh": "ZZ",
+    "ip_version": "domain",
+    "score": 0.0,
+    "source": "iptv-org all streams",
+    "is_active": true
+  },
+  {
     "name": "Canal Latino 54 (360p)",
     "url": "https://videostream.chileservidores.com:8081/latina/index.m3u8",
     "group": "Undefined",
@@ -10881,6 +10859,17 @@
   {
     "name": "Cine Premium (1080p)",
     "url": "http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/cinepremium.stream/playlist.m3u8",
+    "group": "Movies",
+    "country_code": "ZZ",
+    "country_name_zh": "ZZ",
+    "ip_version": "domain",
+    "score": 0.0,
+    "source": "iptv-org all streams",
+    "is_active": true
+  },
+  {
+    "name": "Cine+ Classic (1080p)",
+    "url": "https://vuvuu-geil-m3u8.yaskar661.workers.dev/?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F1398934027",
     "group": "Movies",
     "country_code": "ZZ",
     "country_name_zh": "ZZ",
@@ -12837,6 +12826,17 @@
     "is_active": true
   },
   {
+    "name": "Da Vinci (576p)",
+    "url": "http://116.90.120.149:8000/play/a0s6/index.m3u8",
+    "group": "Education",
+    "country_code": "ZZ",
+    "country_name_zh": "ZZ",
+    "ip_version": "ipv4",
+    "score": 0.0,
+    "source": "iptv-org all streams",
+    "is_active": true
+  },
+  {
     "name": "Dabanga TV (1080p)",
     "url": "https://hls.dabangasudan.org/hls/stream.m3u8",
     "group": "Education;News",
@@ -13357,50 +13357,6 @@
     "name": "Digi 4K (2160p) [Geo-blocked]",
     "url": "https://vip-acasatv.online:25463/lrZuGxAuP3/6782859900/5928.m3u8",
     "group": "Undefined",
-    "country_code": "ZZ",
-    "country_name_zh": "ZZ",
-    "ip_version": "domain",
-    "score": 0.0,
-    "source": "iptv-org all streams",
-    "is_active": true
-  },
-  {
-    "name": "Digi Sport 1 HD",
-    "url": "http://sultanios.alwaysdata.net/vavo.php?ID=3174529991",
-    "group": "Sports",
-    "country_code": "ZZ",
-    "country_name_zh": "ZZ",
-    "ip_version": "domain",
-    "score": 0.0,
-    "source": "iptv-org all streams",
-    "is_active": true
-  },
-  {
-    "name": "Digi Sport 2 HD",
-    "url": "http://sultanios.alwaysdata.net/vavo.php?ID=867728420",
-    "group": "Sports",
-    "country_code": "ZZ",
-    "country_name_zh": "ZZ",
-    "ip_version": "domain",
-    "score": 0.0,
-    "source": "iptv-org all streams",
-    "is_active": true
-  },
-  {
-    "name": "Digi Sport 3 HD",
-    "url": "http://sultanios.alwaysdata.net/vavo.php?ID=4279401658",
-    "group": "Sports",
-    "country_code": "ZZ",
-    "country_name_zh": "ZZ",
-    "ip_version": "domain",
-    "score": 0.0,
-    "source": "iptv-org all streams",
-    "is_active": true
-  },
-  {
-    "name": "Digi Sport 4",
-    "url": "http://sultanios.alwaysdata.net/vavo.php?ID=4124538275",
-    "group": "Sports",
     "country_code": "ZZ",
     "country_name_zh": "ZZ",
     "ip_version": "domain",
@@ -14355,12 +14311,12 @@
     "is_active": true
   },
   {
-    "name": "EL TV (260p)",
-    "url": "http://85.132.53.162:1935/live/eltv/playlist.m3u8",
+    "name": "EL TV [Not 24/7]",
+    "url": "https://live.eltv.az/live/eltv/playlist.m3u8",
     "group": "General",
     "country_code": "ZZ",
     "country_name_zh": "ZZ",
-    "ip_version": "ipv4",
+    "ip_version": "domain",
     "score": 0.0,
     "source": "iptv-org all streams",
     "is_active": true
@@ -15829,8 +15785,8 @@
     "is_active": true
   },
   {
-    "name": "Eurosport 3 Polska",
-    "url": "http://sultanios.alwaysdata.net/vavo.php?ID=512159637",
+    "name": "Eurosport 3 Polska (1080p)",
+    "url": "https://vuvuu-geil-m3u8.yaskar661.workers.dev/?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F5121596371c5191ed9b35",
     "group": "Sports",
     "country_code": "ZZ",
     "country_name_zh": "ZZ",
@@ -15840,8 +15796,8 @@
     "is_active": true
   },
   {
-    "name": "Eurosport 4 Polska",
-    "url": "http://sultanios.alwaysdata.net/vavo.php?ID=2896573317",
+    "name": "Eurosport 4 Polska (1080p)",
+    "url": "https://vuvuu-geil-m3u8.yaskar661.workers.dev/?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F2896573317d9d69e0e2d72",
     "group": "Sports",
     "country_code": "ZZ",
     "country_name_zh": "ZZ",
@@ -26642,6 +26598,17 @@
     "is_active": true
   },
   {
+    "name": "Mansudae Television (1080p) [Not 24/7]",
+    "url": "https://live.koryocdn.org/mansudae/index.m3u8",
+    "group": "Entertainment",
+    "country_code": "ZZ",
+    "country_name_zh": "ZZ",
+    "ip_version": "domain",
+    "score": 0.0,
+    "source": "iptv-org all streams",
+    "is_active": true
+  },
+  {
     "name": "Mantavya News (576p)",
     "url": "https://d1msejlow1t3l4.cloudfront.net/fta/mantavya/playlist.m3u8",
     "group": "News",
@@ -30437,6 +30404,17 @@
     "is_active": true
   },
   {
+    "name": "NickOnline Bob Esponja [Not 24/7]",
+    "url": "https://bob.x1colegal.com/hls/stream.m3u8",
+    "group": "Animation;Kids",
+    "country_code": "ZZ",
+    "country_name_zh": "ZZ",
+    "ip_version": "domain",
+    "score": 0.0,
+    "source": "iptv-org all streams",
+    "is_active": true
+  },
+  {
     "name": "NickOnline HD (720p)",
     "url": "https://x1colegal.com/hls/stream.m3u8",
     "group": "Animation;Kids",
@@ -33737,17 +33715,6 @@
     "is_active": true
   },
   {
-    "name": "Pluto TV Action",
-    "url": "http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/561d7d484dc7c8770484914a/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=54&deviceId=561d7d484dc7c8770484914a&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false",
-    "group": "VOD Movies (EN)",
-    "country_code": "ZZ",
-    "country_name_zh": "ZZ",
-    "ip_version": "domain",
-    "score": 0.0,
-    "source": "Free-TV/IPTV (global)",
-    "is_active": true
-  },
-  {
     "name": "Pluto TV Cult Films",
     "url": "http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5c665db3e6c01b72c4977bc2/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=109&deviceId=5c665db3e6c01b72c4977bc2&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false",
     "group": "VOD Movies (EN)",
@@ -33761,28 +33728,6 @@
   {
     "name": "Pluto TV Documentaries",
     "url": "http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5b85a7582921777994caea63/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=91&deviceId=5b85a7582921777994caea63&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false",
-    "group": "VOD Movies (EN)",
-    "country_code": "ZZ",
-    "country_name_zh": "ZZ",
-    "ip_version": "domain",
-    "score": 0.0,
-    "source": "Free-TV/IPTV (global)",
-    "is_active": true
-  },
-  {
-    "name": "Pluto TV Horror",
-    "url": "http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/569546031a619b8f07ce6e25/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=75&deviceId=569546031a619b8f07ce6e25&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false",
-    "group": "VOD Movies (EN)",
-    "country_code": "ZZ",
-    "country_name_zh": "ZZ",
-    "ip_version": "domain",
-    "score": 0.0,
-    "source": "Free-TV/IPTV (global)",
-    "is_active": true
-  },
-  {
-    "name": "Pluto TV Westerns",
-    "url": "http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5b4e94282d4ec87bdcbb87cd/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=103&deviceId=5b4e94282d4ec87bdcbb87cd&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false",
     "group": "VOD Movies (EN)",
     "country_code": "ZZ",
     "country_name_zh": "ZZ",
@@ -41360,6 +41305,50 @@
     "is_active": true
   },
   {
+    "name": "Star Gold 2 (576p)",
+    "url": "http://116.90.120.149:8000/play/a12b/index.m3u8",
+    "group": "Movies",
+    "country_code": "ZZ",
+    "country_name_zh": "ZZ",
+    "ip_version": "ipv4",
+    "score": 0.0,
+    "source": "iptv-org all streams",
+    "is_active": true
+  },
+  {
+    "name": "Star Gold HD (1080p)",
+    "url": "http://116.90.120.149:8000/play/a12a/index.m3u8",
+    "group": "Movies",
+    "country_code": "ZZ",
+    "country_name_zh": "ZZ",
+    "ip_version": "ipv4",
+    "score": 0.0,
+    "source": "iptv-org all streams",
+    "is_active": true
+  },
+  {
+    "name": "Star Gold Romance (576p)",
+    "url": "http://116.90.120.149:8000/play/a12c/index.m3u8",
+    "group": "Movies",
+    "country_code": "ZZ",
+    "country_name_zh": "ZZ",
+    "ip_version": "ipv4",
+    "score": 0.0,
+    "source": "iptv-org all streams",
+    "is_active": true
+  },
+  {
+    "name": "Star Gold Select HD (1080p)",
+    "url": "http://116.90.120.149:8000/play/a131/index.m3u8",
+    "group": "Movies",
+    "country_code": "ZZ",
+    "country_name_zh": "ZZ",
+    "ip_version": "ipv4",
+    "score": 0.0,
+    "source": "iptv-org all streams",
+    "is_active": true
+  },
+  {
     "name": "Star Jalsha (1080p) [Geo-blocked]",
     "url": "http://cdn98.com/play/live.php?extension=ts&mac=00:1A:79:99:54:11&play_token=o1cczsG9wV&stream=225805",
     "group": "Entertainment",
@@ -41415,6 +41404,17 @@
     "is_active": true
   },
   {
+    "name": "Star Movies Select HD (1080p)",
+    "url": "http://116.90.120.149:8000/play/a139/index.m3u8",
+    "group": "Movies",
+    "country_code": "ZZ",
+    "country_name_zh": "ZZ",
+    "ip_version": "ipv4",
+    "score": 0.0,
+    "source": "iptv-org all streams",
+    "is_active": true
+  },
+  {
     "name": "Star News (1080p)",
     "url": "http://103.135.253.32:8080/Star-News/index.m3u8",
     "group": "Undefined",
@@ -41432,6 +41432,39 @@
     "country_code": "ZZ",
     "country_name_zh": "ZZ",
     "ip_version": "domain",
+    "score": 0.0,
+    "source": "iptv-org all streams",
+    "is_active": true
+  },
+  {
+    "name": "Star Sports 1 HD (1080p)",
+    "url": "http://116.90.120.149:8000/play/a11x/index.m3u8",
+    "group": "Sports",
+    "country_code": "ZZ",
+    "country_name_zh": "ZZ",
+    "ip_version": "ipv4",
+    "score": 0.0,
+    "source": "iptv-org all streams",
+    "is_active": true
+  },
+  {
+    "name": "Star Sports 1 Hindi HD (1080p)",
+    "url": "http://116.90.120.149:8000/play/a122/index.m3u8",
+    "group": "Sports",
+    "country_code": "ZZ",
+    "country_name_zh": "ZZ",
+    "ip_version": "ipv4",
+    "score": 0.0,
+    "source": "iptv-org all streams",
+    "is_active": true
+  },
+  {
+    "name": "Star Sports 2 HD (1080p)",
+    "url": "http://116.90.120.149:8000/play/a120/index.m3u8",
+    "group": "Sports",
+    "country_code": "ZZ",
+    "country_name_zh": "ZZ",
+    "ip_version": "ipv4",
     "score": 0.0,
     "source": "iptv-org all streams",
     "is_active": true
@@ -42627,6 +42660,17 @@
   {
     "name": "TBN Nejat TV",
     "url": "https://hls.nejat.live/hls/stream.m3u8",
+    "group": "Undefined",
+    "country_code": "ZZ",
+    "country_name_zh": "ZZ",
+    "ip_version": "domain",
+    "score": 0.0,
+    "source": "iptv-org all streams",
+    "is_active": true
+  },
+  {
+    "name": "TBN Polska (1080p)",
+    "url": "https://prx-y5cf8.mediatool.tv/playout/tbn-abr67/index.m3u8",
     "group": "Undefined",
     "country_code": "ZZ",
     "country_name_zh": "ZZ",
@@ -46607,12 +46651,12 @@
     "is_active": true
   },
   {
-    "name": "Tele Antillas (1080p)",
-    "url": "http://45.171.108.253:8888/TELEANTILLAS/index.m3u8",
+    "name": "Tele Antillas (480p)",
+    "url": "https://hls.tvabierta.net/hls/010.m3u8",
     "group": "General",
     "country_code": "ZZ",
     "country_name_zh": "ZZ",
-    "ip_version": "ipv4",
+    "ip_version": "domain",
     "score": 0.0,
     "source": "iptv-org all streams",
     "is_active": true
@@ -49049,17 +49093,6 @@
     "is_active": true
   },
   {
-    "name": "Trace Brazuca (1080p)",
-    "url": "https://amg01131-tracetv-amg01131c4-stirr-us-4390.playouts.now.amagi.tv/playlist.m3u8",
-    "group": "Music",
-    "country_code": "ZZ",
-    "country_name_zh": "ZZ",
-    "ip_version": "domain",
-    "score": 0.0,
-    "source": "iptv-org all streams",
-    "is_active": true
-  },
-  {
     "name": "Trace Brazuca HD (1080p)",
     "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01131-tracetv-tracebrazuca-samsungbr/playlist.m3u8",
     "group": "Music",
@@ -50012,6 +50045,39 @@
     "country_code": "ZZ",
     "country_name_zh": "ZZ",
     "ip_version": "domain",
+    "score": 0.0,
+    "source": "iptv-org all streams",
+    "is_active": true
+  },
+  {
+    "name": "Unite8 Sports 1 (576p)",
+    "url": "http://116.90.120.149:8000/play/a11l/index.m3u8",
+    "group": "Sports",
+    "country_code": "ZZ",
+    "country_name_zh": "ZZ",
+    "ip_version": "ipv4",
+    "score": 0.0,
+    "source": "iptv-org all streams",
+    "is_active": true
+  },
+  {
+    "name": "Unite8 Sports 1 HD (1080p)",
+    "url": "http://116.90.120.149:8000/play/a125/index.m3u8",
+    "group": "Sports",
+    "country_code": "ZZ",
+    "country_name_zh": "ZZ",
+    "ip_version": "ipv4",
+    "score": 0.0,
+    "source": "iptv-org all streams",
+    "is_active": true
+  },
+  {
+    "name": "Unite8 Sports 2 HD (1080p)",
+    "url": "http://116.90.120.149:8000/play/a129/index.m3u8",
+    "group": "Sports",
+    "country_code": "ZZ",
+    "country_name_zh": "ZZ",
+    "ip_version": "ipv4",
     "score": 0.0,
     "source": "iptv-org all streams",
     "is_active": true
@@ -53108,6 +53174,17 @@
     "is_active": true
   },
   {
+    "name": "Zee Classic (576p)",
+    "url": "http://116.90.120.149:8000/play/a121/index.m3u8",
+    "group": "Classic",
+    "country_code": "ZZ",
+    "country_name_zh": "ZZ",
+    "ip_version": "ipv4",
+    "score": 0.0,
+    "source": "iptv-org all streams",
+    "is_active": true
+  },
+  {
     "name": "Zee Comedy Nation (1080p)",
     "url": "https://amg00862-amg00862c5-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-amg00862c5-amgplt0173/playlist.m3u8",
     "group": "Comedy",
@@ -53229,6 +53306,17 @@
     "is_active": true
   },
   {
+    "name": "Zee Power HD (1080p)",
+    "url": "http://116.90.120.149:8000/play/a11p/index.m3u8",
+    "group": "Entertainment",
+    "country_code": "ZZ",
+    "country_name_zh": "ZZ",
+    "ip_version": "ipv4",
+    "score": 0.0,
+    "source": "iptv-org all streams",
+    "is_active": true
+  },
+  {
     "name": "Zee Punjab Haryana Himachal (720p)",
     "url": "https://vg-zeefta.akamaized.net/ptnr-yupptv/title-zeepunjabharyanahima/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/65eed269-2f3a-4dd0-ac89-d18959af28e3/main.m3u8",
     "group": "News",
@@ -53276,6 +53364,17 @@
     "name": "Zee TV HD (1080p)",
     "url": "http://103.135.253.32:8080/ZEE-TV/index.m3u8",
     "group": "Entertainment",
+    "country_code": "ZZ",
+    "country_name_zh": "ZZ",
+    "ip_version": "ipv4",
+    "score": 0.0,
+    "source": "iptv-org all streams",
+    "is_active": true
+  },
+  {
+    "name": "Zee Talkies HD (1080p)",
+    "url": "http://116.90.120.149:8000/play/a116/index.m3u8",
+    "group": "Movies",
     "country_code": "ZZ",
     "country_name_zh": "ZZ",
     "ip_version": "ipv4",
@@ -53334,6 +53433,17 @@
     "country_code": "ZZ",
     "country_name_zh": "ZZ",
     "ip_version": "domain",
+    "score": 0.0,
+    "source": "iptv-org all streams",
+    "is_active": true
+  },
+  {
+    "name": "Zee Thirai HD (1080p)",
+    "url": "http://116.90.120.149:8000/play/a11q/index.m3u8",
+    "group": "Movies",
+    "country_code": "ZZ",
+    "country_name_zh": "ZZ",
+    "ip_version": "ipv4",
     "score": 0.0,
     "source": "iptv-org all streams",
     "is_active": true
@@ -53649,6 +53759,17 @@
   {
     "name": "beIN Sports 1",
     "url": "https://vg162.adcdsd123321.shop/7.m3u8",
+    "group": "Sports",
+    "country_code": "ZZ",
+    "country_name_zh": "ZZ",
+    "ip_version": "domain",
+    "score": 0.0,
+    "source": "iptv-org all streams",
+    "is_active": true
+  },
+  {
+    "name": "beIN Sports 1 Turk (1080p)",
+    "url": "https://vuvuu-geil-m3u8.yaskar661.workers.dev/?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F300113394ceebba66c8ad",
     "group": "Sports",
     "country_code": "ZZ",
     "country_name_zh": "ZZ",
@@ -56023,6 +56144,17 @@
     "is_active": true
   },
   {
+    "name": "武进新闻",
+    "url": "https://live.wjyanghu.com/live/CH1.m3u8",
+    "group": "地方频道",
+    "country_code": "ZZ",
+    "country_name_zh": "ZZ",
+    "ip_version": "domain",
+    "score": 0.0,
+    "source": "zhi35 aggregated",
+    "is_active": true
+  },
+  {
     "name": "武进生活",
     "url": "http://43.251.226.89:8080/play/522.m3u8",
     "group": "☘️江苏频道",
@@ -56339,17 +56471,6 @@
     "ip_version": "domain",
     "score": 0.0,
     "source": "Guovin/iptv-api (combined)",
-    "is_active": true
-  },
-  {
-    "name": "津南一套",
-    "url": "http://play.jinnantv.top/live/JNTV1.m3u8?ztianjd",
-    "group": "地方频道",
-    "country_code": "ZZ",
-    "country_name_zh": "ZZ",
-    "ip_version": "domain",
-    "score": 0.0,
-    "source": "zhi35 aggregated",
     "is_active": true
   },
   {
@@ -57252,28 +57373,6 @@
     "ip_version": "domain",
     "score": 0.0,
     "source": "Guovin/iptv-api (combined)",
-    "is_active": true
-  },
-  {
-    "name": "西安新闻",
-    "url": "http://112.46.105.20:8009/hls/28/index.m3u8",
-    "group": "地方频道",
-    "country_code": "ZZ",
-    "country_name_zh": "ZZ",
-    "ip_version": "ipv4",
-    "score": 0.0,
-    "source": "zhi35 aggregated",
-    "is_active": true
-  },
-  {
-    "name": "西安都市",
-    "url": "http://112.46.105.20:8009/hls/29/index.m3u8",
-    "group": "地方频道",
-    "country_code": "ZZ",
-    "country_name_zh": "ZZ",
-    "ip_version": "ipv4",
-    "score": 0.0,
-    "source": "zhi35 aggregated",
     "is_active": true
   },
   {
@@ -62282,6 +62381,17 @@
     "is_active": true
   },
   {
+    "name": "Apna Punjab TV (Canada) (720p)",
+    "url": "https://plus.gigabitcdn.net/live-stream/apna-punjab-H3sE/playlist.m3u8",
+    "group": "Entertainment",
+    "country_code": "CA",
+    "country_name_zh": "加拿大",
+    "ip_version": "domain",
+    "score": 0.0,
+    "source": "iptv-org all streams",
+    "is_active": true
+  },
+  {
     "name": "CBC News",
     "url": "https://cbcnewshd-f.akamaihd.net/i/cbcnews_1@8981/index_2500_av-p.m3u8",
     "group": "Canada",
@@ -66044,17 +66154,6 @@
     "is_active": true
   },
   {
-    "name": "CHC电影",
-    "url": "http://183.237.95.108:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=0&authid=0",
-    "group": "电影频道",
-    "country_code": "CN",
-    "country_name_zh": "中国",
-    "ip_version": "ipv4",
-    "score": 0.0,
-    "source": "vbskycn/iptv (ipv4)",
-    "is_active": true
-  },
-  {
     "name": "Chifeng Comprehensive News Chanel",
     "url": "http://play1-qk.nmtv.cn/live/1735546697341033.m3u8",
     "group": "News",
@@ -66561,6 +66660,17 @@
     "is_active": true
   },
   {
+    "name": "东方卫视4K",
+    "url": "https://bp-resource-dfl.bestv.cn/148/3/video.m3u8",
+    "group": "卫视频道",
+    "country_code": "CN",
+    "country_name_zh": "中国",
+    "ip_version": "domain",
+    "score": 0.0,
+    "source": "vbskycn/iptv (ipv4)",
+    "is_active": true
+  },
+  {
     "name": "东方卫视高清",
     "url": "rtp://239.3.1.119:3006",
     "group": "卫视",
@@ -66844,17 +66954,6 @@
     "ip_version": "domain",
     "score": 0.0,
     "source": "Guovin/iptv-api (combined)",
-    "is_active": true
-  },
-  {
-    "name": "人间卫视",
-    "url": "https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/chunklist_w511254805.m3u8",
-    "group": "卫视频道",
-    "country_code": "CN",
-    "country_name_zh": "中国",
-    "ip_version": "domain",
-    "score": 0.0,
-    "source": "vbskycn/iptv (ipv4)",
     "is_active": true
   },
   {
@@ -68156,6 +68255,17 @@
     "is_active": true
   },
   {
+    "name": "平遥新闻综合",
+    "url": "https://tntgjhjb.live.sxmty.com/live/hls/3a4585ac11ec4e1bb07b419101b370c3/baf63e2b313440c2a25d7859f9b73b05-1.m3u8?zshanxd",
+    "group": "地方频道",
+    "country_code": "CN",
+    "country_name_zh": "中国",
+    "ip_version": "domain",
+    "score": 0.0,
+    "source": "vbskycn/iptv (ipv4)",
+    "is_active": true
+  },
+  {
     "name": "广东体育",
     "url": "http://38.75.136.137:98/gslb/dsdqpub/gdty.m3u8?auth=testpub",
     "group": "☘️广东频道",
@@ -68794,17 +68904,6 @@
     "is_active": true
   },
   {
-    "name": "武进新闻",
-    "url": "https://live.wjyanghu.com/live/CH1.m3u8",
-    "group": "地方频道",
-    "country_code": "CN",
-    "country_name_zh": "中国",
-    "ip_version": "domain",
-    "score": 0.0,
-    "source": "vbskycn/iptv (ipv4)",
-    "is_active": true
-  },
-  {
     "name": "永城综合",
     "url": "http://tvpull.dxhmt.cn:9081/tv/11481-1.m3u8",
     "group": "☘️河南频道",
@@ -68830,17 +68929,6 @@
     "name": "江夏新闻综合",
     "url": "http://59.175.226.142:280/gb28181/xwzh.m3u8?zhubd",
     "group": "地方频道",
-    "country_code": "CN",
-    "country_name_zh": "中国",
-    "ip_version": "ipv4",
-    "score": 0.0,
-    "source": "vbskycn/iptv (ipv4)",
-    "is_active": true
-  },
-  {
-    "name": "江津新闻",
-    "url": "http://222.179.155.21:1935/ch1.m3u8?zzhongqd",
-    "group": "纪录频道",
     "country_code": "CN",
     "country_name_zh": "中国",
     "ip_version": "ipv4",
@@ -69149,6 +69237,17 @@
     "name": "洗冤录",
     "url": "https://live.metshop.top/huya/29465851",
     "group": "电影频道",
+    "country_code": "CN",
+    "country_name_zh": "中国",
+    "ip_version": "domain",
+    "score": 0.0,
+    "source": "vbskycn/iptv (ipv4)",
+    "is_active": true
+  },
+  {
+    "name": "津南一套",
+    "url": "http://play.jinnantv.top/live/JNTV1.m3u8?ztianjd",
+    "group": "地方频道",
     "country_code": "CN",
     "country_name_zh": "中国",
     "ip_version": "domain",
@@ -71170,17 +71269,6 @@
     "is_active": true
   },
   {
-    "name": "长影频道",
-    "url": "http://tpc.x3322.net:9901/tsfile/live/1010_1.m3u8",
-    "group": "地方频道",
-    "country_code": "CN",
-    "country_name_zh": "中国",
-    "ip_version": "domain",
-    "score": 0.0,
-    "source": "vbskycn/iptv (ipv4)",
-    "is_active": true
-  },
-  {
     "name": "长白山电视台",
     "url": "http://stream8.jlntv.cn/cbstv/sd/live.m3u8?zjild",
     "group": "地方频道",
@@ -71258,6 +71346,17 @@
     "is_active": true
   },
   {
+    "name": "陕西新闻咨询",
+    "url": "http://112.46.105.20:8009/hls/18/index.m3u8",
+    "group": "地方频道",
+    "country_code": "CN",
+    "country_name_zh": "中国",
+    "ip_version": "ipv4",
+    "score": 0.0,
+    "source": "vbskycn/iptv (ipv4)",
+    "is_active": true
+  },
+  {
     "name": "陕西新闻资讯",
     "url": "https://mgtv.ottiptv.cc/migu/956909289.m3u8?migutoken=d4f3f5a8bf93821548ae70c6bd12860956574c27b3b1ef52c88c8e3d72259b1727a6dbf5d6a5de850afac4c7ffe2f2124bb3b558a89906cd32ccc8913f0f22dd74b7a84514b6015bff75903d9c",
     "group": "☘️陕西频道",
@@ -71280,17 +71379,6 @@
     "is_active": true
   },
   {
-    "name": "陕西秦腔",
-    "url": "http://112.46.105.20:8009/hls/22/index.m3u8",
-    "group": "地方频道",
-    "country_code": "CN",
-    "country_name_zh": "中国",
-    "ip_version": "ipv4",
-    "score": 0.0,
-    "source": "vbskycn/iptv (ipv4)",
-    "is_active": true
-  },
-  {
     "name": "陕西都市青春",
     "url": "https://mgtv.ottiptv.cc/migu/956909358.m3u8?migutoken=c3931ea9d3d7ede24a9d13084dadcc55f7f21b114c6c584ca7defd6492ba46b7286dbd751d0f853f83e998e4b0349c62cf4bc570ac83667c4f6bd49a9411edc68e80c1d7f24da79a264d15912b",
     "group": "☘️陕西频道",
@@ -71299,17 +71387,6 @@
     "ip_version": "domain",
     "score": 0.0,
     "source": "Guovin/iptv-api (combined)",
-    "is_active": true
-  },
-  {
-    "name": "陕西银龄",
-    "url": "http://112.46.105.20:8009/hls/20/index.m3u8",
-    "group": "地方频道",
-    "country_code": "CN",
-    "country_name_zh": "中国",
-    "ip_version": "ipv4",
-    "score": 0.0,
-    "source": "vbskycn/iptv (ipv4)",
     "is_active": true
   },
   {
@@ -71341,28 +71418,6 @@
     "country_code": "CN",
     "country_name_zh": "中国",
     "ip_version": "domain",
-    "score": 0.0,
-    "source": "vbskycn/iptv (ipv4)",
-    "is_active": true
-  },
-  {
-    "name": "韩国EBS少儿",
-    "url": "http://ebsonairios.ebs.co.kr/ebsutablet500k/tablet500k/playlist.m3u8",
-    "group": "儿童频道",
-    "country_code": "CN",
-    "country_name_zh": "中国",
-    "ip_version": "domain",
-    "score": 0.0,
-    "source": "vbskycn/iptv (ipv4)",
-    "is_active": true
-  },
-  {
-    "name": "音乐欣赏",
-    "url": "http://61.221.215.25:8800/hls/49/index.m3u8",
-    "group": "音乐频道",
-    "country_code": "CN",
-    "country_name_zh": "中国",
-    "ip_version": "ipv4",
     "score": 0.0,
     "source": "vbskycn/iptv (ipv4)",
     "is_active": true
@@ -72700,29 +72755,7 @@
   },
   {
     "name": "Prima Sport 2 HD",
-    "url": "http://sultanios.alwaysdata.net/vavo.php?ID=3381201599",
-    "group": "Sports",
-    "country_code": "CZ",
-    "country_name_zh": "捷克",
-    "ip_version": "domain",
-    "score": 0.0,
-    "source": "iptv-org all streams",
-    "is_active": true
-  },
-  {
-    "name": "Prima Sport 3 HD",
-    "url": "http://sultanios.alwaysdata.net/vavo.php?ID=2762629881",
-    "group": "Sports",
-    "country_code": "CZ",
-    "country_name_zh": "捷克",
-    "ip_version": "domain",
-    "score": 0.0,
-    "source": "iptv-org all streams",
-    "is_active": true
-  },
-  {
-    "name": "Prima Sport 4 HD",
-    "url": "http://sultanios.alwaysdata.net/vavo.php?ID=3194919143",
+    "url": "https://rundle.tv/proxy5.php?src=https%3A%2F%2Firon1.xn--x2rw19a.space%2Fpuk2%2Fusergenrnd0clv03fyt-got.htm",
     "group": "Sports",
     "country_code": "CZ",
     "country_name_zh": "捷克",
@@ -74052,17 +74085,6 @@
     "is_active": true
   },
   {
-    "name": "Pluto TV Westerns (Germany)",
-    "url": "https://jmp2.uk/plu-5d4bdb635ce813b38639e6a3.m3u8",
-    "group": "Movies",
-    "country_code": "DE",
-    "country_name_zh": "德国",
-    "ip_version": "domain",
-    "score": 0.0,
-    "source": "iptv-org all streams",
-    "is_active": true
-  },
-  {
     "name": "ProSieben (1080p)",
     "url": "https://dash4.antik.sk/live/test_pro_sieben_tizen/playlist.m3u8",
     "group": "Undefined",
@@ -74404,31 +74426,9 @@
     "is_active": true
   },
   {
-    "name": "Ridiculousness (Germany) (720p)",
-    "url": "https://jmp2.uk/plu-5f8eb8a8b2619a000710605c.m3u8",
-    "group": "Comedy",
-    "country_code": "DE",
-    "country_name_zh": "德国",
-    "ip_version": "domain",
-    "score": 0.0,
-    "source": "iptv-org all streams",
-    "is_active": true
-  },
-  {
     "name": "Rock Antenne [Not 24/7]",
     "url": "https://stream.rockantenne.de/rockantenne/stream/mp3",
     "group": "Undefined",
-    "country_code": "DE",
-    "country_name_zh": "德国",
-    "ip_version": "domain",
-    "score": 0.0,
-    "source": "iptv-org all streams",
-    "is_active": true
-  },
-  {
-    "name": "Rugrats (Germany)",
-    "url": "https://jmp2.uk/plu-610c09219fc0430007a3fce6.m3u8",
-    "group": "Kids",
     "country_code": "DE",
     "country_name_zh": "德国",
     "ip_version": "domain",
@@ -74602,85 +74602,8 @@
     "is_active": true
   },
   {
-    "name": "South Park (Germany)",
-    "url": "https://jmp2.uk/plu-628751bb7154a40007168843.m3u8",
-    "group": "Animation;Comedy",
-    "country_code": "DE",
-    "country_name_zh": "德国",
-    "ip_version": "domain",
-    "score": 0.0,
-    "source": "iptv-org all streams",
-    "is_active": true
-  },
-  {
-    "name": "South Park (Germany) GB",
-    "url": "https://jmp2.uk/plu-64edf6eaa7ec0d000812f58c.m3u8",
-    "group": "Animation;Comedy",
-    "country_code": "DE",
-    "country_name_zh": "德国",
-    "ip_version": "domain",
-    "score": 0.0,
-    "source": "iptv-org all streams",
-    "is_active": true
-  },
-  {
-    "name": "South Park (Germany) IT",
-    "url": "https://jmp2.uk/plu-62bc1f502b70e3000706298e.m3u8",
-    "group": "Animation;Comedy",
-    "country_code": "DE",
-    "country_name_zh": "德国",
-    "ip_version": "domain",
-    "score": 0.0,
-    "source": "iptv-org all streams",
-    "is_active": true
-  },
-  {
     "name": "South Park: Butters Collection (Germany)",
     "url": "https://jmp2.uk/plu-646b14a0e94c3800082a8d3a.m3u8",
-    "group": "Animation;Comedy",
-    "country_code": "DE",
-    "country_name_zh": "德国",
-    "ip_version": "domain",
-    "score": 0.0,
-    "source": "iptv-org all streams",
-    "is_active": true
-  },
-  {
-    "name": "South Park: Cartman Collection (Germany)",
-    "url": "https://jmp2.uk/plu-646b14747cb4b1000875724d.m3u8",
-    "group": "Animation;Comedy",
-    "country_code": "DE",
-    "country_name_zh": "德国",
-    "ip_version": "domain",
-    "score": 0.0,
-    "source": "iptv-org all streams",
-    "is_active": true
-  },
-  {
-    "name": "South Park: Kenny Collection (Germany)",
-    "url": "https://jmp2.uk/plu-646b1404ee6a2f00082b5d66.m3u8",
-    "group": "Animation;Comedy",
-    "country_code": "DE",
-    "country_name_zh": "德国",
-    "ip_version": "domain",
-    "score": 0.0,
-    "source": "iptv-org all streams",
-    "is_active": true
-  },
-  {
-    "name": "South Park: Kyle Collection (Germany)",
-    "url": "https://jmp2.uk/plu-646b14d0e1979c0008915a09.m3u8",
-    "group": "Animation;Comedy",
-    "country_code": "DE",
-    "country_name_zh": "德国",
-    "ip_version": "domain",
-    "score": 0.0,
-    "source": "iptv-org all streams",
-    "is_active": true
-  },
-  {
-    "name": "South Park: Stan Collection (Germany)",
-    "url": "https://jmp2.uk/plu-646b1438e94c3800082a8cff.m3u8",
     "group": "Animation;Comedy",
     "country_code": "DE",
     "country_name_zh": "德国",
@@ -74701,41 +74624,8 @@
     "is_active": true
   },
   {
-    "name": "Star Trek: The Next Generation (Germany)",
-    "url": "https://jmp2.uk/plu-69776ce979545c21a1220bff.m3u8",
-    "group": "Movies;Series",
-    "country_code": "DE",
-    "country_name_zh": "德国",
-    "ip_version": "domain",
-    "score": 0.0,
-    "source": "iptv-org all streams",
-    "is_active": true
-  },
-  {
     "name": "Star Trek: The Original Series (Germany)",
     "url": "https://jmp2.uk/plu-69776b58036e883f39e5ab8a.m3u8",
-    "group": "Movies;Series",
-    "country_code": "DE",
-    "country_name_zh": "德国",
-    "ip_version": "domain",
-    "score": 0.0,
-    "source": "iptv-org all streams",
-    "is_active": true
-  },
-  {
-    "name": "Star Trek: Voyager (Germany)",
-    "url": "https://jmp2.uk/plu-65787f2eb228b7000843fa5c.m3u8",
-    "group": "Movies;Series",
-    "country_code": "DE",
-    "country_name_zh": "德国",
-    "ip_version": "domain",
-    "score": 0.0,
-    "source": "iptv-org all streams",
-    "is_active": true
-  },
-  {
-    "name": "Star Trek: Voyager (Germany) IT",
-    "url": "https://jmp2.uk/plu-65cb73d33ba51e00084cabad.m3u8",
     "group": "Movies;Series",
     "country_code": "DE",
     "country_name_zh": "德国",
@@ -74819,83 +74709,6 @@
     "ip_version": "domain",
     "score": 0.0,
     "source": "Free-TV/IPTV (global)",
-    "is_active": true
-  },
-  {
-    "name": "Teen Mom (Germany)",
-    "url": "https://jmp2.uk/plu-62e7fc8c0d061100083946a9.m3u8",
-    "group": "Entertainment",
-    "country_code": "DE",
-    "country_name_zh": "德国",
-    "ip_version": "domain",
-    "score": 0.0,
-    "source": "iptv-org all streams",
-    "is_active": true
-  },
-  {
-    "name": "Teen Mom (Germany) FR (720p)",
-    "url": "https://jmp2.uk/plu-62f3f05505e621000783df2f.m3u8",
-    "group": "Entertainment",
-    "country_code": "DE",
-    "country_name_zh": "德国",
-    "ip_version": "domain",
-    "score": 0.0,
-    "source": "iptv-org all streams",
-    "is_active": true
-  },
-  {
-    "name": "Teen Mom (Germany) GB",
-    "url": "https://jmp2.uk/plu-62d550d81054990007db7798.m3u8",
-    "group": "Entertainment",
-    "country_code": "DE",
-    "country_name_zh": "德国",
-    "ip_version": "domain",
-    "score": 0.0,
-    "source": "iptv-org all streams",
-    "is_active": true
-  },
-  {
-    "name": "The New Detectives (Germany)",
-    "url": "https://jmp2.uk/plu-5e393d5c696b3b0009775c8b.m3u8",
-    "group": "Series",
-    "country_code": "DE",
-    "country_name_zh": "德国",
-    "ip_version": "domain",
-    "score": 0.0,
-    "source": "iptv-org all streams",
-    "is_active": true
-  },
-  {
-    "name": "Tortues Ninja TV (Germany) (720p)",
-    "url": "https://jmp2.uk/plu-5f8ecc1b37867f00071469e9.m3u8",
-    "group": "Kids",
-    "country_code": "DE",
-    "country_name_zh": "德国",
-    "ip_version": "domain",
-    "score": 0.0,
-    "source": "iptv-org all streams",
-    "is_active": true
-  },
-  {
-    "name": "Totally Turtles (Germany) (720p)",
-    "url": "https://jmp2.uk/plu-5d6792bd6be2998ad0ccce30.m3u8",
-    "group": "Kids",
-    "country_code": "DE",
-    "country_name_zh": "德国",
-    "ip_version": "domain",
-    "score": 0.0,
-    "source": "iptv-org all streams",
-    "is_active": true
-  },
-  {
-    "name": "Totally Turtles (Germany) GB",
-    "url": "https://jmp2.uk/plu-656ef4af4261ca00083c8f37.m3u8",
-    "group": "Kids",
-    "country_code": "DE",
-    "country_name_zh": "德国",
-    "ip_version": "domain",
-    "score": 0.0,
-    "source": "iptv-org all streams",
     "is_active": true
   },
   {
@@ -75647,8 +75460,8 @@
     "is_active": true
   },
   {
-    "name": "AXN (Spain)",
-    "url": "http://sultanios.alwaysdata.net/vavo.php?ID=4238619703",
+    "name": "AXN (Spain) (1080p)",
+    "url": "https://vuvuu-geil-m3u8.yaskar661.workers.dev/?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F4238619703",
     "group": "Movies",
     "country_code": "ES",
     "country_name_zh": "西班牙",
@@ -75664,17 +75477,6 @@
     "country_code": "ES",
     "country_name_zh": "西班牙",
     "ip_version": "ipv4",
-    "score": 0.0,
-    "source": "iptv-org all streams",
-    "is_active": true
-  },
-  {
-    "name": "AXN Movies (Spain)",
-    "url": "http://sultanios.alwaysdata.net/vavo.php?ID=2493319111",
-    "group": "Movies",
-    "country_code": "ES",
-    "country_name_zh": "西班牙",
-    "ip_version": "domain",
     "score": 0.0,
     "source": "iptv-org all streams",
     "is_active": true
@@ -77792,7 +77594,7 @@
     "is_active": true
   },
   {
-    "name": "Canal+ Sport (France) (1080p) [Geo-blocked]",
+    "name": "Canal+ Sport (1080p) [Geo-blocked]",
     "url": "http://tv.streambox.fr/live/testlivestream/testlivestream/31.m3u8",
     "group": "Sports",
     "country_code": "FR",
@@ -79948,6 +79750,17 @@
     "is_active": true
   },
   {
+    "name": "Best of The Drew Barrymore Show",
+    "url": "https://jmp2.uk/plu-6310cbee5a8ad300070fdb7c.m3u8",
+    "group": "Entertainment",
+    "country_code": "GB",
+    "country_name_zh": "英国",
+    "ip_version": "domain",
+    "score": 0.0,
+    "source": "iptv-org all streams",
+    "is_active": true
+  },
+  {
     "name": "Beyond Belief: Fact or Fiction",
     "url": "https://jmp2.uk/plu-611f85396abc84000738417b.m3u8",
     "group": "Undefined",
@@ -80083,6 +79896,17 @@
     "name": "Bonanza CA",
     "url": "https://jmp2.uk/plu-696e647b07ea70192d49f6a5.m3u8",
     "group": "Movies;Series",
+    "country_code": "GB",
+    "country_name_zh": "英国",
+    "ip_version": "domain",
+    "score": 0.0,
+    "source": "iptv-org all streams",
+    "is_active": true
+  },
+  {
+    "name": "Bondi Rescue (720p)",
+    "url": "https://jmp2.uk/plu-66166989635c7500084105a2.m3u8",
+    "group": "Entertainment",
     "country_code": "GB",
     "country_name_zh": "英国",
     "ip_version": "domain",
@@ -80501,6 +80325,17 @@
     "name": "Charterfeber",
     "url": "https://jmp2.uk/plu-61c1dda0fe470d00080f85b8.m3u8",
     "group": "Entertainment",
+    "country_code": "GB",
+    "country_name_zh": "英国",
+    "ip_version": "domain",
+    "score": 0.0,
+    "source": "iptv-org all streams",
+    "is_active": true
+  },
+  {
+    "name": "Cheers",
+    "url": "https://jmp2.uk/plu-62bdb7f0db2eb30007376d4d.m3u8",
+    "group": "Series",
     "country_code": "GB",
     "country_name_zh": "英国",
     "ip_version": "domain",
@@ -80993,39 +80828,6 @@
     "is_active": true
   },
   {
-    "name": "Diagnosis Murder",
-    "url": "https://jmp2.uk/plu-668bf9be0642e5000815102d.m3u8",
-    "group": "Classic;Series",
-    "country_code": "GB",
-    "country_name_zh": "英国",
-    "ip_version": "domain",
-    "score": 0.0,
-    "source": "iptv-org all streams",
-    "is_active": true
-  },
-  {
-    "name": "Diagnosis Murder DK",
-    "url": "https://jmp2.uk/plu-668bf7dd74f5ec000817e6d1.m3u8",
-    "group": "Classic;Series",
-    "country_code": "GB",
-    "country_name_zh": "英国",
-    "ip_version": "domain",
-    "score": 0.0,
-    "source": "iptv-org all streams",
-    "is_active": true
-  },
-  {
-    "name": "Diagnosis Murder NO",
-    "url": "https://jmp2.uk/plu-668bf91208d5490008065ffd.m3u8",
-    "group": "Classic;Series",
-    "country_code": "GB",
-    "country_name_zh": "英国",
-    "ip_version": "domain",
-    "score": 0.0,
-    "source": "iptv-org all streams",
-    "is_active": true
-  },
-  {
     "name": "Diff'rent Strokes Arnold",
     "url": "https://jmp2.uk/plu-61f1d27a189ed10007b7393e.m3u8",
     "group": "Series",
@@ -81062,6 +80864,17 @@
     "name": "Divya Bhajan (1080p)",
     "url": "https://jmp2.uk/stvp-IN1600002IQ",
     "group": "Religious",
+    "country_code": "GB",
+    "country_name_zh": "英国",
+    "ip_version": "domain",
+    "score": 0.0,
+    "source": "iptv-org all streams",
+    "is_active": true
+  },
+  {
+    "name": "Doc Martin",
+    "url": "https://jmp2.uk/plu-62e922f6675f71000736db3b.m3u8",
+    "group": "Series",
     "country_code": "GB",
     "country_name_zh": "英国",
     "ip_version": "domain",
@@ -81290,6 +81103,17 @@
     "is_active": true
   },
   {
+    "name": "Frasier",
+    "url": "https://jmp2.uk/plu-62f4f90e39183b000769f12b.m3u8",
+    "group": "Series",
+    "country_code": "GB",
+    "country_name_zh": "英国",
+    "ip_version": "domain",
+    "score": 0.0,
+    "source": "iptv-org all streams",
+    "is_active": true
+  },
+  {
     "name": "Frasier: Beruhmte Gaste",
     "url": "https://jmp2.uk/plu-6790fa9e1cfc4aa96dfadcef.m3u8",
     "group": "Comedy",
@@ -81381,6 +81205,17 @@
     "name": "Gustav & Linse pa udebane",
     "url": "https://jmp2.uk/plu-69c290eeed1b1f1acb446dd8.m3u8",
     "group": "General",
+    "country_code": "GB",
+    "country_name_zh": "英国",
+    "ip_version": "domain",
+    "score": 0.0,
+    "source": "iptv-org all streams",
+    "is_active": true
+  },
+  {
+    "name": "Happy Days CA",
+    "url": "https://jmp2.uk/plu-62e917b5e354cf0007b97a67.m3u8",
+    "group": "Series",
     "country_code": "GB",
     "country_name_zh": "英国",
     "ip_version": "domain",
@@ -81678,6 +81513,17 @@
     "name": "Iqra TV",
     "url": "https://cdn149.anystream.uk:8082/app/iq53la/playlist.m3u8",
     "group": "Religious",
+    "country_code": "GB",
+    "country_name_zh": "英国",
+    "ip_version": "domain",
+    "score": 0.0,
+    "source": "iptv-org all streams",
+    "is_active": true
+  },
+  {
+    "name": "JAG",
+    "url": "https://jmp2.uk/plu-66a105f4a79dea0008aa5e0f.m3u8",
+    "group": "Series",
     "country_code": "GB",
     "country_name_zh": "英国",
     "ip_version": "domain",
@@ -82005,6 +81851,28 @@
     "is_active": true
   },
   {
+    "name": "MacGyver",
+    "url": "https://jmp2.uk/plu-63eb9dc84e83e70008abea92.m3u8",
+    "group": "Classic",
+    "country_code": "GB",
+    "country_name_zh": "英国",
+    "ip_version": "domain",
+    "score": 0.0,
+    "source": "iptv-org all streams",
+    "is_active": true
+  },
+  {
+    "name": "MacGyver LatAm",
+    "url": "https://jmp2.uk/plu-63eb95baa99571000898a078.m3u8",
+    "group": "Classic",
+    "country_code": "GB",
+    "country_name_zh": "英国",
+    "ip_version": "domain",
+    "score": 0.0,
+    "source": "iptv-org all streams",
+    "is_active": true
+  },
+  {
     "name": "Man with a Plan",
     "url": "https://jmp2.uk/plu-6825efbb9eed174f7ffbe5b0.m3u8",
     "group": "Comedy",
@@ -82082,6 +81950,17 @@
     "is_active": true
   },
   {
+    "name": "Matlock CA",
+    "url": "https://jmp2.uk/plu-63da365f60bc8f0008a50f44.m3u8",
+    "group": "Series",
+    "country_code": "GB",
+    "country_name_zh": "英国",
+    "ip_version": "domain",
+    "score": 0.0,
+    "source": "iptv-org all streams",
+    "is_active": true
+  },
+  {
     "name": "McLeods Tochter",
     "url": "https://jmp2.uk/plu-66c6fcfc6838ee00085beb1a.m3u8",
     "group": "Series",
@@ -82151,6 +82030,17 @@
     "name": "Milenio Television (720p)",
     "url": "https://jmp2.uk/plu-652e922db4b047000825f975.m3u8",
     "group": "News",
+    "country_code": "GB",
+    "country_name_zh": "英国",
+    "ip_version": "domain",
+    "score": 0.0,
+    "source": "iptv-org all streams",
+    "is_active": true
+  },
+  {
+    "name": "Mission Impossible CA",
+    "url": "https://jmp2.uk/plu-62ea43aa0c43540007f2db96.m3u8",
+    "group": "Series",
     "country_code": "GB",
     "country_name_zh": "英国",
     "ip_version": "domain",
@@ -82247,6 +82137,39 @@
     "is_active": true
   },
   {
+    "name": "NCIS",
+    "url": "https://jmp2.uk/plu-63eb9fdda995710008991c54.m3u8",
+    "group": "Series",
+    "country_code": "GB",
+    "country_name_zh": "英国",
+    "ip_version": "domain",
+    "score": 0.0,
+    "source": "iptv-org all streams",
+    "is_active": true
+  },
+  {
+    "name": "NCIS CA",
+    "url": "https://jmp2.uk/plu-62f4f5de1c100100075665ef.m3u8",
+    "group": "Series",
+    "country_code": "GB",
+    "country_name_zh": "英国",
+    "ip_version": "domain",
+    "score": 0.0,
+    "source": "iptv-org all streams",
+    "is_active": true
+  },
+  {
+    "name": "NCIS LatAm",
+    "url": "https://jmp2.uk/plu-63eb947c4e83e70008ab877b.m3u8",
+    "group": "Series",
+    "country_code": "GB",
+    "country_name_zh": "英国",
+    "ip_version": "domain",
+    "score": 0.0,
+    "source": "iptv-org all streams",
+    "is_active": true
+  },
+  {
     "name": "NCIS: Det bedste med Gibbs",
     "url": "https://jmp2.uk/plu-6901d952ec12c3c759fdc7cd.m3u8",
     "group": "Series",
@@ -82260,6 +82183,17 @@
   {
     "name": "NCIS: Det bedste med Tony & Ziva",
     "url": "https://jmp2.uk/plu-68921b2f4fa995eff24df6c8.m3u8",
+    "group": "Series",
+    "country_code": "GB",
+    "country_name_zh": "英国",
+    "ip_version": "domain",
+    "score": 0.0,
+    "source": "iptv-org all streams",
+    "is_active": true
+  },
+  {
+    "name": "NCIS: Los Angeles",
+    "url": "https://jmp2.uk/plu-66a106c8a79dea0008aa5ef3.m3u8",
     "group": "Series",
     "country_code": "GB",
     "country_name_zh": "英国",
@@ -82467,19 +82401,8 @@
     "is_active": true
   },
   {
-    "name": "Numb3rs",
-    "url": "https://jmp2.uk/plu-63dbe8a1c111bc0008dec8b8.m3u8",
-    "group": "Series",
-    "country_code": "GB",
-    "country_name_zh": "英国",
-    "ip_version": "domain",
-    "score": 0.0,
-    "source": "iptv-org all streams",
-    "is_active": true
-  },
-  {
-    "name": "Numb3rs NO",
-    "url": "https://jmp2.uk/plu-63dbe78051f5d000083e9249.m3u8",
+    "name": "Numbers",
+    "url": "https://jmp2.uk/plu-67f960c5441853fe50e7afc1.m3u8",
     "group": "Series",
     "country_code": "GB",
     "country_name_zh": "英国",
@@ -82668,39 +82591,6 @@
     "name": "Perry Mason CA",
     "url": "https://jmp2.uk/plu-63e20bd160bc8f0008b4c949.m3u8",
     "group": "Series",
-    "country_code": "GB",
-    "country_name_zh": "英国",
-    "ip_version": "domain",
-    "score": 0.0,
-    "source": "iptv-org all streams",
-    "is_active": true
-  },
-  {
-    "name": "Pimp My Ride",
-    "url": "https://jmp2.uk/plu-61c09a3894aa450007814aea.m3u8",
-    "group": "Entertainment",
-    "country_code": "GB",
-    "country_name_zh": "英国",
-    "ip_version": "domain",
-    "score": 0.0,
-    "source": "iptv-org all streams",
-    "is_active": true
-  },
-  {
-    "name": "Pimp My Ride DK",
-    "url": "https://jmp2.uk/plu-61c091343bf4940007803e03.m3u8",
-    "group": "Entertainment",
-    "country_code": "GB",
-    "country_name_zh": "英国",
-    "ip_version": "domain",
-    "score": 0.0,
-    "source": "iptv-org all streams",
-    "is_active": true
-  },
-  {
-    "name": "Pimp My Ride NO",
-    "url": "https://jmp2.uk/plu-61c1d6e1f5acaf0007f8381d.m3u8",
-    "group": "Entertainment",
     "country_code": "GB",
     "country_name_zh": "英国",
     "ip_version": "domain",
@@ -84007,9 +83897,31 @@
     "is_active": true
   },
   {
+    "name": "Pluto TV Horror CA",
+    "url": "https://jmp2.uk/plu-62ea3f8a38acc80007072d26.m3u8",
+    "group": "Movies;Series",
+    "country_code": "GB",
+    "country_name_zh": "英国",
+    "ip_version": "domain",
+    "score": 0.0,
+    "source": "iptv-org all streams",
+    "is_active": true
+  },
+  {
     "name": "Pluto TV Horror-Serien",
     "url": "https://jmp2.uk/plu-67ff7d9c7fc25e0e72451bc9.m3u8",
     "group": "Series",
+    "country_code": "GB",
+    "country_name_zh": "英国",
+    "ip_version": "domain",
+    "score": 0.0,
+    "source": "iptv-org all streams",
+    "is_active": true
+  },
+  {
+    "name": "Pluto TV Humor",
+    "url": "https://jmp2.uk/plu-5e8397936791b30007ebb5a7.m3u8",
+    "group": "Undefined",
     "country_code": "GB",
     "country_name_zh": "英国",
     "ip_version": "domain",
@@ -84645,6 +84557,17 @@
     "is_active": true
   },
   {
+    "name": "Pluto TV Paranormal CA",
+    "url": "https://jmp2.uk/plu-62e92a58f3e4290007290c96.m3u8",
+    "group": "Documentary",
+    "country_code": "GB",
+    "country_name_zh": "英国",
+    "ip_version": "domain",
+    "score": 0.0,
+    "source": "iptv-org all streams",
+    "is_active": true
+  },
+  {
     "name": "Pluto TV Peleas",
     "url": "https://jmp2.uk/plu-5e98b0447665f200078caded.m3u8",
     "group": "Undefined",
@@ -84868,6 +84791,28 @@
     "name": "Pluto TV Scherzi e risate",
     "url": "https://jmp2.uk/plu-609404b0a8ec810007d8de9d.m3u8",
     "group": "Comedy",
+    "country_code": "GB",
+    "country_name_zh": "英国",
+    "ip_version": "domain",
+    "score": 0.0,
+    "source": "iptv-org all streams",
+    "is_active": true
+  },
+  {
+    "name": "Pluto TV Sci-Fi CA",
+    "url": "https://jmp2.uk/plu-66166cb1307fa30008f275e7.m3u8",
+    "group": "Movies;Series",
+    "country_code": "GB",
+    "country_name_zh": "英国",
+    "ip_version": "domain",
+    "score": 0.0,
+    "source": "iptv-org all streams",
+    "is_active": true
+  },
+  {
+    "name": "Pluto TV Sci-Fi LatAm",
+    "url": "https://jmp2.uk/plu-5f2817d3d7573a00080f9175.m3u8",
+    "group": "Movies;Series",
     "country_code": "GB",
     "country_name_zh": "英国",
     "ip_version": "domain",
@@ -85338,6 +85283,17 @@
     "is_active": true
   },
   {
+    "name": "Pluto TV True Crime CA",
+    "url": "https://jmp2.uk/plu-62e9289f8d467f0007fbc701.m3u8",
+    "group": "Documentary;Series",
+    "country_code": "GB",
+    "country_name_zh": "英国",
+    "ip_version": "domain",
+    "score": 0.0,
+    "source": "iptv-org all streams",
+    "is_active": true
+  },
+  {
     "name": "Pluto TV Turbo",
     "url": "https://jmp2.uk/plu-6014761dfb91870008ea6463.m3u8",
     "group": "Auto;Documentary",
@@ -85525,6 +85481,17 @@
     "is_active": true
   },
   {
+    "name": "Pluto TV Westerns CA",
+    "url": "https://jmp2.uk/plu-62bdacc96a3751000811842d.m3u8",
+    "group": "Movies",
+    "country_code": "GB",
+    "country_name_zh": "英国",
+    "ip_version": "domain",
+    "score": 0.0,
+    "source": "iptv-org all streams",
+    "is_active": true
+  },
+  {
     "name": "Pluto TV Wild West",
     "url": "https://jmp2.uk/plu-68c017bf337652ee75db201f.m3u8",
     "group": "Movies;Series",
@@ -85690,6 +85657,17 @@
     "is_active": true
   },
   {
+    "name": "Rawhide CA",
+    "url": "https://jmp2.uk/plu-65660223635c3c00086c2578.m3u8",
+    "group": "Movies;Series",
+    "country_code": "GB",
+    "country_name_zh": "英国",
+    "ip_version": "domain",
+    "score": 0.0,
+    "source": "iptv-org all streams",
+    "is_active": true
+  },
+  {
     "name": "Reno 911",
     "url": "https://jmp2.uk/plu-65e9781a2873090008b48d8a.m3u8",
     "group": "Comedy",
@@ -85770,6 +85748,17 @@
     "name": "RugbyPass TV (720p)",
     "url": "https://jmp2.uk/plu-66f137cb483d460008ece053.m3u8",
     "group": "Undefined",
+    "country_code": "GB",
+    "country_name_zh": "英国",
+    "ip_version": "domain",
+    "score": 0.0,
+    "source": "iptv-org all streams",
+    "is_active": true
+  },
+  {
+    "name": "Rugrats",
+    "url": "https://jmp2.uk/plu-5ea7215005d66d0007e8128a.m3u8",
+    "group": "Kids",
     "country_code": "GB",
     "country_name_zh": "英国",
     "ip_version": "domain",
@@ -86273,6 +86262,17 @@
     "is_active": true
   },
   {
+    "name": "South Park",
+    "url": "https://jmp2.uk/plu-62bdb1c5e25122000798ac79.m3u8",
+    "group": "Animation;Comedy",
+    "country_code": "GB",
+    "country_name_zh": "英国",
+    "ip_version": "domain",
+    "score": 0.0,
+    "source": "iptv-org all streams",
+    "is_active": true
+  },
+  {
     "name": "South Park Armageddon",
     "url": "https://jmp2.uk/plu-660bff7dc8311c0008b4bdb4.m3u8",
     "group": "Animation;Comedy",
@@ -86352,6 +86352,17 @@
   {
     "name": "South Park Version Original",
     "url": "https://jmp2.uk/plu-63d7a8e5a9957100086bfc23.m3u8",
+    "group": "Animation;Comedy",
+    "country_code": "GB",
+    "country_name_zh": "英国",
+    "ip_version": "domain",
+    "score": 0.0,
+    "source": "iptv-org all streams",
+    "is_active": true
+  },
+  {
+    "name": "South Park: Cartman Collection",
+    "url": "https://jmp2.uk/plu-65df4934f7f0af0008c32545.m3u8",
     "group": "Animation;Comedy",
     "country_code": "GB",
     "country_name_zh": "英国",
@@ -86482,8 +86493,41 @@
     "is_active": true
   },
   {
+    "name": "South Park: Kenny Collection",
+    "url": "https://jmp2.uk/plu-65df47f428730900089f83ac.m3u8",
+    "group": "Animation;Comedy",
+    "country_code": "GB",
+    "country_name_zh": "英国",
+    "ip_version": "domain",
+    "score": 0.0,
+    "source": "iptv-org all streams",
+    "is_active": true
+  },
+  {
+    "name": "South Park: Kyle Collection",
+    "url": "https://jmp2.uk/plu-65df49b30d45610008172c5b.m3u8",
+    "group": "Animation;Comedy",
+    "country_code": "GB",
+    "country_name_zh": "英国",
+    "ip_version": "domain",
+    "score": 0.0,
+    "source": "iptv-org all streams",
+    "is_active": true
+  },
+  {
     "name": "South Park: Original Version",
     "url": "https://jmp2.uk/plu-646b150a15939400089e2702.m3u8",
+    "group": "Animation;Comedy",
+    "country_code": "GB",
+    "country_name_zh": "英国",
+    "ip_version": "domain",
+    "score": 0.0,
+    "source": "iptv-org all streams",
+    "is_active": true
+  },
+  {
+    "name": "South Park: Stan Collection",
+    "url": "https://jmp2.uk/plu-65df48ba28730900089f8480.m3u8",
     "group": "Animation;Comedy",
     "country_code": "GB",
     "country_name_zh": "英国",
@@ -86999,6 +87043,28 @@
     "is_active": true
   },
   {
+    "name": "The New Detectives CA",
+    "url": "https://jmp2.uk/plu-62bdabbc5611f2000761ca30.m3u8",
+    "group": "Series",
+    "country_code": "GB",
+    "country_name_zh": "英国",
+    "ip_version": "domain",
+    "score": 0.0,
+    "source": "iptv-org all streams",
+    "is_active": true
+  },
+  {
+    "name": "The New Detectives LatAm",
+    "url": "https://jmp2.uk/plu-5ea71d48af1d0b0007d837f4.m3u8",
+    "group": "Series",
+    "country_code": "GB",
+    "country_name_zh": "英国",
+    "ip_version": "domain",
+    "score": 0.0,
+    "source": "iptv-org all streams",
+    "is_active": true
+  },
+  {
     "name": "The Price Is Right CA (720p)",
     "url": "https://jmp2.uk/plu-64c2214c2a7f2200089a0c4b.m3u8",
     "group": "Entertainment",
@@ -87101,6 +87167,28 @@
     "name": "Tokusato",
     "url": "https://jmp2.uk/plu-5ff609de50ab210008025c1b.m3u8",
     "group": "Animation",
+    "country_code": "GB",
+    "country_name_zh": "英国",
+    "ip_version": "domain",
+    "score": 0.0,
+    "source": "iptv-org all streams",
+    "is_active": true
+  },
+  {
+    "name": "Tortues Ninja TV (720p)",
+    "url": "https://jmp2.uk/plu-62e9566e27ce19000732ec85.m3u8",
+    "group": "Kids",
+    "country_code": "GB",
+    "country_name_zh": "英国",
+    "ip_version": "domain",
+    "score": 0.0,
+    "source": "iptv-org all streams",
+    "is_active": true
+  },
+  {
+    "name": "Totally Turtles CA (720p)",
+    "url": "https://jmp2.uk/plu-62e95265c9fd030007268fb9.m3u8",
+    "group": "Kids",
     "country_code": "GB",
     "country_name_zh": "英国",
     "ip_version": "domain",
@@ -87365,6 +87453,28 @@
     "name": "ducktv (720p)",
     "url": "https://jmp2.uk/stvp-ESBC4700001GR",
     "group": "Kids",
+    "country_code": "GB",
+    "country_name_zh": "英国",
+    "ip_version": "domain",
+    "score": 0.0,
+    "source": "iptv-org all streams",
+    "is_active": true
+  },
+  {
+    "name": "iCarly",
+    "url": "https://jmp2.uk/plu-620ff46e0a576e0007dc2f89.m3u8",
+    "group": "Series",
+    "country_code": "GB",
+    "country_name_zh": "英国",
+    "ip_version": "domain",
+    "score": 0.0,
+    "source": "iptv-org all streams",
+    "is_active": true
+  },
+  {
+    "name": "iCarly LatAm",
+    "url": "https://jmp2.uk/plu-620ff0a01f9e8700076c6f9d.m3u8",
+    "group": "Series",
     "country_code": "GB",
     "country_name_zh": "英国",
     "ip_version": "domain",
@@ -91454,6 +91564,17 @@
     "is_active": true
   },
   {
+    "name": "One (Israel)",
+    "url": "https://r.il.cdn-redge.media/livehls/oil/freetv/live/one_1/live.livx/playlist.m3u8",
+    "group": "General",
+    "country_code": "IL",
+    "country_name_zh": "以色列",
+    "ip_version": "domain",
+    "score": 0.0,
+    "source": "iptv-org all streams",
+    "is_active": true
+  },
+  {
     "name": "The Israeli Network (540p)",
     "url": "https://r.eu.cdn-redge.media/livehls/oeu/mt/live/the_israeli_network/live.livx/playlist.m3u8",
     "group": "Undefined",
@@ -91861,6 +91982,17 @@
     "is_active": true
   },
   {
+    "name": "Apna Punjab TV (India) (576p)",
+    "url": "https://samitaorigin.tangotv.in/APNAPUNJAB/SAMITAORIGIN/index.m3u8",
+    "group": "General",
+    "country_code": "IN",
+    "country_name_zh": "印度",
+    "ip_version": "domain",
+    "score": 0.0,
+    "source": "iptv-org all streams",
+    "is_active": true
+  },
+  {
     "name": "Aradana TV (576p)",
     "url": "https://mumbai-edge.smartplaytv.in/AradanaTV/index.m3u8",
     "group": "Religious",
@@ -92073,6 +92205,17 @@
     "name": "Bloomberg HT (720p)",
     "url": "https://mumbai-edge.smartplaytv.in/BloombergHT/index.m3u8",
     "group": "Business",
+    "country_code": "IN",
+    "country_name_zh": "印度",
+    "ip_version": "domain",
+    "score": 0.0,
+    "source": "iptv-org all streams",
+    "is_active": true
+  },
+  {
+    "name": "C-10 (576p)",
+    "url": "https://samitaorigin.tangotv.in/C10/SAMITAORIGIN/index.m3u8",
+    "group": "News",
     "country_code": "IN",
     "country_name_zh": "印度",
     "ip_version": "domain",
@@ -92665,7 +92808,7 @@
   },
   {
     "name": "HNN 24x7 (576p)",
-    "url": "https://ott.livelegitpro.in:9899/hnnnews/hnnnews/index.m3u8",
+    "url": "https://mumt07.tangotv.in/zHjX9OFlHNN24X7/index.m3u8",
     "group": "News",
     "country_code": "IN",
     "country_name_zh": "印度",
@@ -94600,12 +94743,67 @@
     "is_active": true
   },
   {
+    "name": "Sony SAB HD (1080p)",
+    "url": "http://116.90.120.149:8000/play/a128/index.m3u8",
+    "group": "Entertainment",
+    "country_code": "IN",
+    "country_name_zh": "印度",
+    "ip_version": "ipv4",
+    "score": 0.0,
+    "source": "iptv-org all streams",
+    "is_active": true
+  },
+  {
+    "name": "Sony Sports Ten 1 (576p)",
+    "url": "http://116.90.120.149:8000/play/a126/index.m3u8",
+    "group": "Sports",
+    "country_code": "IN",
+    "country_name_zh": "印度",
+    "ip_version": "ipv4",
+    "score": 0.0,
+    "source": "iptv-org all streams",
+    "is_active": true
+  },
+  {
+    "name": "Sony Sports Ten 1 HD (1080p)",
+    "url": "http://116.90.120.149:8000/play/a11t/index.m3u8",
+    "group": "Sports",
+    "country_code": "IN",
+    "country_name_zh": "印度",
+    "ip_version": "ipv4",
+    "score": 0.0,
+    "source": "iptv-org all streams",
+    "is_active": true
+  },
+  {
+    "name": "Sony Sports Ten 2 HD (1080p)",
+    "url": "http://116.90.120.149:8000/play/a137/index.m3u8",
+    "group": "Sports",
+    "country_code": "IN",
+    "country_name_zh": "印度",
+    "ip_version": "ipv4",
+    "score": 0.0,
+    "source": "iptv-org all streams",
+    "is_active": true
+  },
+  {
     "name": "Sony Sports Ten 3 Hindi (1080p)",
     "url": "https://r2.amml.in/sony-ten-3-hd/live.m3u8",
     "group": "Sports",
     "country_code": "IN",
     "country_name_zh": "印度",
     "ip_version": "domain",
+    "score": 0.0,
+    "source": "iptv-org all streams",
+    "is_active": true
+  },
+  {
+    "name": "Sony Sports Ten 5 (576p)",
+    "url": "http://116.90.120.149:8000/play/a117/index.m3u8",
+    "group": "Sports",
+    "country_code": "IN",
+    "country_name_zh": "印度",
+    "ip_version": "ipv4",
     "score": 0.0,
     "source": "iptv-org all streams",
     "is_active": true
@@ -94636,6 +94834,17 @@
     "name": "Star Bharat (India) HD (1080p)",
     "url": "http://103.135.253.32:8080/STAR-BHARAT/index.m3u8",
     "group": "News",
+    "country_code": "IN",
+    "country_name_zh": "印度",
+    "ip_version": "ipv4",
+    "score": 0.0,
+    "source": "iptv-org all streams",
+    "is_active": true
+  },
+  {
+    "name": "Star Movies (India) HD (1080p)",
+    "url": "http://116.90.120.149:8000/play/a13a/index.m3u8",
+    "group": "Movies",
     "country_code": "IN",
     "country_name_zh": "印度",
     "ip_version": "ipv4",
@@ -94749,6 +94958,17 @@
     "country_code": "IN",
     "country_name_zh": "印度",
     "ip_version": "domain",
+    "score": 0.0,
+    "source": "iptv-org all streams",
+    "is_active": true
+  },
+  {
+    "name": "TLC (India) HD (1080p)",
+    "url": "http://116.90.120.149:8000/play/a11g/index.m3u8",
+    "group": "Lifestyle",
+    "country_code": "IN",
+    "country_name_zh": "印度",
+    "ip_version": "ipv4",
     "score": 0.0,
     "source": "iptv-org all streams",
     "is_active": true
@@ -96571,17 +96791,6 @@
   {
     "name": "Boing (Italy) HD (1080p)",
     "url": "https://boing.akamaized.net/6380392800112/eu-central-1/6284318116001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0Ijoib3dwbnN1LmVncmVzcy5haGc3NmwiLCJhY2NvdW50X2lkIjoiNjI4NDMxODExNjAwMSIsImVobiI6ImJvaW5nLmFrYW1haXplZC5uZXQiLCJpc3MiOiJibGl2ZS1wbGF5YmFjay1zb3VyY2UtYXBpIiwic3ViIjoicGF0aG1hcHRva2VuIiwiYXVkIjpbIjYyODQzMTgxMTYwMDEiXSwianRpIjoiNjM4MDM5MjgwMDExMiJ9.0RWQ0yZrauU0cHSnbpBYhgyRPeq1Lyw6nOn_fo7_cg0/playlist-hls.m3u8",
-    "group": "Kids",
-    "country_code": "IT",
-    "country_name_zh": "意大利",
-    "ip_version": "domain",
-    "score": 0.0,
-    "source": "iptv-org all streams",
-    "is_active": true
-  },
-  {
-    "name": "Boomerang (Italy)",
-    "url": "http://sultanios.alwaysdata.net/vavo.php?ID=2705627802",
     "group": "Kids",
     "country_code": "IT",
     "country_name_zh": "意大利",
@@ -100691,6 +100900,17 @@
     "ip_version": "domain",
     "score": 0.0,
     "source": "Free-TV/IPTV (global)",
+    "is_active": true
+  },
+  {
+    "name": "Sky Sport F1 (Italy)",
+    "url": "https://vuvuu-geil-m3u8.yaskar661.workers.dev/?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F22890389722acc4573933d",
+    "group": "Sports",
+    "country_code": "IT",
+    "country_name_zh": "意大利",
+    "ip_version": "domain",
+    "score": 0.0,
+    "source": "iptv-org all streams",
     "is_active": true
   },
   {
@@ -109516,17 +109736,6 @@
     "is_active": true
   },
   {
-    "name": "Da Vinci (Poland) (576p)",
-    "url": "http://116.90.120.149:8000/play/a0ad/index.m3u8",
-    "group": "Education",
-    "country_code": "PL",
-    "country_name_zh": "波兰",
-    "ip_version": "ipv4",
-    "score": 0.0,
-    "source": "iptv-org all streams",
-    "is_active": true
-  },
-  {
     "name": "Disco Polo Music (1080p)",
     "url": "http://185.227.34.179:8080/disco-polo-music/index.m3u8",
     "group": "Poland",
@@ -110660,6 +110869,17 @@
     "is_active": true
   },
   {
+    "name": "TVK SMNT (1080p)",
+    "url": "https://tvk.smnt.pl/memfs/cf3a66ef-133a-4579-86da-5995ab23ae2a.m3u8",
+    "group": "Entertainment",
+    "country_code": "PL",
+    "country_name_zh": "波兰",
+    "ip_version": "domain",
+    "score": 0.0,
+    "source": "iptv-org all streams",
+    "is_active": true
+  },
+  {
     "name": "TVK Stella (576p)",
     "url": "https://stream.tvkstella.pl/stella/stella.m3u8",
     "group": "Poland",
@@ -110921,6 +111141,17 @@
     "ip_version": "domain",
     "score": 0.0,
     "source": "Free-TV/IPTV (global)",
+    "is_active": true
+  },
+  {
+    "name": "Telewizja Imperium (1080p)",
+    "url": "https://str10.imperiummedia.pl/TVIMPERIUM/index.m3u8",
+    "group": "General",
+    "country_code": "PL",
+    "country_name_zh": "波兰",
+    "ip_version": "domain",
+    "score": 0.0,
+    "source": "iptv-org all streams",
     "is_active": true
   },
   {
@@ -112115,17 +112346,6 @@
     "name": "Dotto TV (1080p)",
     "url": "https://live.dottotv.ro/index.m3u8",
     "group": "News",
-    "country_code": "RO",
-    "country_name_zh": "罗马尼亚",
-    "ip_version": "domain",
-    "score": 0.0,
-    "source": "iptv-org all streams",
-    "is_active": true
-  },
-  {
-    "name": "E! (Romania)",
-    "url": "http://sultanios.alwaysdata.net/vavo.php?ID=3166915380",
-    "group": "Entertainment",
     "country_code": "RO",
     "country_name_zh": "罗马尼亚",
     "ip_version": "domain",
@@ -113779,17 +113999,6 @@
     "country_code": "RU",
     "country_name_zh": "俄罗斯",
     "ip_version": "domain",
-    "score": 0.0,
-    "source": "iptv-org all streams",
-    "is_active": true
-  },
-  {
-    "name": "Da Vinci (Russia) (576p)",
-    "url": "http://116.90.120.149:8000/play/a0s6/index.m3u8",
-    "group": "Education",
-    "country_code": "RU",
-    "country_name_zh": "俄罗斯",
-    "ip_version": "ipv4",
     "score": 0.0,
     "source": "iptv-org all streams",
     "is_active": true
@@ -116853,130 +117062,9 @@
     "is_active": true
   },
   {
-    "name": "Best of The Drew Barrymore Show (Sweden)",
-    "url": "https://jmp2.uk/plu-630483153a21200007f1920f.m3u8",
-    "group": "Entertainment",
-    "country_code": "SE",
-    "country_name_zh": "瑞典",
-    "ip_version": "domain",
-    "score": 0.0,
-    "source": "iptv-org all streams",
-    "is_active": true
-  },
-  {
-    "name": "Best of The Drew Barrymore Show (Sweden) DK",
-    "url": "https://jmp2.uk/plu-62beb692cda2b10007d5fd76.m3u8",
-    "group": "Entertainment",
-    "country_code": "SE",
-    "country_name_zh": "瑞典",
-    "ip_version": "domain",
-    "score": 0.0,
-    "source": "iptv-org all streams",
-    "is_active": true
-  },
-  {
-    "name": "Best of The Drew Barrymore Show (Sweden) NO",
-    "url": "https://jmp2.uk/plu-630478cfdb5a4a0007ec255e.m3u8",
-    "group": "Entertainment",
-    "country_code": "SE",
-    "country_name_zh": "瑞典",
-    "ip_version": "domain",
-    "score": 0.0,
-    "source": "iptv-org all streams",
-    "is_active": true
-  },
-  {
-    "name": "Bondi Rescue (Sweden) (720p)",
-    "url": "https://jmp2.uk/plu-660d67eec8311c0008b8c3f7.m3u8",
-    "group": "Series",
-    "country_code": "SE",
-    "country_name_zh": "瑞典",
-    "ip_version": "domain",
-    "score": 0.0,
-    "source": "iptv-org all streams",
-    "is_active": true
-  },
-  {
-    "name": "Bondi Rescue (Sweden) DK (720p)",
-    "url": "https://jmp2.uk/plu-660d66be7bcd8600087cfee5.m3u8",
-    "group": "Series",
-    "country_code": "SE",
-    "country_name_zh": "瑞典",
-    "ip_version": "domain",
-    "score": 0.0,
-    "source": "iptv-org all streams",
-    "is_active": true
-  },
-  {
-    "name": "Bondi Rescue (Sweden) NO (720p)",
-    "url": "https://jmp2.uk/plu-660d67c419ca71000849a4e9.m3u8",
-    "group": "Series",
-    "country_code": "SE",
-    "country_name_zh": "瑞典",
-    "ip_version": "domain",
-    "score": 0.0,
-    "source": "iptv-org all streams",
-    "is_active": true
-  },
-  {
-    "name": "CSI (Sweden)",
-    "url": "https://jmp2.uk/plu-6525419dc52b3600083db9c3.m3u8",
-    "group": "Series",
-    "country_code": "SE",
-    "country_name_zh": "瑞典",
-    "ip_version": "domain",
-    "score": 0.0,
-    "source": "iptv-org all streams",
-    "is_active": true
-  },
-  {
     "name": "Canal TV3 (720p) [Not 24/7]",
     "url": "https://streaming.telenetdigital.net.co:8086/canal3tv/stream.m3u8",
     "group": "General",
-    "country_code": "SE",
-    "country_name_zh": "瑞典",
-    "ip_version": "domain",
-    "score": 0.0,
-    "source": "iptv-org all streams",
-    "is_active": true
-  },
-  {
-    "name": "Car Chase (Sweden) (720p)",
-    "url": "https://jmp2.uk/plu-65a93be02fac9c00083cbac4.m3u8",
-    "group": "Series",
-    "country_code": "SE",
-    "country_name_zh": "瑞典",
-    "ip_version": "domain",
-    "score": 0.0,
-    "source": "iptv-org all streams",
-    "is_active": true
-  },
-  {
-    "name": "Car Chase (Sweden) DK (720p)",
-    "url": "https://jmp2.uk/plu-65a93b0607e03a000895abda.m3u8",
-    "group": "Series",
-    "country_code": "SE",
-    "country_name_zh": "瑞典",
-    "ip_version": "domain",
-    "score": 0.0,
-    "source": "iptv-org all streams",
-    "is_active": true
-  },
-  {
-    "name": "Car Chase (Sweden) NO (720p)",
-    "url": "https://jmp2.uk/plu-65a93b870c7ff50008d1ca47.m3u8",
-    "group": "Series",
-    "country_code": "SE",
-    "country_name_zh": "瑞典",
-    "ip_version": "domain",
-    "score": 0.0,
-    "source": "iptv-org all streams",
-    "is_active": true
-  },
-  {
-    "name": "Cheers (Sweden) NO",
-    "url": "https://jmp2.uk/plu-63e389dcc111bc0008ee5b8c.m3u8",
-    "group": "Comedy",
     "country_code": "SE",
     "country_name_zh": "瑞典",
     "ip_version": "domain",
@@ -117018,17 +117106,6 @@
     "is_active": true
   },
   {
-    "name": "Doc Martin (Sweden)",
-    "url": "https://jmp2.uk/plu-62b1e5e77d15410007f798c6.m3u8",
-    "group": "Series",
-    "country_code": "SE",
-    "country_name_zh": "瑞典",
-    "ip_version": "domain",
-    "score": 0.0,
-    "source": "iptv-org all streams",
-    "is_active": true
-  },
-  {
     "name": "Expressen TV",
     "url": "https://cdn0-03837-liveedge0.dna.ip-only.net/03837-liveedge0/smil:03837-tx2/playlist.m3u8",
     "group": "Sweden",
@@ -117037,50 +117114,6 @@
     "ip_version": "domain",
     "score": 0.0,
     "source": "Free-TV/IPTV (global)",
-    "is_active": true
-  },
-  {
-    "name": "Family Ties (Sweden)",
-    "url": "https://jmp2.uk/plu-654a510d986ad20008a45874.m3u8",
-    "group": "Comedy",
-    "country_code": "SE",
-    "country_name_zh": "瑞典",
-    "ip_version": "domain",
-    "score": 0.0,
-    "source": "iptv-org all streams",
-    "is_active": true
-  },
-  {
-    "name": "Family Ties (Sweden) DK",
-    "url": "https://jmp2.uk/plu-654a4a3ef91d250008ac089b.m3u8",
-    "group": "Comedy",
-    "country_code": "SE",
-    "country_name_zh": "瑞典",
-    "ip_version": "domain",
-    "score": 0.0,
-    "source": "iptv-org all streams",
-    "is_active": true
-  },
-  {
-    "name": "Family Ties (Sweden) NO",
-    "url": "https://jmp2.uk/plu-654a4f7bf9cc8200086877d5.m3u8",
-    "group": "Comedy",
-    "country_code": "SE",
-    "country_name_zh": "瑞典",
-    "ip_version": "domain",
-    "score": 0.0,
-    "source": "iptv-org all streams",
-    "is_active": true
-  },
-  {
-    "name": "Frasier (Sweden)",
-    "url": "https://jmp2.uk/plu-6400c095498393000878a634.m3u8",
-    "group": "General",
-    "country_code": "SE",
-    "country_name_zh": "瑞典",
-    "ip_version": "domain",
-    "score": 0.0,
-    "source": "iptv-org all streams",
     "is_active": true
   },
   {
@@ -117108,105 +117141,6 @@
   {
     "name": "Geordie Shore (Sweden) NO",
     "url": "https://jmp2.uk/plu-64424a1d5a0cd500083ed27c.m3u8",
-    "group": "Entertainment",
-    "country_code": "SE",
-    "country_name_zh": "瑞典",
-    "ip_version": "domain",
-    "score": 0.0,
-    "source": "iptv-org all streams",
-    "is_active": true
-  },
-  {
-    "name": "Happy Days (Sweden)",
-    "url": "https://jmp2.uk/plu-654a52254d6d8f00084eacfc.m3u8",
-    "group": "Classic;Series",
-    "country_code": "SE",
-    "country_name_zh": "瑞典",
-    "ip_version": "domain",
-    "score": 0.0,
-    "source": "iptv-org all streams",
-    "is_active": true
-  },
-  {
-    "name": "Happy Days (Sweden) DK",
-    "url": "https://jmp2.uk/plu-654a4e29ab05240008a18625.m3u8",
-    "group": "Classic;Series",
-    "country_code": "SE",
-    "country_name_zh": "瑞典",
-    "ip_version": "domain",
-    "score": 0.0,
-    "source": "iptv-org all streams",
-    "is_active": true
-  },
-  {
-    "name": "Happy Days (Sweden) NO",
-    "url": "https://jmp2.uk/plu-654a508d986ad20008a456a5.m3u8",
-    "group": "Classic;Series",
-    "country_code": "SE",
-    "country_name_zh": "瑞典",
-    "ip_version": "domain",
-    "score": 0.0,
-    "source": "iptv-org all streams",
-    "is_active": true
-  },
-  {
-    "name": "JAG (Sweden)",
-    "url": "https://jmp2.uk/plu-654a515f986ad20008a4593b.m3u8",
-    "group": "Classic;Series",
-    "country_code": "SE",
-    "country_name_zh": "瑞典",
-    "ip_version": "domain",
-    "score": 0.0,
-    "source": "iptv-org all streams",
-    "is_active": true
-  },
-  {
-    "name": "JAG (Sweden) DK",
-    "url": "https://jmp2.uk/plu-654a4ab92c1d330008657ae5.m3u8",
-    "group": "Classic;Series",
-    "country_code": "SE",
-    "country_name_zh": "瑞典",
-    "ip_version": "domain",
-    "score": 0.0,
-    "source": "iptv-org all streams",
-    "is_active": true
-  },
-  {
-    "name": "JAG (Sweden) NO",
-    "url": "https://jmp2.uk/plu-654a4fc753fc9700083ae79f.m3u8",
-    "group": "Classic;Series",
-    "country_code": "SE",
-    "country_name_zh": "瑞典",
-    "ip_version": "domain",
-    "score": 0.0,
-    "source": "iptv-org all streams",
-    "is_active": true
-  },
-  {
-    "name": "Jersey Shore (Sweden)",
-    "url": "https://jmp2.uk/plu-64424c1be94c380008d0a98c.m3u8",
-    "group": "Entertainment",
-    "country_code": "SE",
-    "country_name_zh": "瑞典",
-    "ip_version": "domain",
-    "score": 0.0,
-    "source": "iptv-org all streams",
-    "is_active": true
-  },
-  {
-    "name": "Jersey Shore (Sweden) DK",
-    "url": "https://jmp2.uk/plu-6442508e5a0cd500083edd3c.m3u8",
-    "group": "Entertainment",
-    "country_code": "SE",
-    "country_name_zh": "瑞典",
-    "ip_version": "domain",
-    "score": 0.0,
-    "source": "iptv-org all streams",
-    "is_active": true
-  },
-  {
-    "name": "Jersey Shore (Sweden) NO",
-    "url": "https://jmp2.uk/plu-64424b21e1979c0008379681.m3u8",
     "group": "Entertainment",
     "country_code": "SE",
     "country_name_zh": "瑞典",
@@ -117282,237 +117216,6 @@
     "is_active": true
   },
   {
-    "name": "MTV Catfish (Sweden) (720p)",
-    "url": "https://jmp2.uk/plu-61780d4267bf4d00077ddd73.m3u8",
-    "group": "Entertainment",
-    "country_code": "SE",
-    "country_name_zh": "瑞典",
-    "ip_version": "domain",
-    "score": 0.0,
-    "source": "iptv-org all streams",
-    "is_active": true
-  },
-  {
-    "name": "MTV Catfish (Sweden) DK (720p)",
-    "url": "https://jmp2.uk/plu-6177fe76691b2e000702c7fc.m3u8",
-    "group": "Entertainment",
-    "country_code": "SE",
-    "country_name_zh": "瑞典",
-    "ip_version": "domain",
-    "score": 0.0,
-    "source": "iptv-org all streams",
-    "is_active": true
-  },
-  {
-    "name": "MTV Catfish (Sweden) NO",
-    "url": "https://jmp2.uk/plu-61781a52a3638a00078fa57e.m3u8",
-    "group": "Entertainment",
-    "country_code": "SE",
-    "country_name_zh": "瑞典",
-    "ip_version": "domain",
-    "score": 0.0,
-    "source": "iptv-org all streams",
-    "is_active": true
-  },
-  {
-    "name": "MTV Dating (Sweden) (720p)",
-    "url": "https://jmp2.uk/plu-685140f121f49d1b9d178249.m3u8",
-    "group": "Entertainment",
-    "country_code": "SE",
-    "country_name_zh": "瑞典",
-    "ip_version": "domain",
-    "score": 0.0,
-    "source": "iptv-org all streams",
-    "is_active": true
-  },
-  {
-    "name": "MTV Dating (Sweden) DK (720p)",
-    "url": "https://jmp2.uk/plu-6851407c21f49d1b9d177493.m3u8",
-    "group": "Entertainment",
-    "country_code": "SE",
-    "country_name_zh": "瑞典",
-    "ip_version": "domain",
-    "score": 0.0,
-    "source": "iptv-org all streams",
-    "is_active": true
-  },
-  {
-    "name": "MTV Dating (Sweden) NO (720p)",
-    "url": "https://jmp2.uk/plu-685140bd21f49d1b9d177e21.m3u8",
-    "group": "Entertainment",
-    "country_code": "SE",
-    "country_name_zh": "瑞典",
-    "ip_version": "domain",
-    "score": 0.0,
-    "source": "iptv-org all streams",
-    "is_active": true
-  },
-  {
-    "name": "MTV Reality (Sweden) (720p)",
-    "url": "https://jmp2.uk/plu-685139b0f7d8b74b62f41c96.m3u8",
-    "group": "General",
-    "country_code": "SE",
-    "country_name_zh": "瑞典",
-    "ip_version": "domain",
-    "score": 0.0,
-    "source": "iptv-org all streams",
-    "is_active": true
-  },
-  {
-    "name": "MTV Reality (Sweden) DK (720p)",
-    "url": "https://jmp2.uk/plu-685137f4a1e091e16f2dd471.m3u8",
-    "group": "General",
-    "country_code": "SE",
-    "country_name_zh": "瑞典",
-    "ip_version": "domain",
-    "score": 0.0,
-    "source": "iptv-org all streams",
-    "is_active": true
-  },
-  {
-    "name": "MTV Reality (Sweden) NO",
-    "url": "https://jmp2.uk/plu-68513950f212bedacf8ec48f.m3u8",
-    "group": "General",
-    "country_code": "SE",
-    "country_name_zh": "瑞典",
-    "ip_version": "domain",
-    "score": 0.0,
-    "source": "iptv-org all streams",
-    "is_active": true
-  },
-  {
-    "name": "MTV Ridiculousness (Sweden) (720p)",
-    "url": "https://jmp2.uk/plu-62cda0dfddc1040008fccacc.m3u8",
-    "group": "Entertainment",
-    "country_code": "SE",
-    "country_name_zh": "瑞典",
-    "ip_version": "domain",
-    "score": 0.0,
-    "source": "iptv-org all streams",
-    "is_active": true
-  },
-  {
-    "name": "MTV Ridiculousness (Sweden) DK (720p)",
-    "url": "https://jmp2.uk/plu-62cd9641393d8400076f34db.m3u8",
-    "group": "Entertainment",
-    "country_code": "SE",
-    "country_name_zh": "瑞典",
-    "ip_version": "domain",
-    "score": 0.0,
-    "source": "iptv-org all streams",
-    "is_active": true
-  },
-  {
-    "name": "MTV Ridiculousness (Sweden) NO (720p)",
-    "url": "https://jmp2.uk/plu-62cd9e0d10bb020007005628.m3u8",
-    "group": "Entertainment",
-    "country_code": "SE",
-    "country_name_zh": "瑞典",
-    "ip_version": "domain",
-    "score": 0.0,
-    "source": "iptv-org all streams",
-    "is_active": true
-  },
-  {
-    "name": "MTV Teen Mom (Sweden) (720p)",
-    "url": "https://jmp2.uk/plu-61c09342b3a6230007a45119.m3u8",
-    "group": "Entertainment",
-    "country_code": "SE",
-    "country_name_zh": "瑞典",
-    "ip_version": "domain",
-    "score": 0.0,
-    "source": "iptv-org all streams",
-    "is_active": true
-  },
-  {
-    "name": "MTV Teen Mom (Sweden) DK (720p)",
-    "url": "https://jmp2.uk/plu-61c092157e1b8b0007372a35.m3u8",
-    "group": "Entertainment",
-    "country_code": "SE",
-    "country_name_zh": "瑞典",
-    "ip_version": "domain",
-    "score": 0.0,
-    "source": "iptv-org all streams",
-    "is_active": true
-  },
-  {
-    "name": "MTV Teen Mom (Sweden) NO (720p)",
-    "url": "https://jmp2.uk/plu-61c1df62b7672a0007b6c9ba.m3u8",
-    "group": "Entertainment",
-    "country_code": "SE",
-    "country_name_zh": "瑞典",
-    "ip_version": "domain",
-    "score": 0.0,
-    "source": "iptv-org all streams",
-    "is_active": true
-  },
-  {
-    "name": "MacGyver (Sweden)",
-    "url": "https://jmp2.uk/plu-63a19eceb3d0eb0007439c34.m3u8",
-    "group": "Classic;Series",
-    "country_code": "SE",
-    "country_name_zh": "瑞典",
-    "ip_version": "domain",
-    "score": 0.0,
-    "source": "iptv-org all streams",
-    "is_active": true
-  },
-  {
-    "name": "MacGyver (Sweden) DK",
-    "url": "https://jmp2.uk/plu-654a59742c1d33000865a797.m3u8",
-    "group": "Classic;Series",
-    "country_code": "SE",
-    "country_name_zh": "瑞典",
-    "ip_version": "domain",
-    "score": 0.0,
-    "source": "iptv-org all streams",
-    "is_active": true
-  },
-  {
-    "name": "MacGyver (Sweden) NO",
-    "url": "https://jmp2.uk/plu-654a59d483595c0008187514.m3u8",
-    "group": "Classic;Series",
-    "country_code": "SE",
-    "country_name_zh": "瑞典",
-    "ip_version": "domain",
-    "score": 0.0,
-    "source": "iptv-org all streams",
-    "is_active": true
-  },
-  {
-    "name": "Matlock (Sweden)",
-    "url": "https://jmp2.uk/plu-66290c12801af8000850c1a9.m3u8",
-    "group": "Classic;Series",
-    "country_code": "SE",
-    "country_name_zh": "瑞典",
-    "ip_version": "domain",
-    "score": 0.0,
-    "source": "iptv-org all streams",
-    "is_active": true
-  },
-  {
-    "name": "Matlock (Sweden) DK",
-    "url": "https://jmp2.uk/plu-66290a779e68c20008a18cf3.m3u8",
-    "group": "Classic;Series",
-    "country_code": "SE",
-    "country_name_zh": "瑞典",
-    "ip_version": "domain",
-    "score": 0.0,
-    "source": "iptv-org all streams",
-    "is_active": true
-  },
-  {
-    "name": "Matlock (Sweden) NO",
-    "url": "https://jmp2.uk/plu-66290b7523e24f000832cc17.m3u8",
-    "group": "Classic;Series",
-    "country_code": "SE",
-    "country_name_zh": "瑞典",
-    "ip_version": "domain",
-    "score": 0.0,
-    "source": "iptv-org all streams",
-    "is_active": true
-  },
-  {
     "name": "Medium (Sweden)",
     "url": "https://jmp2.uk/plu-68f0f642a25ba0aab3e64e66.m3u8",
     "group": "Series",
@@ -117538,105 +117241,6 @@
     "name": "Medium (Sweden) NO",
     "url": "https://jmp2.uk/plu-68f0f602a362b63a8df4efb4.m3u8",
     "group": "Series",
-    "country_code": "SE",
-    "country_name_zh": "瑞典",
-    "ip_version": "domain",
-    "score": 0.0,
-    "source": "iptv-org all streams",
-    "is_active": true
-  },
-  {
-    "name": "Mission Impossible (Sweden)",
-    "url": "https://jmp2.uk/plu-639b4f14be012600070fe1be.m3u8",
-    "group": "Classic;Series",
-    "country_code": "SE",
-    "country_name_zh": "瑞典",
-    "ip_version": "domain",
-    "score": 0.0,
-    "source": "iptv-org all streams",
-    "is_active": true
-  },
-  {
-    "name": "Mission Impossible (Sweden) DK",
-    "url": "https://jmp2.uk/plu-6478a9e4f77b61000817034b.m3u8",
-    "group": "Classic;Series",
-    "country_code": "SE",
-    "country_name_zh": "瑞典",
-    "ip_version": "domain",
-    "score": 0.0,
-    "source": "iptv-org all streams",
-    "is_active": true
-  },
-  {
-    "name": "Mission Impossible (Sweden) NO",
-    "url": "https://jmp2.uk/plu-639b4eb4da3fda0008036f6e.m3u8",
-    "group": "Classic;Series",
-    "country_code": "SE",
-    "country_name_zh": "瑞典",
-    "ip_version": "domain",
-    "score": 0.0,
-    "source": "iptv-org all streams",
-    "is_active": true
-  },
-  {
-    "name": "NCIS (Sweden)",
-    "url": "https://jmp2.uk/plu-6319ec31c62c3f00075c90b1.m3u8",
-    "group": "Series",
-    "country_code": "SE",
-    "country_name_zh": "瑞典",
-    "ip_version": "domain",
-    "score": 0.0,
-    "source": "iptv-org all streams",
-    "is_active": true
-  },
-  {
-    "name": "NCIS: Los Angeles (Sweden)",
-    "url": "https://jmp2.uk/plu-66fbf4d3d7de140008d41f5b.m3u8",
-    "group": "Series",
-    "country_code": "SE",
-    "country_name_zh": "瑞典",
-    "ip_version": "domain",
-    "score": 0.0,
-    "source": "iptv-org all streams",
-    "is_active": true
-  },
-  {
-    "name": "Numbers (Sweden)",
-    "url": "https://jmp2.uk/plu-62bebb3a67307900077a7f9d.m3u8",
-    "group": "Series",
-    "country_code": "SE",
-    "country_name_zh": "瑞典",
-    "ip_version": "domain",
-    "score": 0.0,
-    "source": "iptv-org all streams",
-    "is_active": true
-  },
-  {
-    "name": "Pluto TV Action (Sweden)",
-    "url": "https://jmp2.uk/plu-61c0b0688a80a4000703fbcb.m3u8",
-    "group": "Movies;Series",
-    "country_code": "SE",
-    "country_name_zh": "瑞典",
-    "ip_version": "domain",
-    "score": 0.0,
-    "source": "iptv-org all streams",
-    "is_active": true
-  },
-  {
-    "name": "Pluto TV Action (Sweden) DK",
-    "url": "https://jmp2.uk/plu-61c095861782bd000780e0ba.m3u8",
-    "group": "Movies;Series",
-    "country_code": "SE",
-    "country_name_zh": "瑞典",
-    "ip_version": "domain",
-    "score": 0.0,
-    "source": "iptv-org all streams",
-    "is_active": true
-  },
-  {
-    "name": "Pluto TV Action (Sweden) NO",
-    "url": "https://jmp2.uk/plu-61c1e270489a9c000874d209.m3u8",
-    "group": "Movies;Series",
     "country_code": "SE",
     "country_name_zh": "瑞典",
     "ip_version": "domain",
@@ -117722,50 +117326,6 @@
     "is_active": true
   },
   {
-    "name": "Pluto TV Horror (Sweden)",
-    "url": "https://jmp2.uk/plu-63a19e1b9ab2df0007bef7a7.m3u8",
-    "group": "Movies;Series",
-    "country_code": "SE",
-    "country_name_zh": "瑞典",
-    "ip_version": "domain",
-    "score": 0.0,
-    "source": "iptv-org all streams",
-    "is_active": true
-  },
-  {
-    "name": "Pluto TV Horror (Sweden) DK",
-    "url": "https://jmp2.uk/plu-63a1c9790cc44a0007dc8857.m3u8",
-    "group": "Movies;Series",
-    "country_code": "SE",
-    "country_name_zh": "瑞典",
-    "ip_version": "domain",
-    "score": 0.0,
-    "source": "iptv-org all streams",
-    "is_active": true
-  },
-  {
-    "name": "Pluto TV Horror (Sweden) NO",
-    "url": "https://jmp2.uk/plu-63a19cb7847a090007f230d7.m3u8",
-    "group": "Movies;Series",
-    "country_code": "SE",
-    "country_name_zh": "瑞典",
-    "ip_version": "domain",
-    "score": 0.0,
-    "source": "iptv-org all streams",
-    "is_active": true
-  },
-  {
-    "name": "Pluto TV Humor (Sweden)",
-    "url": "https://jmp2.uk/plu-61c0974945b45d0007aaa5ac.m3u8",
-    "group": "Comedy;Movies",
-    "country_code": "SE",
-    "country_name_zh": "瑞典",
-    "ip_version": "domain",
-    "score": 0.0,
-    "source": "iptv-org all streams",
-    "is_active": true
-  },
-  {
     "name": "Pluto TV Motor (Sweden)",
     "url": "https://jmp2.uk/plu-68ac52fac9b5923e0585578b.m3u8",
     "group": "Auto",
@@ -117791,61 +117351,6 @@
     "name": "Pluto TV Motor (Sweden) NO",
     "url": "https://jmp2.uk/plu-68ac52b05190a45dc990ee39.m3u8",
     "group": "Auto",
-    "country_code": "SE",
-    "country_name_zh": "瑞典",
-    "ip_version": "domain",
-    "score": 0.0,
-    "source": "iptv-org all streams",
-    "is_active": true
-  },
-  {
-    "name": "Pluto TV Paranormal (Sweden)",
-    "url": "https://jmp2.uk/plu-62b1e4189f5db20007ff03be.m3u8",
-    "group": "Movies",
-    "country_code": "SE",
-    "country_name_zh": "瑞典",
-    "ip_version": "domain",
-    "score": 0.0,
-    "source": "iptv-org all streams",
-    "is_active": true
-  },
-  {
-    "name": "Pluto TV Paranormal (Sweden) DK",
-    "url": "https://jmp2.uk/plu-62b30beb81f89900071fc7b9.m3u8",
-    "group": "Movies",
-    "country_code": "SE",
-    "country_name_zh": "瑞典",
-    "ip_version": "domain",
-    "score": 0.0,
-    "source": "iptv-org all streams",
-    "is_active": true
-  },
-  {
-    "name": "Pluto TV Sci-Fi (Sweden)",
-    "url": "https://jmp2.uk/plu-61f9597e78607000074f6c2a.m3u8",
-    "group": "Movies;Series",
-    "country_code": "SE",
-    "country_name_zh": "瑞典",
-    "ip_version": "domain",
-    "score": 0.0,
-    "source": "iptv-org all streams",
-    "is_active": true
-  },
-  {
-    "name": "Pluto TV Sci-Fi (Sweden) DK",
-    "url": "https://jmp2.uk/plu-61f9598588f86000078ee7d6.m3u8",
-    "group": "Movies;Series",
-    "country_code": "SE",
-    "country_name_zh": "瑞典",
-    "ip_version": "domain",
-    "score": 0.0,
-    "source": "iptv-org all streams",
-    "is_active": true
-  },
-  {
-    "name": "Pluto TV Sci-Fi (Sweden) NO",
-    "url": "https://jmp2.uk/plu-61f957e051cca800076f2358.m3u8",
-    "group": "Movies;Series",
     "country_code": "SE",
     "country_name_zh": "瑞典",
     "ip_version": "domain",
@@ -117942,72 +117447,6 @@
     "is_active": true
   },
   {
-    "name": "Pluto TV True Crime (Sweden)",
-    "url": "https://jmp2.uk/plu-61c0b438244e50000758083b.m3u8",
-    "group": "Documentary;Series",
-    "country_code": "SE",
-    "country_name_zh": "瑞典",
-    "ip_version": "domain",
-    "score": 0.0,
-    "source": "iptv-org all streams",
-    "is_active": true
-  },
-  {
-    "name": "Pluto TV True Crime (Sweden) DK",
-    "url": "https://jmp2.uk/plu-61c097ec8bb1830008e3f962.m3u8",
-    "group": "Documentary;Series",
-    "country_code": "SE",
-    "country_name_zh": "瑞典",
-    "ip_version": "domain",
-    "score": 0.0,
-    "source": "iptv-org all streams",
-    "is_active": true
-  },
-  {
-    "name": "Pluto TV True Crime (Sweden) NO",
-    "url": "https://jmp2.uk/plu-61c1e51354d923000731bf78.m3u8",
-    "group": "Documentary;Series",
-    "country_code": "SE",
-    "country_name_zh": "瑞典",
-    "ip_version": "domain",
-    "score": 0.0,
-    "source": "iptv-org all streams",
-    "is_active": true
-  },
-  {
-    "name": "Rawhide (Sweden)",
-    "url": "https://jmp2.uk/plu-6964bb3640c8de392514a0c6.m3u8",
-    "group": "Classic;Series",
-    "country_code": "SE",
-    "country_name_zh": "瑞典",
-    "ip_version": "domain",
-    "score": 0.0,
-    "source": "iptv-org all streams",
-    "is_active": true
-  },
-  {
-    "name": "Rawhide (Sweden) DK",
-    "url": "https://jmp2.uk/plu-6964ba787e92438c2754e924.m3u8",
-    "group": "Classic;Series",
-    "country_code": "SE",
-    "country_name_zh": "瑞典",
-    "ip_version": "domain",
-    "score": 0.0,
-    "source": "iptv-org all streams",
-    "is_active": true
-  },
-  {
-    "name": "Rawhide (Sweden) NO",
-    "url": "https://jmp2.uk/plu-6964baa63dfd98e10945ac51.m3u8",
-    "group": "Classic;Series",
-    "country_code": "SE",
-    "country_name_zh": "瑞典",
-    "ip_version": "domain",
-    "score": 0.0,
-    "source": "iptv-org all streams",
-    "is_active": true
-  },
-  {
     "name": "SVT 1",
     "url": "https://svt-live-channel.akamaized.net/l4/se/svt1/manifest.mpd?format=dash&defaultSubLang=1",
     "group": "Sweden",
@@ -118085,61 +117524,6 @@
     "is_active": true
   },
   {
-    "name": "Smithsonian Channel Selects (Sweden)",
-    "url": "https://jmp2.uk/plu-61fb9907b1b78d000717ed9f.m3u8",
-    "group": "Documentary",
-    "country_code": "SE",
-    "country_name_zh": "瑞典",
-    "ip_version": "domain",
-    "score": 0.0,
-    "source": "iptv-org all streams",
-    "is_active": true
-  },
-  {
-    "name": "Smithsonian Channel Selects (Sweden) DK",
-    "url": "https://jmp2.uk/plu-61fb988e032c0100077d5252.m3u8",
-    "group": "Documentary",
-    "country_code": "SE",
-    "country_name_zh": "瑞典",
-    "ip_version": "domain",
-    "score": 0.0,
-    "source": "iptv-org all streams",
-    "is_active": true
-  },
-  {
-    "name": "South Park (Sweden)",
-    "url": "https://jmp2.uk/plu-61c0b627e3ed94000793c18a.m3u8",
-    "group": "Animation;Comedy",
-    "country_code": "SE",
-    "country_name_zh": "瑞典",
-    "ip_version": "domain",
-    "score": 0.0,
-    "source": "iptv-org all streams",
-    "is_active": true
-  },
-  {
-    "name": "South Park (Sweden) DK",
-    "url": "https://jmp2.uk/plu-61c098df897b9d00070375c8.m3u8",
-    "group": "Animation;Comedy",
-    "country_code": "SE",
-    "country_name_zh": "瑞典",
-    "ip_version": "domain",
-    "score": 0.0,
-    "source": "iptv-org all streams",
-    "is_active": true
-  },
-  {
-    "name": "South Park (Sweden) NO",
-    "url": "https://jmp2.uk/plu-61c1e88cd168ea0007068133.m3u8",
-    "group": "Animation;Comedy",
-    "country_code": "SE",
-    "country_name_zh": "瑞典",
-    "ip_version": "domain",
-    "score": 0.0,
-    "source": "iptv-org all streams",
-    "is_active": true
-  },
-  {
     "name": "South Park: Butters Collection (Sweden)",
     "url": "https://jmp2.uk/plu-65d881d566eec8000887f6bb.m3u8",
     "group": "Animation;Comedy",
@@ -118164,138 +117548,6 @@
   {
     "name": "South Park: Butters Collection (Sweden) NO",
     "url": "https://jmp2.uk/plu-65d87fcb66eec8000887f4aa.m3u8",
-    "group": "Animation;Comedy",
-    "country_code": "SE",
-    "country_name_zh": "瑞典",
-    "ip_version": "domain",
-    "score": 0.0,
-    "source": "iptv-org all streams",
-    "is_active": true
-  },
-  {
-    "name": "South Park: Cartman Collection (Sweden)",
-    "url": "https://jmp2.uk/plu-65d881b1332fec000833a122.m3u8",
-    "group": "Animation;Comedy",
-    "country_code": "SE",
-    "country_name_zh": "瑞典",
-    "ip_version": "domain",
-    "score": 0.0,
-    "source": "iptv-org all streams",
-    "is_active": true
-  },
-  {
-    "name": "South Park: Cartman Collection (Sweden) DK",
-    "url": "https://jmp2.uk/plu-65d87a058145cb0008265c2e.m3u8",
-    "group": "Animation;Comedy",
-    "country_code": "SE",
-    "country_name_zh": "瑞典",
-    "ip_version": "domain",
-    "score": 0.0,
-    "source": "iptv-org all streams",
-    "is_active": true
-  },
-  {
-    "name": "South Park: Cartman Collection (Sweden) NO",
-    "url": "https://jmp2.uk/plu-65d87fa0f7f0af0008b2358b.m3u8",
-    "group": "Animation;Comedy",
-    "country_code": "SE",
-    "country_name_zh": "瑞典",
-    "ip_version": "domain",
-    "score": 0.0,
-    "source": "iptv-org all streams",
-    "is_active": true
-  },
-  {
-    "name": "South Park: Kenny Collection (Sweden)",
-    "url": "https://jmp2.uk/plu-65d880cea25d5e0008315b0a.m3u8",
-    "group": "Animation;Comedy",
-    "country_code": "SE",
-    "country_name_zh": "瑞典",
-    "ip_version": "domain",
-    "score": 0.0,
-    "source": "iptv-org all streams",
-    "is_active": true
-  },
-  {
-    "name": "South Park: Kenny Collection (Sweden) DK",
-    "url": "https://jmp2.uk/plu-65d879bd0d4561000805d190.m3u8",
-    "group": "Animation;Comedy",
-    "country_code": "SE",
-    "country_name_zh": "瑞典",
-    "ip_version": "domain",
-    "score": 0.0,
-    "source": "iptv-org all streams",
-    "is_active": true
-  },
-  {
-    "name": "South Park: Kenny Collection (Sweden) NO",
-    "url": "https://jmp2.uk/plu-65d87f53ec9fda0008a5b810.m3u8",
-    "group": "Animation;Comedy",
-    "country_code": "SE",
-    "country_name_zh": "瑞典",
-    "ip_version": "domain",
-    "score": 0.0,
-    "source": "iptv-org all streams",
-    "is_active": true
-  },
-  {
-    "name": "South Park: Kyle Collection (Sweden)",
-    "url": "https://jmp2.uk/plu-65d882394e01740008a36768.m3u8",
-    "group": "Animation;Comedy",
-    "country_code": "SE",
-    "country_name_zh": "瑞典",
-    "ip_version": "domain",
-    "score": 0.0,
-    "source": "iptv-org all streams",
-    "is_active": true
-  },
-  {
-    "name": "South Park: Kyle Collection (Sweden) DK",
-    "url": "https://jmp2.uk/plu-65d87a908145cb0008265c6d.m3u8",
-    "group": "Animation;Comedy",
-    "country_code": "SE",
-    "country_name_zh": "瑞典",
-    "ip_version": "domain",
-    "score": 0.0,
-    "source": "iptv-org all streams",
-    "is_active": true
-  },
-  {
-    "name": "South Park: Kyle Collection (Sweden) NO",
-    "url": "https://jmp2.uk/plu-65d88004ec9fda0008a5b8b3.m3u8",
-    "group": "Animation;Comedy",
-    "country_code": "SE",
-    "country_name_zh": "瑞典",
-    "ip_version": "domain",
-    "score": 0.0,
-    "source": "iptv-org all streams",
-    "is_active": true
-  },
-  {
-    "name": "South Park: Stan Collection (Sweden)",
-    "url": "https://jmp2.uk/plu-65d881914e01740008a36603.m3u8",
-    "group": "Animation;Comedy",
-    "country_code": "SE",
-    "country_name_zh": "瑞典",
-    "ip_version": "domain",
-    "score": 0.0,
-    "source": "iptv-org all streams",
-    "is_active": true
-  },
-  {
-    "name": "South Park: Stan Collection (Sweden) DK",
-    "url": "https://jmp2.uk/plu-65d879e266eec8000887e91b.m3u8",
-    "group": "Animation;Comedy",
-    "country_code": "SE",
-    "country_name_zh": "瑞典",
-    "ip_version": "domain",
-    "score": 0.0,
-    "source": "iptv-org all streams",
-    "is_active": true
-  },
-  {
-    "name": "South Park: Stan Collection (Sweden) NO",
-    "url": "https://jmp2.uk/plu-65d87f7a28730900088e7fbf.m3u8",
     "group": "Animation;Comedy",
     "country_code": "SE",
     "country_name_zh": "瑞典",
@@ -118393,141 +117645,9 @@
     "is_active": true
   },
   {
-    "name": "The New Detectives (Sweden)",
-    "url": "https://jmp2.uk/plu-61814dd68a368d0007d78c53.m3u8",
-    "group": "Series",
-    "country_code": "SE",
-    "country_name_zh": "瑞典",
-    "ip_version": "domain",
-    "score": 0.0,
-    "source": "iptv-org all streams",
-    "is_active": true
-  },
-  {
-    "name": "The New Detectives (Sweden) DK",
-    "url": "https://jmp2.uk/plu-618147d2a814250007b42916.m3u8",
-    "group": "Series",
-    "country_code": "SE",
-    "country_name_zh": "瑞典",
-    "ip_version": "domain",
-    "score": 0.0,
-    "source": "iptv-org all streams",
-    "is_active": true
-  },
-  {
-    "name": "The New Detectives (Sweden) NO",
-    "url": "https://jmp2.uk/plu-6181511c1e13690007b143c2.m3u8",
-    "group": "Series",
-    "country_code": "SE",
-    "country_name_zh": "瑞典",
-    "ip_version": "domain",
-    "score": 0.0,
-    "source": "iptv-org all streams",
-    "is_active": true
-  },
-  {
     "name": "The Pet Collective Sweden (720p)",
     "url": "https://the-pet-collective-international-se.samsung.wurl.tv/playlist.m3u8",
     "group": "Family",
-    "country_code": "SE",
-    "country_name_zh": "瑞典",
-    "ip_version": "domain",
-    "score": 0.0,
-    "source": "iptv-org all streams",
-    "is_active": true
-  },
-  {
-    "name": "The Wild Wild West (Sweden)",
-    "url": "https://jmp2.uk/plu-6964bcf9ae33e24d911d7e1c.m3u8",
-    "group": "Classic;Series",
-    "country_code": "SE",
-    "country_name_zh": "瑞典",
-    "ip_version": "domain",
-    "score": 0.0,
-    "source": "iptv-org all streams",
-    "is_active": true
-  },
-  {
-    "name": "The Wild Wild West (Sweden) DK",
-    "url": "https://jmp2.uk/plu-6964bc3806d76f50db3e315e.m3u8",
-    "group": "Classic;Series",
-    "country_code": "SE",
-    "country_name_zh": "瑞典",
-    "ip_version": "domain",
-    "score": 0.0,
-    "source": "iptv-org all streams",
-    "is_active": true
-  },
-  {
-    "name": "The Wild Wild West (Sweden) NO",
-    "url": "https://jmp2.uk/plu-6964bca2a6c400fd418854a2.m3u8",
-    "group": "Classic;Series",
-    "country_code": "SE",
-    "country_name_zh": "瑞典",
-    "ip_version": "domain",
-    "score": 0.0,
-    "source": "iptv-org all streams",
-    "is_active": true
-  },
-  {
-    "name": "Tosh.0 (Sweden)",
-    "url": "https://jmp2.uk/plu-65e97856ec9fda0008cb453c.m3u8",
-    "group": "Comedy",
-    "country_code": "SE",
-    "country_name_zh": "瑞典",
-    "ip_version": "domain",
-    "score": 0.0,
-    "source": "iptv-org all streams",
-    "is_active": true
-  },
-  {
-    "name": "Tosh.0 (Sweden) DK",
-    "url": "https://jmp2.uk/plu-65e977042873090008b48be9.m3u8",
-    "group": "Comedy",
-    "country_code": "SE",
-    "country_name_zh": "瑞典",
-    "ip_version": "domain",
-    "score": 0.0,
-    "source": "iptv-org all streams",
-    "is_active": true
-  },
-  {
-    "name": "Tosh.0 (Sweden) NO",
-    "url": "https://jmp2.uk/plu-65e977c48b24c8000805b9ef.m3u8",
-    "group": "Comedy",
-    "country_code": "SE",
-    "country_name_zh": "瑞典",
-    "ip_version": "domain",
-    "score": 0.0,
-    "source": "iptv-org all streams",
-    "is_active": true
-  },
-  {
-    "name": "Totally Turtles (Sweden) (720p)",
-    "url": "https://jmp2.uk/plu-61c185e36faf920007f04b6e.m3u8",
-    "group": "Kids",
-    "country_code": "SE",
-    "country_name_zh": "瑞典",
-    "ip_version": "domain",
-    "score": 0.0,
-    "source": "iptv-org all streams",
-    "is_active": true
-  },
-  {
-    "name": "Totally Turtles (Sweden) DK (720p)",
-    "url": "https://jmp2.uk/plu-61c0bbd95df1da0007bed5a0.m3u8",
-    "group": "Kids",
-    "country_code": "SE",
-    "country_name_zh": "瑞典",
-    "ip_version": "domain",
-    "score": 0.0,
-    "source": "iptv-org all streams",
-    "is_active": true
-  },
-  {
-    "name": "Totally Turtles (Sweden) NO (720p)",
-    "url": "https://jmp2.uk/plu-61c1da718a80a4000704013e.m3u8",
-    "group": "Kids",
     "country_code": "SE",
     "country_name_zh": "瑞典",
     "ip_version": "domain",
@@ -118544,39 +117664,6 @@
     "ip_version": "domain",
     "score": 0.0,
     "source": "Free-TV/IPTV (global)",
-    "is_active": true
-  },
-  {
-    "name": "iCarly (Sweden)",
-    "url": "https://jmp2.uk/plu-61c185049e0bde0007820039.m3u8",
-    "group": "Kids",
-    "country_code": "SE",
-    "country_name_zh": "瑞典",
-    "ip_version": "domain",
-    "score": 0.0,
-    "source": "iptv-org all streams",
-    "is_active": true
-  },
-  {
-    "name": "iCarly (Sweden) DK",
-    "url": "https://jmp2.uk/plu-61c0b9aab7facb0007913908.m3u8",
-    "group": "Kids",
-    "country_code": "SE",
-    "country_name_zh": "瑞典",
-    "ip_version": "domain",
-    "score": 0.0,
-    "source": "iptv-org all streams",
-    "is_active": true
-  },
-  {
-    "name": "iCarly (Sweden) NO",
-    "url": "https://jmp2.uk/plu-61c1d9b31a9c310008f8ee57.m3u8",
-    "group": "Kids",
-    "country_code": "SE",
-    "country_name_zh": "瑞典",
-    "ip_version": "domain",
-    "score": 0.0,
-    "source": "iptv-org all streams",
     "is_active": true
   },
   {
@@ -120098,8 +119185,8 @@
     "is_active": true
   },
   {
-    "name": "TRT 3 (720p)",
-    "url": "https://tv-trt3.live.trt.com.tr/master.m3u8",
+    "name": "TRT 3 (1080p)",
+    "url": "https://vuvuu-geil-m3u8.yaskar661.workers.dev/?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F418740351278f04c94b243",
     "group": "Undefined",
     "country_code": "TR",
     "country_name_zh": "土耳其",
@@ -124751,17 +123838,6 @@
     "is_active": true
   },
   {
-    "name": "Best of The Drew Barrymore Show (United States)",
-    "url": "https://jmp2.uk/plu-6310cbee5a8ad300070fdb7c.m3u8",
-    "group": "Entertainment",
-    "country_code": "US",
-    "country_name_zh": "美国",
-    "ip_version": "domain",
-    "score": 0.0,
-    "source": "iptv-org all streams",
-    "is_active": true
-  },
-  {
     "name": "Better Health TV (480p)",
     "url": "https://tgn.bozztv.com/betterlife/betterhealth/betterhealth/index.m3u8",
     "group": "Lifestyle",
@@ -125001,17 +124077,6 @@
     "ip_version": "domain",
     "score": 0.0,
     "source": "iptv-org United States",
-    "is_active": true
-  },
-  {
-    "name": "Bondi Rescue (United States) (720p)",
-    "url": "https://jmp2.uk/plu-66166989635c7500084105a2.m3u8",
-    "group": "Entertainment",
-    "country_code": "US",
-    "country_name_zh": "美国",
-    "ip_version": "domain",
-    "score": 0.0,
-    "source": "iptv-org all streams",
     "is_active": true
   },
   {
@@ -126137,7 +125202,7 @@
     "is_active": true
   },
   {
-    "name": "CSI (United States)",
+    "name": "CSI",
     "url": "https://jmp2.uk/plu-5efbd29e4aa26700076c0d06.m3u8",
     "group": "Series",
     "country_code": "US",
@@ -126401,7 +125466,7 @@
     "is_active": true
   },
   {
-    "name": "Car Chase (United States) (720p)",
+    "name": "Car Chase (720p)",
     "url": "https://jmp2.uk/plu-65244c403fd33c0008ffff31.m3u8",
     "group": "Entertainment",
     "country_code": "US",
@@ -126588,6 +125653,17 @@
     "is_active": true
   },
   {
+    "name": "Cartoon Network Western Europe Portugal (576p)",
+    "url": "https://vuvuu-geil-m3u8.yaskar661.workers.dev/?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F327818589842dbaee1327c",
+    "group": "Animation;Kids",
+    "country_code": "US",
+    "country_name_zh": "美国",
+    "ip_version": "domain",
+    "score": 0.0,
+    "source": "iptv-org all streams",
+    "is_active": true
+  },
+  {
     "name": "Catholic Faith Network (720p)",
     "url": "https://uni8rtmp.tulix.tv/cfntv/cfntv/playlist.m3u8",
     "group": "Religious",
@@ -126695,17 +125771,6 @@
     "ip_version": "domain",
     "score": 0.0,
     "source": "iptv-org United States",
-    "is_active": true
-  },
-  {
-    "name": "Cheers (United States)",
-    "url": "https://jmp2.uk/plu-62bdb7f0db2eb30007376d4d.m3u8",
-    "group": "Series",
-    "country_code": "US",
-    "country_name_zh": "美国",
-    "ip_version": "domain",
-    "score": 0.0,
-    "source": "iptv-org all streams",
     "is_active": true
   },
   {
@@ -128150,6 +127215,17 @@
     "is_active": true
   },
   {
+    "name": "Disney Channel (France)",
+    "url": "https://vuvuu-geil-m3u8.yaskar661.workers.dev/?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F11741266772bc970bcdea5",
+    "group": "Kids",
+    "country_code": "US",
+    "country_name_zh": "美国",
+    "ip_version": "domain",
+    "score": 0.0,
+    "source": "iptv-org all streams",
+    "is_active": true
+  },
+  {
     "name": "Disney Channel (India) (576p)",
     "url": "http://116.90.120.149:8000/play/a124/index.m3u8",
     "group": "Kids",
@@ -128356,17 +127432,6 @@
     "ip_version": "domain",
     "score": 0.0,
     "source": "iptv-org United States",
-    "is_active": true
-  },
-  {
-    "name": "Doc Martin (United States)",
-    "url": "https://jmp2.uk/plu-62e922f6675f71000736db3b.m3u8",
-    "group": "Series",
-    "country_code": "US",
-    "country_name_zh": "美国",
-    "ip_version": "domain",
-    "score": 0.0,
-    "source": "iptv-org all streams",
     "is_active": true
   },
   {
@@ -129140,7 +128205,7 @@
     "is_active": true
   },
   {
-    "name": "Family Ties (United States)",
+    "name": "Family Ties",
     "url": "https://jmp2.uk/plu-5f77939a630f530007dde654.m3u8",
     "group": "Series",
     "country_code": "US",
@@ -129830,17 +128895,6 @@
     "ip_version": "domain",
     "score": 0.0,
     "source": "iptv-org United States",
-    "is_active": true
-  },
-  {
-    "name": "Frasier (United States)",
-    "url": "https://jmp2.uk/plu-62f4f90e39183b000769f12b.m3u8",
-    "group": "Series",
-    "country_code": "US",
-    "country_name_zh": "美国",
-    "ip_version": "domain",
-    "score": 0.0,
-    "source": "iptv-org all streams",
     "is_active": true
   },
   {
@@ -130724,7 +129778,7 @@
     "is_active": true
   },
   {
-    "name": "Happy Days (United States)",
+    "name": "Happy Days",
     "url": "https://jmp2.uk/plu-5f7794162a4559000781fc12.m3u8",
     "group": "Series",
     "country_code": "US",
@@ -130732,17 +129786,6 @@
     "ip_version": "domain",
     "score": 0.0,
     "source": "iptv-org United States",
-    "is_active": true
-  },
-  {
-    "name": "Happy Days (United States) CA",
-    "url": "https://jmp2.uk/plu-62e917b5e354cf0007b97a67.m3u8",
-    "group": "Series",
-    "country_code": "US",
-    "country_name_zh": "美国",
-    "ip_version": "domain",
-    "score": 0.0,
-    "source": "iptv-org all streams",
     "is_active": true
   },
   {
@@ -131384,17 +130427,6 @@
     "is_active": true
   },
   {
-    "name": "JAG (United States)",
-    "url": "https://jmp2.uk/plu-66a105f4a79dea0008aa5e0f.m3u8",
-    "group": "Series",
-    "country_code": "US",
-    "country_name_zh": "美国",
-    "ip_version": "domain",
-    "score": 0.0,
-    "source": "iptv-org all streams",
-    "is_active": true
-  },
-  {
     "name": "JBS (720p)",
     "url": "https://rpn3.bozztv.com/jbstv-srt/srt-push/jbstv/playlist.m3u8",
     "group": "Religious",
@@ -131406,7 +130438,7 @@
     "is_active": true
   },
   {
-    "name": "Jersey Shore (United States)",
+    "name": "Jersey Shore",
     "url": "https://jmp2.uk/plu-609bfa51fbecc1000733152e.m3u8",
     "group": "Series",
     "country_code": "US",
@@ -132924,7 +131956,7 @@
     "is_active": true
   },
   {
-    "name": "MTV Catfish (United States)",
+    "name": "MTV Catfish",
     "url": "https://jmp2.uk/plu-64f8a2a23a0d700008a6ed7b.m3u8",
     "group": "Entertainment",
     "country_code": "US",
@@ -132935,7 +131967,7 @@
     "is_active": true
   },
   {
-    "name": "MTV Catfish (United States) BR (720p)",
+    "name": "MTV Catfish BR (720p)",
     "url": "https://jmp2.uk/plu-626c2a3502d84a0007cec817.m3u8",
     "group": "Entertainment",
     "country_code": "US",
@@ -132946,7 +131978,7 @@
     "is_active": true
   },
   {
-    "name": "MTV Catfish (United States) LatAm (720p)",
+    "name": "MTV Catfish LatAm (720p)",
     "url": "https://jmp2.uk/plu-625461ef01f27a0007976ad1.m3u8",
     "group": "Entertainment",
     "country_code": "US",
@@ -133023,7 +132055,7 @@
     "is_active": true
   },
   {
-    "name": "MTV Dating (United States)",
+    "name": "MTV Dating",
     "url": "https://jmp2.uk/plu-6851bb3426beced4f2f67ee6.m3u8",
     "group": "Series",
     "country_code": "US",
@@ -133034,7 +132066,7 @@
     "is_active": true
   },
   {
-    "name": "MTV Dating (United States) CA",
+    "name": "MTV Dating CA",
     "url": "https://jmp2.uk/plu-64f8a0c230ab3300084369b8.m3u8",
     "group": "Series",
     "country_code": "US",
@@ -133045,7 +132077,7 @@
     "is_active": true
   },
   {
-    "name": "MTV Dating (United States) LatAm (720p)",
+    "name": "MTV Dating LatAm (720p)",
     "url": "https://jmp2.uk/plu-6851b909954170e0128bc71d.m3u8",
     "group": "Series",
     "country_code": "US",
@@ -133265,7 +132297,7 @@
     "is_active": true
   },
   {
-    "name": "MTV Reality (United States) (720p)",
+    "name": "MTV Reality (720p)",
     "url": "https://jmp2.uk/plu-6851bdfc9ac48fde5e07f5ae.m3u8",
     "group": "Entertainment",
     "country_code": "US",
@@ -133276,7 +132308,7 @@
     "is_active": true
   },
   {
-    "name": "MTV Reality (United States) CA",
+    "name": "MTV Reality CA",
     "url": "https://jmp2.uk/plu-64f89fcfd661bb00081ba45c.m3u8",
     "group": "Entertainment",
     "country_code": "US",
@@ -133287,7 +132319,7 @@
     "is_active": true
   },
   {
-    "name": "MTV Reality (United States) LatAm (720p)",
+    "name": "MTV Reality LatAm (720p)",
     "url": "https://jmp2.uk/plu-5de91b7ea86ee60009d89e75.m3u8",
     "group": "Entertainment",
     "country_code": "US",
@@ -133298,7 +132330,7 @@
     "is_active": true
   },
   {
-    "name": "MTV Ridiculousness (United States) CA",
+    "name": "MTV Ridiculousness CA",
     "url": "https://jmp2.uk/plu-64f9cccf110545000837912e.m3u8",
     "group": "Entertainment",
     "country_code": "US",
@@ -133309,7 +132341,7 @@
     "is_active": true
   },
   {
-    "name": "MTV Ridiculousness (United States) LatAm (720p)",
+    "name": "MTV Ridiculousness LatAm (720p)",
     "url": "https://jmp2.uk/plu-5e98a911c881310007d7aae2.m3u8",
     "group": "Entertainment",
     "country_code": "US",
@@ -133375,7 +132407,7 @@
     "is_active": true
   },
   {
-    "name": "MTV Teen Mom (United States) (720p)",
+    "name": "MTV Teen Mom (720p)",
     "url": "https://jmp2.uk/plu-620fd9f4afb9a80007a9c6d5.m3u8",
     "group": "Series",
     "country_code": "US",
@@ -133471,28 +132503,6 @@
     "ip_version": "ipv4",
     "score": 0.0,
     "source": "iptv-org United States",
-    "is_active": true
-  },
-  {
-    "name": "MacGyver (United States)",
-    "url": "https://jmp2.uk/plu-63eb9dc84e83e70008abea92.m3u8",
-    "group": "Classic",
-    "country_code": "US",
-    "country_name_zh": "美国",
-    "ip_version": "domain",
-    "score": 0.0,
-    "source": "iptv-org all streams",
-    "is_active": true
-  },
-  {
-    "name": "MacGyver (United States) LatAm",
-    "url": "https://jmp2.uk/plu-63eb95baa99571000898a078.m3u8",
-    "group": "Classic",
-    "country_code": "US",
-    "country_name_zh": "美国",
-    "ip_version": "domain",
-    "score": 0.0,
-    "source": "iptv-org all streams",
     "is_active": true
   },
   {
@@ -133595,7 +132605,7 @@
     "is_active": true
   },
   {
-    "name": "Matlock (United States)",
+    "name": "Matlock",
     "url": "https://jmp2.uk/plu-60f754f98185580007eb0754.m3u8",
     "group": "Series",
     "country_code": "US",
@@ -133603,17 +132613,6 @@
     "ip_version": "domain",
     "score": 0.0,
     "source": "iptv-org United States",
-    "is_active": true
-  },
-  {
-    "name": "Matlock (United States) CA",
-    "url": "https://jmp2.uk/plu-63da365f60bc8f0008a50f44.m3u8",
-    "group": "Series",
-    "country_code": "US",
-    "country_name_zh": "美国",
-    "ip_version": "domain",
-    "score": 0.0,
-    "source": "iptv-org all streams",
     "is_active": true
   },
   {
@@ -133826,7 +132825,7 @@
     "is_active": true
   },
   {
-    "name": "Mission Impossible (United States)",
+    "name": "Mission Impossible",
     "url": "https://jmp2.uk/plu-5f77977bd924d80007eee60c.m3u8",
     "group": "Series",
     "country_code": "US",
@@ -133834,17 +132833,6 @@
     "ip_version": "domain",
     "score": 0.0,
     "source": "iptv-org United States",
-    "is_active": true
-  },
-  {
-    "name": "Mission Impossible (United States) CA",
-    "url": "https://jmp2.uk/plu-62ea43aa0c43540007f2db96.m3u8",
-    "group": "Series",
-    "country_code": "US",
-    "country_name_zh": "美国",
-    "ip_version": "domain",
-    "score": 0.0,
-    "source": "iptv-org all streams",
     "is_active": true
   },
   {
@@ -134571,50 +133559,6 @@
     "ip_version": "domain",
     "score": 0.0,
     "source": "iptv-org United States",
-    "is_active": true
-  },
-  {
-    "name": "NCIS (United States)",
-    "url": "https://jmp2.uk/plu-63eb9fdda995710008991c54.m3u8",
-    "group": "Series",
-    "country_code": "US",
-    "country_name_zh": "美国",
-    "ip_version": "domain",
-    "score": 0.0,
-    "source": "iptv-org all streams",
-    "is_active": true
-  },
-  {
-    "name": "NCIS (United States) CA",
-    "url": "https://jmp2.uk/plu-62f4f5de1c100100075665ef.m3u8",
-    "group": "Series",
-    "country_code": "US",
-    "country_name_zh": "美国",
-    "ip_version": "domain",
-    "score": 0.0,
-    "source": "iptv-org all streams",
-    "is_active": true
-  },
-  {
-    "name": "NCIS (United States) LatAm",
-    "url": "https://jmp2.uk/plu-63eb947c4e83e70008ab877b.m3u8",
-    "group": "Series",
-    "country_code": "US",
-    "country_name_zh": "美国",
-    "ip_version": "domain",
-    "score": 0.0,
-    "source": "iptv-org all streams",
-    "is_active": true
-  },
-  {
-    "name": "NCIS: Los Angeles (United States)",
-    "url": "https://jmp2.uk/plu-66a106c8a79dea0008aa5ef3.m3u8",
-    "group": "Series",
-    "country_code": "US",
-    "country_name_zh": "美国",
-    "ip_version": "domain",
-    "score": 0.0,
-    "source": "iptv-org all streams",
     "is_active": true
   },
   {
@@ -135388,6 +134332,17 @@
     "is_active": true
   },
   {
+    "name": "Nickelodeon (Portugal)",
+    "url": "https://vuvuu-geil-m3u8.yaskar661.workers.dev/?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F398241518529a84217dd1f",
+    "group": "Kids",
+    "country_code": "US",
+    "country_name_zh": "美国",
+    "ip_version": "domain",
+    "score": 0.0,
+    "source": "iptv-org all streams",
+    "is_active": true
+  },
+  {
     "name": "Nickelodeon (Romania)",
     "url": "http://178.76.68.60:7442/64/mpegts",
     "group": "Kids",
@@ -135638,17 +134593,6 @@
     "ip_version": "ipv4",
     "score": 0.0,
     "source": "iptv-org United States",
-    "is_active": true
-  },
-  {
-    "name": "Numbers (United States)",
-    "url": "https://jmp2.uk/plu-67f960c5441853fe50e7afc1.m3u8",
-    "group": "Series",
-    "country_code": "US",
-    "country_name_zh": "美国",
-    "ip_version": "domain",
-    "score": 0.0,
-    "source": "iptv-org all streams",
     "is_active": true
   },
   {
@@ -136323,8 +135267,8 @@
     "is_active": true
   },
   {
-    "name": "Paramount Network (Poland)",
-    "url": "http://sultanios.alwaysdata.net/vavo.php?ID=3390498693",
+    "name": "Paramount Network (Poland) (1080p)",
+    "url": "https://guard.sekobes.workers.dev/?url=https://vuvuu-geil-m3u8.yaskar661.workers.dev/?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F3390498693",
     "group": "Movies;Series",
     "country_code": "US",
     "country_name_zh": "美国",
@@ -136510,7 +135454,7 @@
     "is_active": true
   },
   {
-    "name": "Pluto TV Action (United States)",
+    "name": "Pluto TV Action",
     "url": "https://jmp2.uk/plu-561d7d484dc7c8770484914a.m3u8",
     "group": "Movies",
     "country_code": "US",
@@ -136785,7 +135729,7 @@
     "is_active": true
   },
   {
-    "name": "Pluto TV Horror (United States)",
+    "name": "Pluto TV Horror",
     "url": "https://jmp2.uk/plu-569546031a619b8f07ce6e25.m3u8",
     "group": "Movies;Series",
     "country_code": "US",
@@ -136793,28 +135737,6 @@
     "ip_version": "domain",
     "score": 0.0,
     "source": "iptv-org United States",
-    "is_active": true
-  },
-  {
-    "name": "Pluto TV Horror (United States) CA",
-    "url": "https://jmp2.uk/plu-62ea3f8a38acc80007072d26.m3u8",
-    "group": "Movies;Series",
-    "country_code": "US",
-    "country_name_zh": "美国",
-    "ip_version": "domain",
-    "score": 0.0,
-    "source": "iptv-org all streams",
-    "is_active": true
-  },
-  {
-    "name": "Pluto TV Humor (United States)",
-    "url": "https://jmp2.uk/plu-5e8397936791b30007ebb5a7.m3u8",
-    "group": "Undefined",
-    "country_code": "US",
-    "country_name_zh": "美国",
-    "ip_version": "domain",
-    "score": 0.0,
-    "source": "iptv-org all streams",
     "is_active": true
   },
   {
@@ -136895,7 +135817,7 @@
     "is_active": true
   },
   {
-    "name": "Pluto TV Paranormal (United States)",
+    "name": "Pluto TV Paranormal",
     "url": "https://jmp2.uk/plu-5adf96e3e738977e2c31cb04.m3u8",
     "group": "Documentary",
     "country_code": "US",
@@ -136903,17 +135825,6 @@
     "ip_version": "domain",
     "score": 0.0,
     "source": "iptv-org United States",
-    "is_active": true
-  },
-  {
-    "name": "Pluto TV Paranormal (United States) CA",
-    "url": "https://jmp2.uk/plu-62e92a58f3e4290007290c96.m3u8",
-    "group": "Documentary",
-    "country_code": "US",
-    "country_name_zh": "美国",
-    "ip_version": "domain",
-    "score": 0.0,
-    "source": "iptv-org all streams",
     "is_active": true
   },
   {
@@ -136961,7 +135872,7 @@
     "is_active": true
   },
   {
-    "name": "Pluto TV Sci-Fi (United States)",
+    "name": "Pluto TV Sci-Fi",
     "url": "https://jmp2.uk/plu-5b4fc274694c027be6ed3eea.m3u8",
     "group": "Movies;Series",
     "country_code": "US",
@@ -136969,28 +135880,6 @@
     "ip_version": "domain",
     "score": 0.0,
     "source": "iptv-org United States",
-    "is_active": true
-  },
-  {
-    "name": "Pluto TV Sci-Fi (United States) CA",
-    "url": "https://jmp2.uk/plu-66166cb1307fa30008f275e7.m3u8",
-    "group": "Movies;Series",
-    "country_code": "US",
-    "country_name_zh": "美国",
-    "ip_version": "domain",
-    "score": 0.0,
-    "source": "iptv-org all streams",
-    "is_active": true
-  },
-  {
-    "name": "Pluto TV Sci-Fi (United States) LatAm",
-    "url": "https://jmp2.uk/plu-5f2817d3d7573a00080f9175.m3u8",
-    "group": "Movies;Series",
-    "country_code": "US",
-    "country_name_zh": "美国",
-    "ip_version": "domain",
-    "score": 0.0,
-    "source": "iptv-org all streams",
     "is_active": true
   },
   {
@@ -137093,7 +135982,7 @@
     "is_active": true
   },
   {
-    "name": "Pluto TV True Crime (United States)",
+    "name": "Pluto TV True Crime",
     "url": "https://jmp2.uk/plu-5812be1c249444e05d09cc50.m3u8",
     "group": "Documentary;Series",
     "country_code": "US",
@@ -137104,18 +135993,7 @@
     "is_active": true
   },
   {
-    "name": "Pluto TV True Crime (United States) CA",
-    "url": "https://jmp2.uk/plu-62e9289f8d467f0007fbc701.m3u8",
-    "group": "Documentary;Series",
-    "country_code": "US",
-    "country_name_zh": "美国",
-    "ip_version": "domain",
-    "score": 0.0,
-    "source": "iptv-org all streams",
-    "is_active": true
-  },
-  {
-    "name": "Pluto TV Westerns (United States)",
+    "name": "Pluto TV Westerns",
     "url": "https://jmp2.uk/plu-5b4e94282d4ec87bdcbb87cd.m3u8",
     "group": "Movies",
     "country_code": "US",
@@ -137123,17 +136001,6 @@
     "ip_version": "domain",
     "score": 0.0,
     "source": "iptv-org United States",
-    "is_active": true
-  },
-  {
-    "name": "Pluto TV Westerns (United States) CA",
-    "url": "https://jmp2.uk/plu-62bdacc96a3751000811842d.m3u8",
-    "group": "Movies",
-    "country_code": "US",
-    "country_name_zh": "美国",
-    "ip_version": "domain",
-    "score": 0.0,
-    "source": "iptv-org all streams",
     "is_active": true
   },
   {
@@ -137588,7 +136455,7 @@
     "is_active": true
   },
   {
-    "name": "Rawhide (United States)",
+    "name": "Rawhide",
     "url": "https://jmp2.uk/plu-634f307c7a068e00072c9982.m3u8",
     "group": "Movies;Series",
     "country_code": "US",
@@ -137596,17 +136463,6 @@
     "ip_version": "domain",
     "score": 0.0,
     "source": "iptv-org United States",
-    "is_active": true
-  },
-  {
-    "name": "Rawhide (United States) CA",
-    "url": "https://jmp2.uk/plu-65660223635c3c00086c2578.m3u8",
-    "group": "Movies;Series",
-    "country_code": "US",
-    "country_name_zh": "美国",
-    "ip_version": "domain",
-    "score": 0.0,
-    "source": "iptv-org all streams",
     "is_active": true
   },
   {
@@ -137841,7 +136697,7 @@
     "is_active": true
   },
   {
-    "name": "Ridiculousness (United States)",
+    "name": "Ridiculousness",
     "url": "https://jmp2.uk/plu-6996296087742204bff43147.m3u8",
     "group": "Comedy",
     "country_code": "US",
@@ -137948,17 +136804,6 @@
     "ip_version": "domain",
     "score": 0.0,
     "source": "iptv-org United States",
-    "is_active": true
-  },
-  {
-    "name": "Rugrats (United States)",
-    "url": "https://jmp2.uk/plu-5ea7215005d66d0007e8128a.m3u8",
-    "group": "Kids",
-    "country_code": "US",
-    "country_name_zh": "美国",
-    "ip_version": "domain",
-    "score": 0.0,
-    "source": "iptv-org all streams",
     "is_active": true
   },
   {
@@ -138490,7 +137335,7 @@
     "is_active": true
   },
   {
-    "name": "Smithsonian Channel Selects (United States)",
+    "name": "Smithsonian Channel Selects",
     "url": "https://jmp2.uk/plu-5f21ea08007a49000762d349.m3u8",
     "group": "Science",
     "country_code": "US",
@@ -138564,61 +137409,6 @@
     "ip_version": "domain",
     "score": 0.0,
     "source": "iptv-org United States",
-    "is_active": true
-  },
-  {
-    "name": "South Park (United States)",
-    "url": "https://jmp2.uk/plu-62bdb1c5e25122000798ac79.m3u8",
-    "group": "Animation;Comedy",
-    "country_code": "US",
-    "country_name_zh": "美国",
-    "ip_version": "domain",
-    "score": 0.0,
-    "source": "iptv-org all streams",
-    "is_active": true
-  },
-  {
-    "name": "South Park: Cartman Collection (United States)",
-    "url": "https://jmp2.uk/plu-65df4934f7f0af0008c32545.m3u8",
-    "group": "Animation;Comedy",
-    "country_code": "US",
-    "country_name_zh": "美国",
-    "ip_version": "domain",
-    "score": 0.0,
-    "source": "iptv-org all streams",
-    "is_active": true
-  },
-  {
-    "name": "South Park: Kenny Collection (United States)",
-    "url": "https://jmp2.uk/plu-65df47f428730900089f83ac.m3u8",
-    "group": "Animation;Comedy",
-    "country_code": "US",
-    "country_name_zh": "美国",
-    "ip_version": "domain",
-    "score": 0.0,
-    "source": "iptv-org all streams",
-    "is_active": true
-  },
-  {
-    "name": "South Park: Kyle Collection (United States)",
-    "url": "https://jmp2.uk/plu-65df49b30d45610008172c5b.m3u8",
-    "group": "Animation;Comedy",
-    "country_code": "US",
-    "country_name_zh": "美国",
-    "ip_version": "domain",
-    "score": 0.0,
-    "source": "iptv-org all streams",
-    "is_active": true
-  },
-  {
-    "name": "South Park: Stan Collection (United States)",
-    "url": "https://jmp2.uk/plu-65df48ba28730900089f8480.m3u8",
-    "group": "Animation;Comedy",
-    "country_code": "US",
-    "country_name_zh": "美国",
-    "ip_version": "domain",
-    "score": 0.0,
-    "source": "iptv-org all streams",
     "is_active": true
   },
   {
@@ -138765,7 +137555,7 @@
     "is_active": true
   },
   {
-    "name": "Star Trek: The Next Generation (United States)",
+    "name": "Star Trek: The Next Generation",
     "url": "https://jmp2.uk/plu-695c32e61ca20bb8ca802eb9.m3u8",
     "group": "Movies;Series",
     "country_code": "US",
@@ -138776,7 +137566,7 @@
     "is_active": true
   },
   {
-    "name": "Star Trek: Voyager (United States)",
+    "name": "Star Trek: Voyager",
     "url": "https://jmp2.uk/plu-634dacf51d90320007fcd5fa.m3u8",
     "group": "Movies;Series",
     "country_code": "US",
@@ -139964,7 +138754,7 @@
     "is_active": true
   },
   {
-    "name": "Teen Mom (United States)",
+    "name": "Teen Mom",
     "url": "https://jmp2.uk/plu-6127e12ed140e900077e7b6f.m3u8",
     "group": "Documentary",
     "country_code": "US",
@@ -140503,7 +139293,7 @@
     "is_active": true
   },
   {
-    "name": "The New Detectives (United States)",
+    "name": "The New Detectives",
     "url": "https://jmp2.uk/plu-5aea40b35126c2157123aa64.m3u8",
     "group": "Series",
     "country_code": "US",
@@ -140511,28 +139301,6 @@
     "ip_version": "domain",
     "score": 0.0,
     "source": "iptv-org United States",
-    "is_active": true
-  },
-  {
-    "name": "The New Detectives (United States) CA",
-    "url": "https://jmp2.uk/plu-62bdabbc5611f2000761ca30.m3u8",
-    "group": "Series",
-    "country_code": "US",
-    "country_name_zh": "美国",
-    "ip_version": "domain",
-    "score": 0.0,
-    "source": "iptv-org all streams",
-    "is_active": true
-  },
-  {
-    "name": "The New Detectives (United States) LatAm",
-    "url": "https://jmp2.uk/plu-5ea71d48af1d0b0007d837f4.m3u8",
-    "group": "Series",
-    "country_code": "US",
-    "country_name_zh": "美国",
-    "ip_version": "domain",
-    "score": 0.0,
-    "source": "iptv-org all streams",
     "is_active": true
   },
   {
@@ -140657,7 +139425,7 @@
     "is_active": true
   },
   {
-    "name": "The Wild Wild West (United States)",
+    "name": "The Wild Wild West",
     "url": "https://jmp2.uk/plu-664e640a0120f40008be4582.m3u8",
     "group": "Movies;Series",
     "country_code": "US",
@@ -140833,18 +139601,7 @@
     "is_active": true
   },
   {
-    "name": "Tortues Ninja TV (United States) (720p)",
-    "url": "https://jmp2.uk/plu-62e9566e27ce19000732ec85.m3u8",
-    "group": "Kids",
-    "country_code": "US",
-    "country_name_zh": "美国",
-    "ip_version": "domain",
-    "score": 0.0,
-    "source": "iptv-org all streams",
-    "is_active": true
-  },
-  {
-    "name": "Tosh.0 (United States)",
+    "name": "Tosh.0",
     "url": "https://jmp2.uk/plu-5dae084727c8af0009fe40a4.m3u8",
     "group": "Series",
     "country_code": "US",
@@ -140855,7 +139612,7 @@
     "is_active": true
   },
   {
-    "name": "Totally Turtles (United States)",
+    "name": "Totally Turtles",
     "url": "https://jmp2.uk/plu-5d0c16d686454ead733d08f8.m3u8",
     "group": "Kids",
     "country_code": "US",
@@ -140863,17 +139620,6 @@
     "ip_version": "domain",
     "score": 0.0,
     "source": "iptv-org United States",
-    "is_active": true
-  },
-  {
-    "name": "Totally Turtles (United States) CA (720p)",
-    "url": "https://jmp2.uk/plu-62e95265c9fd030007268fb9.m3u8",
-    "group": "Kids",
-    "country_code": "US",
-    "country_name_zh": "美国",
-    "ip_version": "domain",
-    "score": 0.0,
-    "source": "iptv-org all streams",
     "is_active": true
   },
   {
@@ -142351,29 +141097,7 @@
     "is_active": true
   },
   {
-    "name": "iCarly (United States)",
-    "url": "https://jmp2.uk/plu-620ff46e0a576e0007dc2f89.m3u8",
-    "group": "Series",
-    "country_code": "US",
-    "country_name_zh": "美国",
-    "ip_version": "domain",
-    "score": 0.0,
-    "source": "iptv-org all streams",
-    "is_active": true
-  },
-  {
-    "name": "iCarly (United States) LatAm",
-    "url": "https://jmp2.uk/plu-620ff0a01f9e8700076c6f9d.m3u8",
-    "group": "Series",
-    "country_code": "US",
-    "country_name_zh": "美国",
-    "ip_version": "domain",
-    "score": 0.0,
-    "source": "iptv-org all streams",
-    "is_active": true
-  },
-  {
-    "name": "iCarly (United States) SD",
+    "name": "iCarly SD",
     "url": "https://jmp2.uk/plu-6450209d939a5900084dba1d.m3u8",
     "group": "Series",
     "country_code": "US",
