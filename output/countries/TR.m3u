@@ -1,7 +1,7 @@
 #EXTM3U
 #PLAYLIST: 土耳其 (TR) IPTV 直播源
-#生成时间: 2026-11-22 20:34:59
-#频道数: 45
+#生成时间: 2026-11-23 10:17:55
+#频道数: 46
 
 # ===== 土耳其 (TR) =====
 
@@ -103,6 +103,9 @@ https://tv-trthaber.medya.trt.com.tr/master.m3u8
 
 #EXTINF:-1 tvg-id="TRTKurdi.tr" tvg-logo="https://i.imgur.com/6BpymfB.png" group-title="土耳其",TRT Kurdî
 https://tv-trtkurdi.medya.trt.com.tr/master.m3u8
+
+#EXTINF:-1 tvg-id="TRTMuzik.tr@SD" tvg-logo="https://i.imgur.com/JgUzRH8.png" group-title="土耳其",TRT Muzik (1080p)
+https://stream8.cinerama.uz/1208/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fIVFCEd.png" group-title="土耳其",TRT Müzik
 https://tv-trtmuzik.medya.trt.com.tr/master.m3u8

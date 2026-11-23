@@ -1,7 +1,7 @@
 #EXTM3U
 #PLAYLIST: 印度尼西亚 (ID) IPTV 直播源
-#生成时间: 2026-11-22 20:34:59
-#频道数: 55
+#生成时间: 2026-11-23 10:17:55
+#频道数: 56
 
 # ===== 印度尼西亚 (ID) =====
 
@@ -163,6 +163,9 @@ https://ott-balancer.tvri.go.id/live/eds/Jogjakarta/hls/Jogjakarta.m3u8
 
 #EXTINF:-1 tvg-id="TheIndonesiaChannel.id@SD" tvg-logo="https://i.imgur.com/jAAPgpV.png" group-title="印度尼西亚",The Indonesia Channel (1080p)
 https://restreamer.indonusa.id:8443/d5f4ad43-1b5a-4b0f-8bef-5b37224ed221.m3u8
+
+#EXTINF:-1 tvg-id="TransTV.id@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/62/Trans_TV_2013.svg/960px-Trans_TV_2013.svg.png" group-title="印度尼西亚",Trans TV HD (720p)
+https://live.cnbcindonesia.com/transtv/smil:transtv.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="UGTV.id@SD" tvg-logo="https://i.imgur.com/iEKDH26.png" group-title="印度尼西亚",UGTV (720p)
 https://cdn.gunadarma.ac.id/streams/ugtv/ingestugtv.m3u8

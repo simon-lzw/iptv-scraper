@@ -1,7 +1,7 @@
 #EXTM3U
 #PLAYLIST: 法国 (FR) IPTV 直播源
-#生成时间: 2026-11-22 20:34:59
-#频道数: 89
+#生成时间: 2026-11-23 10:17:55
+#频道数: 90
 
 # ===== 法国 (FR) =====
 
@@ -30,13 +30,16 @@ http://41.205.93.154/BOOMERANG/index.m3u8
 https://news.cgtn.com/resource/live/french/cgtn-f.m3u8
 
 #EXTINF:-1 tvg-id="CGTNFrench.cn@SD" tvg-logo="https://i.imgur.com/BwhledK.png" group-title="法国",CGTN French (1080p)
-https://amg01314-cgtn-amg01314c2-rakuten-us-1319.playouts.now.amagi.tv/cgtn-fr-rakuten/playlist.m3u8
+https://francais-liveali.cgtn.com/hls/LSvev95OuFZtKLc6CeKEFYXj220802LSTeV6PO0Ut9r71Uq3k5goCA220802cd/playlist.m3u8
 
 #EXTINF:-1 tvg-id="CNews.fr" tvg-logo="https://i.imgur.com/UMRGAHx.png" group-title="法国",CNews
 https://www.dailymotion.com/video/x3b68jn
 
 #EXTINF:-1 tvg-id="CStar.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Logo_CStar_2016.svg/500px-Logo_CStar_2016.svg.png" group-title="法国",CStar
 http://145.239.5.177/361/index.m3u8
+
+#EXTINF:-1 tvg-id="CanalPlus.fr@SD" tvg-logo="https://i.imgur.com/5HcyMnW.png" group-title="法国",Canal+
+https://vuvuu-geil-m3u8.yaskar661.workers.dev/?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F4177424223ffc540a587de
 
 #EXTINF:-1 tvg-id="CanalPlusActionEurope.nl@Magyar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Canal%2B_Action_2024.svg/1920px-Canal%2B_Action_2024.svg.png" group-title="法国",Canal+ Action Europe Magyar
 http://193.33.39.108:9016/play/a02n

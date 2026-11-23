@@ -1,7 +1,7 @@
 #EXTM3U
 #PLAYLIST: 巴西 (BR) IPTV 直播源
-#生成时间: 2026-11-22 20:34:59
-#频道数: 140
+#生成时间: 2026-11-23 10:17:55
+#频道数: 141
 
 # ===== 巴西 (BR) =====
 
@@ -350,6 +350,9 @@ https://video01.kshost.com.br:4443/moises3834/moises3834/playlist.m3u8
 #EXTINF:-1 tvg-id="TVGuara.br@SD" tvg-logo="https://i.imgur.com/8PErNBT.png" group-title="巴西",TV Guara (720p) [Not 24/7]
 https://video02.logicahost.com.br/tvguara23/tvguara23/playlist.m3u8
 
+#EXTINF:-1 tvg-id="TVMaanaim.br@SD" tvg-logo="https://i.imgur.com/PZhdHvf.png" group-title="巴西",TV Maanaim (720p) [Not 24/7]
+https://cpbr.appflux.com.br:2000/hls/maranatalive1/maranatalive1.m3u8
+
 #EXTINF:-1 tvg-id="TVPadreCicero.br@SD" tvg-logo="https://i.imgur.com/Y7b29VG.png" group-title="巴西",TV Padre Cicero (720p)
 https://video01.logicahost.com.br/tvpadrecicero/tvpadrecicero/playlist.m3u8
 
@@ -408,7 +411,7 @@ https://stream01.msolutionbrasil.com.br/hls/tvitape/live.m3u8
 https://jmp2.uk/plu-5f515ebac01c0f00080e8439.m3u8
 
 #EXTINF:-1 tvg-id="Tooncast.us@Brazil" tvg-logo="https://i.imgur.com/3yXRbQy.png" group-title="巴西",Tooncast Brazil (720p)
-http://170.83.16.50:80/TOONCAST/index.m3u8
+http://170.83.16.50/TOONCAST/index.m3u8
 
 #EXTINF:-1 tvg-id="TravelBoxBrazil.br@SD" tvg-logo="https://i.imgur.com/3tBJERH.png" group-title="巴西",Travel Box Brazil (720p)
 http://170.83.49.66:8083/TRAVELBOXHD/index.m3u8
