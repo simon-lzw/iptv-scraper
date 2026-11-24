@@ -1,7 +1,7 @@
 #EXTM3U
 #PLAYLIST: 瑞典 (SE) IPTV 直播源
-#生成时间: 2026-11-24 01:28:42
-#频道数: 67
+#生成时间: 2026-11-24 11:59:52
+#频道数: 68
 
 # ===== 瑞典 (SE) =====
 
@@ -196,6 +196,9 @@ https://live.amelbatv.co:81/teleopita/index.fmp4.m3u8
 
 #EXTINF:-1 tvg-id="TV4.dz@SD" tvg-logo="https://i.imgur.com/BZvdjBN.png" group-title="瑞典",TV4 (Algeria) (720p)
 http://91.228.35.249:8001/1:0:1:06A6:3138:13E:820000:0:0:0
+
+#EXTINF:-1 tvg-id="TV4LaVall.es@SD" tvg-logo="https://i.imgur.com/NqjFVHp.png" group-title="瑞典",TV4 La Vall (1080p)
+https://valldeuxo.gestec-video.com/hls/lavall.m3u8
 
 #EXTINF:-1 tvg-id="ThePetCollective.us@Sweden" tvg-logo="https://i.imgur.com/yH7n2dF.png" group-title="瑞典",The Pet Collective Sweden (720p)
 https://the-pet-collective-international-se.samsung.wurl.tv/playlist.m3u8
