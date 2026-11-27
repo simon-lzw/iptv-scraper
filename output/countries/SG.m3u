@@ -1,7 +1,7 @@
 #EXTM3U
 #PLAYLIST: 新加坡 (SG) IPTV 直播源
-#生成时间: 2026-11-26 22:47:58
-#频道数: 14
+#生成时间: 2026-11-27 10:31:18
+#频道数: 15
 
 # ===== 新加坡 (SG) =====
 
@@ -37,6 +37,9 @@ https://live-us1.thaimomo.com/live-as/cheight-3/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ChannelU.sg@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Mediacorp_Channel_U_2023.svg/960px-Mediacorp_Channel_U_2023.svg.png" group-title="新加坡",Channel U (720p)
 https://cdn.qd.je/163189/chu
+
+#EXTINF:-1 tvg-id="DiscoveryChannelSoutheastAsia.sg@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/960px-2019_Discovery_logo.svg.png" group-title="新加坡",Discovery Channel Southeast Asia (720p)
+http://antm.dynu.net:14285/rtp/232.84.1.47:8262
 
 #EXTINF:-1 tvg-id="Suria.sg@SD" tvg-logo="https://i.imgur.com/9xWAwzy.png" group-title="新加坡",Suria [Geo-blocked]
 https://d11h6a6nhl9kj9.cloudfront.net/hls/clr4ctv_suria/master.m3u8
