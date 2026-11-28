@@ -1,7 +1,7 @@
 #EXTM3U
 #PLAYLIST: 波兰 (PL) IPTV 直播源
-#生成时间: 2026-11-27 22:28:55
-#频道数: 174
+#生成时间: 2026-11-28 09:47:17
+#频道数: 177
 
 # ===== 波兰 (PL) =====
 
@@ -79,6 +79,9 @@ https://daiconnect.com/live/hls/tvup/rk-cartoonclassics/578f4b7eb725168349ec0af8
 
 #EXTINF:-1 tvg-id="CartoonitoCEE.uk@Poland" tvg-logo="https://i.imgur.com/9MrzLb1.png" group-title="波兰",Cartoonito CEE Poland (1080p)
 http://92.114.85.87:8007/play/a008
+
+#EXTINF:-1 tvg-id="CrimePlusInvestigationPolsat.pl@SD" tvg-logo="https://i.imgur.com/kSZCvah.png" group-title="波兰",Crime + Investigation Polsat (1080p)
+http://185.227.34.179:8080/ci_polsat_hd/index.m3u8
 
 #EXTINF:-1 tvg-id="CrimePlusInvestigationPolsat.pl" tvg-logo="https://i.imgur.com/kSZCvah.png" group-title="波兰",Crime + Investigation Polsat (576i)
 http://92.114.85.87:8015/play/a00d/index.m3u8
@@ -281,6 +284,12 @@ http://57.128.210.196:8080/192/index.m3u8
 #EXTINF:-1 tvg-id="PolsatSportFight.pl@SD" tvg-logo="https://i.imgur.com/8x1FV3o.png" group-title="波兰",Polsat Sport Fight
 http://92.114.85.87:8016/play/a00b/index.m3u8
 
+#EXTINF:-1 tvg-id="PolsatSportPremium1.pl@SD" tvg-logo="https://i.imgur.com/hy1SKE0.png" group-title="波兰",Polsat Sport Premium 1
+http://46.149.222.219:18002/polsatsportpremium1
+
+#EXTINF:-1 tvg-id="PolsatSportPremium2.pl@SD" tvg-logo="https://i.imgur.com/myyWeXY.png" group-title="波兰",Polsat Sport Premium 2
+http://46.149.222.219:18002/polsatsportpremium2
+
 #EXTINF:-1 tvg-id="PolsatViasatExplore.pl" tvg-logo="https://i.imgur.com/gDlqO9h.png" group-title="波兰",Polsat Viasat Explore
 http://92.114.85.87:8014/play/a00g/index.m3u8
 
@@ -395,8 +404,8 @@ https://tvk.smnt.pl/memfs/cf3a66ef-133a-4579-86da-5995ab23ae2a.m3u8
 #EXTINF:-1 tvg-id="TVKStella.pl" tvg-logo="https://www.tvkstella.pl/img/poster.png" group-title="波兰",TVK Stella (576p)
 https://stream.tvkstella.pl/stella/stella.m3u8
 
-#EXTINF:-1 tvg-id="TVN.pl@SD" tvg-logo="https://i.imgur.com/PeUsth6.png" group-title="波兰",TVN (Poland) [Not 24/7]
-https://bingbang.kotmiuaczek.workers.dev/?id=3342
+#EXTINF:-1 tvg-id="TVN.pl@SD" tvg-logo="https://i.imgur.com/PeUsth6.png" group-title="波兰",TVN (Poland) (720p)
+http://91.226.96.110:5555/tvn/index.m3u8
 
 #EXTINF:-1 tvg-id="TVN24.do@SD" tvg-logo="https://i.imgur.com/bu6bQMa.png" group-title="波兰",TVN24 (720p) [Not 24/7]
 https://edge.essastream.com/vozzmedia/index.m3u8
@@ -437,8 +446,8 @@ http://185.227.34.179:8080/tvp-rozrywka/index.m3u8
 #EXTINF:-1 tvg-id="TVPSeriale.pl" tvg-logo="https://i.imgur.com/MuRtvXk.png" group-title="波兰",TVP Seriale (1080p)
 http://92.114.85.87:8019/play/a00a/index.m3u8
 
-#EXTINF:-1 tvg-id="TVPSport.pl@SD" tvg-logo="https://i.imgur.com/JUZDOCO.png" group-title="波兰",TVP Sport (1080p) [Not 24/7]
-rtsp://213.189.46.75/wmt-14963-1.sdp
+#EXTINF:-1 tvg-id="TVPSport.pl@SD" tvg-logo="https://i.imgur.com/JUZDOCO.png" group-title="波兰",TVP Sport (720p)
+http://91.226.96.110:5555/tvpsport/index.m3u8
 
 #EXTINF:-1 tvg-id="TVPWorld.pl" tvg-logo="https://i.imgur.com/lB4MgRI.png" group-title="波兰",TVP World
 https://dash2.antik.sk/live/test_tvp_world/playlist.m3u8

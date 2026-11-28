@@ -1,7 +1,7 @@
 #EXTM3U
 #PLAYLIST: 菲律宾 (PH) IPTV 直播源
-#生成时间: 2026-11-27 22:28:55
-#频道数: 15
+#生成时间: 2026-11-28 09:47:17
+#频道数: 16
 
 # ===== 菲律宾 (PH) =====
 
@@ -19,6 +19,9 @@ https://streamer.zapitv.com/PTV_CORDOBA/index.m3u8
 
 #EXTINF:-1 tvg-id="PTVGranada.es@SD" tvg-logo="https://i.imgur.com/eOcAakM.png" group-title="菲律宾",PTV Granada (720p)
 https://streamer.zapitv.com/PTV-granada/index.m3u8
+
+#EXTINF:-1 tvg-id="PTVHome.pk@SD" tvg-logo="https://i.imgur.com/O1Bavlz.png" group-title="菲律宾",PTV Home
+http://103.86.132.58:9981/stream/service/2c87c87feb544ce8d317aa60f5cafa62
 
 #EXTINF:-1 tvg-id="PTVLinares.es@SD" tvg-logo="https://i.imgur.com/IqChsLQ.png" group-title="菲律宾",PTV Linares (720p)
 https://streamer.zapitv.com/ptv-linarez/index.m3u8
